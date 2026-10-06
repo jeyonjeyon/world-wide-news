@@ -1,65 +1,110 @@
 {
   "globalOverview": [
     {
-      "headline": "Global Climate Summit Reaches New Accord",
-      "summary": "Delegates from over 190 countries agree on new emission reduction targets.",
-      "sources": ["Reuters", "BBC"]
+      "headline": "Nobel Prize Announcements Kick Off for 2026",
+      "summary": "The annual Nobel Prize announcements begin, highlighting breakthrough scientific discoveries in medicine, physics, and chemistry.",
+      "sources": ["Associated Press", "Reuters"]
+    },
+    {
+      "headline": "Global Housing Crisis Takes Center Stage on World Habitat Day",
+      "summary": "Representatives meeting in Oman call for urgent action to address housing challenges affecting billions worldwide.",
+      "sources": ["UN News", "Global Issues"]
     }
   ],
   "north-america": [
     {
-      "headline": "Tech Sector Sees Major Growth in Renewable Energy Integration",
-      "summary": "Silicon Valley firms partner with utility providers to fund green grids.",
-      "sources": ["Bloomberg", "AP"]
+      "headline": "U.S. Announces New Visa-Bond Program Across 50 Countries",
+      "summary": "The U.S. rolls out a program requiring temporary visa applicants from select nations to deposit bonds up to $20,000, while exempting several key partners like India.",
+      "sources": ["Indian Express", "AP"]
+    },
+    {
+      "headline": "California Governor Signs Order Preserving AI Terminology",
+      "summary": "State leadership acts to solidify regulatory definitions surrounding artificial intelligence amidst shifting federal technology pushes.",
+      "sources": ["Anadolu Agency", "Politico"]
     }
   ],
   "latin-america": [
     {
-      "headline": "New Trade Corridor Established Across the Andes",
-      "summary": "Infrastructure project aims to cut freight shipping times between major ports.",
-      "sources": ["AFP", "MercoPress"]
+      "headline": "Brazil Presidential Election Heads Toward Runoff",
+      "summary": "Following national elections where no candidate secured an outright majority, a presidential runoff is officially scheduled later in the month.",
+      "sources": ["Encyclopædia Britannica", "MercoPress"]
+    },
+    {
+      "headline": "Documentary Spotlights UN Research in Mexico City Canals",
+      "summary": "A breakout environmental film brings international attention to conservation efforts and local waterways in Xochimilco.",
+      "sources": ["UN News", "AFP"]
     }
   ],
   "east-asia": [
     {
-      "headline": "High-Speed Rail Network Expands Across Region",
-      "summary": "New cross-border lines cut travel times significantly between economic hubs.",
-      "sources": ["Nikkei Asia", "Xinhua"]
+      "headline": "South Korea Vows Practical Steps to Ease Inter-Korean Tensions",
+      "summary": "The South Korean administration signals a renewed diplomatic push to open communication channels and lower regional friction.",
+      "sources": ["Yonhap", "Nikkei Asia"]
+    },
+    {
+      "headline": "Asian Games Conclude with Record Regional Participation",
+      "summary": "Athletes wrap up major medal standings with powerhouse performances from nations across East and South Asia.",
+      "sources": ["Xinhua", "The Hindu"]
     }
   ],
   "south-asia": [
     {
-      "headline": "Monsoon Agricultural Yields Exceed Expectations",
-      "summary": "Favorable rainfall patterns boost staple crop production across the subcontinent.",
-      "sources": ["Dawn", "The Hindu"]
+      "headline": "India Engages International Partners on Ukraine Conflict Resolution",
+      "summary": "External Affairs Minister S. Jaishankar outlines ongoing diplomatic discussions regarding Black Sea shipping safety and energy security.",
+      "sources": ["Indian Express", "Dawn"]
+    },
+    {
+      "headline": "Monsoon Agricultural Yields Boost Staple Food Supplies",
+      "summary": "Favorable seasonal rainfall patterns across the subcontinent result in higher-than-expected harvest outputs for local farmers.",
+      "sources": ["The Hindu", "Reuters"]
     }
   ],
   "europe": [
     {
-      "headline": "EU Proposes New Unified Digital Identity Framework",
-      "summary": "Initiative aims to streamline cross-border digital services for citizens.",
-      "sources": ["Politico", "Euronews"]
+      "headline": "Sweden's Far-Right Support Slips in General Election",
+      "summary": "Voters turn away from the Sweden Democrats for the first time in years, prompting the prime minister's resignation and opening coalition talks for the centre-left.",
+      "sources": ["Inter Press Service", "BBC"]
+    },
+    {
+      "headline": "French and Spanish Leaders Welcome UK Reintegration Discussions",
+      "summary": "European heads of state express positive reactions toward preliminary intentions from British leadership regarding closer EU alignment.",
+      "sources": ["Anadolu Agency", "Euronews"]
     }
   ],
   "middle-east": [
     {
-      "headline": "Major Solar Desalination Plant Comes Online",
-      "summary": "Facility expected to supply fresh water to millions while running entirely on solar power.",
-      "sources": ["The National", "Al Jazeera"]
+      "headline": "Yemeni Forces Target Houthi Positions Near Bab el-Mandeb",
+      "summary": "Military operations intensify around the strategic maritime strait to secure vital global trade and shipping lanes.",
+      "sources": ["Al Jazeera", "The National"]
+    },
+    {
+      "headline": "U.S. Completes Final Troop Withdrawal from Iraq",
+      "summary": "American forces conclude their long-term security mission following an agreement finalized between Washington and Baghdad.",
+      "sources": ["Reuters", "Associated Press"]
     }
   ],
   "africa": [
     {
-      "headline": "Continental Free Trade Agreement Accelerates Intra-African Commerce",
-      "summary": "Digital customs processing speeds up shipping times at key land borders.",
-      "sources": ["AllAfrica", "Financial Times"]
+      "headline": "Airstrike Condemned Following Attack on Aid Trucks in Sudan",
+      "summary": "The World Food Programme issues stern rebukes after marked relief trucks carrying vital supplies are struck in South Kordofan.",
+      "sources": ["UN News", "AllAfrica"]
+    },
+    {
+      "headline": "Uganda Wildlife Lab Turns Ivory Seizes into Convictions",
+      "summary": "Advanced forensic DNA testing helps authorities secure wildlife trafficking convictions at key transit hubs.",
+      "sources": ["UN News", "Financial Times"]
     }
   ],
   "oceania": [
     {
-      "headline": "Pacific Island Nations Launch Joint Marine Conservation Initiative",
-      "summary": "Agreement expands protected maritime zones to preserve coral reef ecosystems.",
-      "sources": ["RNZ", "Sydney Morning Herald"]
+      "headline": "Climate Change Survey Highlights Rising Pregnancy Hazards",
+      "summary": "New global health data across multiple continents warns that extreme heat waves pose severe risks to expectant mothers and newborns.",
+      "sources": ["Inter Press Service", "RNZ"]
+    },
+    {
+      "headline": "New Zealand Parliament Dissolved Ahead of National Elections",
+      "summary": "Lawmakers prepare for a fiercely contested national vote scheduled for the upcoming month.",
+      "sources": ["Sydney Morning Herald", "RNZ"]
     }
   ]
 }
