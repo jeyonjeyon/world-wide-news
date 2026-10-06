@@ -1,0 +1,65 @@
+{
+  "globalOverview": [
+    {
+      "headline": "Global Climate Summit Reaches New Accord",
+      "summary": "Delegates from over 190 countries agree on new emission reduction targets.",
+      "sources": ["Reuters", "BBC"]
+    }
+  ],
+  "north-america": [
+    {
+      "headline": "Tech Sector Sees Major Growth in Renewable Energy Integration",
+      "summary": "Silicon Valley firms partner with utility providers to fund green grids.",
+      "sources": ["Bloomberg", "AP"]
+    }
+  ],
+  "latin-america": [
+    {
+      "headline": "New Trade Corridor Established Across the Andes",
+      "summary": "Infrastructure project aims to cut freight shipping times between major ports.",
+      "sources": ["AFP", "MercoPress"]
+    }
+  ],
+  "east-asia": [
+    {
+      "headline": "High-Speed Rail Network Expands Across Region",
+      "summary": "New cross-border lines cut travel times significantly between economic hubs.",
+      "sources": ["Nikkei Asia", "Xinhua"]
+    }
+  ],
+  "south-asia": [
+    {
+      "headline": "Monsoon Agricultural Yields Exceed Expectations",
+      "summary": "Favorable rainfall patterns boost staple crop production across the subcontinent.",
+      "sources": ["Dawn", "The Hindu"]
+    }
+  ],
+  "europe": [
+    {
+      "headline": "EU Proposes New Unified Digital Identity Framework",
+      "summary": "Initiative aims to streamline cross-border digital services for citizens.",
+      "sources": ["Politico", "Euronews"]
+    }
+  ],
+  "middle-east": [
+    {
+      "headline": "Major Solar Desalination Plant Comes Online",
+      "summary": "Facility expected to supply fresh water to millions while running entirely on solar power.",
+      "sources": ["The National", "Al Jazeera"]
+    }
+  ],
+  "africa": [
+    {
+      "headline": "Continental Free Trade Agreement Accelerates Intra-African Commerce",
+      "summary": "Digital customs processing speeds up shipping times at key land borders.",
+      "sources": ["AllAfrica", "Financial Times"]
+    }
+  ],
+  "oceania": [
+    {
+      "headline": "Pacific Island Nations Launch Joint Marine Conservation Initiative",
+      "summary": "Agreement expands protected maritime zones to preserve coral reef ecosystems.",
+      "sources": ["RNZ", "Sydney Morning Herald"]
+    }
+  ]
+}
