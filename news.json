@@ -2,109 +2,127 @@
   "globalOverview": [
     {
       "headline": "Nobel Prize Announcements Kick Off for 2026",
-      "summary": "The annual Nobel Prize announcements begin, highlighting breakthrough scientific discoveries in medicine, physics, and chemistry.",
-      "sources": ["Associated Press", "Reuters"]
+      "summary": "The 2026 Nobel Prize announcements begin, highlighting breakthrough scientific discoveries starting with the prize in Physiology or Medicine awarded to Karl Deisseroth, Peter Hegemann, and Georg Nagel.",
+      "sources": ["Indian Express", "UN News"],
+      "url": "https://indianexpress.com"
     },
     {
-      "headline": "Global Housing Crisis Takes Center Stage on World Habitat Day",
-      "summary": "Representatives meeting in Oman call for urgent action to address housing challenges affecting billions worldwide.",
-      "sources": ["UN News", "Global Issues"]
+      "headline": "World Habitat Day Focuses on Global Housing Crisis",
+      "summary": "Representatives meeting in Muscat, Oman, call for urgent international action to address housing challenges impacting billions worldwide.",
+      "sources": ["UN News", "Global Issues"],
+      "url": "https://news.un.org"
     }
   ],
   "north-america": [
     {
-      "headline": "U.S. Announces New Visa-Bond Program Across 50 Countries",
-      "summary": "The U.S. rolls out a program requiring temporary visa applicants from select nations to deposit bonds up to $20,000, while exempting several key partners like India.",
-      "sources": ["Indian Express", "AP"]
+      "headline": "U.S. Introduces New Visa-Bond Program Across Select Nations",
+      "summary": "The United States rolls out a visa-bond program requiring temporary applicants from designated countries to deposit up to $20,000, while exempting several key partners like India.",
+      "sources": ["Indian Express", "AP"],
+      "url": "https://apnews.com"
     },
     {
-      "headline": "California Governor Signs Order Preserving AI Terminology",
-      "summary": "State leadership acts to solidify regulatory definitions surrounding artificial intelligence amidst shifting federal technology pushes.",
-      "sources": ["Anadolu Agency", "Politico"]
+      "headline": "Mass Shooting Shocks Vienna, Georgia Homecoming Block Party",
+      "summary": "Local authorities and emergency services respond to a tragic mass shooting during a community celebration, leaving multiple injured.",
+      "sources": ["AP", "The Guardian"],
+      "url": "https://www.theguardian.com"
     }
   ],
   "latin-america": [
     {
-      "headline": "Brazil Presidential Election Heads Toward Runoff",
-      "summary": "Following national elections where no candidate secured an outright majority, a presidential runoff is officially scheduled later in the month.",
-      "sources": ["Encyclopædia Britannica", "MercoPress"]
+      "headline": "Brazil Presidential Election Heads Toward October Runoff",
+      "summary": "Following national elections where no candidate secured an outright majority, incumbent Luiz Inácio Lula da Silva and Flávio Bolsonaro are set to face off in a late-October runoff.",
+      "sources": ["CBS News", "MercoPress"],
+      "url": "https://www.cbsnews.com"
     },
     {
-      "headline": "Documentary Spotlights UN Research in Mexico City Canals",
-      "summary": "A breakout environmental film brings international attention to conservation efforts and local waterways in Xochimilco.",
-      "sources": ["UN News", "AFP"]
+      "headline": "Argentina Introduces New Immigrant Investor Citizenship Program",
+      "summary": "The Argentine government rolls out an economic residency framework allowing foreign investors to obtain citizenship through qualifying economic contributions and bonds.",
+      "sources": ["AFP", "Wikipedia"],
+      "url": "https://en.wikipedia.org"
     }
   ],
   "east-asia": [
     {
-      "headline": "South Korea Vows Practical Steps to Ease Inter-Korean Tensions",
-      "summary": "The South Korean administration signals a renewed diplomatic push to open communication channels and lower regional friction.",
-      "sources": ["Yonhap", "Nikkei Asia"]
+      "headline": "FBI Arrests Suspected Unregistered Agent in Los Angeles",
+      "summary": "Federal law enforcement detains an individual at Los Angeles International Airport on allegations of acting as an unregistered foreign agent conducting surveillance.",
+      "sources": ["AFP", "RFI"],
+      "url": "https://www.rfi.fr"
     },
     {
-      "headline": "Asian Games Conclude with Record Regional Participation",
-      "summary": "Athletes wrap up major medal standings with powerhouse performances from nations across East and South Asia.",
-      "sources": ["Xinhua", "The Hindu"]
+      "headline": "Asian Games Conclude with Strong Regional Performances",
+      "summary": "Athletes wrap up major medal standings following weeks of competitive events featuring powerhouse contingents from across the region.",
+      "sources": ["Xinhua", "Indian Express"],
+      "url": "http://www.xinhuanet.com"
     }
   ],
   "south-asia": [
     {
-      "headline": "India Engages International Partners on Ukraine Conflict Resolution",
-      "summary": "External Affairs Minister S. Jaishankar outlines ongoing diplomatic discussions regarding Black Sea shipping safety and energy security.",
-      "sources": ["Indian Express", "Dawn"]
+      "headline": "India Engages International Partners on Regional Stability",
+      "summary": "Diplomatic officials outline ongoing discussions regarding Black Sea shipping security, energy exports, and international conflict resolution frameworks.",
+      "sources": ["Indian Express", "Dawn"],
+      "url": "https://www.dawn.com"
     },
     {
-      "headline": "Monsoon Agricultural Yields Boost Staple Food Supplies",
-      "summary": "Favorable seasonal rainfall patterns across the subcontinent result in higher-than-expected harvest outputs for local farmers.",
-      "sources": ["The Hindu", "Reuters"]
+      "headline": "Monsoon Agricultural Yields Support Staple Food Inventories",
+      "summary": "Favorable seasonal rainfall patterns across the subcontinent result in strong harvest outputs for agricultural communities.",
+      "sources": ["The Hindu", "Reuters"],
+      "url": "https://www.reuters.com"
     }
   ],
   "europe": [
     {
-      "headline": "Sweden's Far-Right Support Slips in General Election",
-      "summary": "Voters turn away from the Sweden Democrats for the first time in years, prompting the prime minister's resignation and opening coalition talks for the centre-left.",
-      "sources": ["Inter Press Service", "BBC"]
+      "headline": "Sweden's Far-Right Support Slips in Recent General Election",
+      "summary": "Support for the Sweden Democrats drops for the first time in history, prompting the prime minister's resignation and opening coalition pathways for the centre-left.",
+      "sources": ["Inter Press Service", "BBC News"],
+      "url": "https://www.bbc.com/news"
     },
     {
-      "headline": "French and Spanish Leaders Welcome UK Reintegration Discussions",
-      "summary": "European heads of state express positive reactions toward preliminary intentions from British leadership regarding closer EU alignment.",
-      "sources": ["Anadolu Agency", "Euronews"]
+      "headline": "Mass Rioting and Protests Continue Across French Schools",
+      "summary": "Demonstrations tied to the French lycée protests enter consecutive days, prompting widespread school closures and heavy security deployment.",
+      "sources": ["BBC News", "France 24"],
+      "url": "https://www.france24.com"
     }
   ],
   "middle-east": [
     {
-      "headline": "Yemeni Forces Target Houthi Positions Near Bab el-Mandeb",
-      "summary": "Military operations intensify around the strategic maritime strait to secure vital global trade and shipping lanes.",
-      "sources": ["Al Jazeera", "The National"]
+      "headline": "Yemeni Forces Target Positions Near Bab el-Mandeb Strait",
+      "summary": "Military operations intensify around strategic maritime routes as regional forces move to secure vital global shipping lanes.",
+      "sources": ["Al Jazeera", "Reuters"],
+      "url": "https://www.aljazeera.com"
     },
     {
       "headline": "U.S. Completes Final Troop Withdrawal from Iraq",
       "summary": "American forces conclude their long-term security mission following an agreement finalized between Washington and Baghdad.",
-      "sources": ["Reuters", "Associated Press"]
+      "sources": ["Reuters", "Associated Press"],
+      "url": "https://apnews.com"
     }
   ],
   "africa": [
     {
-      "headline": "Airstrike Condemned Following Attack on Aid Trucks in Sudan",
-      "summary": "The World Food Programme issues stern rebukes after marked relief trucks carrying vital supplies are struck in South Kordofan.",
-      "sources": ["UN News", "AllAfrica"]
+      "headline": "World Food Programme Condemns Attack on Aid Trucks in Sudan",
+      "summary": "International agencies issue strong rebukes following a deadly aerial attack on marked relief supplies operating in South Kordofan.",
+      "sources": ["UN News", "AllAfrica"],
+      "url": "https://allafrica.com"
     },
     {
-      "headline": "Uganda Wildlife Lab Turns Ivory Seizes into Convictions",
-      "summary": "Advanced forensic DNA testing helps authorities secure wildlife trafficking convictions at key transit hubs.",
-      "sources": ["UN News", "Financial Times"]
+      "headline": "Nigerian Air Force Aircraft Crashes in Ondo State",
+      "summary": "Emergency responders mobilize following the crash of a military transport aircraft carrying dozens of passengers in southwestern Nigeria.",
+      "sources": ["DW", "Wikipedia"],
+      "url": "https://www.dw.com"
     }
   ],
   "oceania": [
     {
-      "headline": "Climate Change Survey Highlights Rising Pregnancy Hazards",
-      "summary": "New global health data across multiple continents warns that extreme heat waves pose severe risks to expectant mothers and newborns.",
-      "sources": ["Inter Press Service", "RNZ"]
+      "headline": "Global Survey Highlights Rising Pregnancy Hazards from Extreme Heat",
+      "summary": "Public health data spanning multiple continents warns that severe temperature spikes pose mounting risks to expectant mothers and newborns.",
+      "sources": ["Inter Press Service", "RNZ"],
+      "url": "https://www.rnz.co.nz"
     },
     {
-      "headline": "New Zealand Parliament Dissolved Ahead of National Elections",
-      "summary": "Lawmakers prepare for a fiercely contested national vote scheduled for the upcoming month.",
-      "sources": ["Sydney Morning Herald", "RNZ"]
+      "headline": "New Zealand Sports Figures Opt for Flexible Contracts",
+      "summary": "Top athletes adjust domestic commitments to participate in premier international leagues ahead of upcoming seasonal schedules.",
+      "sources": ["RNZ", "Sydney Morning Herald"],
+      "url": "https://www.smh.com.au"
     }
   ]
 }
