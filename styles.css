@@ -1,76 +1,98 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
     margin: 0;
-    background: #ffffff; /* Clean white background */
-    color: #222222;        /* Dark font */
+    padding: 20px;
 }
 
-header {
-    background: #eef2f5;   /* Light gray header background */
-    color: #222222;        /* Dark font in header */
-    padding: 20px;
+.dashboard-header {
     text-align: center;
-    border-bottom: 1px solid #dcdcdc;
+    margin-bottom: 30px;
 }
 
-header .subtitle {
-    color: #666666;
-    margin-top: 5px;
+.dashboard-header h1 {
+    font-size: 2.2rem;
+    margin-bottom: 5px;
+    color: #111;
 }
 
-.panel {
-    background: #ffffff;
-    margin: 20px;
-    padding: 20px;
-    border-radius: 8px;
-    border: 1px solid #dcdcdc; /* Gray border */
+.subtitle {
+    font-size: 1rem;
+    color: #555;
+    font-style: italic;
 }
 
-#regions {
+.dashboard-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr; /* 2 Column layout */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
-    margin: 20px;
+    max-width: 1400px;
+    margin: 0 auto;
 }
 
-.region-panel {
+.region-card {
     background: #ffffff;
-    padding: 20px;
+    border: 1px solid #e1e4e8;
     border-radius: 8px;
-    border: 1px solid #dcdcdc; /* Gray border */
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
 }
 
-.region-panel h3 {
+.region-card h2 {
+    font-size: 1.25rem;
     margin-top: 0;
-    color: #111111;
-    border-bottom: 2px solid #eeeeee;
-    padding-bottom: 8px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #eaecef;
+    color: #24292e;
 }
 
-.story {
+/* Scroll container for handling multiple items nicely */
+.news-scroll-container {
+    max-height: 400px;
+    overflow-y: auto;
+    padding-right: 5px;
+}
+
+.news-item {
     margin-bottom: 15px;
-    padding-bottom: 12px;
-    border-bottom: 1px solid #eaeaea;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #f1f3f5;
 }
 
-.story:last-child {
+.news-item:last-child {
     border-bottom: none;
     margin-bottom: 0;
     padding-bottom: 0;
 }
 
-.story h4 {
+.news-item h3 {
+    font-size: 1rem;
     margin: 0 0 5px 0;
-    color: #0044cc;
 }
 
-.story p {
-    margin: 5px 0;
+/* Clickable headline link styling */
+.news-link {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.news-link:hover {
+    text-decoration: underline;
+}
+
+.news-item p {
+    font-size: 0.9rem;
+    color: #586069;
+    margin: 0 0 5px 0;
     line-height: 1.4;
 }
 
 .sources {
-    font-size: 0.85em;
-    color: #555555;
-    font-style: italic;
+    font-size: 0.75rem;
+    color: #6a737d;
+    background: #f1f8ff;
+    padding: 2px 6px;
+    border-radius: 4px;
+    display: inline-block;
 }
