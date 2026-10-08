@@ -1,128 +1,1036 @@
 {
-  "globalOverview": [
-    {
-      "headline": "Nobel Prize Announcements Kick Off for 2026",
-      "summary": "The 2026 Nobel Prize announcements begin, highlighting breakthrough scientific discoveries starting with the prize in Physiology or Medicine awarded to Karl Deisseroth, Peter Hegemann, and Georg Nagel.",
-      "sources": ["Indian Express", "UN News"],
-      "url": "https://indianexpress.com"
-    },
-    {
-      "headline": "World Habitat Day Focuses on Global Housing Crisis",
-      "summary": "Representatives meeting in Muscat, Oman, call for urgent international action to address housing challenges impacting billions worldwide.",
-      "sources": ["UN News", "Global Issues"],
-      "url": "https://news.un.org"
-    }
-  ],
-  "north-america": [
-    {
-      "headline": "U.S. Introduces New Visa-Bond Program Across Select Nations",
-      "summary": "The United States rolls out a visa-bond program requiring temporary applicants from designated countries to deposit up to $20,000, while exempting several key partners like India.",
-      "sources": ["Indian Express", "AP"],
-      "url": "https://apnews.com"
-    },
-    {
-      "headline": "Mass Shooting Shocks Vienna, Georgia Homecoming Block Party",
-      "summary": "Local authorities and emergency services respond to a tragic mass shooting during a community celebration, leaving multiple injured.",
-      "sources": ["AP", "The Guardian"],
-      "url": "https://www.theguardian.com"
-    }
-  ],
-  "latin-america": [
-    {
-      "headline": "Brazil Presidential Election Heads Toward October Runoff",
-      "summary": "Following national elections where no candidate secured an outright majority, incumbent Luiz Inácio Lula da Silva and Flávio Bolsonaro are set to face off in a late-October runoff.",
-      "sources": ["CBS News", "MercoPress"],
-      "url": "https://www.cbsnews.com"
-    },
-    {
-      "headline": "Argentina Introduces New Immigrant Investor Citizenship Program",
-      "summary": "The Argentine government rolls out an economic residency framework allowing foreign investors to obtain citizenship through qualifying economic contributions and bonds.",
-      "sources": ["AFP", "Wikipedia"],
-      "url": "https://en.wikipedia.org"
-    }
-  ],
-  "east-asia": [
-    {
-      "headline": "FBI Arrests Suspected Unregistered Agent in Los Angeles",
-      "summary": "Federal law enforcement detains an individual at Los Angeles International Airport on allegations of acting as an unregistered foreign agent conducting surveillance.",
-      "sources": ["AFP", "RFI"],
-      "url": "https://www.rfi.fr"
-    },
-    {
-      "headline": "Asian Games Conclude with Strong Regional Performances",
-      "summary": "Athletes wrap up major medal standings following weeks of competitive events featuring powerhouse contingents from across the region.",
-      "sources": ["Xinhua", "Indian Express"],
-      "url": "http://www.xinhuanet.com"
-    }
-  ],
-  "south-asia": [
-    {
-      "headline": "India Engages International Partners on Regional Stability",
-      "summary": "Diplomatic officials outline ongoing discussions regarding Black Sea shipping security, energy exports, and international conflict resolution frameworks.",
-      "sources": ["Indian Express", "Dawn"],
-      "url": "https://www.dawn.com"
-    },
-    {
-      "headline": "Monsoon Agricultural Yields Support Staple Food Inventories",
-      "summary": "Favorable seasonal rainfall patterns across the subcontinent result in strong harvest outputs for agricultural communities.",
-      "sources": ["The Hindu", "Reuters"],
-      "url": "https://www.reuters.com"
-    }
-  ],
-  "europe": [
-    {
-      "headline": "Sweden's Far-Right Support Slips in Recent General Election",
-      "summary": "Support for the Sweden Democrats drops for the first time in history, prompting the prime minister's resignation and opening coalition pathways for the centre-left.",
-      "sources": ["Inter Press Service", "BBC News"],
-      "url": "https://www.bbc.com/news"
-    },
-    {
-      "headline": "Mass Rioting and Protests Continue Across French Schools",
-      "summary": "Demonstrations tied to the French lycée protests enter consecutive days, prompting widespread school closures and heavy security deployment.",
-      "sources": ["BBC News", "France 24"],
-      "url": "https://www.france24.com"
-    }
-  ],
-  "middle-east": [
-    {
-      "headline": "Yemeni Forces Target Positions Near Bab el-Mandeb Strait",
-      "summary": "Military operations intensify around strategic maritime routes as regional forces move to secure vital global shipping lanes.",
-      "sources": ["Al Jazeera", "Reuters"],
-      "url": "https://www.aljazeera.com"
-    },
-    {
-      "headline": "U.S. Completes Final Troop Withdrawal from Iraq",
-      "summary": "American forces conclude their long-term security mission following an agreement finalized between Washington and Baghdad.",
-      "sources": ["Reuters", "Associated Press"],
-      "url": "https://apnews.com"
-    }
-  ],
-  "africa": [
-    {
-      "headline": "World Food Programme Condemns Attack on Aid Trucks in Sudan",
-      "summary": "International agencies issue strong rebukes following a deadly aerial attack on marked relief supplies operating in South Kordofan.",
-      "sources": ["UN News", "AllAfrica"],
-      "url": "https://allafrica.com"
-    },
-    {
-      "headline": "Nigerian Air Force Aircraft Crashes in Ondo State",
-      "summary": "Emergency responders mobilize following the crash of a military transport aircraft carrying dozens of passengers in southwestern Nigeria.",
-      "sources": ["DW", "Wikipedia"],
-      "url": "https://www.dw.com"
-    }
-  ],
-  "oceania": [
-    {
-      "headline": "Global Survey Highlights Rising Pregnancy Hazards from Extreme Heat",
-      "summary": "Public health data spanning multiple continents warns that severe temperature spikes pose mounting risks to expectant mothers and newborns.",
-      "sources": ["Inter Press Service", "RNZ"],
-      "url": "https://www.rnz.co.nz"
-    },
-    {
-      "headline": "New Zealand Sports Figures Opt for Flexible Contracts",
-      "summary": "Top athletes adjust domestic commitments to participate in premier international leagues ahead of upcoming seasonal schedules.",
-      "sources": ["RNZ", "Sydney Morning Herald"],
-      "url": "https://www.smh.com.au"
-    }
-  ]
+    "globalOverview": [
+        {
+            "headline": "Kenya races to trace all contacts after first Ebola death, WHO official says",
+            "summary": "Kenya’s first Ebola death has triggered a race to trace everyone the victim came into contact with, as the United Nations and partners provide full support, the World Health Organi...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168542"
+        },
+        {
+            "headline": "Critical funding gap threatens health response in Yemen",
+            "summary": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its response in Yemen amid escalating conflict and rising needs.",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168541"
+        },
+        {
+            "headline": "Reform, or lose trust: Governments press the UN to reflect the world as it is",
+            "summary": "Can the UN still remain relevant if it still looks and acts like the organization it was when it was formed in 1945? The debate over UN reform at the General Assembly in New York l...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168540"
+        },
+        {
+            "headline": "WHO releases first global guidelines on child obesity as cases surge",
+            "summary": "Child and adolescent obesity has quadrupled since 1990, rising from two per cent to around eight per cent of youngsters in the five-to-19 age group, according to the UN World Healt...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168536"
+        },
+        {
+            "headline": "‘Rocket revolution’ opens access to space",
+            "summary": "For a long time, launching something beyond Earth was reserved for a relatively small number of national space programmes. That is changing.",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168538"
+        },
+        {
+            "headline": "Israeli demolition in East Jerusalem displaces 69 Palestinians",
+            "summary": "Sixty-nine Palestinians – more than half of them children – were displaced on Tuesday after Israeli authorities green lit the demolition of their residential building in the At Tur...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168539"
+        },
+        {
+            "headline": "From drought to deluge: ‘Super’ El Niño’s expanding reach",
+            "summary": "Across Papua New Guinea, water sources are drying up, crops are failing and food prices are rising months before the worst agricultural impacts are expected. Behind those warning s...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168537"
+        },
+        {
+            "headline": "Djibouti faces ‘overlapping emergencies’ as Yemen’s refugee exodus continues",
+            "summary": "Djibouti is facing “overlapping emergencies” as refugees fleeing the conflict in Yemen arrive on its shores while migrants continue to travel in the opposite direction, the UN migr...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168535"
+        },
+        {
+            "headline": "Testing and monitoring underway in suspected Russia plague death",
+            "summary": "The death of a lab worker in Russia’s Siberia region has sparked concerns over a possible plague case, the UN World Health Organization (WHO) said on Tuesday, adding that it was fo...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168533"
+        },
+        {
+            "headline": "In Islamabad, Guterres calls for end to US-Iran conflict",
+            "summary": "The UN Secretary-General appealed on Tuesday for an end to the United States-Iran war and the toll it has taken on global trade, as he began an official visit to Pakistan.",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168532"
+        },
+        {
+            "headline": "‘Ebola takes the people children depend on’: UNICEF",
+            "summary": "The Ebola outbreak in the eastern Democratic Republic of the Congo (DRC) is robbing children of their loved ones – with some succumbing to the deadly disease themselves – the UN Ch...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168531"
+        },
+        {
+            "headline": "When streets become pharmacies: Booming illicit markets in Central Africa",
+            "summary": "Antibiotics, malaria treatments, painkillers, opioids. More than 250 tonnes of medical products were seized over six years in Central Africa. Behind those numbers is an illicit mar...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168527"
+        },
+        {
+            "headline": "‘Nothing can justify these atrocities,’ says Guterres three years on from 7 October attacks",
+            "summary": "Three years after Hamas and other Palestinian armed groups attacked Israel, UN Secretary-General António Guterres has said nothing can justify the atrocities of 7 October – calling...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168530"
+        },
+        {
+            "headline": "‘The clock on AI regulation is ticking’, warns UN rights chief",
+            "summary": "The world is running out of time to put guardrails on artificial intelligence, UN High Commissioner for Human Rights Volker Türk warned Monday, as a “ruthless race” between compani...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168529"
+        },
+        {
+            "headline": "More than 184,000 displaced as fighting intensifies in Yemen",
+            "summary": "Intense fighting in Yemen has forced more than 184,000 people from their homes since the start of August, most of them since early September, the UN migration agency (IOM) said on ...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168528"
+        }
+    ],
+    "north-america": [
+        {
+            "headline": "Ken Paxton calls out James Talarico's 11-day absence at Trump rally, prompting response from campaign",
+            "summary": "Ken Paxton led a &quot;Where is Talarico?&quot; chant at Trump&apos;s San Antonio rally, but James Talarico&apos;s campaign says the Democrat has been sick with the flu.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/ken-paxton-calls-james-talarico-11-day-absence-trump-rally-prompting-response-campaign"
+        },
+        {
+            "headline": "Los Angeles Dodgers are back in the NLCS for third straight season after win over Atlanta Braves",
+            "summary": "Josue De Paula and Kyle Tucker drew pivotal walks before Andy Pages laced a go-ahead single as the Dodgers broke through the Braves bullpen.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/los-angeles-dodgers-back-nlcs-third-straight-season-4-1-win-atlanta-braves"
+        },
+        {
+            "headline": "FIRST ON FOX: US Coast Guard recruits largest class in nearly 40 years, beats goals for third straight year",
+            "summary": "The Coast Guard enlisted 5,445 active-duty members in fiscal year 2026, its largest class in nearly four decades as Force Design aims to add 15,000.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/us-coast-guard-recruits-largest-class-nearly-40-years-beats-goals-third-straight-year"
+        },
+        {
+            "headline": "ESPN star Stephen A. Smith's Lane Johnson, Eagles rant triggers immediate video apology",
+            "summary": "Stephen A. Smith faced immediate backlash after questioning Lane Johnson&apos;s mid-season retirement and mocking the Eagles tackle&apos;s mental health timing.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/espn-star-stephen-a-smith-lane-johnson-eagles-rant-triggers-immediate-video-apology"
+        },
+        {
+            "headline": "GOP Senate hopeful sounds alarm after alleged Mall of America terror plot thwarted",
+            "summary": "Michele Tafoya says Minnesotans &quot;feel under a level of threat&quot; after the FBI arrested an 18-year-old over an alleged ISIS-inspired Mall of America plot.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/gop-senate-hopeful-sounds-alarm-alleged-mall-america-terror-plot-thwarted"
+        },
+        {
+            "headline": "'Glad to see it': Super Bowl champion Bruce Arians rips out-of-control NFL refs after two suspensions",
+            "summary": "Super Bowl-winning coach Bruce Arians said he&apos;s surprised by NFL suspensions of Jeff Seeman and Adrian Hill but welcomes new official accountability.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/glad-see-super-bowl-champion-bruce-arians-rips-out-of-control-nfl-refs-after-two-suspensions"
+        },
+        {
+            "headline": "Iowa city council meeting erupts after former member opens meeting with satanic prayer and 'Hail Satan'",
+            "summary": "A former Ottumwa City Council member opened a meeting with a satanic prayer ending in &quot;Hail Satan,&quot; prompting a pastor to call the controversial incident a &quot;curse.&q...",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/media/iowa-city-council-meeting-erupts-after-former-member-opens-meeting-satanic-prayer-hail-satan"
+        },
+        {
+            "headline": "Cleveland Guardians stay alive in ALDS, deny White Sox clinch at home",
+            "summary": "Kyle Teel&apos;s early double gave Chicago the lead, but Cleveland&apos;s 11-hit explosion in ALDS Game 3 denied the White Sox a series-clinching moment.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/cleveland-guardians-stay-alive-alds-deny-white-sox-clinch-home"
+        },
+        {
+            "headline": "Critical House race that could decide control of Congress hits home stretch as GOP rep warns what's at stake",
+            "summary": "Mariannette Miller-Meeks accuses Christina Bohannan of aligning with the Democratic Socialists of America on open borders and defunding police.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/critical-house-race-decide-control-congress-hits-home-stretch-gop-rep-warns-whats-stake"
+        },
+        {
+            "headline": "Don't wait — this Barefoot Dreams blanket is still 53% off for Amazon Prime Big Deal Days",
+            "summary": "Prep for winter weather with this luxuriously soft Barefoot Dreams throw blanket — it has a spot on Oprah&apos;s Favorite Things and it&apos;s more than half off for Prime Day.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/deals/barefoot-dreams-throw-blanket-amazon-deal"
+        },
+        {
+            "headline": "Driver opens fire on strangers along major US interstate, tells cops he ‘had to kill people today’",
+            "summary": "Andrew Darrick Tanaka allegedly told police, &quot;I had to kill people today,&quot; after allegedly opening fire on vehicles along Interstate 35 in Warren County.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/driver-opens-fire-strangers-major-us-interstate-tells-cops-had-kill-people-today"
+        },
+        {
+            "headline": "Diet soda vs water: Study reveals which beverage is better for weight loss",
+            "summary": "A two-year randomized trial found that diet drinks with aspartame, sucralose and acesulfame potassium matched water for weight loss outcomes.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/health/diet-soda-vs-water-study-reveals-which-beverage-better-weight-loss"
+        },
+        {
+            "headline": "Marlon Humphrey says meeting President Trump inspired him to vote in the next election",
+            "summary": "Marlon Humphrey rode in Trump&apos;s presidential motorcade near Baltimore and says the experience has inspired him to vote for the first time ever.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/marlon-humphrey-meeting-president-trump-inspired-vote-next-election"
+        },
+        {
+            "headline": "Tom Hanks’ son Chet confronts Eric André over comedian’s past comments about him",
+            "summary": "Chet Hanks posts video confronting Eric André at ComplexCon over their years-long feud after the comedian&apos;s past comments to the media.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/entertainment/tom-hanks-son-chet-confronts-eric-andre-comedian-past-comments"
+        },
+        {
+            "headline": "DHS proposes massive $70K fee for foreign students seeking work authorization",
+            "summary": "DHS proposes a $70,000 OPT fee for F-1 visa holders in the United States, calling the program a pipeline for cheap foreign labor into the workforce.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/dhs-proposes-massive-70k-fee-foreign-students-seeking-work-authorization"
+        },
+        {
+            "headline": "'Canada is not our enemy': Michigan Republican Senate candidate breaks with Trump on trade war",
+            "summary": "",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/world/michigan-republican-senate-candidate-canada-trump-trade-war-9.7373028?cmp=rss"
+        },
+        {
+            "headline": "Don't support Trump tariffs then blame Stelco job cuts on 'act of God,' Joly warns Cleveland-Cliffs",
+            "summary": "",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/hamilton/melanie-joly-cleveland-cliffs-stelco-layoffs-9.7372902?cmp=rss"
+        },
+        {
+            "headline": "Canada yanks sponsorship of disinformation conference discussing U.S. as a threat",
+            "summary": "The federal government has withdrawn sponsorship of a European disinformation conference that includes panels discussing the U.S. government as a foreign interference risk.",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/politics/gac-disinformation-united-states-lithuania-9.7187116?cmp=rss"
+        },
+        {
+            "headline": "Woman at centre of Cornell gang-rape case was 'misled' about investigation, lawyer says",
+            "summary": "The woman who says several men raped her at a Cornell University fraternity party was \"misled\" about the status of the criminal investigation in the weeks after she went to police,...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/world/cornell-gang-rape-victim-lawyer-9.7373568?cmp=rss"
+        },
+        {
+            "headline": "'Unimaginable loss': Horses killed on B.C. highway while travelling to championship",
+            "summary": "Four horses were travelling from across Western Canada to compete in the Equestrian Canada National Dressage West championship in Langley. Three were killed in a crash, and another...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/british-columbia/dressage-horses-killed-in-b-c-9.7373257?cmp=rss"
+        }
+    ],
+    "latin-america": [
+        {
+            "headline": "Messi leaves Argentina's national team after 21 years with a fortune Forbes puts at US$1.1 billion",
+            "summary": "\n\t   \t      \n\t         Lionel Messi played his last match for Argentina on Tuesday, a friendly against Benin that ended 3-0 at Buenos Aires' Monumental stadium before more than 80,...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/07/messi-leaves-argentina-s-national-team-after-21-years-with-a-fortune-forbes-puts-at-us-1.1-billion?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "Trump promises payments to voters ahead of midterms dominated by the cost of living",
+            "summary": "\n\t   \t      \n\t         US President Donald Trump has announced a series of direct payments to various groups of citizens in recent weeks and has promised US$5,000 to every adult if...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/07/trump-promises-payments-to-voters-ahead-of-midterms-dominated-by-the-cost-of-living?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "Former Venezuelan Supreme Court justice says she was coerced into barring Machado",
+            "summary": "\n\t   \t      \n\t         Former Venezuelan Supreme Court justice Bárbara César Siero has alleged that the detention of two of her brothers and her sister-in-law in late 2023 was used...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/07/former-venezuelan-supreme-court-justice-says-she-was-coerced-into-barring-machado?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "British Airways restores non-stop London-Buenos Aires flights and adds a daily Santiago service",
+            "summary": "\n\t   \t      \n\t         British Airways will operate a daily non-stop flight between London Heathrow and Buenos Aires from March 28, 2027, continuing on to Santiago, Chile. A direct...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/06/british-airways-restores-non-stop-london-buenos-aires-flights-and-adds-a-daily-santiago-service?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "Lula targets non-voters and over-70s to overturn the first-round result",
+            "summary": "\n\t   \t      \n\t         Brazilian President Luiz Inácio Lula da Silva will focus his campaign for the October 25 runoff on mobilising those who did not vote on Sunday, particularly ...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/06/lula-targets-non-voters-and-over-70s-to-overturn-the-first-round-result?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "UK agrees £190m Airbus deal to boost RAF's strategic airlift fleet of A400M Atlas",
+            "summary": "\n\t   \t      \n\t         The UK Ministry of Defence has signed a £190m contract extension with Airbus to deliver a 30% improvement in the availability of the Royal Air Force's tactic...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/06/uk-agrees-190m-airbus-deal-to-boost-raf-s-strategic-airlift-fleet-of-a400m-atlas?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "On first Monday in October Falklands celebrates Peat Cutting Day",
+            "summary": "\n\t   \t      \n\t         Monday 5th October has been a public holiday in the Falkland Islands. This is because the first Monday in October every year has been declared Peat Cutting D...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/06/on-first-monday-in-october-falklands-celebrates-peat-cutting-day?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "Paraguay's opposition takes Asunción from the Colorado Party and holds Ciudad del Este",
+            "summary": "\n\t   \t      \n\t         Paraguay's opposition won the mayoralty of Asunción and held that of Ciudad del Este, the country's two most populous cities, in Sunday's municipal elections...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/05/paraguay-s-opposition-takes-asuncion-from-the-colorado-party-and-holds-ciudad-del-este?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "São Paulo stocks jump 8% and the real firms after Bolsonaro's first-round win",
+            "summary": "\n\t   \t      \n\t         Brazilian markets rallied sharply on Monday in response to the first round of the presidential election, in which Senator Flávio Bolsonaro finished ahead of ...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/05/s-o-paulo-stocks-jump-8-and-the-real-firms-after-bolsonaro-s-first-round-win?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "\"The end of the PT era is decreed,\" says Flávio Bolsonaro after winning the first round",
+            "summary": "\n\t   \t      \n\t         Senator Flávio Bolsonaro celebrated his first-round victory in Brazil's presidential election in Brasília with a message focused on change. \"Change, the word...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/05/the-end-of-the-pt-era-is-decreed-says-flavio-bolsonaro-after-winning-the-first-round?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        }
+    ],
+    "east-asia": [
+        {
+            "headline": "Palestinians clash with Israeli soldiers after protest against Pence visit",
+            "summary": "Palestinian protesters hurl stones at Israeli soldiers during clashes after a protest against the visit of U.S. Vice President Mike Pence in Jerusalem, in the West Bank city of Heb...",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://www.xinhuanet.com/english/world/2018-01/24/c_136919909.htm"
+        },
+        {
+            "headline": "U.S. failure to appoint Australian ambassador \"diplomatic insult\": former deputy PM",
+            "summary": "Former Australian Deputy Prime Minister Tim Fischer has accused the U.S. of hitting Australia with a \"diplomatic insult.\"",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://www.xinhuanet.com/english/2018-01/03/c_136868968.htm"
+        },
+        {
+            "headline": "Speaker of Hungarian Parliament addresses in Budapest",
+            "summary": "Laszlo Kover (1st L), Speaker of the Hungarian Parliament, speaks at a conference of the parliament speakers of the Western Balkans in Budapest, Hungary on Oct. 27, 2017.",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://www.xinhuanet.com/english/2017-10/28/c_136711043.htm"
+        },
+        {
+            "headline": "Typhoon Lan lashes central Japan, killing 2 and disrupting transport systems",
+            "summary": "Two people were killed and transportation systems and businesses severely disrupted as Typhoon Lan lashed central Japan's Pacific coast after making landfall early Monday.",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://www.xinhuanet.com/english/2017-10/23/c_136699146.htm"
+        },
+        {
+            "headline": "Spotlight: U.S. decision to withdraw from UNESCO triggers calls for multilateralism",
+            "summary": "The U.S. decision to withdraw from UNESCO, the UN cultural agency, has triggered worldwide calls for supporting multilateralism amid world challenges.",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://www.xinhuanet.com/english/2017-10/13/c_136677613.htm"
+        },
+        {
+            "headline": "U.S. nuke-powered submarine makes port call in S. Korea",
+            "summary": "A U.S. nuclear-powered submarine on Friday made a port call at a city in southeast South Korea, Yonhap news agency reported Friday.",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://www.xinhuanet.com/english/2017-10/13/c_136677591.htm"
+        },
+        {
+            "headline": "S.Korean court extends detention of ex-president Park over corruption charges",
+            "summary": "A South Korean court on Friday decided to extend the detention of impeached President Park Geun-hye who has been in custody and stood trial over corruption charges including briber...",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://www.xinhuanet.com/english/2017-10/13/c_136677533.htm"
+        },
+        {
+            "headline": "Spotlight: What's behind abrupt U.S. withdrawal from UNESCO?",
+            "summary": "The world has long been used to U.S. President Donald Trump taking a stance against multilateralism. Still, the sudden U.S. announcement Thursday to retreat from UNESCO -- the Unit...",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://www.xinhuanet.com/english/2017-10/13/c_136677360.htm"
+        },
+        {
+            "headline": "UN roots for enhanced data collection to fix food security crises in Africa",
+            "summary": "The United Nations Food and Agriculture Organization (FAO) will avail financial resources and technical expertise to help African countries collect data on agriculture that is key ...",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://www.xinhuanet.com/english/2017-09/18/c_136618940.htm"
+        },
+        {
+            "headline": "Egypt-U.S. joint drill Bright Star simulates real battles",
+            "summary": "Conditions similar to real battles were created in the Egyptian-U.S. joint drill \"Bright Star 2017,\" which are being conducted at Egypt's Mohamed Naguib Military Base and will last...",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://www.xinhuanet.com/english/2017-09/18/c_136618525.htm"
+        },
+        {
+            "headline": "Cambodia arrests Laotian man with 5 kg of illicit drugs",
+            "summary": "Cambodian police arrested a Laotian man on Saturday for allegedly smuggling nearly 5 kilos of crystal methamphetamine from Laos into Cambodia, an anti-drug police officer said.",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://www.xinhuanet.com/english/2017-07/22/c_136464696.htm"
+        },
+        {
+            "headline": "MPs say Brexit referendum led to public mistrust in government",
+            "summary": "Actions by the British government during the European Union referendum led to public mistrust, a committee of MPs said Wednesday in a parliamentary report.",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://www.xinhuanet.com/english/2017-04/12/c_136203242.htm"
+        },
+        {
+            "headline": "<a href='http://news.xinhuanet.com/english/2017-03/31/c_136171921.htm' target='_blank'>S. Korea's ex-president Park arrested following impeachment over corruption scandal</a>",
+            "summary": "Former President Park Geun-hye of South Korea was arrested early Friday as a Seoul court approved the request from prosecutors following her impeachment earlier this month over a c...",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://news.xinhuanet.com/english/2017-03/31/c_136171921.htm"
+        },
+        {
+            "headline": "<a href='http://news.xinhuanet.com/english/photo/2017-03/30/c_136171338.htm' target='_blank'>Manila Int'l Auto Show kicks off</a>",
+            "summary": "Visitors attend the Manila International Auto Show at the World Trade Center in Pasay City, the Philippines.",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://news.xinhuanet.com/english/photo/2017-03/30/c_136171338.htm"
+        },
+        {
+            "headline": "<a href='http://news.xinhuanet.com/english/2017-03/30/c_136171630.htm' target='_blank'>Malaysia says to release body of Kim Jong Nam to DPRK</a>",
+            "summary": "Malaysia will release the body of Kim Jong Nam to the Democratic People's Republic of Korea (DPRK) and allow its nationals to leave, after the nine stranded Malaysian citizens in D...",
+            "sources": [
+                "xinhuanet.com"
+            ],
+            "url": "http://news.xinhuanet.com/english/2017-03/30/c_136171630.htm"
+        }
+    ],
+    "south-asia": [
+        {
+            "headline": "Actor Nana Patekar dies at 75",
+            "summary": "The 75-year-old actor was brought to a private hospital after he was found unconscious at his apartment at Dona Paula, near Panaji, Dr. Shekhar Salkar, a senior doctor attached to ...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/entertainment/movies/nana-patekar-dies-at-75-goa-heart-attack/article71558236.ece"
+        },
+        {
+            "headline": "Kerala State Road Transport Corporation launches cargo service to increase non-ticket revenue",
+            "summary": "One tonne of mobile phones transported from Thiruvananthapuram to Aluva in its inaugural consignment on Wednesday (October 7, 2026)",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/kerala/kerala-state-road-transport-corporation-launches-cargo-service-to-increase-non-ticket-revenue/article71555575.ece"
+        },
+        {
+            "headline": "Press Council of India reconstituted; 13 members nominated",
+            "summary": "The PCI is headed by Justice Ranjana Prakash Desai (retd) and it has 14 members, including five MPs, six representatives from newspaper owners and three experts from the Bar Counci...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/press-council-of-india-reconstituted-13-members-nominated/article71558177.ece"
+        },
+        {
+            "headline": "Organisations engaged in religious conversion shall be denied FCRA registration: Madras HC",
+            "summary": "Only organisations whose activities do not affect nation’s secular fabric can receive foreign funds, says the Madurai Bench, rejecting an appeal by a charitable trust for registrat...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/cities/Madurai/organisations-engaged-in-religious-conversion-shall-be-denied-fcra-registration-madras-hc/article71556387.ece"
+        },
+        {
+            "headline": "Captain Smit Machchhar’s health is improving: MEA",
+            "summary": "On flydubai flight FZ1073 on September 30, Mr. Machchhar was attacked by his co-pilot, an Omani citizen, with a crash axe",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/captain-smit-machchhars-health-is-improving-mea/article71557188.ece"
+        },
+        {
+            "headline": "How Telangana’s MeeSeva migration to open source could make governments rethink software costs",
+            "summary": "The State’s move from Oracle to open-source PostgreSQL, completed in April 2026, shows both the potential savings and the technical and administrative hurdles involved in moving mi...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/telangana/how-telanganas-meeseva-migration-to-open-source-could-make-governments-rethink-software-costs/article71541810.ece"
+        },
+        {
+            "headline": "Nose of IndiGo plane found damaged after landing at Lucknow airport, lightning strike suspected",
+            "summary": "The incident did not involve an emergency landing and the aircraft landed normally at the Lucknow airport",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/nose-of-indigo-plane-found-damaged-after-landing-at-lucknow-airport-lightning-strike-suspected/article71557281.ece"
+        },
+        {
+            "headline": "INDIA bloc yet to get President Murmu’s appointment on ECI concerns",
+            "summary": "Opposition says it has agreed to trim its proposed delegation from 15 to 10 members; CPI(M) MP John Brittas receives response to petition on SIR controversy",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/india-bloc-yet-to-get-presidents-appointment-on-eci-concerns/article71556695.ece"
+        },
+        {
+            "headline": "Lokayukta court sentences ACF to 3 years for possessing disproportionate assets",
+            "summary": "The investigation established that he had allegedly accumulated ₹1,35,29,714.37 worth of disproportionate assets.",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/karnataka/lokayukta-court-sentences-acf-to-3-years-for-possessing-disproportionate-assets/article71556198.ece"
+        },
+        {
+            "headline": "ED gets custody of former KPSC chief Sahukar, member Geetha in veterinary recruitment scam",
+            "summary": "The ED officials taken the duo into custody on Wednesday based on the alleged revelations made by IAS officer Gyanendra Kumar Gangwar, an accused, and Basavaraj Kannale, another ac...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/karnataka/ed-gets-custody-of-former-kpsc-chief-sahukar-member-geetha-in-veterinary-recruitment-scam/article71555340.ece"
+        },
+        {
+            "headline": "Karnataka Chief Minister D.K. Shivakumar cautions Ministers against possible ‘sting operations’",
+            "summary": "Chief Minister D.K. Shivakumar is learnt to have warned his Cabinet colleagues to remain vigilant against possible sting operations, amid reports that private agencies could be sec...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/karnataka/karnataka-cm-shivakumar-cautions-ministers-against-possible-sting-operations/article71555747.ece"
+        },
+        {
+            "headline": "Karnataka High Court orders using ‘parenting time’ instead of ‘visitation’ in all child custody cases",
+            "summary": "“Calling it ‘parenting time’ recognises a simple truth that no parent is a ‘visitor’ in the life of a child”",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-orders-using-parenting-time-instead-of-visitation-in-all-child-custody-cases/article71555498.ece"
+        },
+        {
+            "headline": "Jaishankar discusses bilateral ties with Cote d'Ivoire",
+            "summary": "The Minister arrived in Cote d'Ivoire from Ghana on the second leg of his three-nation tour of African countries, which also includes Ethiopia",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/jaishankar-discusses-bilateral-ties-with-cote-divoire/article71558153.ece"
+        },
+        {
+            "headline": "SC to hear Centre’s plea against Jharkhand DGP appointments",
+            "summary": "A Bench comprising Chief Justice Surya Kant and justices Joymalya Bagchi and V. Mohana was urged by Solicitor General Tushar Mehta that the contempt plea be also listed for hearing",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/jharkhand/supreme-court-to-hear-centres-contempt-plea-against-appointment-of-jharkhand-dgp-tadasha-mishra/article71555367.ece"
+        },
+        {
+            "headline": "India seeks update from Russia on whereabouts of Indians working with Russian military",
+            "summary": "New Delhi has been consistently urging Moscow to release all the Indian nationals serving with the Russian military",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/india-seeks-update-from-russia-on-whereabouts-of-indians-working-with-russian-military/article71557190.ece"
+        }
+    ],
+    "europe": [
+        {
+            "headline": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+            "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "France halts use of stun grenades after boy's hand blown off in student protests",
+            "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Children killed while they slept as Russian missile kills 19 in block of flats",
+            "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Trump to speak to Putin about plague lab worker's death in Russia",
+            "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "What is pneumonic plague and how does it spread?",
+            "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Finland orders halt to work on two Google data centres",
+            "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Former German spy chief arrested for espionage and treason",
+            "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "AfD candidate elected speaker of German regional parliament for first time",
+            "summary": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Ronaldo wants Portugal 'punishment' but not retiring",
+            "summary": "Cristiano Ronaldo says he is not retiring but deserves to be punished for walking out on Portugal after head coach Jorge Jesus \"broke his word to me\".",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Ship sinks and crew missing after Black Sea drone attack",
+            "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Karl Bushby completes English Channel swim",
+            "summary": "The adventurer is nearing the end of his 28-year journey home to Hull from Chile.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cxddv8q9pvrzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Spanish PM Sánchez calls early election after housing protests",
+            "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Belfast solicitor to represent suspected mob boss Kinahan",
+            "summary": "During the first court appearance last August, Kinahan did not have any legal representation.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cr20w6wz4qxdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Spain PM pins hopes on housing crisis to help win snap election",
+            "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+            "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "DNC sues Trump administration over taxpayer-funded TV ads promoting president",
+            "summary": "The Democratic National Committee sued President Donald Trump’s administration on Wednesday over taxpayer-funded television ads promoting his political message, alleging illegal go...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/americas/20261007-dnc-sues-trump-administration-taxpayer-funded-tv-ads"
+        },
+        {
+            "headline": "No longer the same Israel? October 7th and the future of the Jewish State",
+            "summary": "For now, it's still Benjamin Netanyahu’s Israel. In 2023, in the immediate aftermath of the country’s worst day of bloodshed in its history, pundits predicted the quick demise of t...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/tv-shows/the-debate/20261007-no-longer-the-same-israel-october-7th-and-the-future-of-the-jewish-state"
+        },
+        {
+            "headline": "Thousands protest Flavio Bolsonaro, fearing far-right return in Brazil",
+            "summary": "Thousands of people joined a student march in downtown Rio de Janeiro on Wednesday to protest against Flavio Bolsonaro ahead of Brazil's October 25 presidential runoff. Bolsonaro l...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil"
+        },
+        {
+            "headline": "Israel marks three years since October 7 attack ahead of elections",
+            "summary": "Israel marked the third anniversary of Hamas’s October 7 attack on Wednesday with silent tributes and renewed strikes on Gaza as political debate intensified ahead of elections. Fa...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/middle-east/20261007-israel-three-years-october-7-attack-elections"
+        },
+        {
+            "headline": "UN health agency wants more details from Russia on suspected pneumonic plague case",
+            "summary": "A top official with the World Health Organization said Wednesday it doesn’t know how a lab worker in Siberia died, and she urged Russia to provide more information about a case tha...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/un-health-agency-wants-more-details-from-russia-on-suspected-pneumonic-plague-case"
+        }
+    ],
+    "middle-east": [
+        {
+            "headline": "US bars Fiji-based man over corruption tied to China",
+            "summary": "The State Department has accused the man of paying bribes to Fijian citizens to advance Chinese interests.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/news/2026/10/8/us-bars-fiji-based-man-over-corruption-tied-to-china?traffic_source=rss"
+        },
+        {
+            "headline": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+            "summary": "The UK maritime agency has reported a rise in attacks on vessels in the vital Strait of Hormuz.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss"
+        },
+        {
+            "headline": "Why is Guantanamo prison still open?",
+            "summary": "Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open?traffic_source=rss"
+        },
+        {
+            "headline": "Democrats sue US President Trump over taxpayer-funded ad campaign",
+            "summary": "Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign?traffic_source=rss"
+        },
+        {
+            "headline": "Death of 87-year old sparks furious Spain housing protests",
+            "summary": "Hundreds of protesters gather outside Spain’s Parliament, demanding action over soaring rents.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/death-of-87-year-old-sparks-furious-spain-housing-protests?traffic_source=rss"
+        },
+        {
+            "headline": "Yemeni government forces claim 1,860 Houthis ‘neutralised’",
+            "summary": "Yemeni government forces said in a social media post that they carried out 2,103 &#039;precise targeting operations&#039;.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/news/2026/10/8/yemeni-government-forces-claim-1860-houthis-neutralised?traffic_source=rss"
+        },
+        {
+            "headline": "How kidnappings are hitting Nigeria’s Borno families hard",
+            "summary": "Across Borno, abductions are leaving families with depleted savings, missing loved ones and disrupted education.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/news/2026/10/8/how-kidnappings-are-hitting-nigerias-borno-families-hard?traffic_source=rss"
+        },
+        {
+            "headline": "US stocks slide as oil prices fluctuate over renewed Iran war fears",
+            "summary": "Oil prices rose on fresh concerns about Middle East supplies, before falling on the possible release of more reserves.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/news/2026/10/8/us-stocks-slide-as-oil-prices-fluctuate-over-renewed-iran-war-fears?traffic_source=rss"
+        },
+        {
+            "headline": "Russia dismisses reports of second plague case as ‘false information’",
+            "summary": "Senior WHO official urges Russia to provide more information on the suspected pneumonic plague cases.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information?traffic_source=rss"
+        },
+        {
+            "headline": "Saudi Arabia confirms three dead in Houthi strikes on its airports",
+            "summary": "Saudi Arabia has confirmed that Houthi strikes on two of its international airports have killed three people.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/saudi-arabia-confirms-three-dead-in-houthi-strikes-on-its-airports?traffic_source=rss"
+        },
+        {
+            "headline": "Yemen war live: Yemeni forces claim key heights as Houthi attacks go on",
+            "summary": "Saudi-backed Yemeni forces claim advances in western Taiz&#039;s mountain belt overlooking the coast.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on?traffic_source=rss"
+        },
+        {
+            "headline": "EU-China trade talks begin in Beijing amid escalating pressure",
+            "summary": "Talks will focus on the €1bn daily deficit and rare earth export restrictions.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/economy/2026/10/7/eu-china-trade-talks-begin-in-beijing-amid-escalating-pressure?traffic_source=rss"
+        },
+        {
+            "headline": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
+            "summary": "The United Nations Interim Force in Lebanon said there were no casualties after small arms fire targeted a border post.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post?traffic_source=rss"
+        },
+        {
+            "headline": "Christa Pike was nearly taken off life support before waking, lawyers say",
+            "summary": "Death row inmate who survived execution by lethal injection is said to be &#039;angry and confused&#039; about what happened.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss"
+        },
+        {
+            "headline": "‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro",
+            "summary": "Students and other protesters marched against Flavio Bolsonaro after he advanced to Brazil&#039;s presidential run-off.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss"
+        }
+    ],
+    "africa": [
+        {
+            "headline": "Africa: World Cotton Day - The Real Value of Africa's Cotton Comes After the Harvest",
+            "summary": "[allAfrica] World Cotton Day should measure more than output. It should ask how much manufacturing, employment and African-owned value the continent creates from every bale it grow...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070756.html"
+        },
+        {
+            "headline": "Kenya: The Researchers Building Kenya's Cotton Industry From The Seed Up",
+            "summary": "[Bird Story Agency] At Kirinyaga University, researchers are testing whether Kenya can produce quality Bt cotton seed locally. The trials could help improve supply and lower costs,...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070632.html"
+        },
+        {
+            "headline": "Somalia: Beyond Irro's U.S. Visit - Next Steps for Washington-Hargeisa Relations",
+            "summary": "[Addis Standard] Addis Abeba -- President Abdirahman Mohamed Abdullahi 'Irro' spent nearly two weeks in the United States from 5 to 19 September 2026, engaging in Washington and Ne...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070588.html"
+        },
+        {
+            "headline": "Africa: U.S. Backs Stronger AU-UN Role in Africa Conflicts, Supports UN Financing for AU-Led Missions",
+            "summary": "[Capital FM] Nairobi -- The United States has backed a stronger African Union-United Nations partnership to address conflicts across the continent, saying a UN framework for financ...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070467.html"
+        },
+        {
+            "headline": "Somalia: Somalia Says Al-Shabab Amniyat Chief Killed in Nisa Operation",
+            "summary": "[Shabelle] Mogadishu -- Somalia's intelligence agency said a former head of al-Shabab's Amniyat security wing was killed in a planned operation carried out with international partn...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070420.html"
+        },
+        {
+            "headline": "Africa: How Africa Can Capture More Value From Its Cotton",
+            "summary": "[Bird Story Agency] As World Cotton Day approaches on 7 October, Africa has an opportunity to consider how its cotton industry can contribute more to agricultural development, empl...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070409.html"
+        },
+        {
+            "headline": "South Sudan: South Sudan Rejects Claims of Foreigners' Expulsion Order",
+            "summary": "[Capital FM] Nairobi -- South Sudan has moved to dispel reports that foreigners have been given seven days to leave the country, with Juba County Caretaker Commissioner Kalisto Lad...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070268.html"
+        },
+        {
+            "headline": "Kenya: The Symbolism Behind Raila Odinga's Pentagon-Shaped Mausoleum",
+            "summary": "[Capital FM] Nairobi -- The unusual pentagonal shape of the late former Prime Minister Raila Odinga's mausoleum at Kango ka Jaramogi in Bondo was deliberately chosen to reflect a k...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070243.html"
+        },
+        {
+            "headline": "Africa: African Ministers to Convene Dialogue With WHO Director-General Candidates in Addis Ababa On 23 November 2026",
+            "summary": "[Africa CDC] Addis Ababa -- The 54 WHO recognized African countries represent nearly 30% of WHO Membership. Therefore, when leaders of this global health institution are selected, ...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070397.html"
+        },
+        {
+            "headline": "Africa: All of Africa Today - October 7, 2026",
+            "summary": "[allAfrica]",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070200.html"
+        },
+        {
+            "headline": "Kenya: Nairobi Hospital Says Ebola Patient Was Isolated From Main Facility",
+            "summary": "[Capital FM] Nairobi -- The Nairobi Hospital has moved to reassure patients and staff that its operations remain normal after the death of a patient who tested positive for Bundibu...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070181.html"
+        },
+        {
+            "headline": "Zimbabwe: Mnangagwa Declares State of Disaster As 8,500 Homes Lose Roofs in Masvingo Hailstorm",
+            "summary": "[New Zimbabwe] PRESIDENT Emmerson Mnangagwa has declared a State of Disaster following a severe hailstorm that hit Masvingo on Monday, leaving thousands of homes and infrastructure...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070177.html"
+        },
+        {
+            "headline": "Mali: Junta Forces Retake Strategic Town of Kidal",
+            "summary": "[DW] Mali's military regained control of the strategic town of Kidal after forcing Tuareg separatists and al-Qaeda-linked jihadists to withdraw following an offensive backed by Rus...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070174.html"
+        },
+        {
+            "headline": "Liberia: Ex - President Sirleaf Challenges Liberia to Give Anti-Corruption Laws Teeth",
+            "summary": "[Liberian Observer] Former President Ellen Johnson Sirleaf has challenged Liberia to move beyond passing anti-corruption laws and establishing integrity institutions, urging the co...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070559.html"
+        },
+        {
+            "headline": "Africa: World Day for Decent Work - 'Journalists Should Recognise Themselves As Workers and Fight for Our Collective Struggles,' Says IFJ",
+            "summary": "[IFJ] According to the International Labour Organization (ILO), decent work means dignity, equality, fair remuneration and safe working conditions. However, all too often these con...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allAfrica.com/stories/202610070519.html"
+        }
+    ],
+    "oceania": [
+        {
+            "headline": "Aaron Sorkin is taking on Facebook again, and this time he's furious",
+            "summary": "The \"spiritual sequel\" to The Social Network delves into the 2021 scandal that revealed how far Facebook will go to keep users on the platform.",
+            "sources": [
+                "rnz.co.nz"
+            ],
+            "url": "https://www.rnz.co.nz/life/screens/movies/aaron-sorkin-takes-on-facebook-again-and-this-time-he-s-furious"
+        },
+        {
+            "headline": "NZ investigators help jail California man over child abuse",
+            "summary": "The DIA's Digital Child Exploitation Team shared evidence with US authorities, with two children removed from harm.",
+            "sources": [
+                "rnz.co.nz"
+            ],
+            "url": "https://www.rnz.co.nz/news/world/1782653/nz-investigators-help-jail-california-man-over-child-abuse"
+        }
+    ]
 }
