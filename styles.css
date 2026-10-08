@@ -98,7 +98,7 @@ body {
 }
 
 .news-scroll-container {
-    max-height: 150px; /* Keeps the card compact */
+    max-height: 400px; /* Keeps the card compact */
     overflow-y: auto;  /* Enables smooth vertical scrolling */
     padding-right: 5px;
 }
