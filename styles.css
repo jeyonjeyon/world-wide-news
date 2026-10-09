@@ -102,3 +102,23 @@ body {
     overflow-y: auto;  /* Enables smooth vertical scrolling */
     padding-right: 5px;
 }
+.dashboard-header {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+}
+
+.header-left {
+    justify-self: start;
+}
+
+.header-center {
+    justify-self: center;
+    text-align: center;
+}
+
+.header-right {
+    justify-self: end;
+}
