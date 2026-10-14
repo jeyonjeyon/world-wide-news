@@ -2,19 +2,43 @@
     "globalOverview": [
         {
             "headline": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-            "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
+            "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+            "headline": "Hundreds of thousands of workers on strike across Republic of Ireland",
+            "summary": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "World's oldest shipwreck found off coast of Turkey",
+            "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Saudi employee charged with planting recording device in OpenAI office",
             "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Mauritius reels from worst riots in decades after woman shot by police",
+            "summary": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
@@ -25,6 +49,30 @@
             "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Zimbabwean author denies using AI to write award-winning story",
+            "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1rekpgnjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Lena Dunham's Girls to return for limited HBO run",
+            "summary": "Ten years after the series finale, the \"Girls\" are getting back together to explore the \"milestone of turning forty\", HBO says.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c9m26xp4zp8jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Russia arrests Japanese journalist on spying charges",
+            "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
             "summary": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
             "sources": [
@@ -33,23 +81,7 @@
             "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Argentina targets UK in legal claim over Falklands oil exploration",
-            "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-            "summary": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Who's to blame for the toxic smog choking South East Asia?",
+            "headline": "Who's to blame for the toxic haze choking South East Asia?",
             "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
             "sources": [
                 "feeds.bbci.co.uk"
@@ -57,185 +89,193 @@
             "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
-            "summary": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week...",
+            "headline": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
+            "summary": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
-            "summary": "Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago...",
+            "headline": "What we know about the Pope's lung cancer diagnosis",
+            "summary": "The Pope is recovering in hospital after a successful surgery to remove part of his right lung.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "north-america": [
         {
-            "headline": "Pentagon pushes hypersonic weapons production as startups slash costs",
-            "summary": "Dark Eagle missiles could cost over $40 million each, but startups like Castelion aim to produce hypersonic weapons for under $500,000 apiece.",
+            "headline": "African nations on ‘knife’s edge’ as US embassy warns Americans of long-range attacks",
+            "summary": "With regional tensions mounting, the Horn of Africa risks war between Ethiopia and Eritrea. Following attacks in Addis Ababa, the U.S. embassy warned citizens of long-range threats...",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/pentagon-pushes-hypersonic-weapons-production-startups-slash-costs"
+            "url": "https://www.foxnews.com/world/african-nations-knifes-edge-us-embassy-warns-americans-long-range-attacks"
         },
         {
-            "headline": "NYC socialist candidate says criminal record of man shot by ICE 'doesn't even matter'",
-            "summary": "Democratic congressional candidate Darializa Avila Chevalier told Hasan Piker that Oscar Belgal&apos;s criminal record &quot;doesn&apos;t even matter&quot; after he was wounded in ...",
+            "headline": "Mystery woman sought after American found dead in Costa Rican tourist destination",
+            "summary": "Costa Rican authorities say a 74-year-old American citizen identified as &quot;Fleming&quot; was found dead with head injuries inside a Playas del Coco condo.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/nyc-socialist-candidate-says-criminal-record-man-shot-ice-doesnt-even-matter"
+            "url": "https://www.foxnews.com/us/mystery-woman-sought-american-found-dead-costa-rican-tourist-destination"
         },
         {
-            "headline": "Bears' Montez Sweat suspended 2 games for violating NFL's performance-enhancing drug policy",
-            "summary": "Montez Sweat&apos;s two-game NFL suspension for performance-enhancing drugs leaves the Chicago Bears&apos; defensive line thin with Dayo Odeyingbo also hurt.",
+            "headline": "Ilhan Omar’s husband insists he has ‘no concerns’ amid federal immigration investigation",
+            "summary": "Tim Mynett says he has &quot;no concerns&quot; after HSI agents raided his and Ilhan Omar&apos;s D.C. home as subpoenas reach multiple family members nearby.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/bears-montez-sweat-suspended-2-games-violating-nfl-performance-enhancing-drug-policy"
+            "url": "https://www.foxnews.com/politics/ilhan-omar-husband-insists-no-concerns-federal-immigration-investigation"
         },
         {
-            "headline": "Billy Crystal says he no longer trusts God after losing home of 46 years then his longtime friend Rob Reiner",
-            "summary": "Billy Crystal says he no longer trusts God after losing his Pacific Palisades home in the wildfires and the death of close friend Rob Reiner.",
+            "headline": "GOP lawmaker urges Johnson to scrutinize new socialist lawmakers' 'access to intelligence'",
+            "summary": "Nicole Malliotakis warns two Democratic Socialists of America members heading to the House of Representatives pose a &quot;national security threat.&quot;",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/entertainment/billy-crystal-says-he-no-longer-trusts-god-after-losing-home-46-years-his-longtime-friend-rob-reiner"
+            "url": "https://www.foxnews.com/politics/gop-lawmaker-urges-johnson-scrutinize-new-socialist-lawmakers-access-intelligence"
         },
         {
-            "headline": "‘Bonnie and Clyde’ illegal immigrant couple accused of brazen jewelry theft spree across four states",
-            "summary": "Homeland Security says the Romanian couple dubbed &quot;Bonnie and Clyde&quot; used hugs and fake directions to steal necklaces from elderly victims in four states.",
+            "headline": "Harry Styles challenged by GOP gov candidate to put migrant shot by ICE ‘on his tour bus’ after MSG tribute",
+            "summary": "New York GOP gubernatorial nominee Bruce Blakeman ripped Harry Styles as &quot;out-of-touch&quot; after the singer honored a migrant shot by ICE during a recent performance at MSG.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/bonnie-clyde-illegal-immigrant-couple-accused-brazen-jewelry-theft-spree-across-four-states"
+            "url": "https://www.foxnews.com/media/harry-styles-challenged-gop-gov-candidate-put-migrant-shot-ice-on-his-tour-bus-after-msg-tribute"
         },
         {
-            "headline": "Woman accused of deadly revenge crash faces jury as boyfriend’s hospital account stays out of trial",
-            "summary": "Leigha Mumby&apos;s trial opened with prosecutors alleging she turned sharply into woods at nearly 100 mph after a fight over another girl&apos;s texts.",
+            "headline": "'Jon & Kate Plus 8' star Collin Gosselin accuses mom of trying to 'bury' him to ‘protect her reputation’",
+            "summary": "Collin Gosselin alleges Kate Gosselin tried to &quot;bury&quot; him to protect her reputation, detailing childhood abuse claims and demanding accountability.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/woman-accused-deadly-revenge-crash-faces-jury-boyfriend-hospital-account-stays-out-trial"
+            "url": "https://www.foxnews.com/entertainment/jon-kate-plus-8-star-collin-gosselin-accuses-mom-trying-bury-protect-her-reputation"
         },
         {
-            "headline": "Hochul's office mocks Katie Zacharia with Aaron Rodgers injury post despite governor's press secretary scandal",
-            "summary": "New York Democratic Gov. Kathy Hochul&apos;s press office appeared to mock Katie Zacharia&apos;s White House debut by posting Aaron Rodgers&apos; Jets injury photo.",
+            "headline": "Retired NFL star takes one look at Madison Beer & gets why Herbert's struggling, ALCS empty seats & NFL memes",
+            "summary": "Screencaps, America&apos;s best daily column, explores why Justin Herbert&apos;s 2026 stats have cratered as Ochocinco reacts to fiancée Madison Beer.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/hochul-office-mocks-katie-zacharia-aaron-rodgers-injury-post-despite-governor-press-secretary-scandal"
+            "url": "https://www.foxnews.com/outkick-sports/retired-nfl-star-takes-one-look-madison-beer-gets-why-herberts-struggling-alcs-empty-seats-nfl-memes"
         },
         {
-            "headline": "Embattled Soros-backed DA blames ‘criminal’ police misconduct in accused Philly cop killer’s prior murder case",
-            "summary": "Eric Lewis was acquitted of murder in 2019 after what DA Larry Krasner says was police misconduct that deeply undermined the earlier homicide case.",
+            "headline": "SEC accuses LSU of defying its rules as Will Wade’s basketball roster adds fuel to a burning fire",
+            "summary": "The LSU Tigers filed a motion to dismiss, but the SEC fired back alleging school and Will Wade keep testing conference professionalism rules.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/embattled-soros-backed-da-blames-criminal-police-misconduct-accused-philly-cop-killer-prior-murder-case"
+            "url": "https://www.foxnews.com/outkick-sports/sec-accuses-lsu-defying-rules-will-wade-basketball-roster-adds-fuel-burning-fire"
         },
         {
-            "headline": "Tim Walz warns Democrats will face reckoning if they win power and fail to deliver change",
-            "summary": "Minnesota Gov. Tim Walz warns Democrats will face serious backlash if they win back power but fail to deliver on housing and college education.",
+            "headline": "AMB GORDON SONDLAND: Threading the needle on Ukraine, Russia and China",
+            "summary": "Trump&apos;s Ukraine strategy aims to reshape the global chessboard against China, but Volodymyr Zelensky must adapt his approach to survive it.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/tim-walz-warns-democrats-face-reckoning-win-power-fail-deliver-change"
+            "url": "https://www.foxnews.com/opinion/amb-gordon-sondland-threading-needle-ukraine-russia-china"
         },
         {
-            "headline": "JIM GRAY: Mike Ditka did it his way. Football will never see another like him",
-            "summary": "Jim Gray honors Mike Ditka on SiriusXM NFL Radio with Tom Brady, Bill Belichick, Drew Brees and Matthew Stafford remembering America&apos;s Coach.",
+            "headline": "Trump says 'we are looking into' other Dan Sullivan on Alaska ballot, warns about governor's race",
+            "summary": "President Donald Trump tells Fox News that Dave Bronson, a Republican running for governor, should drop out after falling to his preferred candidate in the GOP primary.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/opinion/jim-gray-mike-ditka-did-it-his-way-football-will-never-see-another-like-him"
+            "url": "https://www.foxnews.com/politics/trump-says-we-are-looking-into-other-dan-sullivan-alaska-ballot-warns-about-governors-race"
         },
         {
-            "headline": "Knicks star Jalen Brunson calls flopping technical foul 'bulls---' as NBA refs enforce new emphasis",
-            "summary": "New York Knicks Finals MVP Jalen Brunson was hit with a flopping technical foul after Rudy Gobert clearly pushed him during a preseason matchup.",
+            "headline": "New York governor debate heats up as Blakeman, Hochul spar over Trump, sanctuary status, ICE shooting",
+            "summary": "The New York gubernatorial race heated up Tuesday as Democratic Gov. Kathy Hochul and Nassau County Executive Bruce Blakeman clashed on the debate stage.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/knicks-star-jalen-brunson-calls-flopping-technical-foul-bulls-nba-refs-enforce-new-emphasis"
+            "url": "https://www.foxnews.com/politics/new-york-governor-debate-heats-blakeman-hochul-spar-trump-sanctuary-status-ice-shooting"
         },
         {
-            "headline": "Coast Guard firefight puts US, Mexico at odds despite coordinated border operations",
-            "summary": "A U.S. Coast Guard firefight near the Rio Grande sparked a dispute with Claudia Sheinbaum, who demanded evidence that gunfire came from Mexico.",
+            "headline": "'Big Bang Theory' producer says societies who abandon God drift toward tyranny",
+            "summary": "Famous producer Chuck Lorre told Joe Rogan that societies replacing God with extreme ideologies like communism or fascism becoming tyrannical and dystopian",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/coast-guard-firefight-puts-us-mexico-odds-despite-coordinated-border-operations"
+            "url": "https://www.foxnews.com/media/big-bang-theory-producer-says-societies-who-abandon-god-drift-toward-tyranny"
         },
         {
-            "headline": "Ilhan Omar’s embattled husband appears at scene of HSI raid in midst of criminal fraud investigation",
-            "summary": "Tim Mynett was spotted outside the D.C. home raided by HSI agents as the criminal fraud investigation into Ilhan Omar&apos;s immigration paperwork deepens.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/ilhan-omar-embattled-husband-appears-scene-hsi-raid-midst-criminal-fraud-investigation"
-        },
-        {
-            "headline": "Actress Amanda Seyfried rejected TV role over nonstop sex scenes, refused to get 'naked with a stranger'",
-            "summary": "Amanda Seyfried says she&apos;s no longer willing to be naked with strangers on set, joining Hollywood actresses pushing back against intimate scene demands.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/media/actress-amanda-seyfried-rejects-tv-role-nonstop-sex-scenes-refuses-get-naked-stranger"
-        },
-        {
-            "headline": "12 U.S. senators, including 6 Republicans, tell Trump to drop diesel deal with Russia",
+            "headline": "Key organizer of Toronto airport gold heist testifies for 2nd day at trial of former Air Canada employee",
             "summary": "",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/world/us-senators-trump-russia-diesel-deal-9.7379187?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/toronto/livestory/pearson-airport-gold-heist-air-canada-employee-trial-sidhu-9.7380018?cmp=rss"
         },
         {
-            "headline": "‘Catastrophic’ brake failure, neglected repairs contributed to deadly 2020 icefield bus rollover, judge finds",
-            "summary": "A complete failure of the braking system triggered by neglected mechanical repairs contributed to a deadly tour bus rollover in the Columbia Icefield, a fatality inquiry has conclu...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/edmonton/alta-icefield-crash-9.7379170?cmp=rss"
-        },
-        {
-            "headline": "Man who witnessed deadly roller-coaster fall at Six Flags prays it was 'just a freak accident'",
+            "headline": "Canada paused Black Hawk helicopter deal over Trump's trade war: sources",
             "summary": "",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/radio/asithappens/six-flags-witness-9.7379429?cmp=rss"
+            "url": "https://www.cbc.ca/news/politics/black-hawks-us-military-canada-helicopter-deal-9.7378775?cmp=rss"
         },
         {
-            "headline": "Alleged Tumbler Ridge co-conspirator James Cody Bryant denied bail",
-            "summary": "Assistant United States attorney Todd Greenberg, who is prosecuting the case against Bryant, argued that Bryant posed a flight risk and a danger to the public. He said there were s...",
+            "headline": "Robot controlled by 2 men gropes teen girl in Germany. Police call it 'new territory'",
+            "summary": "German authorities opened an investigation into possible sexual harassment after a robot controlled by two young men touched the buttocks of a 16-year-old girl and made thrusting m...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/british-columbia/bryant-bail-hearing-9.7379185?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/german-robot-assaults-girl-9.7380040?cmp=rss"
         },
         {
-            "headline": "Quebec author accused of using AI admits past plagiarism but maintains novel is his own work",
-            "summary": "After spending the last few weeks quietly watching his reputation be torn apart, Quebec-based author Thélyson Orélien is speaking out and addressing the allegations that he used ar...",
+            "headline": "A man's death on a U.S. roller-coaster triggered closures in Canada. Are the rides safe?",
+            "summary": "",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/montreal/thelyson-orelien-denies-ai-debut-novel-9.7378740?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/rollercoaster-death-six-flags-georgia-safety-9.7379266?cmp=rss"
         },
         {
-            "headline": "OpenAI engineer arrested, accused of planting listening device inside company's office",
-            "summary": "U.S. federal agents arrested a Saudi national employed as an OpenAI engineer and charged him with installing ​a hidden audio recording device in an ​executive conference room at th...",
+            "headline": "Italian wine thieves nab $8M of vino in heist. Here's why wine is a 'great target'",
+            "summary": "A winery in Tuscany is reeling after thieves made off with about 30,000 bottles of some of Italy's most prized wines last week in what the producer described as the country’s large...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/world/open-ai-listening-device-fbi-9.7379357?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/wine-heist-italy-9.7378655?cmp=rss"
+        },
+        {
+            "headline": "Why Zelenskyy's claims that Ukraine drone attack halted Russian bot traffic don't hold up",
+            "summary": "When Ukrainian drones hit three data centres owned by Russian technology and AI company Yandex this weekend, President Volodymyr Zelenskyy initially said it resulted in a sudden dr...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/world/yankex-russia-ukraine-bots-9.7379086?cmp=rss"
+        },
+        {
+            "headline": "Can Blue Rodeo or Rush swing the balance of power in Toronto? How endorsements affect the mayoral race",
+            "summary": "As polls show the race to be Toronto’s next mayor is tightening, experts say endorsements can help Brad Bradford and Olivia Chow show they’ve got momentum in the final stretch.",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/toronto/toronto-mayoral-race-endorsements-9.7379352?cmp=rss"
+        },
+        {
+            "headline": "Russian strikes kill at least 3, as Ukraine reports intelligence, Starlink disruptions",
+            "summary": "",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/world/russia-attacks-ukraine-energy-infrastructure-9.7379859?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "A tornado and an unusual spring hailstorm overwhelm Santiago, Chile",
+            "summary": "\n\t   \t      \n\t         An electrical storm with hail, unusual in the middle of spring, flooded streets, homes and businesses in Santiago, Chile, on Tuesday and produced a tornado t...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/14/a-tornado-and-an-unusual-spring-hailstorm-overwhelm-santiago-chile?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Argentina asks the law of the sea tribunal to halt Sea Lion and bar new oil permits",
             "summary": "\n\t   \t      \n\t         Argentina has asked the International Tribunal for the Law of the Sea to order the United Kingdom to prevent the development of the Sea Lion oil project nort...",
@@ -291,27 +331,35 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/10/13/imf-trims-latin-america-s-outlook-to-2.3-and-sharply-cuts-argentina-s?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Iguazú Falls closed as the river’s flow tops 12,000 cubic metres per second",
-            "summary": "\n\t   \t      \n\t         Iguazú National Park, in Argentina’s Misiones province, closed access to the falls’ walkways on Monday because of an exceptional rise in the Iguazú River, wh...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/10/12/iguazu-falls-closed-as-the-river-s-flow-tops-12-000-cubic-metres-per-second?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [
         {
-            "headline": "Why the lonely in China are hiring 'temporary children'",
-            "summary": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
+            "headline": "Russia arrests Japanese journalist on spying charges",
+            "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Who's to blame for the toxic smog choking South East Asia?",
+            "headline": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+            "summary": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
+            "summary": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Who's to blame for the toxic haze choking South East Asia?",
             "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
             "sources": [
                 "feeds.bbci.co.uk"
@@ -319,49 +367,81 @@
             "url": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Eight injured in South Korea knife attack",
-            "summary": "Using knives strapped to his hands, a man reportedly stabbed several people at a shopping centre in Incheon.",
+            "headline": "Why the lonely in China are hiring 'temporary children'",
+            "summary": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cme8r2znl66lo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "south-asia": [
         {
-            "headline": "CEC protests: Bombay High Court says won’t allow detentions that violate law",
-            "summary": "The Bench asked the petitioner to document detentions in Mumbai CEC protests, lists matter for October 19",
+            "headline": "If you want to impose Emergency, do it officially, Dipke tells PM",
+            "summary": "CJP founder accuses PM of crushing dissent with arrests of CJP leaders; says CJP’s intention is the same” as that of INDIA bloc, but it will remain an “independent pressure group; ...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/cities/mumbai/cec-protests-bombay-high-court-says-wont-allow-detentions-that-violate-law/article71580830.ece"
+            "url": "https://www.thehindu.com/news/national/2-cjp-leaders-in-judicial-custody-dipke-slams-government-claims-it-is-imposing-unofficial-emergency/article71582303.ece"
         },
         {
-            "headline": "Muslims disproportionately flagged in Delhi SIR",
-            "summary": "Muslims, who form 13.6% of electors on Delhi’s draft roll, made up 20.3% of those flagged for ‘logical discrepancies’ and 30% of those flagged under five reasons indicative of fami...",
+            "headline": "Supreme Court may list a plea that de-notifying Jantar Mantar pushes dissent ‘out of sight, out of mind’",
+            "summary": "Protests in Delhi’s outskirts will be far from the earshot of ordinary citizens and the corridors of power, diminishing their impact, plea says; notes that no SOPs have been laid o...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/data/muslims-disproportionately-flagged-in-delhi-sir/article71580772.ece"
+            "url": "https://www.thehindu.com/news/national/supreme-court-to-hear-a-plea-that-de-notifying-jantar-mantar-pushes-dissent-out-of-sight-out-of-mind/article71583757.ece"
         },
         {
-            "headline": "Foreign students urged to help foster trade ties with India",
-            "summary": "No summary available.",
+            "headline": "ED seizes assets worth over ₹2,000 crore linked to  Reliance Power Ltd. under FEMA",
+            "summary": "Deposits were used as collateral for loans extended to entities incorporated in the British Virgin Islands, which were controlled and managed from India by the Reliance Anil Ambani...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/andhra-pradesh/foreign-students-urged-to-help-foster-trade-ties-with-india/article71580626.ece"
+            "url": "https://www.thehindu.com/news/national/ed-seizes-assets-worth-over-2000-crore-linked-to-reliance-power-ltd-under-fema/article71583608.ece"
         },
         {
-            "headline": "Modi speaks to Carney, says India and Canada contribute to stable, prosperous world",
-            "summary": "The two Prime Ministers had a phone call as senior Canadian Ministers are in Delhi for talks; India steps up its middle power engagement",
+            "headline": "Delhi protests: Metro was ‘fully functional’, 32 lakh rode trains on October 10: DMRC tells Supreme Court",
+            "summary": "Admits commuter traffic ‘slightly lower’ than usual second-Saturday count of 58 lakh, says protests may have dampened people’s willingness to travel",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/modi-speaks-to-carney-says-india-and-canada-contribute-to-stable-prosperous-world/article71581011.ece"
+            "url": "https://www.thehindu.com/news/national/dmrc-says-metro-was-fully-functional-32-lakh-rode-trains-on-october-10/article71583321.ece"
+        },
+        {
+            "headline": "Anti-CEC protest LIVE: IYC files plea in Delhi High Court against de-notification of Jantar Mantar as designated protest site",
+            "summary": "Leader of the Opposition Rahul Gandhi said the Congress has the utmost respect for the Chief Justice of India, the Supreme Court and the judicial system, while asserting that polit...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/anti-cec-protests-cjp-arrest-rahul-gandhi-india-bloc-gyanesh-kumar-resignation-saurav-das-ashutosh-ranka-live-updates/article71582057.ece"
         }
     ],
     "europe": [
+        {
+            "headline": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+            "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+            "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Russia arrests Japanese journalist on spying charges",
+            "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
             "summary": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
@@ -475,62 +555,54 @@
             "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Watch: Fleeing Kyiv for the countryside ahead of winter",
-            "summary": "A Kyiv resident told the BBC she has moved away from \"everything that can be a Russian target\" as Ukraine braces for another cold winter under intense attacks.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/cqe8rn83088zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Pope Leo has cancerous growth removed in lung operation",
-            "summary": "Pope Leo XIV had a cancerous growth removed from his right lung in a 90-minute operation on Tuesday and \"woke up normally\" after the procedure, the Vatican said. A Vatican source s...",
+            "headline": "Ukraine says Starlink restricted operations overnight, disrupting military missions",
+            "summary": "Elon Musk's Starlink imposed restrictions on the operation of internet terminals in Ukraine overnight, disrupting military missions, an adviser to the Ukrainian president said on W...",
             "sources": [
                 "france24.com"
             ],
-            "url": "https://www.france24.com/en/pope-leo-has-cancerous-growth-removed-in-lung-operation"
+            "url": "https://www.france24.com/en/europe/20261014-ukraine-says-starlink-restricted-operations-overnight-disrupting-military-missions"
         },
         {
-            "headline": "Ceuta an 'inalienable' part of Spain, king says on key visit",
-            "summary": "King Felipe VI on Tuesday said Ceuta and Melilla were \"an inalienable part\" of Spain as he made a landmark visit to the north African territories claimed by neighbouring Morocco. \"...",
+            "headline": "Ukraine live: Russian drone strike kills six as Ukraine accuses US of helping Putin",
+            "summary": "A Russian drone attack on the western Ukrainian city of Lutsk on Wednesday killed six people and wounded 12, the Ukrainian interior ministry said. Earlier, a senior Ukrainian offic...",
             "sources": [
                 "france24.com"
             ],
-            "url": "https://www.france24.com/en/ceuta-an-inalienable-part-of-spain-king-says-on-key-visit"
+            "url": "https://www.france24.com/en/europe/20261014-live-ukraine-massive-russian-attack-on-energy-facilities-at-least-six-dead"
         },
         {
-            "headline": "King Felipe VI says Ceuta is ‘inalienable’ part of Spain in landmark visit",
-            "summary": "King Felipe VI and Queen Letizia visited Ceuta on Tuesday for the first time in 14 years, with the monarch reaffirming Spain’s sovereignty over the North African enclaves claimed b...",
+            "headline": "Kyiv power plant hit by Russian missile without warning from allies",
+            "summary": "Ukraine's President Volodymyr Zelensky said Tuesday that a Russian ballistic missile struck a Kyiv power plant without advance warning from Western allies, killing at least two peo...",
             "sources": [
                 "france24.com"
             ],
-            "url": "https://www.france24.com/en/europe/20261013-spanish-royals-visit-ceuta-amid-tensions-with-morocco-over-migrant-influx"
-        },
-        {
-            "headline": "Belgium: Greener schools thanks to European funding",
-            "summary": "🇧🇪 In Ganshoren, in Belgium, a new school replaces run-down buildings. But the need for renovations remains enormous.👉🏻 Find the whole reporting on France 24 English.",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/belgium-greener-schools-thanks-to-european-funding"
-        },
-        {
-            "headline": "Russia pounds Ukrainian cities, spares energy targets for first time since Trump 'ceasefire'",
-            "summary": "Russia hammered Ukrainian cities and transport links overnight into Tuesday, killing at least four people in the city of Kharkiv, while appearing to spare energy facilities for the...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261013-russia-pounds-ukrainian-cities-spares-energy-targets-for-first-time-since-trump-ceasefire"
+            "url": "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies"
         }
     ],
     "middle-east": [
         {
-            "headline": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-            "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+            "headline": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
+            "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
+            "summary": "Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Saudi employee charged with planting recording device in OpenAI office",
+            "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
@@ -667,32 +739,24 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/ck4glvqj4qqdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
-            "summary": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "British-Israeli relations at lowest ebb in decades",
-            "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "africa": [
         {
-            "headline": "Rwanda to host F1's first race in Africa since 1993",
-            "summary": "Rwanda signs a 10-year deal with Formula 1 to host races in the African country, starting \"in the early 2030s\".",
+            "headline": "A 'landmark' moment - why has Rwanda been chosen to host F1?",
+            "summary": "How Rwanda has succeeded where Morocco and South Africa, among others, have failed by agreeing a deal to stage the African Grand Prix.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/sport/formula1/articles/cw62yglre6y5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Bolt comparisons a 'privilege' - Dambile",
+            "summary": "South African sprinter Sinesipho Dambile says comparisons with Usain Bolt are a “privilege” as he targets World Championship and Olympic glory after a breakout season.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/athletics/articles/cv4g5gkw7kr4o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "South Africa's deputy police chief resigns after being charged with sexual offences",
@@ -709,14 +773,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-            "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
@@ -765,6 +821,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/c6n45epzdgk8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Rwanda to host F1's first race in Africa since 1993",
+            "summary": "Rwanda signs a 10-year deal with Formula 1 to host races in the African country, starting \"in the early 2030s\".",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/formula1/articles/c5rmy3v3mn9jo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Rusty or something more? South Africa's concern after Australia loss",
@@ -837,20 +901,20 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/c893v3l7l1p0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Africa: All of Africa Today - October 13, 2026",
-            "summary": "[allAfrica]",
-            "sources": [
-                "allafrica.com"
-            ],
-            "url": "https://allafrica.com/stories/202610130139.html"
         }
     ],
     "oceania": [
         {
-            "headline": "Sydney teen charged with murder of boy who was shot in face and neck",
-            "summary": "The boy was shot at a unit in Sydney's northwest last month and died in hospital three days later.",
+            "headline": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+            "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Sydney teen charged with murder of boy who was shot in face",
+            "summary": "The 12-year-old was shot at a unit in Sydney last month and died in hospital three days later.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
@@ -895,14 +959,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/sport/cricket/articles/cqvg0pdye05ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-            "summary": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
