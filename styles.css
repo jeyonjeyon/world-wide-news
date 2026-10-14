@@ -8,7 +8,8 @@ body {
 
 .dashboard-header {
     text-align: center;
-    margin-bottom: 30px;
+    padding: 20px;
+    width: 100%;
 }
 
 .dashboard-header h1 {
@@ -49,8 +50,8 @@ body {
 
 /* Scroll container for handling multiple items nicely */
 .news-scroll-container {
-    max-height: 400px;
-    overflow-y: auto;
+    max-height: 400px; /* Keeps the card compact */
+    overflow-y: auto;  /* Enables smooth vertical scrolling */
     padding-right: 5px;
 }
 
@@ -97,24 +98,12 @@ body {
     display: inline-block;
 }
 
-.news-scroll-container {
-    max-height: 400px; /* Keeps the card compact */
-    overflow-y: auto;  /* Enables smooth vertical scrolling */
-    padding-right: 5px;
-}
-/* Simple centered header spanning the top */
-.dashboard-header {
-    text-align: center;
-    padding: 20px;
-    width: 100%;
-}
-
-/* Styling for the custom message card */
+/* Styling for the custom message card in the grid */
 .message-card {
-    background: #ffffff; /* Or match your region card background color */
-    border: 1fr solid #e0e0e0;
+    background: #ffffff;
+    border: 1px solid #e0e0e0;
     border-radius: 8px;
-    padding: 15px;
+    padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
@@ -123,7 +112,7 @@ body {
     font-size: 1.25rem;
     color: #333;
     border-bottom: 2px solid #0056b3;
-    padding-bottom: 8px;
+    padding-bottom: 10px;
 }
 
 .message-content {
