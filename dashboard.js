@@ -3,7 +3,6 @@ document.addEventListener("DOMContentLoaded", () => {
         .then(response => response.json())
         .then(data => {
             const grid = document.querySelector(".dashboard-grid");
-            grid.innerHTML = ""; // Clear existing content
 
             // Loop through each region in the JSON data
             for (const [regionKey, articles] of Object.entries(data)) {
