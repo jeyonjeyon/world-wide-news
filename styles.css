@@ -3,7 +3,7 @@ body {
     background-color: #f4f6f9;
     color: #333;
     margin: 0;
-    padding: 10px;
+    padding: 20px;
 }
 
 .dashboard-header {
@@ -106,7 +106,7 @@ body {
     display: grid;
     grid-template-columns: 1fr auto 1fr;
     align-items: center;
-    padding: 10px;
+    padding: 0px;
     width: 100%;
 }
 
