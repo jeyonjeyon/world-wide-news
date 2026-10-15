@@ -109,8 +109,14 @@ def parse_rss(url, category):
         print(f"Error fetching {url}: {e}")
     return articles
 
+from datetime import datetime
+
 def main():
-    dashboard_data = {}
+    dashboard_data = {
+        "_metadata": {
+            "last_updated": datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+        }
+    }
     
     for category, feed_urls in FEEDS.items():
         category_articles = []
@@ -125,12 +131,11 @@ def main():
                 seen_headlines.add(article["headline"])
                 unique_articles.append(article)
 
-        # Limit to 20 items per region
         dashboard_data[category] = unique_articles[:20]
 
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump(dashboard_data, f, ensure_ascii=False, indent=4)
-    print("news.json updated successfully with keyword filtering!")
+    print("news.json updated successfully with timestamp!")
 
 if __name__ == "__main__":
     main()
