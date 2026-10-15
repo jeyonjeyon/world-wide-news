@@ -120,3 +120,9 @@ body {
     line-height: 1.5;
     color: #444;
 }
+.update-status {
+    font-size: 0.85rem;
+    color: #666;
+    margin-top: 8px;
+    margin-bottom: 0;
+}
