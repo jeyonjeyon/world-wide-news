@@ -1,6 +1,6 @@
 {
     "_metadata": {
-        "last_updated": "2026-10-15 16:44:36 UTC"
+        "last_updated": "2026-10-15 16:52:37 UTC"
     },
     "globalOverview": [
         {
@@ -436,6 +436,22 @@
     ],
     "south-asia": [
         {
+            "headline": "Fresh talks between MHA, Ladakh groups remain ‘inconclusive’; next round in Delhi on October 22",
+            "summary": "The Ministry made a 15-page presentation with details on the way forward during the day-long meeting in Leh while the members of key groups, the Leh Apex Body and Kargil Democratic...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/ladakh/fresh-talks-between-mha-ladakh-groups-remain-inconclusive-next-round-in-delhi-on-october-22/article71589227.ece"
+        },
+        {
+            "headline": "Anti-CEC protest LIVE | Can facilitate tricolour-waving by select group at 'suitable place', Delhi Police say ahead of CJP's 'Tiranga' protest",
+            "summary": "Connaught Place Central Park to remain shut on October 16-17, NDMC said after the Delhi High Court refused to restrain the CJP from holding the proposed 'Tiranga Lehrao' protest",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-15-2026-rahul-gandhi-india-bloc/article71586459.ece"
+        },
+        {
             "headline": "NCP faction’s merger with AIFB to be formalised on Oct. 4",
             "summary": "‘The NCP faction will remain steadfast in supporting AIFB’s alignment with the INDIA bloc and carry forward its fight against alleged discrepancies in the SIR of electoral rolls’",
             "sources": [
@@ -458,14 +474,6 @@
                 "thehindu.com"
             ],
             "url": "https://www.thehindu.com/news/national/andhra-pradesh/citu-urges-workers-to-join-chalo-parliament-protests-in-delhi/article71540767.ece"
-        },
-        {
-            "headline": "Anti-CEC protest LIVE | Can facilitate tricolour-waving by select group at 'suitable place', Delhi Police say ahead of CJP's 'Tiranga' protest",
-            "summary": "Connaught Place Central Park to remain shut on October 16-17, NDMC said after the Delhi High Court refused to restrain the CJP from holding the proposed 'Tiranga Lehrao' protest",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-15-2026-rahul-gandhi-india-bloc/article71586459.ece"
         }
     ],
     "europe": [
@@ -566,7 +574,7 @@
             "url": "https://www.france24.com/en/video/20261015-we-re-done-ukraine-resumes-strikes-on-russian-oil-refineries-as-only-leverage-for-peace-talks-1"
         },
         {
-            "headline": "NATO to hold meeting to address drone attacks in the Black Sea after seven missing off Romania",
+            "headline": "NATO to address drone attacks in the Black Sea after seven missing off Romania",
             "summary": "NATO will put drone strikes in the Black Sea on its agenda at a meeting next week, officials said Thursday, following two new attacks and the disappearance of seven people. Inciden...",
             "sources": [
                 "france24.com"
