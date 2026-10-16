@@ -50,7 +50,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
             // Loop through each region/category in the JSON data dynamically
             if (grid) {
-                grid.innerHTML = ""; 
+                // Remove any previously appended dynamic region cards while keeping .message-card
+                const dynamicCards = grid.querySelectorAll(".region-card:not(.message-card)");
+                dynamicCards.forEach(card => card.remove());
                 
                 for (const [regionKey, articles] of Object.entries(data)) {
                     if (regionKey === "_metadata") continue;
@@ -60,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
                     // Smart title formatter: handles camelCase ("globalOverview") and hyphens ("north-america")
                     const formattedTitle = regionKey
-                        .replace(/([a-z0-9])([A-Z])/g, '$1 $2') // split camelCase
+                        .replace(/([a-z0-9])([A-Z])/g, '$1 $2')
                         .split("-")
                         .map(word => word.charAt(0).toUpperCase() + word.slice(1))
                         .join(" ");
