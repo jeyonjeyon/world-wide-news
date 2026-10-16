@@ -1,26 +1,37 @@
-name: Update News On Demand
+name: Update News on Demand
 
 on:
-  workflow_dispatch: # Gives you a manual "Run workflow" button
-
-permissions:
-  contents: write
+  schedule:
+    # Runs every 4 hours at minute 17 (00:17, 04:17, 08:17, 12:17, 16:17, 20:17 UTC)
+    # Shifting away from :00 avoids peak traffic jams on GitHub's servers!
+    - cron: '17 */4 * * *'
+    
+  # Allows you to click "Run workflow" manually in GitHub anytime you want
+  workflow_dispatch:
 
 jobs:
-  update-feed:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
-      - name: Run news scraper
-        run: python update_news.py
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run Scraper
+        run: python scraper.py  # Replace with your actual python script filename
+
       - name: Commit and push updated news.json
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add news.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Manual news update via workflow" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update news.json [skip ci]" && git push)
