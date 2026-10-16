@@ -19,20 +19,24 @@ document.addEventListener("DOMContentLoaded", () => {
                     timeAgoText = `${diffMins} minute${diffMins !== 1 ? 's' : ''} ago`;
                 }
 
-                // Calculate next refresh (assuming 4-hour cycle)
-                const nextRefresh = new Date(lastUpdatedUTC.getTime() + (4 * 60 * 60 * 1000));
-                const timeToNextMs = nextRefresh - now;
-                const timeToNextMins = Math.max(0, Math.floor(timeToNextMs / (1000 * 60)));
+            // Replace the next refresh calculation in dashboard.js with this:
+            const nextRefresh = new Date(lastUpdatedUTC.getTime() + (4 * 60 * 60 * 1000));
+            const timeToNextMs = nextRefresh - now;
+            
+            let refreshText = "";
+            if (timeToNextMs <= 0) {
+                refreshText = "Next automated refresh: <strong>Due any moment</strong>";
+            } else {
+                const timeToNextMins = Math.floor(timeToNextMs / (1000 * 60));
                 const nextHours = Math.floor(timeToNextMins / 60);
                 const nextMins = timeToNextMins % 60;
-
-                const statusEl = document.getElementById("update-status");
-                if (statusEl) {
-                    statusEl.innerHTML = `Last updated: <strong>${timeAgoText}</strong> | Next automated refresh in approx. <strong>${nextHours}h ${nextMins}m</strong>`;
-                }
+                refreshText = `Next automated refresh in approx. <strong>${nextHours}h ${nextMins}m</strong>`;
             }
-
-            const grid = document.querySelector(".dashboard-grid");
+            
+            const statusEl = document.getElementById("update-status");
+            if (statusEl) {
+                statusEl.innerHTML = `Last updated: <strong>${timeAgoText}</strong> | ${refreshText}`;
+            }
 
             // Loop through each region in the JSON data (skipping _metadata)
             for (const [regionKey, articles] of Object.entries(data)) {
