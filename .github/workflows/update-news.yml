@@ -27,7 +27,7 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run Scraper
-        run: python scraper.py  # Replace with your actual python script filename
+        run: python update_news.py
 
       - name: Commit and push updated news.json
         run: |
