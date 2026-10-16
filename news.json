@@ -1,11 +1,59 @@
 {
     "_metadata": {
-        "last_updated": "2026-10-15 16:52:37 UTC"
+        "last_updated": "2026-10-16 01:41:18 UTC"
     },
     "globalOverview": [
         {
+            "headline": "Could your brain data be used against you? UN calls for limits on neurotechnology",
+            "summary": "Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnolog...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168609"
+        },
+        {
+            "headline": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
+            "summary": "Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on track, the UN warns in a new report, days before countries gather in Yereva...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168607"
+        },
+        {
+            "headline": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
+            "summary": "Rapid transformations – from artificial intelligence and digital technologies to renewable energy and demographic shifts – are reshaping economies worldwide, creating new opportuni...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168604"
+        },
+        {
+            "headline": "Afghanistan faces record hunger levels amid rampant rights violations",
+            "summary": "Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in th...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168605"
+        },
+        {
+            "headline": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
+            "summary": "Ongoing and deadly Russian attacks across Ukraine are causing serious healthcare disruption, with more than $1.5 million-worth of medicines and supplies destroyed in four separate ...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168603"
+        },
+        {
+            "headline": "WHO urges vigilance after Kenya confirms second Ebola case",
+            "summary": "The World Health Organization (WHO) continues to support Kenya’s efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency’s representa...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168602"
+        },
+        {
             "headline": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
-            "summary": "Amid a rise in lethal Israeli strikes, demolitions and violence in Gaza and the West Bank, the Security Council is holding an open debate on Thursday focusing on the current situat...",
+            "summary": "Amid a rise in lethal Israeli strikes, demolitions and violence in Gaza and the West Bank, the Security Council held an open debate on Thursday focusing on the current situation in...",
             "sources": [
                 "news.un.org"
             ],
@@ -114,219 +162,187 @@
                 "news.un.org"
             ],
             "url": "https://news.un.org/feed/view/en/story/2026/10/1168586"
-        },
-        {
-            "headline": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
-            "summary": "Russian attacks in recent days on on Ukraine’s two largest cities have again killed and injured civilians, damaged homes and civilian infrastructure, the UN aid coordination office...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168585"
-        },
-        {
-            "headline": "Disasters cost $228 billion in housing losses every year",
-            "summary": "$228 billion is a staggering amount of money to find, but that’s exactly what communities around the world are faced with every year, to rebuild housing after disaster strikes.",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168583"
-        },
-        {
-            "headline": "Global action to end violence against children is lagging behind risks: UN expert",
-            "summary": "The UN Special Representative on Violence Against Children has called for stronger global action to protect boys and girls caught up in a growing number of crises, as current effor...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168582"
-        },
-        {
-            "headline": "General Assembly adopts pandemic declaration, but not by consensus",
-            "summary": "The General Assembly on Monday adopted a political declaration on pandemic prevention, preparedness and response, by 153 in favour to three against (Argentina, Israel and United St...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168581"
-        },
-        {
-            "headline": "Colombia peace deal must endure as insecurity grows, Security Council hears",
-            "summary": "Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in t...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168580"
-        },
-        {
-            "headline": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
-            "summary": "The Security Council met to debate Syria's thorny transition Monday as it faces pressure on several fronts. Economic hardship is fuelling unrest, Israeli incursions continue in the...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168578"
         }
     ],
     "north-america": [
         {
-            "headline": "Gavin Williams strikeout prop, Tyler Glasnow outs pick for ALCS and NLCS Game 3 and 4",
-            "summary": "Gavin Williams struck out 24 hitters this postseason, but his heavy workload could limit him in the American League Championship Series Game 3.",
+            "headline": "21-year-old football player dead after head injury sustained during Division II college game",
+            "summary": "Division II football player Tyler Ulrich, 21, suffered a head injury during a Southern Nazarene University game Saturday that proved fatal five days later.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-betting/gavin-williams-strikeout-prop-tyler-glasnow-outs-pick-alcs-nlcs-game-3-4"
+            "url": "https://www.foxnews.com/outkick-sports/21-year-old-football-player-dead-after-head-injury-sustained-during-division-ii-college-game"
         },
         {
-            "headline": "DOJ touts hundreds of gun, drug arrests as St Louis surge operation ends: 'Violence is not inevitable'",
-            "summary": "Operation Show Me Justice yielded 435 arrests, 80 kilos of drugs and 166 illegal firearms as federal agents surged into St. Louis over months.",
+            "headline": "'Oh, shut up!': Democrat snaps at Collins after heckler drives Maine Senate debate off the rails",
+            "summary": "A protester yelling about AI data centers sparked a fiery clash between Republican Sen. Susan Collins and Democratic challenger Troy Jackson.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/doj-touts-hundreds-gun-drug-arrests-st-louis-surge-operation-ends-violence-not-inevitable"
+            "url": "https://www.foxnews.com/politics/shut-democrat-snaps-collins-heckler-drives-maine-senate-debate-rails"
         },
         {
-            "headline": "Somalis in Minnesota unleash fury on Trump after feds raid Ilhan Omar's DC home",
-            "summary": "Minneapolis Somali community members say they feel personally attacked after federal agents raided Rep. Ilhan Omar&apos;s D.C. home in a citizenship probe.",
+            "headline": "Hasan Piker defends using incendiary terms like 'inbred' or 'Zionist pig' against opponents",
+            "summary": "Hasan Piker defended calling Zionist opponents &quot;inbred&quot; and &quot;Zionist pig&quot; in an NPR interview Thursday, saying the language targeted ideology, not background.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/somalis-minnesota-unleash-fury-trump-feds-raid-ilhan-omar-dc-home"
+            "url": "https://www.foxnews.com/media/hasan-piker-defends-using-incendiary-terms-like-inbred-zionist-pig-against-opponents"
         },
         {
-            "headline": "John Calipari jokes that he was 'on crack' when putting together Arkansas' wildly difficult schedule",
-            "summary": "Jon Calipari joked he must have been &quot;on crack&quot; when scheduling Arkansas Razorbacks games against Virginia, Michigan State and Arizona this season.",
+            "headline": "Bears QB Caleb Williams shuts down reporters asking about his hamstring injury: 'It's not deserving'",
+            "summary": "Chicago Bears QB Caleb Williams returned to full practice but refused to reveal his hamstring tear grade, calling national reports about his diagnosis wrong.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/john-calipari-jokes-crack-putting-together-arkansas-wildly-difficult-schedule"
+            "url": "https://www.foxnews.com/sports/bears-qb-caleb-williams-shuts-down-reporters-asking-about-hamstring-injury-not-deserving"
         },
         {
-            "headline": "Pro wrestler taking his shot at running his own independent show: 'Let's just take it up a notch'",
-            "summary": "Dono Hefner, 20, called former WWE star JTG &quot;soft&quot; while promoting his own independent wrestling show, Too Over To Care, set for D.C. in 2027.",
+            "headline": "Kash Patel demands MS NOW apologize after network's false report claiming FBI director visited Russia",
+            "summary": "FBI Director Kash Patel is demanding an apology from MS NOW after the network falsely claimed he &quot;landed in Russia&quot; for meetings, which was debunked.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/pro-wrestler-taking-shot-running-independent-show-lets-take-notch"
+            "url": "https://www.foxnews.com/media/kash-patel-demands-ms-now-apologize-after-networks-false-report-claiming-fbi-director-visited-russia"
         },
         {
-            "headline": "'Suspicious' mail with DSA-linked return address triggers FBI, Capitol Hill investigation",
-            "summary": "Senior Capitol Hill staff were warned about suspicious letters containing unknown substances mailed to multiple congressional offices nationwide.",
+            "headline": "Can cooking for terrorists bar asylum? Supreme Court takes up unusual case with broader immigration stakes",
+            "summary": "A Nigerian man forced to cook for the Unknown Gunmen terrorist group is now at the center of a Supreme Court battle over asylum and material support.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/suspicious-mail-dsa-linked-return-address-triggers-fbi-capitol-hill-investigation"
+            "url": "https://www.foxnews.com/politics/cooking-terrorists-bar-asylum-supreme-court-unusual-case-broader-immigration-stakes"
         },
         {
-            "headline": "WATCH: Bodycam shows arrest of man who allegedly hunted younger girlfriend down at bar, shot and ran her over",
-            "summary": "A Florida man faces first-degree attempted murder and child abuse charges after allegedly shooting his girlfriend, running her over and fleeing with a child in his vehicle.",
+            "headline": "Knicks fan recreates OG Anunoby's signature Game 4 tip-in with skeletons in iconic Halloween setup",
+            "summary": "A New Jersey home recreated OG Anunoby&apos;s iconic New York Knicks tip-in against the San Antonio Spurs using skeletons and a 12-foot Wemby skeleton.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/watch-bodycam-shows-arrest-man-allegedly-hunted-younger-girlfriend-down-bar-shot-ran-her-over"
+            "url": "https://www.foxnews.com/outkick-sports/knicks-fan-recreates-og-anunoby-signature-game-4-tip-in-skeletons-iconic-halloween-setup"
         },
         {
-            "headline": "Denise Richards claims she unknowingly paid the salary of estranged husband Aaron Phypers' alleged mistress",
-            "summary": "Denise Richards claims she unknowingly paid the salary and severance of a woman Aaron Phypers was allegedly having an affair with at his work.",
+            "headline": "Made in California business directory lets buyers filter by identity but excludes White men",
+            "summary": "The state-run Made in California business directory sparked backlash by excluding White and male as owner identity categories on the website.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/entertainment/denise-richards-claims-she-unknowingly-paid-salary-estranged-husband-aaron-phypers-alleged-mistress"
+            "url": "https://www.foxnews.com/media/made-california-business-directory-lets-buyers-filter-identity-excludes-white-men"
         },
         {
-            "headline": "‘Big Condiment’ warning gets Warren roasted online over progressive's economic priorities",
-            "summary": "Elizabeth Warren&apos;s warning about the $45 billion McCormick-Unilever merger sparked online mockery, with users joking about &quot;Big Condiment&quot; prices.",
+            "headline": "Broncos throwback Orange Crush uniforms meet Seahawks throwback royal blue in rare NFL color vs color game",
+            "summary": "The Broncos&apos; Orange Crush and Seahawks&apos; royal blue throwbacks will clash in a rare color vs. color game that marks just the fourth such matchup since 2021.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/big-condiment-warning-gets-warren-roasted-online-over-progressives-economic-priorities"
+            "url": "https://www.foxnews.com/outkick-sports/broncos-throwback-orange-crush-uniforms-meet-seahawks-throwback-royal-blue-rare-nfl-color-vs-color-game"
         },
         {
-            "headline": "Franklin Graham shares toll of Billy Graham’s time away evangelizing, recalls not recognizing own father",
-            "summary": "Franklin Graham recalls not recognizing Billy Graham after a six-month Australia trip, revealing the personal toll of his father&apos;s global ministry.",
+            "headline": "Giants' JJ McCarthy could have bigger role in offense, John Harbaugh indicates",
+            "summary": "J.J. McCarthy played five snaps against the Washington Commanders, and New York Giants head coach John Harbaugh hinted at an expanded role.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/franklin-graham-shares-toll-billy-grahams-time-away-evangelizing-recalling-not-recognizing-own-father"
+            "url": "https://www.foxnews.com/outkick-sports/giants-jj-mccarthy-could-have-bigger-role-offense-john-harbaugh-indicates"
         },
         {
-            "headline": "Trump's intervention in Folarin Balogun red card prompts FIFA to revisit suspension rules: reports",
-            "summary": "Folarin Balogun&apos;s controversial red card reversal after Trump called Gianni Infantino is prompting FIFA to amend suspension rules at Thursday&apos;s meeting.",
+            "headline": "Billy Joel says he can't drive, unsure about touring future after brain disorder diagnosis",
+            "summary": "Billy Joel revealed his hydrocephalus diagnosis means every concert is like getting a concussion, and he&apos;s not allowed to drive a vehicle.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/trumps-intervention-folarin-balogun-red-card-prompts-fifa-revisit-suspension-rules-reports"
+            "url": "https://www.foxnews.com/entertainment/billy-joel-says-he-cant-drive-unsure-about-touring-future-after-brain-disorder-diagnosis"
         },
         {
-            "headline": "Hillary Clinton concedes infamous 9/11 near-fainting episode in 2016 was a 'mistake' on her part",
-            "summary": "Hillary Clinton called campaigning with pneumonia during the 2016 race a &quot;mistake&quot; while discussing the viral 9/11 memorial ceremony video on a recent podcast.",
+            "headline": "Ex-OpenAI engineer charged with planting recording device had one-way flight booked to Saudi Arabia, DOJ says",
+            "summary": "Abdulrahman Alfozan had a one-way flight to his native Saudi Arabia booked days before federal custody, according to the Department of Justice.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/hillary-clinton-concedes-infamous-9-11-near-fainting-episode-2016-mistake-her-part"
+            "url": "https://www.foxnews.com/us/ex-openai-engineer-charged-planting-recording-device-one-way-flight-booked-saudi-arabia-doj"
         },
         {
-            "headline": "FIRST ON FOX: Dems' affordability crusade collides with eye-popping price tag for socialist immigration plans",
-            "summary": "The White House Council of Economic Advisers estimates each illegal immigrant costs taxpayers $166,716 over their lifetime in a bombshell report.",
+            "headline": "Hasan Piker rips New York Jewish voters' shift away from Democrats, blames Israel",
+            "summary": "Hasan Piker faced antisemitism accusations after claiming Jewish voters are leaving the Democratic Party solely over Israel foreign policy.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/first-fox-dems-affordability-crusade-collides-eye-popping-price-tag-socialist-immigration-plans"
+            "url": "https://www.foxnews.com/media/hasan-piker-rips-new-york-jewish-voters-shift-away-from-democrats-blames-israel"
         },
         {
-            "headline": "Maryland's lone Republican House member calls woman 'rude' for laughing during debate",
-            "summary": "Republican House member Rep. Andy Harris called an audience member &quot;rude&quot; after she laughed during his remarks on diesel prices during a debate.",
+            "headline": "Soccer coach with unreal eye discipline goes viral for locked in interview with busty reporter",
+            "summary": "David Oulehla&apos;s viral interview with reporter Sabina Jaksova has nearly two million views on FK Viagem Ústí nad Labem&apos;s TikTok account page.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/maryland-lone-republican-house-member-calls-woman-rude-laughing-debate"
+            "url": "https://www.foxnews.com/outkick-sports/soccer-coach-unreal-eye-discipline-goes-viral-locked-interview-busty-reporter"
         },
         {
-            "headline": "Apple wants to move into your home. Should you let it?",
-            "summary": "Apple&apos;s $299 HomeView smart display uses facial recognition to personalize screens for up to six household members and show live security camera feeds.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/tech/apple-wants-move-into-your-home-should-you-let-it"
-        },
-        {
-            "headline": "Seahawks vs. Broncos Thursday Night Football betting pick focuses on the under in first half",
-            "summary": "Seattle Seahawks face the Denver Broncos on Thursday Night Football with Pat Surtain injured and Jaxon Smith-Njigba poised for a huge night.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/seahawks-vs-broncos-thursday-night-football-betting-pick-focuses-under-first-half"
-        },
-        {
-            "headline": "How to Bet on Today's ALCS and NLCS Action With Fanatics Sportsbook, BetMGM, Bet365 and More",
-            "summary": "Get today’s ALCS and NLCS betting picks, plus sportsbook promos from Fanatics, BetMGM, bet365 and FanDuel.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-betting/how-bet-todays-alcs-nlcs-action-fanatics-sportsbook-betmgm-bet365-more"
-        },
-        {
-            "headline": "Underdog Promo Code FOXNEWS Unlocks $100 Promo for Guardians-Rays Game 3, Dodgers-Brewers Game 4",
-            "summary": "Underdog promo code FOXNEWS lets new users bet $5 on Rays-Guardians Game 3 or Dodgers-Brewers Game 4 and earn $10 in bonus bets for 10 days.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlocks-100-promo-guardians-rays-game-3-dodgers-brewers-game-4"
-        },
-        {
-            "headline": "Pentagon will not livestream execution of Fort Hood shooter, Trump says",
-            "summary": "",
+            "headline": "3 dead and 16 injured after fiery bus crash in Calgary",
+            "summary": "Three people are dead and 16 others were injured in a collision involving a city bus in Calgary on Thursday, according to officials.",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/world/execution-fort-hood-shooter-trump-9.7381733?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/calgary/calgary-fatal-bus-fire-saddle-ridge-9.7382481?cmp=rss"
         },
         {
-            "headline": "Carney, Poilievre bring federalist push to Alberta ahead of referendum vote",
-            "summary": "Prime Minister Mark Carney and Opposition Leader Pierre Poilievre are both bringing a pro-unity message to Alberta, just days before voters in the province decide whether to trigge...",
+            "headline": "Israeli firm used ads to enable espionage, Canadian researchers say",
+            "summary": "An Israeli advertising agency has placed ads seen by millions of internet users that have left them open to spyware attacks, according to  a new report  from the University of Toro...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/politics/carney-poilievre-alberta-referendum-unity-campaign-9.7381890?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/israeli-firm-targeted-ads-espionage-9.7381922?cmp=rss"
+        },
+        {
+            "headline": "Think you'll win the $90M Lotto Max? Here's a primer on your odds",
+            "summary": "Friday's $90 million Lotto Max draw will be the largest lottery jackpot prize ever available to win in Canada.",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/lotto-max-prize-9.7381723?cmp=rss"
+        },
+        {
+            "headline": "New White House press secretary Katie Zacharia didn't pass the bar exam",
+            "summary": "New White House press secretary Katie Zacharia defended her legal background and justified her truncated inaugural briefing as she navigates a rocky first week as the president's c...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/world/katie-zacharia-interview-press-secretary-role-9.7382401?cmp=rss"
+        },
+        {
+            "headline": "How did a P.E.I. cold case fall apart just before it was set to go to trial?",
+            "summary": "There are still unanswered questions about how Charlottetown Police Services handled a high-profile P.E.I. cold case after all charges against the accused were dropped just before ...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-byron-carr-crown-police-disclosure-9.7382145?cmp=rss"
+        },
+        {
+            "headline": "Arizona university to 'part ways' with coach who oversaw training where Matthew Mayich collapsed",
+            "summary": "Arizona State University says it parted ways with the hockey coach who was leading the team when Hamilton-born NHL prospect Matthew Mayich collapsed during a workout in August. May...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/hamilton/matthew-mayich-asu-parts-ways-with-coach-9.7382157?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Argentina’s bill toughening sanctions over Sea Lion stalls in Congress",
+            "summary": "\n\t   \t      \n\t         The National Sovereignty Defence bill, with which Javier Milei’s government seeks to toughen sanctions against those involved in exploiting resources in the ...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/15/argentina-s-bill-toughening-sanctions-over-sea-lion-stalls-in-congress?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "Brazil approves a 40-hour week and two days off ten days before the runoff",
+            "summary": "\n\t   \t      \n\t         Brazil’s Senate on Wednesday approved, by 75 votes to one, a cut in the maximum working week from 44 to 40 hours with no reduction in pay, ending the so-call...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/15/brazil-approves-a-40-hour-week-and-two-days-off-ten-days-before-the-runoff?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "US lifts sanctions on Jorge Rodríguez, president of Venezuela’s National Assembly",
             "summary": "\n\t   \t      \n\t         The US Treasury Department on Wednesday removed from its sanctions list Jorge Rodríguez, president of Venezuela’s National Assembly and brother of acting pre...",
@@ -350,22 +366,6 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/10/14/a-tornado-and-an-unusual-spring-hailstorm-overwhelm-santiago-chile?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Argentina asks the law of the sea tribunal to halt Sea Lion and bar new oil permits",
-            "summary": "\n\t   \t      \n\t         Argentina has asked the International Tribunal for the Law of the Sea to order the United Kingdom to prevent the development of the Sea Lion oil project nort...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/10/13/argentina-asks-the-law-of-the-sea-tribunal-to-halt-sea-lion-and-bar-new-oil-permits?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Pope Leo XIV has lung cancer and underwent successful surgery, Vatican says",
-            "summary": "\n\t   \t      \n\t         Pope Leo XIV, 71, has been diagnosed with lung adenocarcinoma and underwent successful surgery on Tuesday at Rome’s Gemelli hospital, where doctors removed t...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/10/13/pope-leo-xiv-has-lung-cancer-and-underwent-successful-surgery-vatican-says?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [
@@ -378,28 +378,12 @@
             "url": "https://www.bbc.co.uk/news/articles/ck1l3djr5d5do?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-            "summary": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "North Korea and China open new bridge after 12-year delay",
             "summary": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Russia arrests Japanese journalist on spying charges",
-            "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
@@ -410,12 +394,12 @@
             "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
-            "summary": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
+            "headline": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+            "summary": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Who's to blame for the toxic haze choking South East Asia?",
@@ -436,44 +420,28 @@
     ],
     "south-asia": [
         {
-            "headline": "Fresh talks between MHA, Ladakh groups remain ‘inconclusive’; next round in Delhi on October 22",
-            "summary": "The Ministry made a 15-page presentation with details on the way forward during the day-long meeting in Leh while the members of key groups, the Leh Apex Body and Kargil Democratic...",
+            "headline": "Congress questions MEA’s silence on proposed Rubio-Jaishankar meeting",
+            "summary": "The Opposition party’s dig at the government follows remarks by U.S. Ambassador to India Sergio Gor during an interactive session at the Bloomberg New Economy Forum",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/ladakh/fresh-talks-between-mha-ladakh-groups-remain-inconclusive-next-round-in-delhi-on-october-22/article71589227.ece"
+            "url": "https://www.thehindu.com/news/national/congress-questions-meas-silence-on-proposed-rubio-jaishankar-meeting/article71588279.ece"
         },
         {
-            "headline": "Anti-CEC protest LIVE | Can facilitate tricolour-waving by select group at 'suitable place', Delhi Police say ahead of CJP's 'Tiranga' protest",
-            "summary": "Connaught Place Central Park to remain shut on October 16-17, NDMC said after the Delhi High Court refused to restrain the CJP from holding the proposed 'Tiranga Lehrao' protest",
+            "headline": "Defence Minister Rajnath Singh to represent India at upcoming SCO Heads of Government meeting",
+            "summary": "Prime Minister Narendra Modi will be taking part virtually through video-conference; the two-day meeting will bring together heads of government and designated senior representativ...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-15-2026-rahul-gandhi-india-bloc/article71586459.ece"
+            "url": "https://www.thehindu.com/news/national/defence-minister-rajnath-singh-to-represent-india-at-upcoming-sco-heads-of-government-meeting/article71588802.ece"
         },
         {
-            "headline": "NCP faction’s merger with AIFB to be formalised on Oct. 4",
-            "summary": "‘The NCP faction will remain steadfast in supporting AIFB’s alignment with the INDIA bloc and carry forward its fight against alleged discrepancies in the SIR of electoral rolls’",
+            "headline": "India is discussing agreements on grains and maritime safety with Moscow and Kyiv: Jaishankar",
+            "summary": "At German think-tank event in Delhi, External Affairs Minister presents strong defence of India-Russia ties; says U.S. and China are exclusivist powers; suggests other countries bu...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/kerala/ncp-factions-merger-with-aifb-to-be-formalised-on-oct-4/article71539795.ece"
-        },
-        {
-            "headline": "Delhi Police personnel were removing identity badges before detaining protesters: CPI MP to Amit Shah",
-            "summary": "Citing Supreme Court directives and Delhi Police Standing Order No. 51, Rajya Sabha MP Sandosh Kumar says identification is essential for accountability when police use coercive po...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/delhi-police-personnel-were-removing-identity-badges-before-detaining-protesters-cpi-mp-to-amit-shah/article71541034.ece"
-        },
-        {
-            "headline": "CITU urges workers to join ‘Chalo Parliament’ protests in Delhi",
-            "summary": "No summary available.",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/andhra-pradesh/citu-urges-workers-to-join-chalo-parliament-protests-in-delhi/article71540767.ece"
+            "url": "https://www.thehindu.com/news/national/india-is-going-beyond-advocacy-on-the-russia-ukraine-conflict-jaishankar/article71543379.ece"
         }
     ],
     "europe": [
@@ -500,22 +468,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Russia arrests Japanese journalist on spying charges",
-            "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-            "summary": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Why is Starlink internet so important on the battlefield in Ukraine?",
@@ -550,6 +502,14 @@
             "url": "https://www.bbc.co.uk/news/articles/c317ke5ngrq7o?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+            "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "'If we don't scream, they won't listen to us': Student protesters speak to BBC in Paris",
             "summary": "Student protesters in France have told the BBC's James Waterhouse that they will continue to take action until change has been made. The protests have now entered their fourth week...",
             "sources": [
@@ -566,6 +526,70 @@
             "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "France and Germany agree to ease EU car emissions rules in new deal",
+            "summary": "France and Germany have backed looser EU emissions rules for carmakers and agreed to include Britain in a “made in Europe” scheme, in a provisional deal reached Thursday that could...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261015-france-and-germany-agree-to-ease-eu-car-emissions-rules-in-new-deal"
+        },
+        {
+            "headline": "Zelensky rallies European allies as US support for Ukraine wanes",
+            "summary": "Ukrainian President Volodymyr Zelensky sought European backing Thursday after vowing to resume strikes on Russian oil refineries despite US President Donald Trump’s demands, as ten...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261015-zelensky-rallies-european-allies-as-us-support-for-ukraine-wanes"
+        },
+        {
+            "headline": "'It is clear that sooner or later we will have European casualties', Romanian MEP",
+            "summary": "Rescuers searched on Thursday for seven missing sailors after drones struck two chemical tankers near Romania's Black Sea coast, setting them ablaze and raising fresh security conc...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/it-is-clear-that-sooner-or-later-we-will-have-european-casualties-romanian-mep"
+        },
+        {
+            "headline": "Donald Trump 'openly financing Russia's war with Ukraine', Nobel peace laureate says",
+            "summary": "Speaking with FRANCE 24's Mark Owen, Nobel Peace laureate Oleksandra Matviichuk, Director of the Centre for Civil Liberties, says that with the diesel-supply deal with Moscow Donal...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/donald-trump-openly-financing-russia-s-war-with-ukraine-nobel-peace-laureate-says"
+        },
+        {
+            "headline": "Seven missing off Romania after latest Black Sea drone attacks",
+            "summary": "Romania reported seven people missing on Thursday after two drone attacks on ships in the Black Sea, where several vessels have been hit recently in suspected fallout from the Ukra...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/seven-missing-off-romania-after-latest-black-sea-drone-attacks"
+        },
+        {
+            "headline": "Albania's leader defies calls to resign as student protesters rampage in capital",
+            "summary": "​Albanian Prime Minister Edi Rama on Thursday rejected calls to resign as thousands of student-led protesters smashed windows and fought running battles with riot police firing wat...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/albania-s-leader-defies-calls-to-resign-as-student-protesters-rampage-in-capital"
+        },
+        {
+            "headline": "Will Trump really pull the plug? Starlink restored but Ukraine's fate still uncertain",
+            "summary": "Can a flick of a switch really be enough for Donald Trump and Elon Musk to end Ukraine's hopes of holding out against Russia? With Kyiv already reeling from daily strikes by Russia...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/tv-shows/the-debate/20261015-will-trump-really-pull-the-plug-starlink-restored-but-ukraine-s-fate-still-uncertain"
+        },
+        {
+            "headline": "Why have US-Ukraine relations soured ahead of the midterms?",
+            "summary": "Ukraine's President Volodymyr Zelensky said he felt “betrayed” on Wednesday after access was seemingly restricted to US intelligence and Space X satellite services, raising new que...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261015-why-have-us-ukraine-relations-soured-ahead-of-the-midterms"
+        },
+        {
             "headline": "'We're done': Ukraine resumes strikes on Russian oil refineries as 'only leverage' for peace talks",
             "summary": "Delano D'Souza is pleased to welcome Peter Zalmayev, Founder and Director of the Eurasia Democracy Initiative, LIVE from Kyiv. As Zelensky declares Ukraine \"done\" with Trump's self...",
             "sources": [
@@ -580,62 +604,6 @@
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/europe/20261015-seven-missing-off-romania-after-latest-black-sea-drone-attacks"
-        },
-        {
-            "headline": "Russia detains independent outlet Novaya Gazeta editor Sergei Sokolov",
-            "summary": "Sergei Sokolov, the editor-in-chief of Russia's independent newspaper Novaya Gazeta, was detained and taken for questioning on Thursday after authorities searched his home, the new...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261015-russia-detains-novaya-gazeta-editor-in-chief-sergei-sokolov-after-home-search"
-        },
-        {
-            "headline": "'American abandonment' threatens Ukraine's civilians in war against Russia",
-            "summary": "PRESS REVIEW – Thursday, October 15: First, reported Starlink disruptions in Ukraine make the European front pages. Next, US papers go into more detail about the situation. Also, a...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/tv-shows/press-review/20261015-american-abandonment-threatens-ukraine-s-civilians-in-war-against-russia"
-        },
-        {
-            "headline": "War in Ukraine: Kyiv residents decry shortage of bomb shelters",
-            "summary": "Kyiv's mayor, Vitaly Klitschko, has advised those residents who can \"temporarily relocate\" for the winter to do so. That advice has been met with derision at best from many residen...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/tv-shows/focus/20261015-war-in-ukraine-kyiv-residents-decry-shortage-of-bomb-shelters"
-        },
-        {
-            "headline": "EU leaders head into high-stakes budget battle as elections loom",
-            "summary": "EU leaders head to a summit on Thursday seeking a deal on the bloc’s nearly €2 trillion budget for 2028-2034 by Christmas amid deep divisions over spending and fears that upcoming ...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/eu-leaders-head-into-high-stakes-budget-battle-as-elections-loom"
-        },
-        {
-            "headline": "France 'can no longer finance' Ukraine, far-right presidential frontrunner Le Pen says",
-            "summary": "Far-right leader and presidential candidate Marine Le Pen said on Wednesday that France could no longer afford to fund Ukraine, citing the country's high deficit and weak economic ...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says"
-        },
-        {
-            "headline": "Ukraine live: Zelensky meets NATO chief and EU leaders in push to apply 'real pressure' on Russia",
-            "summary": "Ukrainian President Volodymyr Zelensky arrived in Brussels Thursday to rally support at a meeting with NATO chief Mark Rutte the same day, and a summit with EU leaders to follow Fr...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261015-ukraine-live-romania-probes-possible-drone-attack-on-tanker"
-        },
-        {
-            "headline": "French anti-terror investigators probe True Crime Community link to school shooting",
-            "summary": "The French anti-terrorism prosecutor has taken ​over the investigation into a school shooting near Marseille, after an initial probe found the 14-year-old suspect appeared to belon...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/french-anti-terror-investigators-probe-true-crime-community-link-to-school-shooting"
         }
     ],
     "middle-east": [
@@ -964,6 +932,14 @@
     ],
     "oceania": [
         {
+            "headline": "An Australian band’s ‘unreal’ journey to break a gig world record",
+            "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "What if you could turn off your algorithm? Australia is about to try",
             "summary": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
             "sources": [
@@ -1010,22 +986,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Renshaw delivers again as Australia close on win",
-            "summary": "Australia close on statement victory over South Africa in Durban after Matt Renshaw's dream Test continues.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/cricket/articles/crje5vq4plygo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
-            "summary": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "The Frenemy: How Australia navigates superpower rivalry",
@@ -1100,12 +1060,12 @@
             "url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "'Psychological nightmare': Why New Zealand won't let a stranded woman pass through",
-            "summary": "The refusal of a transit visa means the woman has been trapped in the Cook Islands for 3 years.",
+            "headline": "NZSIS to support Fiji intelligence review amid foreign interference claims",
+            "summary": "The Fijian government announced a six-month partnership with the New Zealand Security Intelligence Service.",
             "sources": [
                 "rnz.co.nz"
             ],
-            "url": "https://www.rnz.co.nz/news/pacific/1892394/a-psychological-nightmare-why-nz-declined-transit-visa-for-woman-stranded-in-cook-islands"
+            "url": "https://www.rnz.co.nz/news/pacific/1919842/nzsis-to-support-fiji-intelligence-review-amid-foreign-interference-claims"
         }
     ]
 }
