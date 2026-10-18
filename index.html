@@ -25,5 +25,31 @@
     </main>
 
     <script src="dashboard.js?v=4"></script>
+    <script>
+      // Automatically calculate and display next approx update time using news.json metadata
+      fetch('news.json')
+        .then(response => response.json())
+        .then(data => {
+          if (data._metadata && data._metadata.last_updated) {
+            let lastUpdatedTime = new Date(data._metadata.last_updated);
+            let nextUpdate = new Date(lastUpdatedTime.getTime() + (4 * 60 * 60 * 1000));
+
+            let hours = nextUpdate.getHours();
+            let minutes = nextUpdate.getMinutes();
+            let ampm = hours >= 12 ? 'pm' : 'am';
+
+            hours = hours % 12;
+            hours = hours ? hours : 12;
+            minutes = minutes < 10 ? '0' + minutes : minutes;
+
+            let timeString = `${hours}:${minutes} ${ampm}`;
+            document.getElementById('update-status').innerText = `Next update: approx ${timeString}`;
+          }
+        })
+        .catch(error => {
+          console.error('Could not load schedule status', error);
+          document.getElementById('update-status').innerText = '';
+        });
+    </script>
 </body>
 </html>
