@@ -1,6 +1,6 @@
 {
     "_metadata": {
-        "last_updated": "2026-10-20 13:33:02 UTC"
+        "last_updated": "2026-10-20 19:59:33 UTC"
     },
     "globalOverview": [
         {
@@ -20,6 +20,14 @@
             "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+            "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Why Israeli Gen Z voters are drawn to the far right",
             "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
             "sources": [
@@ -28,20 +36,20 @@
             "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Trump sued over Canadian tariffs in latest legal challenge",
+            "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
             "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
-            "summary": "More than 400 people, mostly children, become ill after drinking contaminated water, east of Pretoria.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Mission blasts off for Mars to grab a piece of its moon",
@@ -102,92 +110,148 @@
     ],
     "north-america": [
         {
-            "headline": "Torched cars, ransacked businesses: Anti-Sharia crusader warns France 'civil war' could be imported to US",
-            "summary": "A top House Republican blames France riots on mass migration, warning America could face the same future if it doesn&apos;t learn from the Paris chaos.",
+            "headline": "Vance reveals the Trump dilemma that could complicate his 2028 White House ambitions",
+            "summary": "JD Vance says he believes Trump would endorse him for the 2028 presidential election but admits he hasn&apos;t actually discussed a potential run.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/torched-cars-ransacked-businesses-anti-sharia-crusader-warns-france-civil-war-could-imported-us"
+            "url": "https://www.foxnews.com/politics/vance-reveals-trump-dilemma-complicate-2028-white-house-ambitions"
         },
         {
-            "headline": "These numbers show just how fraudulent Notre Dame has been during the Marcus Freeman era",
-            "summary": "Marcus Freeman&apos;s 44-11 regular season record hides a stunning stat: only five wins against ranked opponents, two of which were service academies.",
+            "headline": "Americans warned about Paris travel after violence, looting and tear gas-filled streets",
+            "summary": "A tourist described Paris as a war zone as the U.S. Embassy urged Americans in France to avoid protest areas. Curfews have hit Paris, with train closures and flight delays possible...",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/numbers-show-fraudulent-notre-dame-marcus-freeman-era"
+            "url": "https://www.foxnews.com/travel/americans-warned-paris-travel-violence-looting-tear-gas-filled-streets"
         },
         {
-            "headline": "Fox News Power Rankings: Trump country at a crossroads",
-            "summary": "Rural voters are wavering on the GOP as cost of living, unemployment and AI data centers reshape the political landscape in heartland states.",
+            "headline": "Rays star Freddy Peralta achieves historic pitching feat only accomplished twice since 1913",
+            "summary": "Tampa Bay Rays star Freddy Peralta joined Hall of Famers Bob Gibson and Walter Johnson with a feat seen just twice since 1913 as the ALCS MVP eyes a World Series.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/fox-news-power-rankings-trump-country-crossroads"
+            "url": "https://www.foxnews.com/outkick-sports/rays-star-freddy-peralta-achieves-historic-pitching-feat-accomplished-twice-since-1913"
         },
         {
-            "headline": "Midwest pro-Trump state could hold key to Republicans' midterm hopes",
-            "summary": "Tom Emmer warns Iowa GOP supporters that turnout will decide whether House Republicans keep their majority as three districts face tough races.",
+            "headline": "Why your VPN keeps triggering extra security checks",
+            "summary": "A dedicated VPN IP address may reduce frustrating CAPTCHAs and bank login security checks by giving websites a consistent connection to recognize.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/midwest-pro-trump-state-could-hold-key-republicans-midterm-hopes"
+            "url": "https://www.foxnews.com/tech/why-vpn-keeps-triggering-extra-security-checks"
         },
         {
-            "headline": "Elderly Miss man killed with own gun in random home invasion as sheriff questions possible religious motive",
-            "summary": "A video captured the alleged burglar screaming what sounds like &quot;God is dead&quot; before the fatal home invasion that killed Bobby McGill in Mississippi.",
+            "headline": "‘Feminists Lied’ tour aims to challenge abortion, feminism narratives on college campuses",
+            "summary": "Turning Point USA and Students for Life of America launched the &quot;Feminists Lied: Prove Me Wrong&quot; tour, continuing Charlie Kirk&apos;s legacy on campuses.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/elderly-miss-man-killed-own-gun-random-home-invasion-sheriff-questions-possible-religious-motive"
+            "url": "https://www.foxnews.com/media/feminists-lied-tour-aims-challenge-abortion-feminism-narratives-college-campuses"
         },
         {
-            "headline": "Want flying cars? America needs thousands more Elon Musks and less red tape",
-            "summary": "Tesla&apos;s Roadster demonstration showed a car hovering in midair, but the real debate is why America needs 16,000 more Elon Musks to push boundaries.",
+            "headline": "On the streets with Dr Oz as surprise fraud crackdown sends daycare directors scrambling",
+            "summary": "Dr. Mehmet Oz personally confronted staff at two Queens senior care centers over suspicious Medicaid billing, wheelchair charges and attendance records.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/opinion/want-flying-cars-america-needs-thousands-more-elon-musks-less-red-tape"
+            "url": "https://www.foxnews.com/politics/streets-dr-oz-surprise-fraud-crackdown-sends-daycare-directors-scrambling"
         },
         {
-            "headline": "'We're going to die': Passengers recount midair terror before emergency landing",
-            "summary": "Oxygen masks dropped mid-flight as an American Airlines plane made an emergency landing at St. Louis airport on Oct. 17 after passengers reported a strange odor.",
+            "headline": "Robert F Kennedy's granddaughter dies at 42 after years of health struggles",
+            "summary": "Kyle Kennedy, granddaughter of Bobby and Ethel Kennedy, was a Georgetown University graduate and Teach for America alumna who championed for education reform.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/travel/were-going-die-passengers-recount-midair-terror-before-emergency-landing"
+            "url": "https://www.foxnews.com/health/robert-f-kennedy-granddaughter-dies-42-years-health-struggles"
         },
         {
-            "headline": "Trump puts fraudsters on notice with $25M whistleblower program offering cash for tips that deliver",
-            "summary": "President Donald Trump and Vice President JD Vance will unveil a $25 million fraud whistleblower program offering up to $30,000 for tips leading to convictions.",
+            "headline": "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal",
+            "summary": "Iran claims two oil tankers struck sea mines in the Strait of Hormuz as the IMO warns the critical shipping lane remains too unsafe to transit.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/trump-puts-fraudsters-notice-25m-whistleblower-program-offering-cash-tips-deliver"
+            "url": "https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal"
         },
         {
-            "headline": "Voters prepare to weigh-in on Trump's economy as costs continue to surge",
-            "summary": "Gas prices surged 9.1% in September as consumer prices rose 3.7% annually, putting Trump&apos;s promise to lower costs to the test before midterms.",
+            "headline": "'Ant-Man' star Evangeline Lilly says she left Hollywood because she 'always hated being famous'",
+            "summary": "Evangeline Lilly says she secretly retired from Hollywood in 2020 after chronic health issues and a lifelong hatred of fame drove her away from acting.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/voters-prepare-weigh-trumps-economy-costs-continue-surge-2-weeks-before-midterms"
+            "url": "https://www.foxnews.com/media/ant-man-star-evangeline-lilly-says-she-left-hollywood-because-she-always-hated-being-famous"
         },
         {
-            "headline": "McMahon embarks on four-state tour to put local leaders and parents 'back into the driver’s seat' of education",
-            "summary": "Linda McMahon launched &quot;The Next 250: American Education&quot; speaking tour with stops in Utah, Nevada, Arizona and Tennessee for school choice.",
+            "headline": "NY cop calls for police protections after protester he arrested showed up to his house, harassed his family",
+            "summary": "Louis Civello says a protester he arrested tracked down his home address and showed up with a billboard truck to terrorize his family in Suffolk County.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/mcmahon-embarks-four-state-tour-put-local-leaders-parents-back-drivers-seat-education"
+            "url": "https://www.foxnews.com/us/ny-cop-calls-police-protections-after-protester-he-arrested-showed-up-his-house-harassed-his-family"
         },
         {
-            "headline": "Alberta votes to stay in Canada, CBC News projects. Results on other 9 questions still being tallied",
+            "headline": "Madison Brooks rape suspect's attorney held in contempt for using her name to try to ban pink in courtroom",
+            "summary": "Caitlin Fowlkes was held in contempt for using Madison Brooks&apos; full name in a court filing tied to her motion to ban pink from the courtroom.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/madison-brooks-rape-suspects-attorney-held-contempt-using-her-name-ban-pink-courtroom"
+        },
+        {
+            "headline": "Tourist killed in freak accident at landmark designed by one of America's most famous architects",
+            "summary": "Rogério Renato Mateucci of Brazil was struck by roofing material blown off by strong winds while touring Frank Lloyd Wright&apos;s Taliesin West in Scottsdale, Arizona.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/travel/tourist-killed-freak-accident-landmark-designed-famous-architects"
+        },
+        {
+            "headline": "No Canada-U.S. trade deal expected before American midterm elections: sources",
+            "summary": "",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/politics/carney-trump-trade-deal-midterms-9.7387484?cmp=rss"
+        },
+        {
+            "headline": "Premier Smith to address province today after ‘remain’ in Canada side projected to win Alberta referendum",
             "summary": "",
             "sources": [
                 "rss.cbc.ca"
             ],
             "url": "https://www.cbc.ca/news/canada/edmonton/livestory/alberta-referendum-results-live-updates-separatism-october-19-2026-9.7387777?cmp=rss"
+        },
+        {
+            "headline": "Juror sends mysterious letter to jailed man he just helped convict of murder in Windsor, Ont.",
+            "summary": "Roughly two months after a first-degree murder trial in Windsor, Ont., ended, one juror took the “highly unusual” step of sending the convicted man a letter requesting to meet.",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/windsor/juror-letter-to-man-convicted-of-murder-9.7388390?cmp=rss"
+        },
+        {
+            "headline": "You Can See Everything eyes Oscars history",
+            "summary": "A24 has launched a head-turning Oscars campaign for the film You Can See Everything, which highlights how unusual the documentary is.",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/entertainment/you-can-see-everything-oscars-campaign-9.7388336?cmp=rss"
+        },
+        {
+            "headline": "The 4 main alternative theories not presented at O.J. Simpson's murder trial and why they're all problematic",
+            "summary": "The possibility that O.J. Simpson had a previously unknown accomplice dispose of a knife after he'd committed a double homicide has been raised after a just-published New York Time...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/world/brown-simpson-goldman-murders-accomplice-9.7363694?cmp=rss"
+        },
+        {
+            "headline": "Former Blue Jay, wife charged with fraud linked to Ontario youth baseball program fees: police",
+            "summary": "Former big leaguer Richard Butler and his wife, Michelle, have been charged after a fraud investigation into the Ontario Devil Rays baseball training program, which allegedly took ...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/toronto/former-mlb-player-charged-youth-baseball-9.7388143?cmp=rss"
         },
         {
             "headline": "Winnipeg teacher stripped of certificate after sending hundreds of messages to student in 'serious breach'",
@@ -198,71 +262,23 @@
             "url": "https://www.cbc.ca/news/canada/manitoba/teacher-certificate-suspended-student-messages-9.7386940?cmp=rss"
         },
         {
-            "headline": "Manitoba man, 84, who lost legs to MS is knitting tuques on custom-made cot",
-            "summary": "Leonard Foidart built a cot so he can knit comfortably while lying down. The 84-year-old from Notre-Dame-de-Lourdes, Man., lost his legs decades ago and finds it difficult to sit b...",
+            "headline": "Plasma donation company Grifols begins phased reopening of centres after 2-month hiatus",
+            "summary": "Grifols is resuming operations at its Canadian clinics after temporarily shutting down all paid plasma collection in mid-August amid public scrutiny.",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/manitoba/senior-custom-cot-knitting-tuques-9.7382128?cmp=rss"
-        },
-        {
-            "headline": "Canadian who stole a Las Vegas flamingo after drinking '30 to 40' beers convicted of animal cruelty",
-            "summary": "A Las Vegas court convicted Ontario man Mitchell Fairbarn of animal cruelty charges Monday for snatching a flamingo named Peachy from its habitat at the Flamingo Las Vegas Hotel an...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/canadian-flamingo-las-vegas-9.7386697?cmp=rss"
-        },
-        {
-            "headline": "Australian man charged in vehicle attack on MP, who reportedly has leg amputated",
-            "summary": "An Australian federal lawmaker remained in a hospital in a critical but stable condition, with a male driver charged with three offences in what police allege was a targeted attack...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/australia-haines-attack-charges-nugent-9.7387976?cmp=rss"
-        },
-        {
-            "headline": "Parks Canada not laying charges after Banff National Park superintendent admits to violating federal law",
-            "summary": "Parks Canada isn’t pressing charges against Banff National Park superintendent Salman Rasheed after he admitted to violating federal law by having his dog off-leash.",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/calgary/salman-rasheed-parks-canada-banff-national-park-off-leash-dog-investigation-9.7387488?cmp=rss"
-        },
-        {
-            "headline": "Rays to face Brewers in World Series, guaranteeing a 1st-time champion",
-            "summary": "Junior Caminero and Yandy Diaz each hit a two-run homer and Freddy Peralta threw 5 1/3 gritty innings as the Tampa Bay Rays beat the Cleveland Guardians 7-3 in Game 6 of the Americ...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/sports/baseball/mlb/alcs-rays-guardians-game-6-recap-9.7387928?cmp=rss"
-        },
-        {
-            "headline": "'Not out of the woods': Family rallies around soldier badly burned in CFB Wainwright fire",
-            "summary": "Before he was airlifted to hospital and intubated, Sean Hiatt managed to call his mom and tell her he'd been injured in a training accident at CFB Wainwright. He was coherent at th...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/calgary/wainwright-fire-hiatt-injured-town-community-monday-9.7387581?cmp=rss"
-        },
-        {
-            "headline": "Canada-wide support grows for CFB Wainwright victims as 50 investigators probe deadly fire",
-            "summary": "",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-deaths-carney-9.7386478?cmp=rss"
-        },
-        {
-            "headline": "Curling controversy: Unusual finish generates boos, ruffles feathers at Slam event",
-            "summary": "The Grand Slam of Curling's competition committee plans to meet this week to discuss an unusual finish at the Co-op Invitational that sent two Canadian teams into the playoffs and ...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-controversy-co-op-invitational-grand-slam-victoria-9.7387494?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/manitoba/grifols-plasma-donation-resumption-9.7388170?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Milei calls Lula a “leftist thief” and says he hopes he will not “steal” Brazil’s election",
+            "summary": "\n\t   \t      \n\t         Argentine President Javier Milei attacked his Brazilian counterpart Luiz Inácio Lula da Silva again on Tuesday, accusing him of a “dirty campaign” and saying...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/20/milei-calls-lula-a-leftist-thief-and-says-he-hopes-he-will-not-steal-brazil-s-election?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Meta races the clock to prove to Brazil’s electoral court it treats Lula and Bolsonaro equally",
             "summary": "\n\t   \t      \n\t         The 24-hour deadline given by Brazil’s Superior Electoral Court to Meta to show that its algorithms and artificial intelligence treat President Luiz Inácio L...",
@@ -280,6 +296,14 @@
             "url": "https://en.mercopress.com/2026/10/20/argentina-awaits-the-supreme-court-after-the-ypf-case-is-closed-at-first-instance?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         },
         {
+            "headline": "Stablecoins, Solana and Ethereum: Which Blockchains Are Winning in South America?",
+            "summary": "\n\t   \t      \n\t         Ask who is winning crypto in South America, and many people will say bitcoin. Brazil's tax data says otherwise. In 2025, stablecoins made up 80.2% of all cry...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/20/stablecoins-solana-and-ethereum-which-blockchains-are-winning-in-south-america?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
             "headline": "US calls at the UN for an end to the Decolonisation Committee, key to Argentina’s claim",
             "summary": "\n\t   \t      \n\t         The United States has called at the UN for an end to the mandate of the Special Committee on Decolonisation, the body before which Argentina presents its sov...",
             "sources": [
@@ -294,22 +318,6 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/10/19/argentina-spent-us-445-million-on-weapons-and-military-equipment-under-milei?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Lula asks Bolsonaro whether he will wield “Milei’s chainsaw” in a heated debate",
-            "summary": "\n\t   \t      \n\t         Brazilian President Luiz Inácio Lula da Silva asked his rival, Senator Flávio Bolsonaro, on Sunday whether he intends to apply Argentine President Javier Mil...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/10/19/lula-asks-bolsonaro-whether-he-will-wield-milei-s-chainsaw-in-a-heated-debate?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Lula’s campaign takes alleged Meta favouritism towards Bolsonaro to the UN and federal police",
-            "summary": "\n\t   \t      \n\t         The coalition backing Brazilian President Luiz Inácio Lula da Silva’s re-election on Saturday reported to the UN alleged unequal treatment by Meta, the owner...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/10/18/lula-s-campaign-takes-alleged-meta-favouritism-towards-bolsonaro-to-the-un-and-federal-police?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [
@@ -348,39 +356,39 @@
     ],
     "south-asia": [
         {
-            "headline": "Dussehra 2026: Traffic curbs in Dwarka, security tightened in Delhi-NCR and more",
-            "summary": "As per the Delhi Traffic Police advisory, restrictions may be imposed on six roads in Dwarka on October 20 evening",
+            "headline": "Kashmir clerics, including Mirwaiz, say eviction of Delhi’s historic Race Course mosque ‘deeply disturbing’",
+            "summary": "“If even a legally recognised mosque cannot be protected, what safeguards remain for others?” says Mirwaiz",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/dussehra2026-trafficcurbs-in-dwarka-security-tightened-delhi-ncr/article71604249.ece"
+            "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-clerics-including-mirwaiz-say-eviction-of-delhis-historic-race-course-mosque-deeply-disturbing/article71605010.ece"
         },
         {
-            "headline": "CJP seeks urgent hearing in Delhi High Court challenging judicial custody of Saurav Das, Ashutosh Ranka",
-            "summary": "“We have moved the Delhi High Court and requested an urgent night hearing,” Ratna Singh, CJP’s legal head, said",
+            "headline": "At Dussehra rally, Uddhav bats for 'regime change', promises 'acche din' after ousting BJP",
+            "summary": "Addressing the annual Dussehra rally at Shivaji Park in Mumbai, Mr. Thackeray insisted that staging a protest is the right of youth because 'vote chori' (vote theft) is happening w...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/saurav-das-ashutosh-ranka-judicial-custody-cjp-seeks-urgent-hearing-in-delhi-high-court/article71604565.ece"
+            "url": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece"
         },
         {
-            "headline": "Marco Rubio to skip Delhi, visit Mumbai and Jamnagar next week",
-            "summary": "His Jamnagar Reliance refinery visit will come a day after U.S. President is expected to take a decision on sanctions on Russian oil imports",
+            "headline": "AAP claims Punjab CM Mann detained for three hours at Delhi airport, fined ₹50,000",
+            "summary": "In a statement, Mr. Pannu accused the Centre of creating “obstacles” in the path of Punjab’s progress",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/marco-rubio-to-skip-delhi-visit-mumbai-and-jamnagar-next-week/article71585393.ece"
+            "url": "https://www.thehindu.com/news/national/punjab/aap-claims-punjab-cm-mann-detained-for-three-hours-at-delhi-airport-fined-50000/article71605400.ece"
         },
         {
-            "headline": "Rubio, Jaishankar meet in Mumbai as U.S. and India aim to finalise trade deal",
-            "summary": "The two sides discussed energy security, defence cooperation and strengthening bilateral ties, Mr. Rubio said",
+            "headline": "In Delhi, only 0.27% of 4.5 lakh Form 6s disposed of so far",
+            "summary": "Of 4.5 lakh applications for inclusion, about 2.39 lakh were filed by those seeking re-inclusion or applying for the first time after the draft roll was published",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece"
+            "url": "https://www.thehindu.com/news/cities/Delhi/in-delhi-only-027-of-45-lakh-form-6s-disposed-of-so-far/article71605163.ece"
         },
         {
-            "headline": "CJP’s Abhijeet Dipke thanks Delhi Ramlila organisers for 'free publicity' over cockroach effigy",
+            "headline": "CJP’s Abhijeet Dipke thanks Delhi Ramlila organisers for ‘free publicity’ over cockroach effigy",
             "summary": "The Shree Keshav Ram Leela Committee, which organises the annual event in Pitampura, has said the cockroach effigy is intended to symbolise filth and dirt and promote cleanliness u...",
             "sources": [
                 "thehindu.com"
@@ -388,58 +396,58 @@
             "url": "https://www.thehindu.com/news/national/cjps-abhijeet-dipke-thanks-delhi-ramlila-organisers-for-free-publicity-over-cockroach-effigy/article71603848.ece"
         },
         {
-            "headline": "Mohan Bhagwat warns against agitations that divide, urges unity rooted in ‘Hindu spirit’",
-            "summary": "When a protest becomes a political instrument driven by hostility towards a person, group or ideology, forces seeking to keep India subdued take advantage of the situation, the Ras...",
+            "headline": "U.S.-India perfectly aligned on core issues: Marco Rubio",
+            "summary": "After laying a wreath at the Taj Mahal Palace Hotel, S. Jaishankar says India expects its partners to show ‘zero tolerance’ towards terrorism",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/rss-rashtriya-swayamsevak-sangh-mohan-bhagwat-foundation-day-speech-nagpur-october-20-2026/article71603237.ece"
+            "url": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece"
         },
         {
-            "headline": "Top news of the day: Jaishankar, Rubio hold talks on trade deal in Mumbai; CJP seeks urgent Delhi HC hearing against judicial custody of Saurav Das, Ashutosh Ranka; and more",
-            "summary": "The major news headlines of the day and more",
+            "headline": "Newsprint makers seek PM Modi's intervention over coal shortages, demand 75:25 allocation ratio",
+            "summary": "In a representation to PM Modi, the association sought timely coal dispatches under existing fuel supply agreements with Coal India Limited subsidiaries",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/top-news-of-the-day-on-october-20-2026/article71604628.ece"
+            "url": "https://www.thehindu.com/news/national/newsprint-makers-seek-pm-modis-intervention-over-coal-shortages-demand-7525-allocation-ratio/article71605332.ece"
         },
         {
-            "headline": "More than 30 sewer, septic tank deaths reported so far in 2026; compensation paid in nine cases: NCSK",
-            "summary": "The Commission's data showed that Haryana reported the highest number of deaths so far in 2026 at eight, followed by Maharashtra and Delhi with six each",
+            "headline": "PM Modi flags three ‘enemies’ of India, calls for unity in national interest",
+            "summary": "“Let our thoughts be aligned… all the institutions of the nation, all political parties… let us stand together for the national interest. We must proceed with this very spirit; we ...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/more-than-30-sewer-septic-tank-deaths-reported-so-far-in-2026-compensation-paid-in-nine-cases-ncsk/article71604553.ece"
+            "url": "https://www.thehindu.com/news/national/pm-modi-flags-three-enemies-of-india-calls-for-unity-in-national-interest/article71605000.ece"
         },
         {
-            "headline": "Indian scientists identify Martian analogue sites",
-            "summary": "Researchers added that identifying terrestrial analogue sites has become a pressing requirement in the era of intense planetary exploration since recent studies demonstrated that o...",
+            "headline": "Police actions on protesters violate India’s core international legal obligations: UN human rights experts",
+            "summary": "‘Any restrictions on peaceful assembly must be legal, pursue a legitimate aim, and be necessary and proportionate,’ says a joint statement by a group of globally recognised rapport...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/sci-tech/science/indian-scientists-identify-martian-analogue-sites/article71604126.ece"
+            "url": "https://www.thehindu.com/news/national/un-experts-urge-india-to-curb-force-against-unarmed-student-protesters/article71604310.ece"
         },
         {
-            "headline": "India marks Dasara burnings and Durga immersions | In pictures",
-            "summary": "From idol immersions to Ravana effigy burnings, visuals from across the country as communities mark the end of Navratri with Dasara, Vijayadashami and Durga Puja festivities",
+            "headline": "CJP leaders Saurav Das, Ashutosh Ranka move Delhi HC against judicial custody",
+            "summary": "The CJP leaders have questioned the justification for their continued detention on grounds of public order; their plea states that any restriction on liberty must be backed by a re...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/india-marks-dasara-burnings-and-durga-immersions-in-pictures/article71603735.ece"
+            "url": "https://www.thehindu.com/news/national/saurav-das-ashutosh-ranka-judicial-custody-cjp-seeks-urgent-hearing-in-delhi-high-court/article71604565.ece"
         },
         {
-            "headline": "Mirwaiz Umar Farooq expresses concern over 'eviction notice' to Race Course Mosque in New Delhi",
-            "summary": "Mirwaiz Umar Farooq said the failure of the waqf authorities to defend the mosque was also alarming",
+            "headline": "Rubio pushes for India to buy more U.S., Venezuelan oil",
+            "summary": "S. Jaishankar hosts U.S. Secretary of State, UAE FM in Mumbai, holds trilateral talks on trade, energy, and connectivity",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/cities/Delhi/mirwaiz-umar-farooq-expresses-concern-over-eviction-notice-to-race-course-mosque-in-new-delhi/article71604335.ece"
+            "url": "https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece"
         }
     ],
     "europe": [
         {
-            "headline": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-            "summary": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
+            "headline": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+            "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
@@ -558,6 +566,22 @@
             "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Zelensky meets Witkoff as US-Ukraine relations sink to new lows",
+            "summary": "Ukrainian President Volodymyr Zelensky was meeting US special envoy Steve Witkoff on Tuesday in a ​bid to rescue relations that have sunk to new lows as President Donald Trump has ...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/zelenskiy-meets-witkoff-as-us-ukraine-relations-sink-to-new-lows"
+        },
+        {
+            "headline": "Ukraine ‘losing people and time’, Zelensky says after Oslo talks",
+            "summary": "Ukrainian President Volodymyr Zelensky has wrapped up talks with US envoys in Norway Tuesday where he was determined to put diplomacy back on a \"more constructive path”, Oslo offic...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261020-zelensky-oslo-for-talks-with-us-envoys-ukraine-claims-missile-holdup"
+        },
+        {
             "headline": "Six years on, France remembers slain teacher Samuel Paty",
             "summary": "French schoolteacher Samuel Paty was killed on October 16, 2020 after false rumours circulated about racism following one of his lessons in which cartoons from the satirical public...",
             "sources": [
@@ -566,8 +590,8 @@
             "url": "https://www.france24.com/en/tv-shows/focus/20261020-six-years-on-france-remembers-slain-teacher-samuel-paty"
         },
         {
-            "headline": "Live: French PM accuses hard left of 'insurrectionary plot' in weekend riots",
-            "summary": "French Prime Minister Sébastien Lecornu said further curfews would be imposed \"where necessary\" on Tuesday evening after those on Monday in parts of Paris and other cities \"helped ...",
+            "headline": "Live: France imposes nightly curfews for 'as long as necessary' in Paris, other major cities",
+            "summary": "French authorities announced fresh curfew orders across city centers of major cities including Paris, Lyon and Marseille for Tuesday night after Monday's curfew order calmed some o...",
             "sources": [
                 "france24.com"
             ],
@@ -580,22 +604,6 @@
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/europe/20261020-zelensky-accuses-us-of-delaying-missile-deliveries-as-tensions-rise"
-        },
-        {
-            "headline": "EU unveils strategy to bolster Arctic presence amid pressure from Russia and the US",
-            "summary": "The European Union unveils its new \"strategy for the Arctic\" on Tuesday, aiming to step up its presence in the far north as melting ice opens new maritime routes, and tensions with...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261020-eu-unveils-strategy-to-bolster-arctic-presence-amid-pressure-from-russia-and-the-us"
-        },
-        {
-            "headline": "Russia-China-US summit would prolong the war, Kyiv says",
-            "summary": "Ukrainian ⁠Foreign Minister ​Andrii Sybiha said on ​Monday that a summit between Russia, China ​and the ‌US would ⁠encourage President Vladimir Putin ‌to prolong the war. The ​Wall...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says"
         }
     ],
     "middle-east": [
@@ -762,6 +770,14 @@
     ],
     "africa": [
         {
+            "headline": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+            "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Kenya cult leader's children still being starved weeks before trial, son says",
             "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
             "sources": [
@@ -776,22 +792,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-            "summary": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "South African rugby player Andrews dies at team hotel",
-            "summary": "Hyron Andrews dies at his Johannesburg Lions' team hotel before their Champions Cup match at La Rochelle on Saturday.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjvxynj2kyo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Why Rwanda's deal for F1 race remains controversial",
@@ -840,6 +840,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "South African rugby player Andrews dies at team hotel",
+            "summary": "Hyron Andrews dies at his Johannesburg Lions' team hotel before their Champions Cup match at La Rochelle on Saturday.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqdjvxynj2kyo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Coe aims for African 'legacy' with 2029 World Championships",
