@@ -1,8 +1,24 @@
 {
     "_metadata": {
-        "last_updated": "2026-10-19 21:02:03 UTC"
+        "last_updated": "2026-10-20 04:45:17 UTC"
     },
     "globalOverview": [
+        {
+            "headline": "UN condemns deadly wave of drone strikes in war-torn Sudan",
+            "summary": "Drone strikes killed and injured dozens across Sudan on Monday as the ongoing war continues to cause soaring displacement and hunger.",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168628"
+        },
+        {
+            "headline": "Hunger is ‘an avoidable tragedy’ in a world of plenty: Türk",
+            "summary": "More than a quarter of humanity struggles to get enough food, even though the world produces enough for everyone, UN human rights chief Volker Türk said on Monday, blaming injustic...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168627"
+        },
         {
             "headline": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
             "summary": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Securit...",
@@ -146,128 +162,152 @@
                 "news.un.org"
             ],
             "url": "https://news.un.org/feed/view/en/story/2026/10/1168603"
-        },
-        {
-            "headline": "WHO urges vigilance after Kenya confirms second Ebola case",
-            "summary": "The World Health Organization (WHO) continues to support Kenya’s efforts to contain Ebola after a second person tested positive for the Bundibugyo virus, the UN agency’s representa...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168602"
-        },
-        {
-            "headline": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
-            "summary": "Amid a rise in lethal Israeli strikes, demolitions and violence in Gaza and the West Bank, the Security Council held an open debate on Thursday focusing on the current situation in...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168599"
         }
     ],
     "north-america": [
         {
-            "headline": "Repeat offender accused of shooting National Guard member has lengthy history with the law, records show",
-            "summary": "Jerrell Jackson, accused of shooting a National Guard member in D.C., had prior convictions for assaulting police officers and carrying an illegal gun.",
+            "headline": "Terry McLaurin carted off, Mike Evans hurt as 49ers hold off Commanders 23-17 on brutal MNF",
+            "summary": "Terry McLaurin was carted off with a left knee injury during Monday Night Football, leaving the 1-5 Washington Commanders without their top wideout.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/repeat-offender-accused-shooting-national-guard-member-lengthy-history-law-records-show"
+            "url": "https://www.foxnews.com/outkick-sports/brutal-night-mnf-commanders-star-terry-mclaurin-carted-off-49ers-mike-evans-heads-locker-room"
         },
         {
-            "headline": "MMA fighter receives big bonus on OnlyFans after suffering a wardrobe malfunction during loss",
-            "summary": "Lucero Acosta&apos;s PFL debut ended in a TKO loss, but a wardrobe malfunction during the fight went viral and resulted in a massive OnlyFans payday.",
+            "headline": "Elissa Slotkin calls backlash to threat of prosecution comments 'manufactured outrage'",
+            "summary": "Sen. Elissa Slotkin, D-Mich., dismissed criticism on CNN as &quot;manufactured outrage&quot; after her viral remarks about prosecuting Trump administration enablers.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/mma-fighter-receives-big-bonus-onlyfans-after-suffering-wardrobe-malfunction-during-loss"
+            "url": "https://www.foxnews.com/media/elissa-slotkin-calls-backlash-threat-prosecution-comments-manufactured-outrage"
         },
         {
-            "headline": "Trump renews push to rename New Mexico ‘New America,’ touts higher home values and incomes",
-            "summary": "President Trump urged New Mexico to rename itself &quot;New America,&quot; claiming the change would boost home values and incomes, while taking a swipe at state elections.",
+            "headline": "JD Vance declines to endorse Netanyahu despite Trump's strong backing",
+            "summary": "Vice President JD Vance said he will not weigh in on Israel&apos;s upcoming election after Trump threw his support behind Netanyahu&apos;s reelection bid.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/trump-renews-push-rename-new-mexico-new-america-touts-higher-home-values-incomes"
+            "url": "https://www.foxnews.com/politics/jd-vance-declines-endorse-netanyahu-despite-trumps-strong-backing"
         },
         {
-            "headline": "Carville says he'd rather Republicans keep the House than Democrats win by five seats, held 'hostage' by DSA",
-            "summary": "James Carville said he&apos;d prefer Republicans keep the House by five seats rather than Democrats winning by five, becoming hostage to the DSA.",
+            "headline": "One of Major League Baseball's owners just destroyed the league's entire argument for a lockout",
+            "summary": "David Rubenstein admitted baseball teams make more money than private equity, significantly undermining MLB owners&apos; World Series salary cap push.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/carville-rather-republicans-keep-house-than-democrats-win-five-seats-held-hostage-dsa"
+            "url": "https://www.foxnews.com/outkick-sports/major-league-baseball-owner-destroyed-league-argument-lockout"
         },
         {
-            "headline": "Olivia Dunne and an NFL WAG dominate the Victoria's Secret show, Aaron Rodgers goes off & the refs STINK again",
-            "summary": "Olivia Dunne and Kristin Juszczyk dominated the Victoria&apos;s Secret fashion show Pink Carpet while NFL and college football delivered stunning upsets.",
+            "headline": "Python hunters snag Puerto Rico's largest reticulated python on record after it was spotted strangling pet cat",
+            "summary": "Kevin Pavlidis helped capture an 18-foot reticulated python in Puerto Rico after the invasive snake was spotted strangling a pet cat behind a house.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/olivia-dunne-nfl-wag-dominate-victorias-secret-show-aaron-rodgers-goes-off-refs-stink"
+            "url": "https://www.foxnews.com/outkick-sports/python-hunters-snag-puerto-ricos-largest-reticulated-python-record-spotted-strangling-pet-cat"
         },
         {
-            "headline": "Smithsonian screening dispute puts museum's commitment to diverse views on trial: 'Right kind of Black?'",
-            "summary": "The Smithsonian National Museum of African American History declined a public screening of &quot;White Guilt,&quot; a documentary by filmmaker Eli Steele.",
+            "headline": "Lung cancer can grow silently for years, here’s who qualifies for screening",
+            "summary": "Only 15% of eligible Americans get screened for lung cancer, translating to tens of thousands of preventable deaths every year, doctors warn.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/smithsonian-screening-dispute-puts-museums-commitment-diverse-views-trial-right-kind-black"
+            "url": "https://www.foxnews.com/health/lung-cancer-grow-silently-years-qualifies-screening"
         },
         {
-            "headline": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Commanders vs. 49ers",
-            "summary": "Use Fanatics Sportsbook promo code FOXNEWS350 to bet $20 on Commanders-49ers and earn $350 in FanCash. New users only. Terms apply.",
+            "headline": "NFL suspends Buffalo Bills safety CJ Gardner-Johnson after grotesque spitting incident",
+            "summary": "C.J. Gardner-Johnson was ejected for spitting at Brock Bowers and Raiders linemen, costing the Buffalo Bills a costly penalty before halftime.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-commanders-vs-49ers"
+            "url": "https://www.foxnews.com/outkick-sports/nfl-suspends-buffalo-bills-safety-cj-gardner-johnson-grotesque-spitting-incident"
         },
         {
-            "headline": "FanDuel Promo Code: Get $350 in Bonus Bets for 49ers vs Commanders on Monday Night Football",
-            "summary": "Use the FanDuel promo code to bet $5 and earn a $50 bonus bet daily for seven days, totaling $350 on 49ers-Commanders. Terms apply.",
+            "headline": "Kansas man mapped rooftops near Trump speech site, threatened to shoot president: DOJ",
+            "summary": "Jaden Read allegedly posted Facebook threats to shoot President Donald Trump and claimed he mapped rooftops near the planned Wichita, Kansas, speech.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-get-350-bonus-bets-49ers-vs-commanders-monday-night-football"
+            "url": "https://www.foxnews.com/us/kansas-man-mapped-rooftops-near-trump-speech-site-threatened-shoot-president-doj"
         },
         {
-            "headline": "BetMGM Bonus Code FOXNEWS: Cover Your First 49ers-Commanders Bet up to $1500",
-            "summary": "Use BetMGM bonus code FOXNEWS for a first-bet offer covering up to $1,500 on 49ers-Commanders. New users only. Terms apply.",
+            "headline": "Cause of death released for 3 who perished at Burning Man festival in Nevada",
+            "summary": "Three Burning Man 2026 deaths in Nevada&apos;s Black Rock Desert were linked to cardiovascular disease, methamphetamine, MDMA and cocaine toxicity, according to new reports.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-49ers-commanders-bet-up-1500"
+            "url": "https://www.foxnews.com/travel/cause-death-released-3-who-perished-burning-man-festival-nevada"
         },
         {
-            "headline": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 Ahead for Game 6 of the ALCS - Rays-Guardians",
-            "summary": "Use Fanatics Sportsbook promo code FOXNEWS350 to bet $20 on Rays-Guardians Game 6 and earn $350 in FanCash. New users only. Terms apply.",
+            "headline": "Matthew McConaughey divides fans over independent voting plea ahead of midterms",
+            "summary": "Matthew McConaughey&apos;s video urging Americans to rethink the two-party system drew fierce social media backlash ahead of the 2026 midterm elections.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-ahead-game-6-alcs-rays-guardians"
+            "url": "https://www.foxnews.com/entertainment/matthew-mcconaughey-divides-fans-over-independent-voting-plea-ahead-midterms"
         },
         {
-            "headline": "Betr Promo Code FOXNEWS: Get $200 and Four Free Picks for 49ers vs Commanders MNF, Rays-Guardians Game 6",
-            "summary": "Use Betr promo code FOXNEWS to get up to $200 and four free picks for 49ers-Commanders and Rays-Guardians Game 6. Terms apply.",
+            "headline": "Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism",
+            "summary": "French President Emmanuel Macron cited the Iran war and its impact on fuel and living costs while addressing the ongoing protests and unrest across France.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-four-free-picks-49ers-vs-commanders-mnf-rays-guardians-game-6"
+            "url": "https://www.foxnews.com/world/beleaguered-macron-cites-us-iran-war-factor-protests-amid-trump-vance-criticism"
         },
         {
-            "headline": "Underdog Promo Code FOXNEWS: Unlock Play $5, Get $100 Promo for Rays-Guardians Game 6",
-            "summary": "Use Underdog promo code FOXNEWS to play $5 on Rays-Guardians Game 6 and earn $10 in bonus bets daily for 10 days, up to $100. Terms apply.",
+            "headline": "'The View' co-hosts defend El-Sayed comparing himself to JFK over Muslim Brotherhood scrutiny",
+            "summary": "&quot;The View&quot; co-hosts clashed over whether Abdul El-Sayed&apos;s family&apos;s alleged ties to the Muslim Brotherhood are a legitimate concern or Islamophobic questioning.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-unlock-play-5-get-100-promo-rays-guardians-game-6"
+            "url": "https://www.foxnews.com/media/view-cohosts-defend-el-sayed-comparing-himself-jfk-muslim-brotherhood-scrutiny"
         },
         {
-            "headline": "Underdog Promo Code FOXNEWS: Play $5, Get $100 on 49ers-Commanders on Monday Night Football",
-            "summary": "Use Underdog promo code FOXNEWS to play $5 on 49ers-Commanders and earn $10 in bonus bets daily for 10 days, up to $100. Terms apply.",
+            "headline": "Canada-wide support grows for CFB Wainwright victims as 50 investigators probe deadly fire",
+            "summary": "",
             "sources": [
-                "moxie.foxnews.com"
+                "rss.cbc.ca"
             ],
-            "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-5-get-100-49ers-commanders-monday-night-football"
+            "url": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-deaths-carney-9.7386478?cmp=rss"
+        },
+        {
+            "headline": "Canadian who stole a Las Vegas flamingo after drinking '30 to 40' beers convicted of animal cruelty",
+            "summary": "A Las Vegas court convicted Ontario man Mitchell Fairbarn of animal cruelty charges Monday for snatching a flamingo named Peachy from its habitat at the Flamingo Las Vegas Hotel an...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/canadian-flamingo-las-vegas-9.7386697?cmp=rss"
+        },
+        {
+            "headline": "'Not out of the woods': Family rallies around soldier badly burned in CFB Wainwright fire",
+            "summary": "Before he was airlifted to hospital and intubated, Sean Hiatt managed to call his mom and tell her he'd been injured in a training accident at CFB Wainwright. He was coherent at th...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/calgary/wainwright-fire-hiatt-injured-town-community-monday-9.7387581?cmp=rss"
+        },
+        {
+            "headline": "Curling controversy: Unusual finish generates boos, ruffles feathers at Slam event",
+            "summary": "The Grand Slam of Curling's competition committee plans to meet this week to discuss an unusual finish at the Co-op Invitational that sent two Canadian teams into the playoffs and ...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/sports/olympics/winter/curling/curling-controversy-co-op-invitational-grand-slam-victoria-9.7387494?cmp=rss"
+        },
+        {
+            "headline": "Man who lost legs to MS warming heads and hearts by knitting tuques on custom-made cot",
+            "summary": "Leonard Foidart built a cot so he can knit comfortably while lying down. The 84-year-old from Notre-Dame-de-Lourdes, Man., lost his legs decades ago and finds it difficult to sit b...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/manitoba/senior-custom-cot-knitting-tuques-9.7382128?cmp=rss"
+        },
+        {
+            "headline": "Zelenskyy says Ukraine given no early warning from allies as Russia strikes energy targets",
+            "summary": "Russia launched new attacks on Ukraine's energy infrastructure using ballistic missiles and jet-powered drones, Ukrainian President Volodymyr Zelenskyy said Monday, adding that Kyi...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/world/russian-missiles-drones-kyiv-overnight-9.7386357?cmp=rss"
         },
         {
             "headline": "McGill law school grapples with fallout after paroled murderer excluded from campus",
@@ -284,46 +324,6 @@
                 "rss.cbc.ca"
             ],
             "url": "https://www.cbc.ca/news/business/anthropic-postmedia-torstar-globe-canadian-press-copyright-lawsuit-9.7387205?cmp=rss"
-        },
-        {
-            "headline": "The Simpsons' Apu is back in Springfield after nearly a decade — with a new voice",
-            "summary": "Apu Nahasapeemapetilon has spoken on The Simpsons for the first time since 2017, returning in Sunday's episode, \"Treehouse of Horror Presents: The Revengening.\" The character has a...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/entertainment/the-simpsons-apu-returns-new-actor-9.7386792?cmp=rss"
-        },
-        {
-            "headline": "Former Winnipeg mayor Sam Katz violated public trust, ex-CAO lacked moral compass, police HQ inquiry says",
-            "summary": "Former Winnipeg mayor Sam Katz “violated the public trust” and former city chief administrative officer Phil Sheegl displayed “a complete lack of a moral compass” by engaging in \"b...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-police-headquarters-inquiry-report-9.7385809?cmp=rss"
-        },
-        {
-            "headline": "Police issue curfew in Paris after weekend rioting over cost of living, school conditions",
-            "summary": "Paris police issued an overnight curfew on Monday in two areas of the French capital in efforts to prevent further violence, after a weekend marred by France's worst rioting in yea...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/paris-france-protests-rioting-looting-curfew-9.7387103?cmp=rss"
-        },
-        {
-            "headline": "For thousands of workers, lifelong time-zone math will go out the window when B.C. stops changing clocks",
-            "summary": "",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/british-columbia/what-time-is-it-in-bc-work-schedule-clock-change-confusion-daylight-saving-9.7382921?cmp=rss"
-        },
-        {
-            "headline": "Inflation rises to 3.1% in September, as fuel prices push higher: StatsCan",
-            "summary": "Canada's annual inflation rate rose to 3.1 per cent in September, Statistics Canada said on Monday, which according to some economists leaves the Bank of Canada in a difficult posi...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/business/inflation-september-2026-9.7386437?cmp=rss"
         }
     ],
     "latin-america": [
@@ -404,6 +404,14 @@
     ],
     "south-asia": [
         {
+            "headline": "Delhi protest: CJP leaders’ judicial custody extended by two days",
+            "summary": "Along with other CJP workers, they displayed the national flag at the site and shouted slogans against Chief Election Commissioner Gyanesh Kumar before being detained and placed un...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/cities/Delhi/delhi-protest-cjp-leaders-judicial-custody-extended-by-two-days/article71602829.ece"
+        },
+        {
             "headline": "Jaishankar welcomes UAE’s Foreign Minister Al Nahyan in Mumbai",
             "summary": "PM Al Nahyan, who is also the UAE's Foreign Minister, will hold wide-ranging talks with External Affairs Minister S. Jaishankar on October 20",
             "sources": [
@@ -450,22 +458,6 @@
                 "thehindu.com"
             ],
             "url": "https://www.thehindu.com/news/cities/mumbai/tiger-shroff-firing-fir-lodged-mumbai-crime-branch-takes-over-probe/article71602123.ece"
-        },
-        {
-            "headline": "Delhi protest: CJP leaders’ judicial custody extended by two days",
-            "summary": "Along with other CJP workers, they displayed the national flag at the site and shouted slogans against Chief Election Commissioner Gyanesh Kumar before being detained and placed un...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/cities/Delhi/delhi-protest-cjp-leaders-judicial-custody-extended-by-two-days/article71602829.ece"
-        },
-        {
-            "headline": "Unconstitutional SIR must be stopped, all illegitimately deleted voters must be restored: Congress",
-            "summary": "Jairam Ramesh shared the screenshot of a media report which claimed that at least 100 voters from two polling booths in Delhi’s Okhla constituency were found to have been wrongly c...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/unconstitutional-sir-must-be-stopped-all-illegitimately-deleted-voters-must-be-restored-congress/article71602821.ece"
         }
     ],
     "europe": [
@@ -622,12 +614,12 @@
             "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Russia-China-US summit would prolong the war, Kyiv says",
-            "summary": "Ukrainian ⁠Foreign Minister ​Andrii Sybiha said on ​Monday that a summit between Russia, China ​and the ‌US would ⁠encourage President Vladimir Putin ‌to prolong the war. The ​Wall...",
+            "headline": "Live: Curfews come into effect around France to combat looting",
+            "summary": "Curfews came into effect in cities across France, including Paris, Bordeaux, Nice and Lyon, as French police attempted to crack down on looting during protests. Prime Minister Seba...",
             "sources": [
                 "france24.com"
             ],
-            "url": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says"
+            "url": "https://www.france24.com/en/europe/20261020-live-curfews-come-into-effect-around-france-to-combat-looting"
         }
     ],
     "middle-east": [
@@ -956,16 +948,8 @@
     ],
     "oceania": [
         {
-            "headline": "Australian MP critically injured after being hit by car in apparent attack",
-            "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Warning signs over threats to Australian politicians were rising before MP hit by car",
-            "summary": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+            "headline": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+            "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
