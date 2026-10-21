@@ -1,6 +1,6 @@
 {
     "_metadata": {
-        "last_updated": "2026-10-20 23:10:16 UTC"
+        "last_updated": "2026-10-21 04:41:43 UTC"
     },
     "globalOverview": [
         {
@@ -166,6 +166,94 @@
     ],
     "north-america": [
         {
+            "headline": "DHS launches nationwide ICE operation targeting illegal immigrants accused of SNAP food stamp fraud",
+            "summary": "The Department of Homeland Security launched a nationwide ICE operation arresting illegal immigrants accused of fraudulently obtaining SNAP benefits.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/dhs-launches-nationwide-ice-operation-targeting-illegal-immigrants-accused-snap-food-stamp-fraud"
+        },
+        {
+            "headline": "Titans release defensive tackle Jordan Elliott days after picking up first win of NFL season",
+            "summary": "Jordan Elliott was released after a facility incident, while Alontae Taylor was mysteriously made inactive as the Tennessee Titans face turmoil.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/titans-release-defensive-tackle-jordan-elliott-days-after-picking-up-first-win-nfl-season"
+        },
+        {
+            "headline": "Lane Kiffin is already getting his excuses ready for LSU's disappointing regular season",
+            "summary": "With two losses and a brutal remaining schedule, Lane Kiffin is already building his excuses for LSU&apos;s College Football Playoff hopes fading.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/lane-kiffin-already-getting-excuses-ready-lsu-disappointing-regular-season"
+        },
+        {
+            "headline": "'Pod Save America' hosts warn El-Sayed to tone down 'condescension' on Muslim Brotherhood questions",
+            "summary": "Jon Favreau and Tommy Vietor debated El-Sayed&apos;s testy response to Muslim Brotherhood questions on &quot;Pod Save America,&quot; warning against &quot;condescension.&quot;",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/media/pod-save-america-hosts-warn-el-sayed-tone-down-condescension-muslim-brotherhood-questions"
+        },
+        {
+            "headline": "Woman sues popular Texas taco chain for $250K after allegedly finding cow tooth in meal, restaurant confirms",
+            "summary": "Nohemi Castillo claims she nearly swallowed a cow tooth in her Torchy&apos;s Tacos barbacoa, and the Austin chain confirmed the unusual object was real.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/lifestyle/woman-sues-popular-texas-taco-chain-250k-allegedly-finding-cow-tooth-meal-restaurant-confirms"
+        },
+        {
+            "headline": "Honduran illegal immigrant charged with assaulting ICE officers with hammer during New Jersey traffic stop",
+            "summary": "Reinieri De Jesus Licona Amador allegedly grabbed a hammer and swung it at ICE officers during a New Jersey traffic stop before being pepper sprayed.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/honduran-illegal-immigrant-charged-assaulting-ice-officers-hammer-new-jersey-traffic-stop"
+        },
+        {
+            "headline": "Americans who moved to Europe after Trump win now say they regret leaving",
+            "summary": "American expats who fled Trump&apos;s America now voice frustration with Europe&apos;s lower quality of life, bureaucracy, and hostility toward American culture.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/media/americans-who-moved-europe-after-trump-win-now-say-regret-leaving"
+        },
+        {
+            "headline": "Stranger in Biden mask pulls bizarre Texas doorstep stunt as police issue warning",
+            "summary": "Doorbell camera video captures a person in a Joe Biden mask eating a banana on a Texas doorstep, prompting Watauga police to issue a warning.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/stranger-biden-mask-pulls-bizarre-texas-doorstep-stunt-police-issue-warning"
+        },
+        {
+            "headline": "Royce White exploring legal avenues after WNBA tells Congress he is ineligible to play",
+            "summary": "Royce White says he plans to explore legal avenues against the WNBA after Commissioner Cathy Engelbert told Congress he is ineligible as a man.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/royce-white-exploring-legal-avenues-wnba-tells-congress-ineligible-play"
+        },
+        {
+            "headline": "Roseanne Barr challenges Hollywood to give her another shot after controversial 'Roseanne' exit",
+            "summary": "Roseanne Barr self-financed her new sitcom &quot;Meemaw&quot; and is now shopping it around, including to Elon Musk who she said didn&apos;t reply.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/entertainment/roseanne-barr-challenges-hollywood-give-another-shot-controversial-roseanne-exit"
+        },
+        {
+            "headline": "Ana Navarro clashes with 'The View' co-hosts, declares there's 'no way in hell' she would meet with Trump",
+            "summary": "&quot;The View&quot; co-host Ana Navarro declared she would never meet with President Donald Trump as the panel debated a recent dinner he had with Bill Maher and others.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/media/ana-navarro-clashes-the-view-co-hosts-declares-theres-no-way-hell-she-would-meet-trump"
+        },
+        {
             "headline": "NBA has no issue with LeBron James' helicopter commute, 76ers star calls transportation 'just another way'",
             "summary": "Adam Silver calls LeBron James&apos; Fanatics-branded helicopter commute between New York City and Philadelphia &quot;perfectly appropriate&quot; for the NBA.",
             "sources": [
@@ -174,87 +262,7 @@
             "url": "https://www.foxnews.com/outkick-sports/nba-no-issue-lebron-james-helicopter-commute-76ers-star-calls-transportation-just-another-way"
         },
         {
-            "headline": "American Airlines jet suffers brake trouble, blown tire after landing at Chicago O'Hare: FAA",
-            "summary": "An American Airlines flight from Spain reported brake issues and a blown tire after landing at Chicago O&apos;Hare on Tuesday.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/us/american-airlines-jet-suffers-brake-trouble-blown-tire-landing-chicago-ohare-faa"
-        },
-        {
-            "headline": "Bill Ackman sounds off on 'crazy, radicalized' Democratic Party, argues it's in 'worst place it's ever been'",
-            "summary": "Investor Bill Ackman slammed the Democratic Party as &quot;radicalized and anti-American,&quot; singling out Sen. Chuck Schumer for compromising his values to keep his job.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/media/bill-ackman-sounds-off-crazy-radicalized-democratic-party-argues-its-worst-place-its-ever-been"
-        },
-        {
-            "headline": "Kate Middleton brings back Princess Diana's famous tiara for glamorous night alongside Prince William",
-            "summary": "Kate Middleton chose Queen Mary&apos;s Lover&apos;s Knot tiara and a yellow Elie Saab gown for the Oman state banquet at Windsor Castle alongside Prince William.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/entertainment/kate-middleton-brings-back-princess-diana-famous-tiara-glamorous-night-prince-william"
-        },
-        {
-            "headline": "Vacation spot slapped with US travel warning over crime, sexual assaults and kidnappings",
-            "summary": "Citing violent crime, kidnapping, terrorism and health risks across the popular safari destination, the U.S. State Department raised Kenya&apos;s travel advisory to Level 3.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/travel/vacation-spot-slapped-us-travel-warning-over-crime-sexual-assaults-kidnappings"
-        },
-        {
-            "headline": "Judge Trump called a ‘lunatic’ abruptly backs off demand after showdown with DOJ No. 3",
-            "summary": "Judge Ana Reyes reversed her Rule 11 demand against DOJ attorneys during a nearly seven-hour hearing over the East Potomac Golf Links dispute.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/judge-trump-called-lunatic-abruptly-backs-off-demand-showdown-doj-3"
-        },
-        {
-            "headline": "Commanders star wide receiver Terry McLaurin out for season with patellar tendon injury, coach says",
-            "summary": "The reeling Washington Commanders will be without star wide receiver Terry McLaurin for the season after he tore his left patellar tendon.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/commanders-star-wide-receiver-terry-mclaurin-out-season-patellar-tendon-injury-coach-says"
-        },
-        {
-            "headline": "Washington Post columnist reinstated after being fired over Charlie Kirk posts gloats about receiving back pay",
-            "summary": "Karen Attiah celebrated her arbitration win against The Washington Post, sharing a Rihanna dance video after being awarded a year&apos;s worth of back pay.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/media/washington-post-columnist-reinstated-after-fired-charlie-kirk-posts-gloats-receiving-back-pay"
-        },
-        {
-            "headline": "Trump says Ilhan Omar could go to jail or be deported, calls her ‘a disgrace to our country’",
-            "summary": "President Donald Trump said Ilhan Omar could face jail in addition to deportation, calling her &quot;a disgrace&quot; amid a federal immigration fraud probe.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/trump-says-ilhan-omar-could-go-jail-deported-calls-her-a-disgrace-our-country"
-        },
-        {
-            "headline": "Reporter’s Notebook: A Democratic majority could expose the limits of the progressive agenda",
-            "summary": "Hakeem Jeffries faces a balancing act between DSA-backed progressives and moderate majority makers if Democrats flip the House in the midterms.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/reporters-notebook-democratic-majority-expose-limits-progressive-agenda"
-        },
-        {
-            "headline": "Former Disney star Erik von Detten sued for elder abuse after couple poured $2.1M retirement savings into gold",
-            "summary": "Erik von Detten faces financial elder abuse and fraud allegations after an elderly couple claims they lost over $900,000 on overpriced gold coins.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/entertainment/former-disney-star-erik-von-detten-sued-elder-abuse-after-couple-poured-2-1m-retirement-savings-gold"
-        },
-        {
-            "headline": "Alberta referendum votes for 9 questions still being tallied after projected win for 'remain' in Canada side",
+            "headline": "Smith says it’s time to 'move forward' in a united Canada, but vows to fight for Alberta autonomy",
             "summary": "",
             "sources": [
                 "rss.cbc.ca"
@@ -270,12 +278,36 @@
             "url": "https://www.cbc.ca/news/world/trump-tariffs-lawsuit-9.7388900?cmp=rss"
         },
         {
-            "headline": "CRA awards $12M contract to subsidiary of U.S. company over non-profit Commissionaires",
-            "summary": "The secretary of state in charge of the Canada Revenue Agency is defending the CRA's decision to award a $12-million security contract to a Canadian subsidiary of an American multi...",
+            "headline": "The National | Danielle Smith calls referendum results a 'reset'",
+            "summary": "Oct. 20, 2026 | Alberta Premier Danielle Smith hails a 'reset' with Ottawa after voters soundly reject separating from Canada. Investigators probe the deadly fire at CFB Wainwright...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/politics/cra-contract-american-company-over-commissionaires-9.7389002?cmp=rss"
+            "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss"
+        },
+        {
+            "headline": "Will Ferrell sings O Canada to parody U.S. tensions  | The Moment",
+            "summary": "Jennifer Stojkovic tells The National about the moment Will Ferrell parodied Canada-U.S. tensions with a funny version of O Canada at the Hollywood Bowl in Los Angeles during a liv...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/player/play/9.7389509?cmp=rss"
+        },
+        {
+            "headline": "Trump walks back threat to ban Bombardier sales in the U.S.",
+            "summary": "U.S. President Donald Trump has backed down on a threat to ban Bombardier plane sales in the United States, allowing the aerospace sector to breathe a sigh of relief after tempers ...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/world/trump-bombardier-threat-9.7389332?cmp=rss"
+        },
+        {
+            "headline": "Pamela Wallin says it was simply 'time to move on' after surprise resignation from Senate",
+            "summary": "Wallin was appointed Consul General of Canada to New York after 9/11 by former Prime Minister Chrétien. She became one of Canada's best-known broadcast journalists during her time ...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/saskatchewan/pamela-wallin-senate-resignation-9.7389209?cmp=rss"
         },
         {
             "headline": "Former Blue Jay, wife charged with fraud linked to Ontario youth baseball program fees: police",
@@ -292,41 +324,17 @@
                 "rss.cbc.ca"
             ],
             "url": "https://www.cbc.ca/news/politics/carney-trump-trade-deal-midterms-9.7387484?cmp=rss"
-        },
-        {
-            "headline": "Mother of soldier killed in CFB Wainwright fire says her 'beautiful son' wanted to protect Canada",
-            "summary": "",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/radio/asithappens/aidan-goulding-sonia-monk-9.7388746?cmp=rss"
-        },
-        {
-            "headline": "Juror sends mysterious letter to jailed man he just helped convict of murder in Windsor, Ont.",
-            "summary": "Roughly two months after a first-degree murder trial in Windsor, Ont., ended, one juror took the “highly unusual” step of sending the convicted man a letter requesting to meet.",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/windsor/juror-letter-to-man-convicted-of-murder-9.7388390?cmp=rss"
-        },
-        {
-            "headline": "You Can See Everything eyes Oscars history",
-            "summary": "A24 has launched a head-turning Oscars campaign for the film You Can See Everything, which highlights how unusual the documentary is.",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/entertainment/you-can-see-everything-oscars-campaign-9.7388336?cmp=rss"
-        },
-        {
-            "headline": "The 4 main alternative theories not presented at O.J. Simpson's murder trial and why they're all problematic",
-            "summary": "The possibility that O.J. Simpson had a previously unknown accomplice dispose of a knife after he'd committed a double homicide has been raised after a just-published New York Time...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/brown-simpson-goldman-murders-accomplice-9.7363694?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Argentina and the UK to face off in Hamburg on November 10 over Falklands oil",
+            "summary": "\n\t   \t      \n\t         The International Tribunal for the Law of the Sea will hold hearings on November 10 and 11 on Argentina’s request for an order requiring the United Kingdom t...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/21/argentina-and-the-uk-to-face-off-in-hamburg-on-november-10-over-falklands-oil?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Milei calls Lula a “leftist thief” and says he hopes he will not “steal” Brazil’s election",
             "summary": "\n\t   \t      \n\t         Argentine President Javier Milei attacked his Brazilian counterpart Luiz Inácio Lula da Silva again on Tuesday, accusing him of a “dirty campaign” and saying...",
@@ -366,17 +374,17 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/10/19/us-calls-at-the-un-for-an-end-to-the-decolonisation-committee-key-to-argentina-s-claim?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Argentina spent US$445 million on weapons and military equipment under Milei",
-            "summary": "\n\t   \t      \n\t         Argentina’s government spent some US$445 million on weapons, military and security equipment from when Javier Milei took office in December 2023 to August 20...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/10/19/argentina-spent-us-445-million-on-weapons-and-military-equipment-under-milei?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [
+        {
+            "headline": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+            "summary": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
             "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
@@ -412,6 +420,54 @@
     ],
     "south-asia": [
         {
+            "headline": "U.S.-India perfectly aligned on core issues: Marco Rubio",
+            "summary": "After laying a wreath at the Taj Mahal Palace Hotel, S. Jaishankar says India expects its partners to show ‘zero tolerance’ towards terrorism",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece"
+        },
+        {
+            "headline": "India, U.S. trade deal to be much different: Donald Trump",
+            "summary": "Speaking to reporters at the Oval Office on Tuesday (October 20, 2026), Mr. Trump said India and the U.S. were pretty close to making a trade deal",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/international/india-us-trade-deal-to-be-much-different-donald-trump/article71606121.ece"
+        },
+        {
+            "headline": "Can India turn retrofitment into the next mobility revolution?",
+            "summary": "Unlike new EV manufacturing, which rewards scale and centralisation, retrofitment rewards distribution through local workshops, technicians and entrepreneurship; with the right tra...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/can-india-turn-retrofitment-into-the-next-mobility-revolution/article71605340.ece"
+        },
+        {
+            "headline": "Delhi Police transfers second case against Das, Ranka to Crime Branch",
+            "summary": "The Crime Branch will now investigate two cases against the CJP leaders. The other case linked to Mr. Das and Mr. Ranka allegedly entering the Jantar Mantar area was transferred to...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/delhi-police-transfers-second-case-against-das-ranka-to-crime-branch/article71606050.ece"
+        },
+        {
+            "headline": "Dussehra 2026: Traffic curbs in Dwarka, security tightened in Delhi-NCR and more",
+            "summary": "As per the Delhi Traffic Police advisory, restrictions may be imposed on six roads in Dwarka on October 20 evening",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/dussehra2026-trafficcurbs-in-dwarka-security-tightened-delhi-ncr/article71604249.ece"
+        },
+        {
+            "headline": "Tiger Shroff firing case: Four arrested for allegedly transporting firearm to Mumbai, helping coordinate operation",
+            "summary": "The Special Cell’s statement does not establish whether the pistol allegedly transported by the accused has been conclusively linked to the firing incident or whether the alleged a...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/maharashtra/tiger-shroff-firing-case-four-arrested-for-allegedly-transporting-firearm-to-mumbai-helping-coordinate-operation/article71605447.ece"
+        },
+        {
             "headline": "Rubio pushes for India to buy more U.S., Venezuelan oil",
             "summary": "S. Jaishankar hosts U.S. Secretary of State, UAE FM in Mumbai, holds trilateral talks on trade, energy, and connectivity",
             "sources": [
@@ -426,83 +482,11 @@
                 "thehindu.com"
             ],
             "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmir-clerics-including-mirwaiz-say-eviction-of-delhis-historic-race-course-mosque-deeply-disturbing/article71605010.ece"
-        },
-        {
-            "headline": "At Dussehra rally, Uddhav bats for 'regime change', promises 'acche din' after ousting BJP",
-            "summary": "Addressing the annual Dussehra rally at Shivaji Park in Mumbai, Mr. Thackeray insisted that staging a protest is the right of youth because 'vote chori' (vote theft) is happening w...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/maharashtra/at-dussehra-rally-uddhav-bats-for-regime-change-promises-acche-din-after-ousting-bjp/article71605421.ece"
-        },
-        {
-            "headline": "AAP claims Punjab CM Mann detained for three hours at Delhi airport, fined ₹50,000",
-            "summary": "In a statement, Mr. Pannu accused the Centre of creating “obstacles” in the path of Punjab’s progress",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/punjab/aap-claims-punjab-cm-mann-detained-for-three-hours-at-delhi-airport-fined-50000/article71605400.ece"
-        },
-        {
-            "headline": "In Delhi, only 0.27% of 4.5 lakh Form 6s disposed of so far",
-            "summary": "Of 4.5 lakh applications for inclusion, about 2.39 lakh were filed by those seeking re-inclusion or applying for the first time after the draft roll was published",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/cities/Delhi/in-delhi-only-027-of-45-lakh-form-6s-disposed-of-so-far/article71605163.ece"
-        },
-        {
-            "headline": "CJP’s Abhijeet Dipke thanks Delhi Ramlila organisers for ‘free publicity’ over cockroach effigy",
-            "summary": "The Shree Keshav Ram Leela Committee, which organises the annual event in Pitampura, has said the cockroach effigy is intended to symbolise filth and dirt and promote cleanliness u...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/cjps-abhijeet-dipke-thanks-delhi-ramlila-organisers-for-free-publicity-over-cockroach-effigy/article71603848.ece"
-        },
-        {
-            "headline": "U.S.-India perfectly aligned on core issues: Marco Rubio",
-            "summary": "After laying a wreath at the Taj Mahal Palace Hotel, S. Jaishankar says India expects its partners to show ‘zero tolerance’ towards terrorism",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece"
-        },
-        {
-            "headline": "Newsprint makers seek PM Modi's intervention over coal shortages, demand 75:25 allocation ratio",
-            "summary": "In a representation to PM Modi, the association sought timely coal dispatches under existing fuel supply agreements with Coal India Limited subsidiaries",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/newsprint-makers-seek-pm-modis-intervention-over-coal-shortages-demand-7525-allocation-ratio/article71605332.ece"
-        },
-        {
-            "headline": "PM Modi flags three ‘enemies’ of India, calls for unity in national interest",
-            "summary": "“Let our thoughts be aligned… all the institutions of the nation, all political parties… let us stand together for the national interest. We must proceed with this very spirit; we ...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/pm-modi-flags-three-enemies-of-india-calls-for-unity-in-national-interest/article71605000.ece"
-        },
-        {
-            "headline": "Police actions on protesters violate India’s core international legal obligations: UN human rights experts",
-            "summary": "‘Any restrictions on peaceful assembly must be legal, pursue a legitimate aim, and be necessary and proportionate,’ says a joint statement by a group of globally recognised rapport...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/un-experts-urge-india-to-curb-force-against-unarmed-student-protesters/article71604310.ece"
-        },
-        {
-            "headline": "CJP leaders Saurav Das, Ashutosh Ranka move Delhi HC against judicial custody",
-            "summary": "The CJP leaders have questioned the justification for their continued detention on grounds of public order; their plea states that any restriction on liberty must be backed by a re...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/saurav-das-ashutosh-ranka-judicial-custody-cjp-seeks-urgent-hearing-in-delhi-high-court/article71604565.ece"
         }
     ],
     "europe": [
         {
-            "headline": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+            "headline": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
             "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
             "sources": [
                 "feeds.bbci.co.uk"
@@ -630,6 +614,22 @@
             "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Live: French PM Lecornu to meet with unions ahead of new protests",
+            "summary": "After implementing curfews in cities across France to prevent a continuation of the weekend's violence and looting, French Prime Minister Sébastien Lecornu prepared to meet with tr...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests"
+        },
+        {
+            "headline": "Italy announces new security measures after Milan riots, deploying 500 soldiers",
+            "summary": "Italy announced tougher security measures on Tuesday after weekend riots in Milan left more than 100 police officers injured and shops looted. The government will deploy 500 additi...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers"
+        },
+        {
             "headline": "Italy sends troops, toughens security laws after Milan clashes",
             "summary": "Italy on Tuesday approved the deployment of 500 troops to Milan after violent clashes as fuel price protests hit pasta production and food deliveries in southern Italy. A cabinet m...",
             "sources": [
@@ -644,22 +644,6 @@
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/zelenskiy-meets-witkoff-as-us-ukraine-relations-sink-to-new-lows"
-        },
-        {
-            "headline": "Ukraine ‘losing people and time’, Zelensky says after Oslo talks",
-            "summary": "Ukrainian President Volodymyr Zelensky has wrapped up talks with US envoys in Norway Tuesday where he was determined to put diplomacy back on a \"more constructive path”, Oslo offic...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261020-zelensky-oslo-for-talks-with-us-envoys-ukraine-claims-missile-holdup"
-        },
-        {
-            "headline": "Six years on, France remembers slain teacher Samuel Paty",
-            "summary": "French schoolteacher Samuel Paty was killed on October 16, 2020 after false rumours circulated about racism following one of his lessons in which cartoons from the satirical public...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/tv-shows/focus/20261020-six-years-on-france-remembers-slain-teacher-samuel-paty"
         }
     ],
     "middle-east": [
@@ -826,6 +810,14 @@
     ],
     "africa": [
         {
+            "headline": "Is Ebola under control in Kenya after nine cases confirmed?",
+            "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Nigeria confirms Ebola case linked to East Africa",
             "summary": "A female patient is in isolation and receiving medical care after being admitted to a hospital in Abuja.",
             "sources": [
@@ -976,14 +968,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "'Knowledge is power' - Awoniyi",
-            "summary": "Nigeria's Taiwo Awoniyi explains why he values education so highly, having completed a course which could see him become one of football's future leaders.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "oceania": [
@@ -1114,6 +1098,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "'Handcuff me until I catch my flight': Stranded woman begs to be let through NZ",
+            "summary": "Stranded woman begs New Zealand and Australia, saying she's willing to be detained if it satisfies authorities that she has no intention other than to return home.",
+            "sources": [
+                "rnz.co.nz"
+            ],
+            "url": "https://www.rnz.co.nz/news/pacific/2052806/handcuff-me-until-i-catch-my-flight-to-sri-lanka-stranded-woman-begs-new-zealand-and-australia"
         },
         {
             "headline": "Israel joins Pacific Islands Forum as partner",
