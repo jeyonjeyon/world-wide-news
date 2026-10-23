@@ -1,6 +1,6 @@
 {
     "_metadata": {
-        "last_updated": "2026-10-23 03:46:49 UTC"
+        "last_updated": "2026-10-23 04:44:53 UTC"
     },
     "globalOverview": [
         {
@@ -420,6 +420,30 @@
     ],
     "south-asia": [
         {
+            "headline": "Trying to establish 'facts' about incident 'apparently' involving Indians on yacht off Yemen coast: India",
+            "summary": "The incident comes amid an escalation of hostilities between Iran-backed Houthis and Saudi Arabia, with both sides targeting each other's facilities and infrastructure",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/indian-embassy-seeks-facts-on-october-yacht-incident-off-yemen/article71614503.ece"
+        },
+        {
+            "headline": "Good-quality diets associated with better cholesterol levels even among those with genetic load",
+            "summary": "Chennai-based study reveals the essential link between the quality of diet and cholesterol levels in Asian Indians",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/tamil-nadu/good-quality-diets-associated-with-better-cholesterol-levels-even-among-those-with-genetic-load/article71612633.ece"
+        },
+        {
+            "headline": "CM Satheesan offers to host Raihan Vadra's exhibition in Keralam",
+            "summary": "Raihan Vadra said the Bikaner House administration in Delhi pulled down many of his pictures of the protests at his solo exhibition, 'No Idea Is Final'",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/kerala/cm-satheesan-offers-to-host-raihan-vadras-no-idea-is-final-exhibition-in-kerala/article71614478.ece"
+        },
+        {
             "headline": "How India thwarted Pakistan’s bid to steal crucial defence data",
             "summary": "Officers of the Counter Intelligence Cell of Andhra Pradesh, intrigued by a slew of messaging patterns across various social media platforms, busted a major digital honey-trap rack...",
             "sources": [
@@ -766,6 +790,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
+            "summary": "Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss"
         },
         {
             "headline": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
