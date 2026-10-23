@@ -1,8 +1,32 @@
 {
     "_metadata": {
-        "last_updated": "2026-10-22 23:21:19 UTC"
+        "last_updated": "2026-10-23 03:46:49 UTC"
     },
     "globalOverview": [
+        {
+            "headline": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
+            "summary": "Long-range Russian attacks across Ukraine are intensifying, including in Kyiv, causing at least 14 civilian deaths and 78 injuries overnight into Thursday, as UN agencies continue ...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168648"
+        },
+        {
+            "headline": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
+            "summary": "The deadly flash flood that tore through Nepal in August is a “defining moment” for both the country and the international community, according to the head of the UN field agency w...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168651"
+        },
+        {
+            "headline": "Mothers get nearly eight times more paid leave than fathers – and women pay the price",
+            "summary": "Mothers around the world get nearly eight times as much paid leave as fathers, leaving women to shoulder most of the care burden – at a cost to families, children and economies, ac...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168650"
+        },
         {
             "headline": "DR Congo: Ebola responders under pressure as outbreak expands",
             "summary": "As the deadly Ebola disease outbreak reached an eighth province of the Democratic Republic of the Congo (DRC), investigators pursued all leads on Thursday to assess the risk of the...",
@@ -138,30 +162,6 @@
                 "news.un.org"
             ],
             "url": "https://news.un.org/feed/view/en/story/2026/10/1168628"
-        },
-        {
-            "headline": "Hunger is ‘an avoidable tragedy’ in a world of plenty: Türk",
-            "summary": "More than a quarter of humanity struggles to get enough food, even though the world produces enough for everyone, UN human rights chief Volker Türk said on Monday, blaming injustic...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168627"
-        },
-        {
-            "headline": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
-            "summary": "Armed groups in Haiti are adapting to intensified security operations, stepping up reprisals against civilians and extending their reach into rural areas, the UN warned the Securit...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168626"
-        },
-        {
-            "headline": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
-            "summary": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168625"
         }
     ],
     "north-america": [
@@ -174,8 +174,40 @@
             "url": "https://www.foxnews.com/politics/trump-pushback-biden-disaster-gender-surprise-5-key-moments-from-kansas-senate-debate"
         },
         {
+            "headline": "Rhamondre Stevenson's miraculous 48-yard touchdown stuns Bears as clock expires in first half",
+            "summary": "Rhamondre Stevenson&apos;s 48-yard touchdown as time expired stunned Soldier Field, with only a 4.3% chance of scoring on the play against the Chicago Bears.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/rhamondre-stevenson-miraculous-48-yard-touchdown-stuns-bears-clock-expires-first-half"
+        },
+        {
+            "headline": "Bears fans don Mike Ditka's famous mustache as franchise legend honored at first home game since death",
+            "summary": "The Bears gave out fake mustaches for fans, while a moment of silence was held for Ditka, a Super Bowl-winning coach and Pro Football Hall of Famer.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/bears-fans-don-mike-ditka-famous-mustache-franchise-legend-honored-first-home-game-since-death"
+        },
+        {
+            "headline": "NYC votes to end nearly 170-year-old horse carriage tradition as Trump blasts ban, drivers threaten lawsuit",
+            "summary": "The Transport Workers Union threatened federal court action after the New York City Council voted 40-7 to ban horse-drawn carriages by June 2028.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/nyc-votes-end-nearly-170-year-old-horse-carriage-tradition-trump-blasts-ban-drivers-threaten-lawsuit"
+        },
+        {
+            "headline": "Erika Kirk rips 'absurd' 2029 trial timeline for Charlie Kirk's alleged assassin",
+            "summary": "Erika Kirk is fighting a proposed 2029 trial date for her husband&apos;s alleged assassin, calling the defense timeline &quot;grossly out of line&quot; with comparable cases.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/erika-kirk-rips-absurd-2029-trial-timeline-charlie-kirks-alleged-assassin"
+        },
+        {
             "headline": "DOJ opens investigation into Trump ally Corey Lewandowski",
-            "summary": "The Justice Department is probing Corey Lewandowski following a criminal referral from Homeland Security investigators, according to a source.",
+            "summary": "The Justice Department is probing Corey Lewandowski after a criminal referral from Homeland Security investigators, according to a source.",
             "sources": [
                 "moxie.foxnews.com"
             ],
@@ -198,92 +230,28 @@
             "url": "https://www.foxnews.com/media/judge-orders-trump-give-deposition-10-billion-defamation-lawsuit-bbc"
         },
         {
-            "headline": "Paul Finebaum says ESPN banned him from shows after telling OutKick he might run for office",
-            "summary": "Paul Finebaum confirms ESPN sidelined him after his OutKick interview about running for Alabama Senate as a Republican and voting for Trump.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/paul-finebaum-says-espn-banned-him-shows-after-telling-outkick-might-run-office"
-        },
-        {
-            "headline": "Did we create a monster? Arch Manning’s ‘aw shucks’ persona is gone before must-win Ole Miss game",
-            "summary": "Texas Longhorns football faces Ole Miss with college football playoff hopes at stake as Sarkisian reveals a new side of quarterback Arch Manning.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/did-we-create-monster-arch-mannings-aw-shucks-persona-gone-must-win-ole-miss-game"
-        },
-        {
-            "headline": "Man accused of decapitating Iwo Jima statue with sledgehammer near Quantico",
-            "summary": "A sledgehammer attack on an Iwo Jima statue near Marine Corps Base Quantico left one Marine statue decapitated, causing hundreds of thousands in damage.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/us/man-accused-decapitating-iwo-jima-statue-sledgehammer-near-quantico"
-        },
-        {
-            "headline": "Fox News Poll: Nail-biter in Maine Senate race",
-            "summary": "Susan Collins and Troy Jackson are deadlocked at 49% in the Maine Senate race as Trump&apos;s job approval sits 25 points underwater in the state.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/fox-news-poll-nail-biter-maine-senate-race"
-        },
-        {
-            "headline": "English soccer team apologizes for hosting an out of hand 'Wet & Wild' show at their clubhouse",
-            "summary": "Footage from the UK Pleasure Boys&apos; &quot;Wet &amp; Wild&quot; show at Banbury United FC&apos;s Spencer Clubhouse sparked an apology after acts went too far.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/english-soccer-team-apologizes-hosting-out-of-hand-wet-wild-show-clubhouse"
-        },
-        {
-            "headline": "Trump rally exposes surprising cracks in MAGA base as Republicans face midterm test",
-            "summary": "President Donald Trump&apos;s Clemson rally revealed GOP fractures over the Iran war, funding and immigration as one student eyes crossing party lines.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/trump-rally-exposes-surprising-cracks-maga-base-republicans-face-midterm-test"
-        },
-        {
-            "headline": "Singham-linked nonprofits defy House ultimatum, blast 'MAGA-led witch hunt'",
-            "summary": "The People&apos;s Forum and BreakThrough News rejected House Ways and Means Committee demands, accusing Jason Smith&apos;s probe of violating First Amendment rights.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/singham-linked-nonprofits-defy-house-ultimatum-blast-maga-led-witch-hunt"
-        },
-        {
-            "headline": "Hegseth unleashes Trump's 'Arsenal of Freedom' with warning to defense giants",
-            "summary": "Pete Hegseth&apos;s video showcases missile launches and production lines as the Trump administration&apos;s &quot;Arsenal of Freedom&quot; campaign targets Pentagon red tape.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/hegseth-unleashes-trumps-arsenal-freedom-warning-defense-giants"
-        },
-        {
-            "headline": "Emily Ratajkowski poses in plunging black swimsuit as she shares intimate photo with boyfriend",
-            "summary": "Emily Ratajkowski&apos;s Instagram carousel features a daring swimsuit selfie, a cigarette snap that divided fans and a kiss with boyfriend Gavras.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/entertainment/emily-ratajkowski-poses-plunging-black-swimsuit-she-shares-intimate-photo-boyfriend"
-        },
-        {
-            "headline": "Fox News unveils extensive 2026 midterm coverage plans with control of Congress at stake",
-            "summary": "Fox News Media is launching a live blog, interactive map, and AI chatbot to deliver real-time 2026 midterm election results and race updates.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/media/fox-news-unveils-extensive-2026-midterm-coverage-plans-control-congress-stake"
-        },
-        {
-            "headline": "More Canadian Crime Stoppers chapters pause program after CBC investigation reveals details about data leak",
-            "summary": "At least seven Crime Stoppers chapters — including the one with the largest number of compromised tips — have announced they are suspending programs a day after CBC revealed the ex...",
+            "headline": "What is PHP, and how did a flaw in its code lead several websites to go dark this week?",
+            "summary": "PHP is an open-source computer language that powers an estimated 70 per cent of the internet. While websites being taken offline caused alarm, that was done to implement a fix — wh...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/investigates/toronto-crime-stoppers-pausing-program-data-leak-hack-9.7391157?cmp=rss"
+            "url": "https://www.cbc.ca/news/business/php-cybersecurity-vulnerability-explainer-9.7392394?cmp=rss"
+        },
+        {
+            "headline": "'Agent Layla': A sex assault victim went undercover to bring her abuser to justice. Now he's out on parole",
+            "summary": "A parole board decision to release the man who sexually assaulted her has created a whiplash effect for Vienna Luke, who is simultaneously advocating against Justin Sewell’s releas...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/british-columbia/agent-layla-podcast-justin-sewell-full-parole-9.7389231?cmp=rss"
+        },
+        {
+            "headline": "The haunting call of Canada's common loon is becoming less common amid widespread declines, study suggests",
+            "summary": "A new study published Thursday in the journal FACETS reveals severe declines in loon chick populations across North America over the past three decades or more.",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/manitoba/loon-decline-canada-9.7392013?cmp=rss"
         },
         {
             "headline": "Canada Post starting weekend parcel delivery in Toronto, Montreal and Ottawa this fall",
@@ -294,12 +262,28 @@
             "url": "https://www.cbc.ca/news/politics/canada-post-weekend-delivery-update-9.7391900?cmp=rss"
         },
         {
-            "headline": "'Agent Layla': A sex assault victim went undercover to bring her abuser to justice. Now he's out on parole",
-            "summary": "A parole board decision to release the man who sexually assaulted her has created a whiplash effect for Vienna Luke, who is simultaneously advocating against Justin Sewell’s releas...",
+            "headline": "Canadians caught up in Trump voter fraud crackdown as U.S. accuses Canada of election interference",
+            "summary": "",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/british-columbia/agent-layla-podcast-justin-sewell-full-parole-9.7389231?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/canadians-caught-up-in-trump-crackdown-on-noncitizen-voting-midterms-9.7390326?cmp=rss"
+        },
+        {
+            "headline": "'They destroyed my life': 2 Sask. men imprisoned for exploiting woman from Bangladesh",
+            "summary": "A Bangladeshi woman who was trafficked and exploited by two men in Saskatchewan — and repeatedly raped by one of them — says she now lives in fear and struggles to trust anyone.",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/saskatchewan/human-trafficking-sohel-haider-mohammed-masum-sentence-9.7392552?cmp=rss"
+        },
+        {
+            "headline": "Police services across Ontario suspend use of Crime Stoppers after CBC investigation",
+            "summary": "At least six Ontario police units have now paused their use of the Crime Stoppers program, a day after CBC revealed the extent of a massive data leak.",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/investigates/toronto-crime-stoppers-pausing-program-data-leak-hack-9.7391157?cmp=rss"
         },
         {
             "headline": "Canadian diplomats based in U.S. advised to avoid appearing with midterm candidates",
@@ -386,6 +370,14 @@
     ],
     "east-asia": [
         {
+            "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
+            "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
             "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
             "sources": [
@@ -428,6 +420,30 @@
     ],
     "south-asia": [
         {
+            "headline": "How India thwarted Pakistan’s bid to steal crucial defence data",
+            "summary": "Officers of the Counter Intelligence Cell of Andhra Pradesh, intrigued by a slew of messaging patterns across various social media platforms, busted a major digital honey-trap rack...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/andhra-pradesh/how-india-thwarted-pakistans-bid-to-steal-crucial-defence-data/article71612709.ece"
+        },
+        {
+            "headline": "Indian killed as Houthis attack Saudi Arabia’s Dammam airport",
+            "summary": "Separately, the Houthis (Ansar Allah) claimed that Saudi Arabia had attacked a yacht carrying Indians in the Red Sea, adding that they were conducting rescue operations",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/indian-national-killed-in-saudi-dammam-airport-attack-others-injured/article71610871.ece"
+        },
+        {
+            "headline": "Face-off with China continues at multiple locations along Arunachal border: ITBP D-G",
+            "summary": "ITBP chief says drones are the future of warfare, warning that India cannot face China with traditional weapons alone; says underground shelters are a priority in the new style of ...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/face-off-with-china-continues-at-multiple-locations-along-arunachal-border-itbp-d-g/article71612994.ece"
+        },
+        {
             "headline": "The grandmothers hitting patriarchy and weights",
             "summary": "Grandmothers in areas surrounding Delhi are rewriting the rules of engagement, one reel at a time. From challenging patriarchy and lifting weights to dancing to Haryanvi pop and in...",
             "sources": [
@@ -442,14 +458,6 @@
                 "thehindu.com"
             ],
             "url": "https://www.thehindu.com/news/national/an-ironclad-resolve-in-the-national-interest/article71613326.ece"
-        },
-        {
-            "headline": "FDA suspends eight Mumbai eateries, seizes 38 tonnes of food stock across Maharashtra",
-            "summary": "The FDA said inspections uncovered unhygienic kitchens and drainage systems, rusted racks and utensils, returned bread being mixed with fresh bread, incomplete temperature records,...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/maharashtra/fda-suspends-eight-mumbai-eateries-seizes-38-tonnes-of-food-stock-across-maharashtra/article71612725.ece"
         }
     ],
     "europe": [
@@ -760,20 +768,12 @@
             "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
-            "summary": "Some of the core issues that drove Trump&#039;s US supporters and the MAGA movement are no longer Republican talking points.",
+            "headline": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+            "summary": "Trump indicates new strikes on Iran, saying the US has knocked the &#039;hell out&#039; of the country.",
             "sources": [
                 "aljazeera.com"
             ],
-            "url": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss"
-        },
-        {
-            "headline": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
-            "summary": "Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue.",
-            "sources": [
-                "aljazeera.com"
-            ],
-            "url": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss"
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss"
         }
     ],
     "africa": [
