@@ -1,170 +1,138 @@
 {
     "_metadata": {
-        "last_updated": "2026-10-23 23:07:20 UTC"
+        "last_updated": "2026-10-24 04:32:15 UTC"
     },
     "globalOverview": [
         {
-            "headline": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-            "summary": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nucl...",
+            "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+            "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168664"
+            "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
-            "summary": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this week, he got the chance to tell them so in person.",
+            "headline": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+            "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168662"
+            "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
-            "summary": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its sold...",
+            "headline": "Arrest made after fire at Hitler's Eagle's Nest retreat",
+            "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168660"
+            "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Sudan: Drone strikes killed at least 306 people in three weeks",
-            "summary": "UN human rights chief Volker Türk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in...",
+            "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+            "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168661"
+            "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Soil mapping aims to boost agricultural production in Kenya",
-            "summary": "A new Kenyan initiative is helping farmers better understand their soils in a bid to improve crop yields amid intensifying climate shocks.",
+            "headline": "Denmark to ban mink farming in government U-turn",
+            "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168657"
+            "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
-            "summary": "As Ebola continues to spread in the Democratic Republic of the Congo (DRC), more resources are needed to fight the disease and feed patients and families, UN agencies said on Frida...",
+            "headline": "Watch: CCTV footage shows gunmen near church in Jordan",
+            "summary": "Dozens of people had been inside the church for a funeral when the shooting began, local media report.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168655"
+            "url": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Yemen: Deepening concerns for Taiz City as aid is blocked from entering",
-            "summary": "Aid agencies warned on Friday of the fast-developing humanitarian emergency inside Taiz City in Yemen, which has been encircled by de facto Houthi forces fighting government troops...",
+            "headline": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+            "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168654"
+            "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "World News in Brief: Russian attacks intensify, UN team tours West Bank, ‘unlawful’ elderly deaths",
-            "summary": "Long-range Russian attacks across Ukraine are intensifying, including in Kyiv, causing at least 14 civilian deaths and 78 injuries overnight into Thursday, as UN agencies continue ...",
+            "headline": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+            "summary": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168648"
-        },
-        {
-            "headline": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
-            "summary": "The deadly flash flood that tore through Nepal in August is a “defining moment” for both the country and the international community, according to the head of the UN field agency w...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168651"
-        },
-        {
-            "headline": "Mothers get nearly eight times more paid leave than fathers – and women pay the price",
-            "summary": "Mothers around the world get nearly eight times as much paid leave as fathers, leaving women to shoulder most of the care burden – at a cost to families, children and economies, ac...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168650"
-        },
-        {
-            "headline": "DR Congo: Ebola responders under pressure as outbreak expands",
-            "summary": "As the deadly Ebola disease outbreak reached an eighth province of the Democratic Republic of the Congo (DRC), investigators pursued all leads on Thursday to assess the risk of the...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168647"
-        },
-        {
-            "headline": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
-            "summary": "The international community must combat inequality and stop wars from expanding to ensure a safer world for all, the UN Secretary-General said on Thursday.",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168646"
-        },
-        {
-            "headline": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
-            "summary": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic People’s Republic of Korea (DPRK) from China, serious concerns persist ab...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168645"
-        },
-        {
-            "headline": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
-            "summary": "The use of&nbsp;live ammunition, arson and the destruction of centuries-old olive trees have marked the opening weeks of this year’s harvest in the occupied West Bank.",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168644"
-        },
-        {
-            "headline": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
-            "summary": "The World Health Organization (WHO) is&nbsp;scaling up emergency health response operations across Afar, Amhara and Tigray in Ethiopia to address growing humanitarian and health ne...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168643"
-        },
-        {
-            "headline": "Migrants paid up to $500 million in smuggling fees on European sea routes",
-            "summary": "The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, report...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168642"
-        },
-        {
-            "headline": "Summit in Samarkand, a boon for child wellbeing and health",
-            "summary": "Representatives from across the international community are meeting in Samarkand, Uzbekistan, to ensure that children everywhere can thrive in a world marred by war, climate chaos ...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168640"
-        },
-        {
-            "headline": "UN agencies appeal for help to protect weakest from unprecedented El Niño",
-            "summary": "Two UN agencies issued a powerful appeal on Wednesday for immediate assistance to help communities already being impacted by the strongest El Niño weather pattern on record.",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168639"
-        },
-        {
-            "headline": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
-            "summary": "Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to ...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168638"
-        },
-        {
-            "headline": "WHO supports Nigeria after first Ebola case confirmed",
-            "summary": "The World Health Organization (WHO) is assisting Nigeria following confirmation of the first case of Ebola Bundibugyo virus disease in the country.",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168637"
+            "url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "north-america": [
+        {
+            "headline": "Michigan Senate rivals clash over Muslim Brotherhood allegations as Rogers doubles down on El-Sayed",
+            "summary": "The Michigan Senate race heated up on &quot;Special Report&quot; as Abdul El-Sayed and Mike Rogers clashed over war powers, Medicare-for-all and Muslim Brotherhood allegations.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/media/michigan-senate-rivals-clash-muslim-brotherhood-allegations-rogers-doubles-down-el-sayed"
+        },
+        {
+            "headline": "NASCAR legend Tony Stewart's return to the Truck Series ends early with big crash at Talladega",
+            "summary": "Tony Stewart&apos;s Talladega Superspeedway return ended just 17 laps in after a massive nine-car wreck triggered by Stewart Friesen&apos;s loose truck.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/nascar-legend-tony-stewart-return-truck-series-ends-early-big-crash-talladega"
+        },
+        {
+            "headline": "McMahon plans to 'fire' herself from a job, striving to show Congress that the Department of Ed is not needed",
+            "summary": "Linda McMahon is shifting Department of Education functions to the departments of Labor and Treasury through interagency agreements as proof of concept.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/media/mcmahon-plans-fire-herself-out-job-striving-show-congress-dept-ed-not-needed"
+        },
+        {
+            "headline": "Vanessa Trump 'finally cancer-free,' she says after health battle in emotional video with daughter Kai",
+            "summary": "Months after revealing her breast cancer diagnosis in April, Vanessa Trump announces she is cancer-free in an emotional video with daughter Kai Trump.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/lifestyle/vanessa-trump-finally-cancer-free-after-health-battle-emotional-video-daughter-kai"
+        },
+        {
+            "headline": "Wrestling legend Ric Flair, 77, rushed to Tampa hospital after fall outside bar, head injuries: report",
+            "summary": "Ric Flair was reportedly rushed to a Tampa hospital by ambulance after falling outside a bar, suffering facial cuts and a possible concussion.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/wrestling-legend-ric-flair-77-rushed-tampa-hospital-fall-outside-bar-head-injuries-report"
+        },
+        {
+            "headline": "Rubio urges Cubans to work with CIA to bring political change to communist-run island",
+            "summary": "Secretary of State Marco Rubio urged Cubans to form a &quot;discrete partnership with the CIA&quot; as Trump floated sending him to Cuba to cut a deal.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/world/rubio-urges-cubans-work-cia-bring-political-change-communist-run-island"
+        },
+        {
+            "headline": "Trump says NFL 'could've probably postponed' Paris game as France protests stretch police thin",
+            "summary": "President Donald Trump says the NFL could have postponed the Steelers-Saints Paris game as mass protests stretch police and security resources.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/trump-says-nfl-could-probably-postponed-paris-game-france-protests-stretch-police-thin"
+        },
+        {
+            "headline": "ESPN posts propagandistic headline about Trump, LeBron and national anthem",
+            "summary": "LeBron James was caught practicing his golf swing during the national anthem before his 76ers debut, prompting Trump to call it a &quot;TOTAL DISGRACE.&quot;",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/espn-posts-propagandistic-headline-trump-lebron-national-anthem"
+        },
         {
             "headline": "Colorado high school volleyball players faced alleged benching threat amid trans athlete dispute",
             "summary": "Two Colorado high school volleyball players were allegedly threatened with benching after discussing a transgender athlete in their program.",
@@ -214,84 +182,28 @@
             "url": "https://www.foxnews.com/world/france-edge-70000-police-deployed-unrest-authorities-probe-suspected-terror-attack-near-paris"
         },
         {
-            "headline": "Tom Cruise punched Jack Nicholson after 'A Few Good Men' courtroom scene, co-star says",
-            "summary": "Kevin Pollak reveals Tom Cruise punched Jack Nicholson in the shoulder after the iconic &quot;A Few Good Men&quot; courtroom scene took a hilarious turn.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/entertainment/tom-cruise-punched-jack-nicholson-few-good-men-courtroom-scene-co-star-says"
-        },
-        {
-            "headline": "Fans are sick and tired of the NFL's obsession with flags, anthem fatigue is real & UGA football is too smart!",
-            "summary": "NFL penalty frustrations and national anthem fatigue dominate fan reactions as the World Series, Brewers, and college football take center stage.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/fans-sick-tired-nfl-obsession-flags-anthem-fatigue-real-uga-football-smart"
-        },
-        {
-            "headline": "Team USA's Olympic hockey heroes reunite as Jack Hughes' Devils land goalie Connor Hellebuyck in blockbuster",
-            "summary": "Team USA&apos;s Olympic gold medal heroes Connor Hellebuyck and Jack Hughes are now NHL teammates after a blockbuster trade to the New Jersey Devils.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/team-usa-olympic-hockey-heroes-reunite-jack-hughes-devils-land-goalie-connor-hellebuyck-blockbuster"
-        },
-        {
-            "headline": "WNBA players, coaches refuse to explain national anthem absences amid mounting criticism",
-            "summary": "Natalie Nakase and Gabby Williams cite a pregame routine for WNBA Finals anthem absences, while Rhyne Howard responds to criticism over Team USA.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/wnba-players-coaches-refuse-explain-national-anthem-absences-amid-mounting-criticism"
-        },
-        {
-            "headline": "CHAOS INC.: Communists, Antifa, agitators in the red-green alliance",
-            "summary": "The Communist Youth of Greece backed French student protests, linking education demands to anti-austerity activism across Europe and beyond.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/world/chaos-inc-communists-antifa-agitators-red-green-alliance"
-        },
-        {
-            "headline": "Brazil’s rapid election count puts spotlight on voting security ahead of US midterms",
-            "summary": "Sen. Flávio Bolsonaro leads Luiz Inácio Lula da Silva heading into Brazil&apos;s runoff as the voting system his father attacked may hand him victory.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/world/brazils-rapid-election-count-puts-spotlight-voting-security-ahead-us-midterms"
-        },
-        {
-            "headline": "Linda Perry says she was feeling healthy when doctors discovered ‘angry’ cancer by chance",
-            "summary": "Musician Linda Perry reveals her triple negative breast cancer was discovered unexpectedly during a breast reduction she had delayed for years.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/entertainment/linda-perry-feeling-healthy-doctors-discovered-angry-cancer-chance"
-        },
-        {
-            "headline": "Ilhan Omar calls Trump ‘creep’ as president revives ‘fake name,’ marriage allegations",
-            "summary": "Trump seized on reporting about Rep. Ilhan Omar&apos;s birth name and revived longstanding allegations involving her former husband.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/ilhan-omar-calls-trump-creep-president-revives-fake-name-marriage-allegations"
-        },
-        {
-            "headline": "CHAOS INC.: Who's who in the global mayhem network? Communists, Antifa, agitators in the red-green alliance.",
-            "summary": "The Communist Youth of Greece backed French student protests, linking education demands to anti-austerity activism across Europe and beyond.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/world/chaos-inc-whos-who-global-mayhem-network-communists-antifa-agitators-red-green-alliance"
-        },
-        {
             "headline": "Trump to swap some tariffs on Canadian goods amid midterm pressure",
             "summary": "",
             "sources": [
                 "rss.cbc.ca"
             ],
             "url": "https://www.cbc.ca/news/politics/trump-susan-collins-tariffs-midterms-9.7393675?cmp=rss"
+        },
+        {
+            "headline": "Canadian cybersecurity exec arrested by FBI accused of working with criminals to defraud his own clients",
+            "summary": "Edward Dubrovsky, a Toronto-area cybersecurity exec arrested by the FBI amid a high-profile hacking probe, colluded with cybercriminals to extort money from his own clients, accord...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/world/edward-dubrovsky-court-hearing-9.7393755?cmp=rss"
+        },
+        {
+            "headline": "U.S. Ambassador Pete Hoekstra offers Canada help following Wainwright tragedy",
+            "summary": "Four soldiers were killed and 39 injured on Oct. 17 when a fire that began during a training exercise on an anti-grenade launching range was picked up by fierce winds.",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/pete-hoekstra-cfb-wainwright-fire-9.7394553?cmp=rss"
         },
         {
             "headline": "Loblaw CEO apologizes to 2 million shoppers for personal data hack, offers free credit monitoring",
@@ -316,17 +228,33 @@
                 "rss.cbc.ca"
             ],
             "url": "https://www.cbc.ca/news/politics/carney-zelenskyy-trump-starlink-9.7393553?cmp=rss"
-        },
-        {
-            "headline": "Conservatives accuse government of 'cooking the books' over immigration data presentation",
-            "summary": "The federal Conservatives are accusing Immigration, Refugees and Citizenship Canada of exaggerating the decrease in new permanent residents in official messaging posted online.",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/politics/immigration-graph-michelle-rempel-garner-9.7393528?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Burnham tells Trump of the “economic consequences” of Argentina’s Falklands measures",
+            "summary": "\n\t   \t      \n\t         British Prime Minister Andy Burnham set out to US President Donald Trump on Friday “the economic consequences that Argentina’s coercive measures have for the...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/24/burnham-tells-trump-of-the-economic-consequences-of-argentina-s-falklands-measures?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "Bolsonaro apologises twice to Lula in a calmer final debate as polls show a dead heat",
+            "summary": "\n\t   \t      \n\t         Senator Flávio Bolsonaro apologised twice to President Luiz Inácio Lula da Silva during the last televised debate before Sunday’s runoff in Brazil, held on F...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/24/bolsonaro-apologises-twice-to-lula-in-a-calmer-final-debate-as-polls-show-a-dead-heat?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "Lula accuses Bolsonaro of “licking Trump’s boots” in the final debate",
+            "summary": "\n\t   \t      \n\t         Brazilian President Luiz Inácio Lula da Silva on Friday accused his runoff rival, Senator Flávio Bolsonaro, of “licking the boots” of US President Donald Tru...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/24/lula-accuses-bolsonaro-of-licking-trump-s-boots-in-the-final-debate?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "The Pope cancels a visit to Assisi as a medical precaution, two weeks before his South American tour",
             "summary": "\n\t   \t      \n\t         Pope Leo XIV has cancelled a visit planned for Tuesday, October 27, to Assisi, in central Italy, after his doctors advised against helicopter travel so soon ...",
@@ -366,22 +294,6 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/10/23/sanders-and-democratic-lawmakers-ask-meta-to-explain-alleged-favouritism-towards-bolsonaro?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Milei hopes to exploit the Falklands’ oil dispute in next year’s election",
-            "summary": "\n\t   \t      \n\t         By Vicky Kapogianni Associate Professor of International and Environmental Law, University of Reading  - Argentina is trying to stop a planned oil project ne...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/10/22/milei-hopes-to-exploit-the-falklands-oil-dispute-in-next-year-s-election?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "A partial win in Hamburg could help Milei in 2027, an analysis suggests",
-            "summary": "\n\t   \t      \n\t         Argentina has slim chances of persuading the International Tribunal for the Law of the Sea to halt the Sea Lion oil project north of the Falklands by invokin...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/10/22/a-partial-win-in-hamburg-could-help-milei-in-2027-an-analysis-suggests?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [
@@ -444,12 +356,28 @@
     ],
     "south-asia": [
         {
+            "headline": "IndiGo extends cancellation of Saudi flights as regional tensions escalate: Indian mission",
+            "summary": "IndiGo has extended the cancellation of its flights to and from Saudi Arabia as regional security concerns escalate, with Riyadh routes halted until October 31, 2026 and Jeddah, Da...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/indigo-extends-cancellation-of-saudi-flights-as-regional-tensions-escalate-indian-mission/article71616665.ece"
+        },
+        {
             "headline": "Students protest against SIR at Mumbai University, demand arrest of CEC Gyanesh Kumar",
             "summary": "Organised by the Disha Students’ Organisation and Bhagat Singh Jan Adhikar Yatra (BSJAY), the demonstration also called for the repeal of the 2023 law governing the appointment of ...",
             "sources": [
                 "thehindu.com"
             ],
             "url": "https://www.thehindu.com/news/cities/mumbai/students-protest-against-sir-at-mumbai-university-demand-arrest-of-cec-gyanesh-kumar/article71616990.ece"
+        },
+        {
+            "headline": "Assam government to present 1st Bhupen Hazarika National Award to Usha Mangeshkar: Himanta",
+            "summary": "Prime Minister Narendra Modi will present the award at the concluding ceremony of the singer's year-long birth centenary celebrations at Bharat Mandapam in New Delhi on November 29...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/assam-government-to-present-1st-bhupen-hazarika-national-award-to-usha-mangeshkar-himanta/article71617957.ece"
         },
         {
             "headline": "Bomb threat emails to Mumbai Mayor’s office, three Navi Mumbai schools trigger security alert",
@@ -466,28 +394,12 @@
                 "thehindu.com"
             ],
             "url": "https://www.thehindu.com/news/national/india-continues-to-facilitate-transport-of-life-saving-medicines-to-iran-mea/article71616727.ece"
-        },
-        {
-            "headline": "IndiGo extends cancellation of Saudi flights as regional tensions escalate: Indian mission",
-            "summary": "No summary available.",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/indigo-extends-cancellation-of-saudi-flights-as-regional-tensions-escalate-indian-mission/article71616665.ece"
-        },
-        {
-            "headline": "Society of Indian Screen Editors formed",
-            "summary": "Film editor Bina Paul is the chairperson",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/kerala/society-of-indian-screen-editors-formed/article71617254.ece"
         }
     ],
     "europe": [
         {
             "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-            "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+            "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
@@ -792,20 +704,20 @@
             "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Why is Israel increasing its presence in the Balkans?",
-            "summary": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?",
+            "headline": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
+            "summary": "Israeli military raid targets at least 15 towns in the northern West Bank, including Nablus and Jenin.",
             "sources": [
                 "aljazeera.com"
             ],
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss"
+            "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss"
         },
         {
-            "headline": "‘Generation Right’: Israeli youth show strong support for the right",
-            "summary": "Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.",
+            "headline": "Syrians protest Israel’s incursions near occupied Golan Heights",
+            "summary": "Syrians are protesting Israel’s occupation of parts of the country’s south, near the occupied Golan Heights.",
             "sources": [
                 "aljazeera.com"
             ],
-            "url": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss"
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss"
         }
     ],
     "africa": [
@@ -1108,12 +1020,12 @@
             "url": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Tongan man deported from Australia jailed over bid to set up Comancheros branch",
-            "summary": "Eneasi Taumoefolau, who was deported from Australia, has been sentenced to 12 years' jail over his role in establishing a branch of the Comancheros outlaw motorcycle gang in Tonga.",
+            "headline": "Parker-Hulme murder: Pauline Parker dies in Scotland",
+            "summary": "Pauline Parker, one of the teen killers behind one of New Zealand's most infamous murders has died on the Scottish island of Orkney.",
             "sources": [
                 "rnz.co.nz"
             ],
-            "url": "https://www.rnz.co.nz/news/pacific/2092450/tongan-man-deported-from-australia-sentenced-to-12-years-jail-over-bid-to-set-up-comancheros-branch"
+            "url": "https://www.rnz.co.nz/news/crime-and-justice/2125765/parker-hulme-murder-pauline-parker-dies-in-scotland"
         }
     ]
 }
