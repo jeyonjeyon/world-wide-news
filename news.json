@@ -1,8 +1,24 @@
 {
     "_metadata": {
-        "last_updated": "2026-10-24 22:27:48 UTC"
+        "last_updated": "2026-10-25 04:36:44 UTC"
     },
     "globalOverview": [
+        {
+            "headline": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+            "summary": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning ...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168663"
+        },
+        {
+            "headline": "UN marks 81 years of global cooperation",
+            "summary": "The United Nations celebrates its 81st anniversary on Saturday, highlighting more than eight decades of work to advance peace, human rights and development around the world.",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168665"
+        },
         {
             "headline": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
             "summary": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nucl...",
@@ -146,25 +162,65 @@
                 "news.un.org"
             ],
             "url": "https://news.un.org/feed/view/en/story/2026/10/1168639"
-        },
-        {
-            "headline": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
-            "summary": "Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to ...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168638"
-        },
-        {
-            "headline": "WHO supports Nigeria after first Ebola case confirmed",
-            "summary": "The World Health Organization (WHO) is assisting Nigeria following confirmation of the first case of Ebola Bundibugyo virus disease in the country.",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168637"
         }
     ],
     "north-america": [
+        {
+            "headline": "Team USA hero Connor Hellebuyck discusses the difference between playing hockey in US and Canada",
+            "summary": "Connor Hellebuyck says he&apos;s &quot;really excited to play hockey again&quot; after sitting out all season and addresses New Jersey Devils media for the first time.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/team-usa-hero-connor-hellebuyck-discusses-difference-playing-hockey-us-canada"
+        },
+        {
+            "headline": "Raiders mourn Super Bowl champion Pete Banaszak, key figure in iconic 'Holy Roller' play",
+            "summary": "Pete Banaszak scored twice in the Raiders&apos; Super Bowl XI victory over the Vikings and played a key role in the infamous &quot;Holy Roller&quot; NFL play.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/raiders-mourn-super-bowl-champion-pete-banaszak-key-figure-iconic-holy-roller-play"
+        },
+        {
+            "headline": "Man arrested after fire engulfs Hitler’s Eagle’s Nest mountain retreat in the Bavarian Alps",
+            "summary": "A 33-year-old suspect allegedly set fire to the Eagle&apos;s Nest, Adolf Hitler&apos;s mountain retreat in the Bavarian Alps, and showed signs of mental illness.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/travel/man-arrested-fire-engulfs-hitlers-eagles-nest-mountain-retreat-bavarian-alps"
+        },
+        {
+            "headline": "Sacha Baron Cohen says 'Ali G: Who Iz I?' is his last in this style of comedy, calling them too risky",
+            "summary": "Sacha Baron Cohen reveals why &quot;Ali G: Who Iz I?&quot; will be his last over-the-top comedy, citing dangerous stunts and severe dehydration on set.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/entertainment/sacha-baron-cohen-says-ali-g-who-iz-i-last-over-the-top-comedy-calling-them-too-risky"
+        },
+        {
+            "headline": "Ukraine's Starlink restored as Elon Musk claims Kyiv violated terms of service 'to kill people'",
+            "summary": "Elon Musk claims Ukraine violated Starlink terms of service by using the civilian system for deadly drone strikes, saying the loophole was closed.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/ukraines-starlink-restored-elon-musk-claims-kyiv-violated-terms-service-kill-people"
+        },
+        {
+            "headline": "Obama compares Trump's White House renovations to 'Saddam Hussein opening a Cheesecake Factory' at Ohio rally",
+            "summary": "Barack Obama compared Trump&apos;s White House renovations to a Cheesecake Factory run by Saddam Hussein at a Cleveland rally for Ohio Democrats.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/obama-compares-trumps-white-house-renovations-saddam-hussein-opening-cheesecake-factory-ohio-rally"
+        },
+        {
+            "headline": "Indiana outlasts Michigan in overtime for first win at Big House since 1967",
+            "summary": "Josh Hoover&apos;s overtime touchdown run lifted No. 6 Indiana football past Michigan at the Big House for the first time since 1967 under Curt Cignetti.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/indiana-outlasts-michigan-overtime-first-win-big-house-since-1967"
+        },
         {
             "headline": "Democratic senator accused of 'political malpractice' after job ad ignites firestorm over DEI language",
             "summary": "The Atlantic dissects Edward Markey&apos;s intern job posting encouraging BIPOC and LGBTQ+ applicants that sparked accusations of discrimination against White men.",
@@ -230,76 +286,12 @@
             "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-game-2-world-series-rays-brewers"
         },
         {
-            "headline": "Ina Garten’s secret to creamy scrambled eggs is an unexpected Italian staple",
-            "summary": "Ina Garten&apos;s ricotta scrambled eggs rival Gordon Ramsay&apos;s crème fraîche method, creating a custardy texture with chives, Parmesan and red pepper flakes.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/food-drink/ina-garten-secret-creamy-scrambled-eggs-unexpected-italian-staple"
-        },
-        {
-            "headline": "Betr Promo Code FOXNEWS: Get a $200 Bonus and Four Sweat-Free Picks for the World Series, CFB, and More",
-            "summary": "Use Betr promo code FOXNEWS to get $200 in bonuses and four sweat-free picks for the World Series, college football, NBA, NHL and UFC.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonus-four-sweat-free-picks-world-series-cfb-more"
-        },
-        {
-            "headline": "Melania Trump's advisor reveals how she bridged Putin, Zelenskyy to broker frontline Ukraine truce",
-            "summary": "First lady Melania Trump &quot;single-handedly&quot; brokered a humanitarian ceasefire in Oleshky, Ukraine, her senior advisor says, as Russia extends the truce.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/media/melania-trumps-advisor-reveals-how-she-bridged-putin-zelenskyy-broker-front-line-ukraine-truce"
-        },
-        {
-            "headline": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Rays-Brewers World Series Game 2",
-            "summary": "Use Fanatics promo code FOXNEWS350 for Rays-Brewers World Series Game 2 and bet $20 to get $350 in FanCash.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-rays-brewers-world-series-game-2"
-        },
-        {
-            "headline": "Bill Maher fires back at liberal critics over second Trump dinner",
-            "summary": "Bill Maher fired back at critics during his &quot;Real Time&quot; monologue after attending a second White House dinner with Trump, Stephen A. Smith and Kid Rock.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/media/bill-maher-fires-back-liberal-critics-over-second-trump-dinner"
-        },
-        {
-            "headline": "Thousands booked tropical Bahamas cruise and ended up in freezing Canada instead",
-            "summary": "Royal Caribbean&apos;s Oasis of the Seas rerouted over 5,000 Bahamas-bound passengers to Halifax, Nova Scotia, after stormy weather forced an itinerary change.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/travel/thousands-booked-tropical-bahamas-cruise-ended-freezing-canada-instead"
-        },
-        {
-            "headline": "Dream, Valkyries stay off court for fourth WNBA Finals national anthem as some fans remain seated",
-            "summary": "Atlanta Dream and Golden State Valkyries left the court before the national anthem for a fourth straight WNBA Finals game as Trump urged a boycott.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/dream-valkyries-stay-off-court-fourth-wnba-finals-national-anthem-fans-remain-seated"
-        },
-        {
-            "headline": "Convicted murderer who attended McGill's faculty of law now back in custody",
-            "summary": "Jeffrey George Ewert, a convicted murderer who has stirred controversy while attending law courses at McGill University, is back in custody while authorities look more closely at h...",
+            "headline": "'They’re the nicest people': Obama mocks Trump for hitting Canada with tariffs",
+            "summary": "Former U.S. president Barack Obama slammed the Trump administration's tariff regime on Saturday, noting the absurdity of engaging in a trade war with Canada.",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845?cmp=rss"
-        },
-        {
-            "headline": "Musk says he was behind Starlink speed restriction in Ukraine",
-            "summary": "",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/ukraine-starlink-satellite-restored-9.7394719?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/obama-trump-canada-tariffs-9.7394871?cmp=rss"
         },
         {
             "headline": "Tens of thousands march in France as protests continue over schools and living costs",
@@ -310,20 +302,28 @@
             "url": "https://www.cbc.ca/news/world/france-cost-of-living-protests-police-9.7394594?cmp=rss"
         },
         {
+            "headline": "Musk says he was behind Starlink speed restriction in Ukraine",
+            "summary": "",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/world/ukraine-starlink-satellite-restored-9.7394719?cmp=rss"
+        },
+        {
+            "headline": "Convicted murderer who attended McGill's faculty of law now back in custody",
+            "summary": "Jeffrey George Ewert, a convicted murderer who has stirred controversy while attending law courses at McGill University, is back in custody while authorities look more closely at h...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/montreal/ewert-mcgill-law-parole-custody-9.7394845?cmp=rss"
+        },
+        {
             "headline": "Can millions of people live on the moon? These scientists say yes — but not for very long",
             "summary": "Billionaires like Elon Musk and Jeff Bezos are claiming that we can expect big cities with millions of people on the moon, but a new study found that that may not be possible, so d...",
             "sources": [
                 "rss.cbc.ca"
             ],
             "url": "https://www.cbc.ca/news/science/moon-civilization-water-9.7393267?cmp=rss"
-        },
-        {
-            "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
-            "summary": "Residents in L’Ascension, Que., are still waiting on repairs after August flooding washed away part of their main road. The municipality's mayor blames the delay for repairs on the...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956?cmp=rss"
         }
     ],
     "latin-america": [
@@ -452,6 +452,22 @@
     ],
     "south-asia": [
         {
+            "headline": "News in frames: Kutch’s dwindling camel population",
+            "summary": "In India’s largest district, industrialisation, mining, and shrinking grazing grounds are driving a steep decline in its camel population; once home to thousands of these beasts, G...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/gujarat/news-in-frames-kutchs-dwindling-camel-population/article71622558.ece"
+        },
+        {
+            "headline": "INDIA bloc to hold ‘public impeachment proceeding’ of CEC Gyanesh Kumar, says K.C. Venugopal",
+            "summary": "‘After this Public Impeachment, we will hold a Dilli Chalo March against Vote Chori culminating at Ramleela Maidan on November 1st, where at least a million concerned citizens will...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-amid-protest/article71621030.ece"
+        },
+        {
             "headline": "Healthcare challenges require collaborative, technology-ledsolutions, says Health Secretary",
             "summary": "He was speaking at the Confederation of Indian Industry’s TN MedClave, 2026",
             "sources": [
@@ -487,7 +503,7 @@
     "europe": [
         {
             "headline": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-            "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+            "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
@@ -495,7 +511,7 @@
         },
         {
             "headline": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
-            "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+            "summary": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
@@ -792,20 +808,20 @@
             "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-            "summary": "Tehran warns that even limited strikes would trigger a response &#039;several times greater&#039;.",
+            "headline": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+            "summary": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.",
             "sources": [
                 "aljazeera.com"
             ],
-            "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss"
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss"
         },
         {
-            "headline": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-            "summary": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden&#039;s airport and a coastguard base.",
+            "headline": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
+            "summary": "Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.",
             "sources": [
                 "aljazeera.com"
             ],
-            "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
+            "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss"
         }
     ],
     "africa": [
