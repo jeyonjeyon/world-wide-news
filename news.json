@@ -1,8 +1,16 @@
 {
     "_metadata": {
-        "last_updated": "2026-10-25 19:01:27 UTC"
+        "last_updated": "2026-10-25 22:31:49 UTC"
     },
     "globalOverview": [
+        {
+            "headline": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+            "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Venezuelan opposition leader María Machado returns after months in exile",
             "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
@@ -28,8 +36,8 @@
             "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-            "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+            "headline": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+            "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
@@ -116,14 +124,6 @@
             "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-            "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "The bitter row over military service that could shape Israel's future",
             "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
             "sources": [
@@ -133,6 +133,70 @@
         }
     ],
     "north-america": [
+        {
+            "headline": "Budget airline expands its footprint with 11 new tropical flight routes beginning in November",
+            "summary": "Southwest Airlines is launching 11 new nonstop international routes from Las Vegas, Nashville, Austin, Columbus and Pittsburgh starting November.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/travel/budget-airline-expands-footprint-11-new-tropical-flight-routes-beginning-november"
+        },
+        {
+            "headline": "NASCAR's Joey Logano rides on his roof, Riley Herbst nails wall at full speed in dangerous Talladega wreck",
+            "summary": "Joey Logano flipped onto his roof in a massive Talladega Superspeedway wreck with six laps to go, while Riley Herbst slammed into the inside barrier.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/nascars-joey-logano-rides-roof-riley-herbst-nails-wall-full-speed-dangerous-talladega-wreck"
+        },
+        {
+            "headline": "Rogers fires back at Welker over El-Sayed's Muslim Brotherhood controversy, 'You are giving him a pass'",
+            "summary": "Republican Michigan Senate candidate Mike Rogers accused NBC&apos;s Kristen Welker of defending his Democratic opponent Abdul El-Sayed during a heated &quot;Meet the Press&quot; ex...",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/media/rogers-fires-back-welker-over-el-sayeds-muslim-brotherhood-controversy-you-giving-him-pass"
+        },
+        {
+            "headline": "Dolphins avoid 0-17 crisis, pick up first win of season against struggling Jets on the road",
+            "summary": "Malik Willis threw two touchdowns and rushed for a score as the Miami Dolphins avoided an 0-6 start with a 28-25 road win over the New York Jets.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/dolphins-avoid-0-17-crisis-pick-up-first-win-season-against-struggling-jets-road"
+        },
+        {
+            "headline": "Woman busted in NYC rabbi syringe attack allegedly stabbed another Jewish man hours earlier: report",
+            "summary": "Anna Mochalova allegedly stalked a rabbi before stabbing him with a syringe in Manhattan&apos;s Diamond District, hours after allegedly attacking another man.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/woman-busted-nyc-rabbi-syringe-attack-allegedly-stabbed-jewish-man-hours-earlier"
+        },
+        {
+            "headline": "Aaron Rodgers pulls back curtain on bargaining talks with NFL envisioning one week of 16 international games",
+            "summary": "Aaron Rodgers revealed CBA talks once included a full international week with 16 games abroad, but says idea failed because of revenue concerns.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/aaron-rodgers-pulls-back-curtain-bargaining-talks-nfl-envisioning-one-week-16-international-games"
+        },
+        {
+            "headline": "Giants' Cam Skattebo hit with penalty after crushing Texans defender on routine run",
+            "summary": "Cam Skattebo lowered his helmet and trucked a Houston Texans defender, drawing a controversial unnecessary roughness flag that left Harbaugh perplexed.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/giants-cam-skattebo-penalty-crushing-texans-defender-routine-run"
+        },
+        {
+            "headline": "Firehouse Subs co-founder dies after building beloved American sandwich chain with brother",
+            "summary": "Chris Sorensen co-founded Firehouse Subs in Jacksonville, Florida, with less than $100 in the bank before building a 1,200-location empire.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/food-drink/firehouse-subs-co-founder-dies-after-building-beloved-american-sandwich-chain-brother"
+        },
         {
             "headline": "MAPPED: The states Trump and top Democrats are targeting before Election Day",
             "summary": "With Election Day less than two weeks away, Trump rallied in Florida, Georgia and Michigan as both parties deploy top surrogates to battlegrounds.",
@@ -174,36 +238,12 @@
             "url": "https://www.foxnews.com/entertainment/sound-music-star-julie-andrews-spotted-rare-hamptons-outing-weeks-after-turning-91"
         },
         {
-            "headline": "Trump immigration win could strengthen admin's hand in looming Supreme Court fight",
-            "summary": "The Fifth Circuit Friday ruled illegal immigrants never formally admitted to the U.S. have no constitutional right to individualized bond hearings.",
+            "headline": "Carney's geopolitical ambitions tested in defence industry co-operation with Turkey",
+            "summary": "",
             "sources": [
-                "moxie.foxnews.com"
+                "rss.cbc.ca"
             ],
-            "url": "https://www.foxnews.com/politics/trump-immigration-win-could-strengthen-admins-hand-looming-supreme-court-fight"
-        },
-        {
-            "headline": "Parents shouldn’t need the help of Congress to see their children’s school curriculum",
-            "summary": "A congressional report reveals Philadelphia schools asked students to honor Hamas-linked movements and identify America and Israel as terrorist states.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/opinion/parents-shouldnt-need-help-congress-see-children-school-curriculum"
-        },
-        {
-            "headline": "Six Flags to add seat belts to roller coasters after Georgia rider’s death",
-            "summary": "Six Flags is overhauling lap restraints on coasters across the U.S. and Canada, but key details about reopening timelines remain unanswered.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/us/six-flags-add-seat-belts-roller-coasters-georgia-rider-death"
-        },
-        {
-            "headline": "'Nobody Wants This' creator disagrees with show star Adam Brody accusing Israel of 'genocide'",
-            "summary": "&quot;Nobody Wants This&quot; creator Erin Foster responded to the show&apos;s star Adam Brody accusing Israel of &quot;genocide,&quot; saying she disagrees with him and defended t...",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/media/nobody-wants-this-creator-disagrees-show-star-adam-brody-accusing-israel-genocide"
+            "url": "https://www.cbc.ca/news/politics/turkey-canada-defence-military-drones-technology-9.7395400?cmp=rss"
         },
         {
             "headline": "Ukraine says its military did not violate Starlink terms, disputing Elon Musk claim",
@@ -238,14 +278,6 @@
             "url": "https://www.cbc.ca/news/canada/nova-scotia/the-donair-athon-halifax-david-wadden-feed-nova-scotia-9.7391576?cmp=rss"
         },
         {
-            "headline": "A polarized Brazil heads to presidential vote with economy, corruption top of mind",
-            "summary": "Frustrations around corruption and feelings of personal financial stagnation driving voting choices as Brazil heads to presidential run-off on Sunday, Oct. 25.",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/brazil-election-sunday-9.7392417?cmp=rss"
-        },
-        {
             "headline": "Egg freezing is becoming significantly more popular in Canada",
             "summary": "Over the last decade, egg freezing has become significantly more popular. According to data from the Canadian Fertility and Andrology Society (CFAS), there were 2,663 retrieval cyc...",
             "sources": [
@@ -254,28 +286,12 @@
             "url": "https://www.cbc.ca/news/health/egg-freezing-increasing-in-canada-9.7394690?cmp=rss"
         },
         {
-            "headline": "'They’re the nicest people': Obama mocks Trump for hitting Canada with tariffs",
-            "summary": "Former U.S. president Barack Obama slammed the Trump administration's tariff regime on Saturday, noting the absurdity of engaging in a trade war with Canada.",
+            "headline": "A polarized Brazil heads to presidential vote with economy, corruption top of mind",
+            "summary": "Frustrations around corruption and feelings of personal financial stagnation driving voting choices as Brazil heads to presidential run-off on Sunday, Oct. 25.",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/world/obama-trump-canada-tariffs-9.7394871?cmp=rss"
-        },
-        {
-            "headline": "Tens of thousands march in France as protests continue over schools and living costs",
-            "summary": "Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs in a fresh chal...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/france-cost-of-living-protests-police-9.7394594?cmp=rss"
-        },
-        {
-            "headline": "Musk says he was behind Starlink speed restriction in Ukraine",
-            "summary": "",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/ukraine-starlink-satellite-restored-9.7394719?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/brazil-election-sunday-9.7392417?cmp=rss"
         }
     ],
     "latin-america": [
@@ -422,6 +438,14 @@
             "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+            "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "More than 1,300 arrested as clashes follow another day of mass protests across France",
             "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
             "sources": [
@@ -436,14 +460,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-            "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
@@ -575,6 +591,14 @@
         }
     ],
     "middle-east": [
+        {
+            "headline": "Deeply divided Israel braces for pivotal election",
+            "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Israel to close West Bank crossings on election day as crackdown escalates",
             "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
@@ -712,28 +736,20 @@
             "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Why Israel's election is one of the most important in its history",
+            "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Why is it so hard to fight the Houthis?",
             "summary": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-            "summary": "Footage from inside the airport shows the moment the strike hit on Saturday.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-            "summary": "The consulate, first established in 1838, was set to be closed by the Israeli government in retaliation for UK sanctions.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "africa": [
@@ -746,8 +762,8 @@
             "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-            "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+            "headline": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+            "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
@@ -900,6 +916,22 @@
     ],
     "oceania": [
         {
+            "headline": "Weather causes cancellation of MotoGP in Australia",
+            "summary": "Sunday's MotoGP race in Australia is cancelled because of bad weather at Phillip Island.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/motorsport/articles/cxyvr5mm28qvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Rugby League: Australia reach World Cup semis",
+            "summary": "Australia edge to a 36-22 victory in a pulsating Group A match against Fiji to book their place in the Rugby League World Cup semi-finals.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c60mekrgx4zvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Australian MP's condition improves after alleged car attack",
             "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
             "sources": [
@@ -938,22 +970,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Australian MP loses both legs after alleged car attack, husband says",
-            "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
-            "summary": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "The women playing Australia's biggest sport - in London",
@@ -996,6 +1012,14 @@
             "url": "https://www.bbc.co.uk/sport/cricket/articles/c9x2zmz6480vo?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
+            "summary": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "'I'm not a hero': Man intervenes in Australian MP attack",
             "summary": "A Wangaratta local was among a group of by-standers who were first on the scene and detained the driver of the car that hit Helen Haines.",
             "sources": [
@@ -1026,14 +1050,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/c69qzvggzppro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Why are these endangered moths swarming Australia's east coast?",
-            "summary": "The sudden influx of Bogong moths has caused a stir in cities like Sydney and Canberra, with people filming them infiltrating their homes and cars.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Parker-Hulme murder: Pauline Parker dies in Scotland",
