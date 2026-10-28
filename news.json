@@ -1,316 +1,220 @@
 {
     "_metadata": {
-        "last_updated": "2026-10-28 05:36:43 UTC"
+        "last_updated": "2026-10-28 15:05:14 UTC"
     },
     "globalOverview": [
         {
-            "headline": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
-            "summary": "Families in Gaza are bracing for a fourth winter in tents and makeshift shelters as UN aid operations face mounting obstacles, with transport suspended on Tuesday due to Israel’s c...",
+            "headline": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+            "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168685"
+            "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Security Council LIVE: Women and girls face greater dangers in war",
-            "summary": "From Gaza to Yemen, women and girls are facing ever greater dangers this year simply surviving in war zones. The Security Council meets Tuesday to debate the best way to improve se...",
+            "headline": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+            "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168684"
+            "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Four in five domestic workers lack formal job protections, UN finds",
-            "summary": "An estimated 66.5 million domestic workers – representing more than four out of five domestic workers worldwide – were informally employed in 2025, a new report by the UN’s labour ...",
+            "headline": "Israel's election result is messy - here's why",
+            "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168683"
+            "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
-            "summary": "The UN refugee agency (UNHCR) on Tuesday urged continued international support for Ukraine’s population as Russian airstrikes intensify and humanitarian needs grow in advance of an...",
+            "headline": "What does Israel's election mean for Gaza and the wider world?",
+            "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168682"
+            "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
-            "summary": "Levels of carbon dioxide (CO2) and other major greenhouse gases in the atmosphere caused by burning fossil fuels reached record highs in 2025, locking in more long-term global warm...",
+            "headline": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+            "summary": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168677"
-        },
-        {
-            "headline": "Ebola: 20 contacts released from quarantine in Kenya, amid vaccine ‘hope’ in DR Congo",
-            "summary": "Twenty people associated with Kenya’s first case of Ebola Bundibugyo virus disease have been reunited with their families after being released from quarantine following completion ...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168676"
-        },
-        {
-            "headline": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
-            "summary": "Around 36,600 people have fled into northern Kenya following an uptick in fighting on the Ethiopian side of the border.&nbsp;",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168674"
-        },
-        {
-            "headline": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
-            "summary": "Israel’s “aggressive operation” in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker Türk warned on Monday, as the number of Pa...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168672"
-        },
-        {
-            "headline": "Women and girls’ share of civilian war deaths doubles since 2021",
-            "summary": "War is growing deadlier for women and girls, who accounted for one in four of the more than 37,000 civilians killed in armed conflict last year – double their share in 2021 – accor...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168673"
-        },
-        {
-            "headline": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
-            "summary": "Top human rights experts investigating Russia’s full-scale invasion of Ukraine&nbsp;said on Monday that the Russian authorities had committed war crimes and crimes against humanity...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168670"
-        },
-        {
-            "headline": "In Egypt, Guterres warns against Iran-US escalation",
-            "summary": "UN Secretary-General António Guterres called for dialogue and diplomacy to end the war between Iran and the United States in remarks on Monday to journalists in Cairo, Egypt.&nbsp;",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168669"
-        },
-        {
-            "headline": "Ebola: UN officials condemn killing of nurse in DR Congo",
-            "summary": "The UN’s Ebola coordinator and the head of the World Health Organization (WHO) have deplored the killing of a nurse working to halt the spread of the disease in the Democratic Repu...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168667"
-        },
-        {
-            "headline": "Why do planes keep circling before landing? UN has a plan to fix it",
-            "summary": "Air traffic delays cost billions and turn journeys into ordeals. Some countries are already proving that better coordination saves thousands of flying hours and cuts emissions – an...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168666"
-        },
-        {
-            "headline": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
-            "summary": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she assumed they were celebrations from a nearby wedding. It was the morning ...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168663"
-        },
-        {
-            "headline": "UN marks 81 years of global cooperation",
-            "summary": "The United Nations celebrates its 81st anniversary on Saturday, highlighting more than eight decades of work to advance peace, human rights and development around the world.",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168665"
-        },
-        {
-            "headline": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-            "summary": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return of inspectors to Iran, warning of growing fragility in the global nucl...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168664"
-        },
-        {
-            "headline": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
-            "summary": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this week, he got the chance to tell them so in person.",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168662"
-        },
-        {
-            "headline": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
-            "summary": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its sold...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168660"
-        },
-        {
-            "headline": "Sudan: Drone strikes killed at least 306 people in three weeks",
-            "summary": "UN human rights chief Volker Türk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168661"
-        },
-        {
-            "headline": "Soil mapping aims to boost agricultural production in Kenya",
-            "summary": "A new Kenyan initiative is helping farmers better understand their soils in a bid to improve crop yields amid intensifying climate shocks.",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168657"
+            "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "north-america": [
         {
-            "headline": "Federal judge rules Bill Essayli unlawfully serving as de facto US attorney in California",
-            "summary": "Bill Essayli says the Supreme Court will ultimately decide his fate after a federal judge ruled he is unlawfully serving as a de facto U.S. attorney.",
+            "headline": "Trump admin hit with $461M lawsuit as embassy fight started under Biden comes back to haunt State Dept",
+            "summary": "B.L. Harbert International alleges the State Department reached a $370 million settlement over COVID-19 embassy construction claims, then reversed course.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/federal-judge-rules-bill-essayli-unlawfully-serving-de-facto-us-attorney-california"
+            "url": "https://www.foxnews.com/politics/trump-admin-hit-461m-lawsuit-embassy-fight-started-under-biden-comes-back-haunt-state-dept"
         },
         {
-            "headline": "US military kills five in eastern Pacific strike on suspected drug-trafficking vessel",
-            "summary": "Video shows a go-fast vessel erupt into a massive fireball as SOUTHCOM confirms five narco-terrorists were killed in the eastern Pacific strike.",
+            "headline": "Holocaust educator says Mamdani could learn from UK's targeted approach to antisemitism in schools",
+            "summary": "Britain accepted all 27 school antisemitism recommendations, drawing a sharp contrast with New York City Mayor Zohran Mamdani&apos;s broader plan.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/us-military-kills-five-eastern-pacific-strike-suspected-drug-trafficking-vessel"
+            "url": "https://www.foxnews.com/world/holocaust-educator-says-mamdani-could-learn-from-uks-targeted-approach-antisemitism-schools"
         },
         {
-            "headline": "Florida girlfriend allegedly tracks cheating boyfriend, shoots woman in his car: reports",
-            "summary": "Katherine Dale Kelly allegedly used an Uber to track her boyfriend to a late-night meeting before opening fire on the woman inside the vehicle.",
+            "headline": "Trump revisits 10-year warning to Macron as protests sweep France: ‘You have to get them out’",
+            "summary": "Donald Trump told Emmanuel Macron for a decade that France would &quot;lose&quot; its country without addressing the immigration crisis fueling protests.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/florida-girlfriend-allegedly-tracks-cheating-boyfriend-shoots-woman-his-car"
+            "url": "https://www.foxnews.com/politics/trump-revisits-10-year-warning-macron-protests-sweep-france-get-them-out"
         },
         {
-            "headline": "Federal officials identify 400 noncitizens registered to vote in Washington state: 'Tip of the iceberg'",
-            "summary": "Acting U.S. Attorney Neil Floyd told Fox News Digital some noncitizens identified in the probe cast ballots as many as 27 times, with alleged votes dating back to 1984.",
+            "headline": "Former Obama aide declares Jewish Michiganders have a 'moral obligation' to support El-Sayed",
+            "summary": "Jon Lovett says Jewish voters in Michigan have a &quot;moral obligation&quot; to back Abdul El-Sayed, sparking fierce pushback from critics.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/federal-officials-identify-400-noncitizens-registered-vote-washington-state-tip-iceberg"
+            "url": "https://www.foxnews.com/media/former-obama-aide-declares-jewish-michiganders-have-moral-obligation-support-el-sayed"
         },
         {
-            "headline": "Cassidy Hutchinson avoids indictment after DOJ effort to charge her over Jan 6 testimony fails: sources",
-            "summary": "Cassidy Hutchinson avoided indictment after a D.C. grand jury declined to charge her over statements made to the Jan. 6 House select committee.",
+            "headline": "Husband arrested in wife's disappearance after family kept getting mystery texts",
+            "summary": "Epifanio Gaminde allegedly mailed his missing wife&apos;s credit cards to a relative in the Philippines to create the illusion she was alive overseas.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/cassidy-hutchinson-avoids-indictment-doj-effort-charge-jan-6-testimony-fails-sources"
+            "url": "https://www.foxnews.com/us/husband-arrested-wifes-disappearance-family-kept-getting-mystery-texts"
         },
         {
-            "headline": "Man accused of threatening to hijack United flight says it was a drunken joke",
-            "summary": "Cockpit audio captured a pilot explaining the diverted United Airlines flight while Dante Milne allegedly slept, unaware he caused the emergency.",
+            "headline": "Mystery woman arrested in American's death after manhunt in Costa Rican tourist destination",
+            "summary": "Security video shows the suspect walking down a street after the alleged killing of a 74-year-old American tourist in Playas del Coco, Costa Rica.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/man-accused-threatening-hijack-united-flight-says-drunken-joke"
+            "url": "https://www.foxnews.com/us/mystery-woman-arrested-americans-death-manhunt-costa-rican-tourist-destination"
         },
         {
-            "headline": "Tiger Woods and Vanessa Trump's relationship 'stronger than ever' with marriage talks on the table: report",
-            "summary": "Tiger Woods and Vanessa Trump have discussed marriage after leaning on each other in a difficult year, dealing with his arrest on charges of DUI and her breast cancer diagnosis.",
+            "headline": "China exile-turned-GOP nominee warns socialist surge could give Beijing greater influence in Washington",
+            "summary": "Lily Tang Williams, a New Hampshire Republican who escaped communist China, warns a Democratic Congress could let Beijing expand its influence in Washington.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/tiger-woods-vanessa-trumps-relationship-stronger-than-ever-marriage-talks-table-report"
+            "url": "https://www.foxnews.com/politics/china-exile-turned-gop-nominee-warns-socialist-surge-could-give-beijing-greater-influence-washington"
         },
         {
-            "headline": "Hamilton steel plant owner says he could sell next year after becoming 'persona non grata in Canada'",
-            "summary": "",
+            "headline": "Trump's unusual legal gambit against Biden-era deportation rule pays off at Supreme Court",
+            "summary": "The Supreme Court allowed a Texas-DOJ agreement ending the Biden-era administrative closure rule that let judges delay deportation proceedings.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/politics/cleveland-cliffs-ceo-says-willing-to-sell-stelco-9.7398895?cmp=rss"
+            "url": "https://www.foxnews.com/politics/trumps-unusual-legal-gambit-against-biden-era-deportation-rule-pays-off-supreme-court"
         },
         {
-            "headline": "Transport minister questioned over Air Canada's use of safety exemption to deny compensation",
-            "summary": "<img src='https://i.cbc.ca/ais/03bedc07-860f-4ba1-a86b-b18e862cd622,1793139582538/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B' alt='A composite image showi...",
+            "headline": "Mahjong is the new tailgate game taking over college football for women — and even at home with head coaches",
+            "summary": "Mahjong has infiltrated college tailgates and coaching households, with Power-four head coaches secretly competing against their wives and families.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/gopublic/transport-minister-questioned-air-canada-deny-compensation-9.7398643?cmp=rss"
+            "url": "https://www.foxnews.com/outkick-sports/mahjong-new-tailgate-game-taking-over-college-football-women-even-home-head-coaches"
         },
         {
-            "headline": "United Conservative Party board candidates must sign declaration to abide by Alberta's vote to stay in Canada",
-            "summary": "",
+            "headline": "Amy Grant says Vince Gill isn't 'afraid to put somebody in their place' after confronting radio host",
+            "summary": "Amy Grant describes how Vince Gill once threatened to kick Don Imus&apos; butt on air for mocking their marriage, turning a feud into friendship.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/canada/calgary/united-conservative-party-board-9.7398736?cmp=rss"
+            "url": "https://www.foxnews.com/entertainment/amy-grant-says-vince-gill-isnt-afraid-put-somebody-their-place-after-confronting-radio-host"
         },
         {
-            "headline": "Trump wades into Canadian politics with kudos for Parti Québécois, B.C. Conservative wins",
-            "summary": "While he is fully engaged in a tight midterm election battle in his own country, U.S. President Donald Trump is still finding time to step into politics north of the border by cong...",
+            "headline": "Mike Collins drops Election Day gas price prediction in heated Georgia Senate race",
+            "summary": "Republican Rep. Mike Collins details his private conversation with President Trump after the Perry rally and his role in landing Audi&apos;s $4.2 billion deal.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/politics/trump-canadian-politics-british-columbia-quebec-9.7398341?cmp=rss"
+            "url": "https://www.foxnews.com/politics/mike-collins-drops-election-day-gas-price-prediction-heated-georgia-senate-race"
         },
         {
-            "headline": "U.S. and Cuban officials get into shouting match on floor of United Nations",
-            "summary": "U.S. and Cuban officials engaged in a stunning shouting match on the floor of the United Nations General Assembly on Tuesday, the latest in a series of public spats between the lon...",
+            "headline": "Thune calls Ohio race 'ground zero' in 'knife fight' for Senate while rallying with Husted",
+            "summary": "John Thune called Ohio &quot;ground zero&quot; for Senate control, warning that a Democratic majority could lead to a 24-month Trump impeachment trial.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/world/u-s-coba-resolution-un-shouting-match-9.7398413?cmp=rss"
+            "url": "https://www.foxnews.com/politics/thune-calls-ohio-race-ground-zero-knife-fight-senate-rallying-husted"
         },
         {
-            "headline": "Meet Canada's 5 Eurovision finalists",
-            "summary": "",
+            "headline": "Justin Tucker signs with Chiefs after serving 10-game suspension over sexual misconduct allegations: reports",
+            "summary": "Justin Tucker signs with the Kansas City Chiefs after serving a 10-game NFL suspension, aiming to replace a struggling Harrison Butker at kicker.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/entertainment/eurovision-canada-finalists-9.7397690?cmp=rss"
+            "url": "https://www.foxnews.com/outkick-sports/justin-tucker-signs-chiefs-serving-10-game-suspension-sexual-misconduct-allegations-reports"
         },
         {
-            "headline": "Canada's new relationship with EU will be 'closer to membership' than ever, senior officials say",
-            "summary": "",
+            "headline": "Who’s funding America’s protest unrest? Fox Nation's new 'Riot Inc.' follows the money to find out",
+            "summary": "Fox Nation&apos;s &quot;Riot Inc.&quot; follows the money behind America&apos;s most disruptive protests, exposing billionaire funding and alleged foreign influence.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/politics/eu-canada-summit-associate-membership-9.7397682?cmp=rss"
+            "url": "https://www.foxnews.com/media/whos-funding-americas-protest-unrest-fox-nations-new-riot-inc-follows-money-find-out"
         },
         {
-            "headline": "Alberta bill would stop provincial entities from considering diversity, equity and inclusion in hiring",
-            "summary": "The first bill in the Alberta Legislature's fall sitting seeks to stop the provincial government and other public entities from considering diversity, equity and inclusion in hirin...",
+            "headline": "Peter Berg says 'Call of Duty' movie will explore 'the cost of war' with serious tone",
+            "summary": "Peter Berg compares &quot;Call of Duty: Modern Warfare&quot; characters to complicated warriors, promising a film with real soul arriving June 30, 2028.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/canada/edmonton/alberta-government-bill-stops-dei-hiring-9.7398443?cmp=rss"
+            "url": "https://www.foxnews.com/outkick-culture/peter-berg-call-duty-movie-explore-cost-war-serious-tone"
         },
         {
-            "headline": "Watchdog sounds alarm after N.L.'s largest jail runs out of toothbrushes",
-            "summary": "Newfoundland and Labrador's citizens' representative says his office got a flood of complaints last week stating inmates at Her Majesty's Penitentiary in St. John's were not being ...",
+            "headline": "How to get rid of unwanted AI on your phone",
+            "summary": "Google AI Overviews can&apos;t be permanently turned off, but adding -AI to your searches and using the built-in Web filter can help bypass AI summaries.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/hmp-toothbrush-shortage-9.7398628?cmp=rss"
+            "url": "https://www.foxnews.com/tech/how-get-rid-unwanted-ai-your-phone"
         },
         {
-            "headline": "Ottawa Rapid FC pull merch naming nonexistent 'Van Blurené Parc'",
-            "summary": "Ever heard of Ottawa's Van Blurené Parc or gazed upon the giant sign on the national gallery? That alternate version of Ottawa was briefly on merchandise for the Ottawa Rapid socce...",
+            "headline": "Paige Spiranac leaves her fans speechless with 'fall golf' content series, Raiders fan fight & hot dog prices",
+            "summary": "Screencaps, America&apos;s Best Daily Column, covers Paige Spiranac&apos;s fall golf bat signal, golf cart heaters, and Costco hand warmers for cold rounds.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-rapid-fc-pulls-merch-van-blurene-parc-9.7391880?cmp=rss"
+            "url": "https://www.foxnews.com/outkick-sports/paige-spiranac-leaves-fans-speechless-fall-golf-content-series-raiders-fan-fight-hot-dog-prices"
         },
         {
-            "headline": "N.S. woman refused to comply with phone scammer, so would-be fraudster swatted her house",
-            "summary": "A Truro-area woman says she is shaken and terrified after a would-be fraudster sent heavily armed police from two different departments to her home over the weekend.",
+            "headline": "Leftist streamer triggers fury after mocking 'funny' injuries to ICE agents at Ilhan Omar event: ‘Disgusting’",
+            "summary": "Hasan Piker mocked injured ICE agents during a Minneapolis campaign event with Rep. Ilhan Omar, drawing swift condemnation from conservatives.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/canada/nova-scotia/swatting-incident-truro-area-fraud-scammer-9.7396654?cmp=rss"
+            "url": "https://www.foxnews.com/politics/leftist-streamer-triggers-fury-mocking-funny-injuries-ice-agents-ilhan-omar-event-disgusting"
+        },
+        {
+            "headline": "LEE CARTER: America is angry at everyone — but who will actually vote?",
+            "summary": "Democrats lead midterm election polls, but the gap narrows sharply among voters certain to participate, making voter turnout the key factor.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/opinion/lee-carter-america-angry-everyone-who-will-actually-vote"
+        },
+        {
+            "headline": "TSA finds sharp object straight out of horror movie at airport security checkpoint",
+            "summary": "TSA officers at Seattle-Tacoma International Airport spotted Wolverine-style claws on an X-ray, calling it the most unusual find they&apos;ve made in two years.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/travel/tsa-finds-sharp-object-straight-out-horror-movie-airport-security-checkpoint"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Argentina confirms Bolsonaro crossed via Iguazú before flying to Miami",
+            "summary": "\n\t   \t      \n\t         Argentina’s government confirmed that Brazilian Senator Flávio Bolsonaro, defeated in Sunday’s presidential runoff and barred by a court from leaving Brazil,...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/10/28/argentina-confirms-bolsonaro-crossed-via-iguazu-before-flying-to-miami?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Flávio Bolsonaro leaves Brazil despite a court ban and the US will grant him a visa",
             "summary": "\n\t   \t      \n\t         Senator Flávio Bolsonaro, defeated on Sunday by Luiz Inácio Lula da Silva in the presidential runoff, left Brazil with his wife and two daughters despite a S...",
@@ -366,22 +270,6 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/10/26/debt-inflation-and-a-hostile-congress-the-economic-challenges-of-lula-s-fourth-term?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Trump questions Lula’s victory as most of the region, including the right, congratulates him",
-            "summary": "\n\t   \t      \n\t         US President Donald Trump cast doubt on Luiz Inácio Lula da Silva’s re-election in Brazil and compared it with the 2020 US election, while most Latin America...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/10/26/trump-questions-lula-s-victory-as-most-of-the-region-including-the-right-congratulates-him?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Milei stays silent on Lula’s victory as Kast and Peña congratulate him",
-            "summary": "\n\t   \t      \n\t         Argentine President Javier Milei had not congratulated Luiz Inácio Lula da Silva on his re-election in Brazil by Monday, unlike other right-wing South Americ...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/10/26/milei-stays-silent-on-lula-s-victory-as-kast-and-pena-congratulate-him?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [
@@ -418,14 +306,6 @@
             "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Powerful earthquake hits Tibet killing 16 people, reports say",
-            "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
             "summary": "More than a million people flocked to Busan to catch a glimpse of the female dusky shark they called Bukangi.",
             "sources": [
@@ -436,79 +316,63 @@
     ],
     "south-asia": [
         {
-            "headline": "Air quality slips to ‘poor’ category in Delhi, parts of north India",
-            "summary": "Delhi’s 24-hour average Air Quality Index (AQI) stood at 232 (poor) at 9 a.m. on October 28, as per Central Pollution Control Board (CPCB) data",
+            "headline": "National seminar on AI and Indian economy in Hubballi on Saturday",
+            "summary": "Basavaraj Horatti will inaugurate the event being organised by the JSS Banashankari Arts, Commerce and Shantikumar Gubbi Science College",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/cities/Delhi/air-quality-slips-to-poor-category-in-delhi-parts-of-north-india/article71634319.ece"
+            "url": "https://www.thehindu.com/news/national/karnataka/national-seminar-on-ai-and-indian-economy-in-hubballi-on-saturday/article71636480.ece"
         },
         {
-            "headline": "Enter The Hindu Best Places to Work 2027 Awards — and build a workplace where India’s talent thrives",
-            "summary": "Enter The Hindu Best Places to Work 2027 Awards — and build a workplace where India’s talent thrives",
+            "headline": "Can you punish laxity by forfeiting the right to vote forever, Supreme Court asks ECI",
+            "summary": "Form 6 is ‘cast in stone’ and cannot be changed, says SC, adding that the Bihar judgment is not a binding precedent and that it allowed ‘logical discrepancy’ in West Bengal as an ‘...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/the-hindu-best-places-to-work-2027-awards/article71634400.ece"
+            "url": "https://www.thehindu.com/news/national/can-you-punish-laxity-by-forfeiting-the-right-to-vote-forever-supreme-court-asks-eci/article71636264.ece"
         },
         {
-            "headline": "Rahul Gandhi alleges Tata Group ‘being criminally destroyed’, says will ensure justice for ‘crimes’",
-            "summary": "The Leader of Opposition in Lok Sabha questioned business leaders’ silence, saying “Indian business is not Modi and Shah’s plaything”",
+            "headline": "Mumbai Crime Branch invokes MCOCA against all accused in Tiger Shroff case",
+            "summary": "Crime Branch obtained approval from the competent authority under Section 23(1)(a) of MCOCA on October 27",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/tata-group-being-destroyed-conflict-business-leader-rahul-gandhi-congress-remarks/article71634362.ece"
+            "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-crime-branch-invokes-mcoca-against-all-accused-in-tiger-shroff-case/article71635313.ece"
         },
         {
-            "headline": "Supreme Court needs transparent roster system, says former SC judge Oka",
-            "summary": "Former Supreme Court Judge Abhay Oka was speaking at a discussion on judicial accountability organised by the Campaign for Judicial Accountability and Reforms at the India Internat...",
+            "headline": "Rajnath raises U.S. F-16 package for Pakistan, cross-border terrorism with Hegseth",
+            "summary": "Defence Minister Rajnath Singh conveyed India’s concerns to U.S. Secretary of War Pete Hegseth at the ADMM-Plus in Cebu, with Mr. Hegseth reaffirming Washington’s support in combat...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/supreme-court-needs-transparent-roster-system-says-former-judge-oka/article71629926.ece"
+            "url": "https://www.thehindu.com/news/national/rajnath-singh-pete-hegseth-meeting-india-usa-defence-pact-october-28-2026/article71634844.ece"
         },
         {
-            "headline": "‘Magazine’: How Shubham Shevade turned a Maharashtra village into a dazzling Marathi indie",
-            "summary": "The debutant writer-director opens about returning from Los Angeles to India to tell his own stories, how the unconventional structure of ‘Magazine’ took shape, why he thinks he wa...",
+            "headline": "Cockroach Janta Party backs INDIA bloc’s November 1 rally",
+            "summary": "Invoking the principles of the Constitution and the legacy of Dr. B.R. Ambedkar, the CJP said democracy depended on ensuring equal political representation and protecting every eli...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/entertainment/movies/magazine-how-shubham-shevade-turned-a-maharashtra-village-into-a-dazzling-marathi-indie/article71631249.ece"
-        },
-        {
-            "headline": "A lasting political settlement for Sri Lankan Tamils is in India’s interests, says Jaffna’s former Mayor",
-            "summary": "Visvalingam Manivannan said the Tamil diaspora, living in the West, were not in a position to travel to Jaffna directly",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/tamil-nadu/a-lasting-political-settlement-for-sri-lankan-tamils-is-in-indias-interests-says-jaffnas-former-mayor/article71632264.ece"
-        },
-        {
-            "headline": "In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO Civilisational Dialogue in November",
-            "summary": "PM Modi will inaugurate event with representatives of more than 25 countries, to be held at the 16th Century Purana Quila (Old Fort) in Delhi",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/in-a-first-since-2023-delhi-invites-pakistan-minister-for-inaugural-sco-civilisational-dialogue-in-november/article71630539.ece"
-        },
-        {
-            "headline": "India among top countries with highest heatwave exposure for infants, older adults: Report",
-            "summary": "Globally, total number of heatwave days decreased from 2024’s historical high of 15.3 billion person-days for older adults and 2.3 billion person-days for infants",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-among-top-countries-with-highest-heatwave-exposure-for-infants-older-adults-report/article71634194.ece"
-        },
-        {
-            "headline": "A Delhi event unveils fault lines in the Dalit-OBC formulation of SP politics",
-            "summary": "The brouhaha over Rajkumar Bhati reciting Ambedkar’s vows shows the limits of the SP’s revival of the Lohiate policy of numerical aggregation",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/uttar-pradesh/a-delhi-event-unveils-fault-lines-in-the-dalit-obc-formulation-of-sp-politics/article71632477.ece"
+            "url": "https://www.thehindu.com/news/national/cockroach-janta-party-backs-india-blocs-november-1-rally/article71636383.ece"
         }
     ],
     "europe": [
+        {
+            "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
+            "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+            "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Norway and Finland leaders hold rare call with Putin",
             "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
@@ -516,14 +380,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Truce begins in Ukraine city where residents ate weeds to survive",
-            "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
@@ -550,36 +406,12 @@
             "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-            "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+            "headline": "Barcelona fined £503 over approach for Alvarez",
+            "summary": "Barcelona are fined 602 euros (£503) following a complaint by Atletico Madrid over contact the club made with striker Julian Alvarez.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
-            "summary": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-            "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Russia given first championships since Ukraine invasion",
-            "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/sport/football/articles/cmpwg0lqxkd4o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Ruins of Limoges city hall a symbol of France divided by national protests",
@@ -638,39 +470,63 @@
             "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "REPLAY: Spanish Transport Minister gives press conference on train crash",
+            "summary": "A high-speed train collision south of Madrid killed 64 people and injured scores more on Wednesday (October 28), with the toll likely to rise, authorities said in one of Europe's d...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/video/20261028-replay-spanish-transport-minister-gives-press-conference-on-train-crash"
+        },
+        {
+            "headline": "Spain: Dozens killed after one high-speed train slams into another",
+            "summary": "Spain suffered its second deadly high-speed train accident this year when one train on Wednesday, October 28, slammed into another that had stopped on the tracks, with the impact s...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/video/20261028-spain-dozens-killed-after-one-high-speed-train-slams-into-another"
+        },
+        {
+            "headline": "Ukraine: Melania Trump-brokered local ceasefire holds for second day",
+            "summary": "There ​have been ​no breaches of the US-brokered local ceasefire ​around ‌the ⁠Russian-occupied town of Oleshky ‌in southern Ukraine during its first 30 hours, ​Ukraine's human rig...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/video/20261028-ukraine-melania-trump-brokered-local-ceasefire-holds-for-second-day"
+        },
+        {
+            "headline": "Ukraine: Ceasefire holds for its first 30 hours in occupied Oleshky",
+            "summary": "A local ceasefire in the Russian-occupied southern Ukrainian city of Oleshky held through its first day and night, despite continued fighting between Moscow and Kyiv elsewhere. The...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/video/20261028-ukraine-ceasefire-holds-for-its-first-30-hours-in-occupied-oleshky"
+        },
+        {
+            "headline": "Spain: At least 10 dead in crash between 2 high-speed trains",
+            "summary": "At least ten people have died in a crash between two trains in central Spain. The crash occurred Wednesday morning  in the province of Toledo. Rail service is suspended between Mad...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/video/20261028-spain-at-least-10-dead-in-crash-between-2-high-speed-trains"
+        },
+        {
             "headline": "France: Lawmakers hold a minute of silence for Pengo Bossio Wangi, victim of racist attack",
             "summary": "French lawmakers held a minute of silence for Pengo Bossio Wangi. The victim of a racist attack died in a shooting last week, while at least five other people were wounded, includi...",
             "sources": [
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/video/20261027-france-lawmakers-hold-a-minute-of-silence-for-pengo-bossio-wangi-victim-of-racist-attack-1"
-        },
-        {
-            "headline": "France's Senate takes on the 'rioters pay' bill after protests",
-            "summary": "If the French Senate passes this bill, rioters will have to pay for the damage caused during the recent unrest across the country. This \"casseurs-payeurs\" bill comes in the wake of...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/video/20261027-france-s-senate-takes-on-the-rioters-pay-bill-after-protests"
-        },
-        {
-            "headline": "Localised Russia-Ukraine ceasefire starts in Ukrainian town facing starvation",
-            "summary": "A localised ceasefire between Ukraine and Russia took effect early Tuesday (October 27) ahead of a humanitarian mission led by US first lady Melania Trump, as missile attacks resum...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/video/20261027-localised-russia-ukraine-ceasefire-starts-ukrainian-town-facing-starvation"
-        },
-        {
-            "headline": "French protests: Student union leaders vow to keep mobilising",
-            "summary": "In France, after weeks of student unrest, the government announced new school measures. Student union leaders said it's a first step but vowed to keep mobilising as they expected f...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/video/20261027-french-protests-student-union-leaders-vow-to-keep-mobilising"
         }
     ],
     "middle-east": [
+        {
+            "headline": "How could Israel break political deadlock? Here are four scenarios",
+            "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Israeli exit polls suggest no clear winner in pivotal general election",
             "summary": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
@@ -736,14 +592,6 @@
             "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
-            "summary": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "How do Israel's elections work and who are the main contenders?",
             "summary": "Israel heads to the polls on Tuesday for what many view as one of the most pivotal elections in the country's history.",
             "sources": [
@@ -784,12 +632,12 @@
             "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Watch: What happens now after close vote in Israeli election?",
-            "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+            "headline": "Israel's election result is messy - here's why",
+            "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "What does Israel's election mean for Gaza and the wider world?",
@@ -816,23 +664,39 @@
             "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Why is it so hard to fight the Houthis?",
-            "summary": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Syria-Jordan border reopens amid probe into deadly air strikes",
-            "summary": "Foreign ministers form security committee to share intelligence and follow up on impact of Jordan&#039;s strikes on Syria.",
+            "headline": "Why Arab parties may not be the ‘kingmakers’ in this Israeli election",
+            "summary": "Exit poll projections show that if Eisenkot’s bloc teamed up with Arab parties, they could potentially unseat Bibi.",
             "sources": [
                 "aljazeera.com"
             ],
-            "url": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss"
+            "url": "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss"
+        },
+        {
+            "headline": "Espionage threats blur lines between security and dissent in Iran",
+            "summary": "Iran is using the threat of spy networks to detain and execute political opponents, analysts say.",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss"
         }
     ],
     "africa": [
+        {
+            "headline": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+            "summary": "No official reason has been given for postponing next month’s hearing to May 2027, the family says.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Tanzania celebrates first natural gas discovery in more than 10 years",
+            "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Controversial Islamic cleric shot dead in northern Nigeria",
             "summary": "Yahaya Masussuka had posted videos in which he rejected some elements of mainstream Islam.",
@@ -970,28 +834,12 @@
             "url": "https://www.bbc.co.uk/news/videos/c893v3l7l1p0o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Nigeria: Nigeria's First Methane Disclosure Raises Questions Over Repeated Figures, Missing Data",
-            "summary": "[Premium Times] An analysis of Nigeria's first public company-level greenhouse gas disclosure reveals repeated emissions figures, incomplete methane reporting, and inconsistencies ...",
+            "headline": "Senegal: Senegal's Youth Olympics' Welcome Should Include Everyone",
+            "summary": "[allAfrica] When the Olympic flame is lit in Dakar on October 31, Senegal will become the first African country to host an Olympic event. Nearly 3,000 athletes from 206 countries w...",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202610280126.html"
-        },
-        {
-            "headline": "Ethiopia: UN Reports 36,000 Ethiopian Arrivals Fleeing Moyale Conflict, Kenya Rights Commission Urges Aid",
-            "summary": "[Addis Standard] Addis Abeba -- Approximately 36,000 people have crossed from Ethiopia into Kenya to flee conflict in and around Moyale, with food, clean water, shelter, sanitation...",
-            "sources": [
-                "allafrica.com"
-            ],
-            "url": "https://allafrica.com/stories/202610280039.html"
-        },
-        {
-            "headline": "Malawi: Chawinga Makes History By Reaching Ballon d'Or Top 10",
-            "summary": "[Capital FM] Nairobi -- Malawi international Temwa Chawinga has made history by becoming the first African woman to finish in the top 10 of the prestigious Ballon d'Or F&#xE9;minin...",
-            "sources": [
-                "allafrica.com"
-            ],
-            "url": "https://allafrica.com/stories/202610270583.html"
+            "url": "https://allafrica.com/stories/202610280276.html"
         }
     ],
     "oceania": [
