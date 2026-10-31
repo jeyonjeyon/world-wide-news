@@ -1,8 +1,16 @@
 {
     "_metadata": {
-        "last_updated": "2026-10-31 19:57:24 UTC"
+        "last_updated": "2026-10-31 23:22:04 UTC"
     },
     "globalOverview": [
+        {
+            "headline": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+            "summary": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned o...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/10/1168716"
+        },
         {
             "headline": "Samarkand: A ‘living museum’ on the Silk Road grapples with a tourism boom",
             "summary": "As the sun sets over Samarkand’s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for c...",
@@ -154,17 +162,97 @@
                 "news.un.org"
             ],
             "url": "https://news.un.org/feed/view/en/story/2026/10/1168693"
-        },
-        {
-            "headline": "Protecting the storytellers: Women journalists on the frontline of conflict",
-            "summary": "As online abuse, gender-based attacks and impunity ramp up the threats to women reporting from crisis zones, journalists and UN leaders are calling for urgent action to protect tho...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/10/1168691"
         }
     ],
     "north-america": [
+        {
+            "headline": "Head of In-N-Out burger chain addresses expansion to 3 more states",
+            "summary": "CEO Lynsi Snyder named Arkansas, Mississippi and Oklahoma as possible future In-N-Out Burger states while stressing the chain&apos;s cautious approach to growth.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/food-drink/head-in-n-out-burger-chain-addresses-expansion-3-more-states"
+        },
+        {
+            "headline": "How House Democrats' 'deterrence message' on Trump jobs could backfire",
+            "summary": "Elissa Slotkin&apos;s warning to young Americans about joining Trump&apos;s administration could hand Republicans legal ammunition under Trump v. Mazars.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/house-democrats-deterrence-message-trump-jobs-could-backfire-former-federal-prosecutor-warns"
+        },
+        {
+            "headline": "Cruise company founder says he's 'the villain' after 200-plus passengers are stranded",
+            "summary": "The cruise ship captain of the Villa Vie Odyssey calls the forced disembarkation in Cambodia &quot;really painful&quot; as over 200 residents now face an uncertain future.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/travel/cruise-company-founder-says-hes-villain-200-plus-passengers-stranded"
+        },
+        {
+            "headline": "Transfer portal, not NIL, reason for parity, claims college football expert Brooks Austin",
+            "summary": "Brooks Austin argues the transfer portal, not NIL, drives college football parity as programs like Georgia and Alabama can no longer stockpile depth.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/transfer-portal-not-nil-reason-parity-claims-college-football-expert-brooks-austin"
+        },
+        {
+            "headline": "Syracuse stuns SMU 30-27 with a go-ahead touchdown with 17 seconds left for Halloween upset",
+            "summary": "Kevin Jennings threw for 351 yards, but six sacks and a last-second Syracuse touchdown crushed SMU&apos;s College Football Playoff hopes on Halloween.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/syracuse-stuns-smu-30-27-go-ahead-touchdown-17-seconds-left-halloween-upset"
+        },
+        {
+            "headline": "USA Sports and NBC claim record WNBA Finals ratings, but the comparisons leave out important context",
+            "summary": "WNBA Finals TV ratings claims face scrutiny as USA Sports combines streaming and TV numbers without clear breakdowns or independent verification.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/usa-sports-nbc-claim-record-wnba-finals-ratings-comparisons-leave-out-important-context"
+        },
+        {
+            "headline": "No 13 Texas Tech takes down No 22 Arizona in Big 12, delivers the Wildcats a crushing blow to CFP hopes",
+            "summary": "Thomas Castellanos thrived after being named No. 13 Texas Tech&apos;s starter in the win, as he led the team to a crucial Big 12 win over No. 22 Arizona.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/no-13-texas-tech-takes-down-no-22-arizona-big-12-delivers-wildcats-crushing-blow-cfp-hopes"
+        },
+        {
+            "headline": "Kid Rock reveals what he told French President Macron after Trump unexpectedly handed him phone on golf course",
+            "summary": "Kid Rock told Bill Maher how a golf outing with Trump ended with him holding the phone mid-call with Emmanuel Macron in a viral &quot;Real Time&quot; moment.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/media/kid-rock-reveals-told-french-president-macron-trump-unexpectedly-handed-phone-golf-course"
+        },
+        {
+            "headline": "'American Idol' star Bo Bice trades signature rocker look for new image as fans sound off",
+            "summary": "The &quot;American Idol&quot; runner-up to Carrie Underwood revealed a dramatic makeover after a two-year music hiatus, and Bo Bice&apos;s fans have thoughts.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/entertainment/american-idol-star-bo-bice-trades-signature-rocker-look-new-image-fans-sound-off"
+        },
+        {
+            "headline": "Team USA standout Jack Alexy sets 100m freestyle world record at USA Swimming Short Course Trials",
+            "summary": "Jack Alexy clocked 44.64 seconds in the 100 freestyle at the USA Swimming Short Course Trials, shattering the previous world record of 44.84.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/team-usa-standout-jack-alexy-sets-100-meter-freestyle-world-record-usa-swimming-short-course-trials"
+        },
+        {
+            "headline": "NFL to review additional abuse allegations against Packers star Josh Jacobs following May arrest",
+            "summary": "Since Josh Jacobs was arrested in May, several women have contacted police with abuse allegations against the Green Bay Packers running back.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/nfl-review-additional-abuse-allegations-packers-star-josh-jacobs-following-may-arrest"
+        },
         {
             "headline": "Trump prosecutions under Biden set precedent for DOJ’s Alaska ‘Decoy Dan’ probe, ex-FEC chair says",
             "summary": "Hans von Spakovsky says Jack Smith&apos;s Trump indictment set the precedent for the DOJ&apos;s criminal probe into Alaska&apos;s &quot;Decoy Dan&quot; Senate race scheme.",
@@ -206,84 +294,28 @@
             "url": "https://www.foxnews.com/politics/major-us-childrens-hospital-opens-historic-detransition-clinic-after-10m-legal-showdown"
         },
         {
-            "headline": "Riley Gaines, Kat Timpf push back after 'Call Her Daddy' host suggests wives can always find better partners",
-            "summary": "Riley Gaines and Kat Timpf fire back at Alex Cooper&apos;s &quot;Call Her Daddy&quot; marriage advice, arguing the grass is always greener where you water it.",
+            "headline": "Alberta woman accused of sex with 15-year-old guilty of sexual assault",
+            "summary": "Jurors have reached a verdict in Alexa Suitor's sexual assault trial, finding Suitor guilty of sexual assault and sexual interference.",
             "sources": [
-                "moxie.foxnews.com"
+                "rss.cbc.ca"
             ],
-            "url": "https://www.foxnews.com/media/riley-gaines-kat-timpf-push-back-call-her-daddy-host-suggests-wives-find-better-partners"
+            "url": "https://www.cbc.ca/news/canada/calgary/alexa-suitor-sexual-assault-trial-jury-verdict-9.7404371?cmp=rss"
         },
         {
-            "headline": "Bill Maher hits back at Trump over blistering Truth Social post, jokes about president's dinner review",
-            "summary": "Bill Maher fired back at Trump&apos;s record 1,300-word Truth Social post on &quot;Real Time,&quot; reading the president&apos;s attacks aloud line by line onstage.",
+            "headline": "Judge throws out Trump suit against Wall Street Journal over Epstein letter",
+            "summary": "Saying the president was \"grasping at straws,\" a U.S. federal judge on Saturday threw out Donald Trump's $10-billion lawsuit against the Wall Street Journal and media mogul Rupert ...",
             "sources": [
-                "moxie.foxnews.com"
+                "rss.cbc.ca"
             ],
-            "url": "https://www.foxnews.com/media/bill-maher-hits-back-trump-blistering-truth-social-post-jokes-president-dinner-review"
+            "url": "https://www.cbc.ca/news/world/trump-jeffrey-epstein-lawsuit-dismissed-9.7404357?cmp=rss"
         },
         {
-            "headline": "Who are Ilhan Omar’s lawyers? Meet the high-powered Dem attorneys the embattled rep hired",
-            "summary": "Ilhan Omar has hired Amy Jeffress and Joshua Matz, attorneys who represented Biden, House Democrats in Trump impeachment, and E. Jean Carroll.",
+            "headline": "Binance says billions replaced from hack that FBI blames on North Korea",
+            "summary": "Crypto exchange Binance said on Saturday it has been able to replace 90 per cent of the amount stolen after a record $6.3-billion US hack of its platform. The FBI on Saturday ‌said...",
             "sources": [
-                "moxie.foxnews.com"
+                "rss.cbc.ca"
             ],
-            "url": "https://www.foxnews.com/politics/who-ilhan-omars-lawyers-meet-high-powered-dem-attorneys-embattled-rep-hired"
-        },
-        {
-            "headline": "New York and LA didn't win America's best mega airport title, but one Midwest hub did",
-            "summary": "Coastal airports were outpaced as J.D. Power named Minneapolis the top mega hub for a third year, while Tampa and Charleston led their categories amid rising satisfaction scores.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/travel/new-york-la-didnt-win-americas-best-mega-airport-title-midwest-hub-did"
-        },
-        {
-            "headline": "Political activism, antisemitism allegations put public schools under the microscope",
-            "summary": "Philadelphia and Los Angeles public schools face allegations of pushing one-sided Israeli-Palestinian conflict views and antisemitic content in classrooms.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/media/political-activism-antisemitism-allegations-public-schools-microscope"
-        },
-        {
-            "headline": "Commanders lose Pro Bowl defensive tackle Daron Payne for the season after suffering practice injury: report",
-            "summary": "Washington Commanders Pro Bowl defensive tackle Daron Payne reportedly suffered a season-ending foot injury at practice, a crushing blow for the 1-4-1 squad.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/commanders-lose-pro-bowl-defensive-tackle-daron-payne-season-practice-injury-report"
-        },
-        {
-            "headline": "Why the Ilhan Omar saga isn't going away",
-            "summary": "Trump claims Ilhan Omar must resign from Congress over alleged immigration fraud, but the Constitution grants that power solely to the House itself.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away"
-        },
-        {
-            "headline": "Tim McGraw says brutal toll of filming 'Yellowstone' prequel pushed him to edge: 'Wouldn't have survived'",
-            "summary": "Between 14-hour days and late-night flights for concerts, Tim McGraw says filming Taylor Sheridan&apos;s &quot;1883&quot; was the hardest job he and Faith Hill ever had.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/entertainment/tim-mcgraw-brutal-toll-filming-yellowstone-prequel-pushed-edge-wouldnt-survived"
-        },
-        {
-            "headline": "US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction",
-            "summary": "The U.S. Embassy in Moscow warned of a credible threat of a mass casualty event at the Tsaritsyno Museum Reserve, urging people to avoid the area.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction"
-        },
-        {
-            "headline": "Christian group touts 'ethical' tech features as concerns over out-of-control AI tools persist",
-            "summary": "Ligonier Ministries built its &quot;Grow&quot; app with an AI assistant that deflects vulnerable users to real humans and the suicide hotline when needed.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/christian-group-touts-ethical-tech-features-concerns-out-of-control-ai-tools-persist"
+            "url": "https://www.cbc.ca/news/world/binance-hack-north-korea-9.7404502?cmp=rss"
         },
         {
             "headline": "Suspect identified in Toronto home invasion where residents were shot, attacked with hammer",
@@ -292,38 +324,6 @@
                 "rss.cbc.ca"
             ],
             "url": "https://www.cbc.ca/news/canada/toronto/bridle-path-neighbourhood-home-invasion-toronto-police-update-9.7404151?cmp=rss"
-        },
-        {
-            "headline": "Parks Canada set to slash warden detachments, officers across national parks",
-            "summary": "Detachments will be closing in British Columbia, Alberta, Ontario, New Brunswick, Nova Scotia, Yukon and Northwest Territories. The number of wardens impacted by the decision is un...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/calgary/parks-canada-wardens-law-enforcement-budget-cuts-9.7398925?cmp=rss"
-        },
-        {
-            "headline": "Civilians evacuated from Russian-occupied Oleshky arrive in Ukraine-held territory",
-            "summary": "Residents evacuated from the Russian-occupied city of Oleshky have crossed into Ukrainian-held territory after a humanitarian mission and localized ceasefire, part of a major rescu...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/evacuees-oleshky-belarus-ukraine-9.7404117?cmp=rss"
-        },
-        {
-            "headline": "Youth-led protests sweep across France, Europe for a 3rd weekend",
-            "summary": "Hundreds of thousands of mostly young protesters took to the streets across France on Saturday in a third consecutive weekend of demonstrations over living costs and education. You...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/france-student-protests-europe-9.7404105?cmp=rss"
-        },
-        {
-            "headline": "'No one is safe' as Ebola outbreak surges to more than 10,000 cases, Africa's top doctor warns Canada",
-            "summary": "Africa's top doctor, who has called Canada home since 2013, tells CBC News there could be \"massive\" cross-border spread of Ebola in the months ahead as he calls for more internatio...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/health/africa-top-doctor-ebola-9.7403252?cmp=rss"
         }
     ],
     "latin-america": [
@@ -377,6 +377,14 @@
         }
     ],
     "east-asia": [
+        {
+            "headline": "Why did this Korean content creator throw a divorce ceremony?",
+            "summary": "Cho Seung-yeon marked the end of her marriage by having a divorce ceremony - however not everyone online was happy about it.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
             "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
@@ -436,6 +444,14 @@
     ],
     "south-asia": [
         {
+            "headline": "IOA’s election Code of Conduct bars criticism of ‘private life’ of candidates, publicity",
+            "summary": "The election to pick 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) will be held on November 3, while the polls to choose eight SOMs will be held on...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece"
+        },
+        {
             "headline": "Slovakian couple had come for a holiday to India, man died hours after checking into Conrad",
             "summary": "Wife says that she rushed to check on him after hearing a loud noise from near the pool, but found him motionless in the water.",
             "sources": [
@@ -486,16 +502,16 @@
             "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
-            "summary": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
+            "headline": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+            "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Clashes erupt between police and protesters in Paris",
-            "summary": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
+            "headline": "Thousands demonstrate in Paris as protests spread across Europe",
+            "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
@@ -590,6 +606,14 @@
             "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "'Gen Z' demonstrations across Germany demand more education funding",
+            "summary": "Police and protesters clashed Saturday in Germany, where tens of thousands of young people took to the streets, inspired by similar movements in other European countries. At the ca...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261031-german-police-protesters-clash-after-gen-z-demos"
+        },
+        {
             "headline": "Residents from Russian-occupied Oleshky reunite with families after evacuation operation",
             "summary": "Evacuees from Oleshky crossed into Ukrainian-held territory Saturday in a major rescue operation after travelling through Belarus during a rare truce brokered by US First Lady Mela...",
             "sources": [
@@ -620,14 +644,6 @@
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/oleshky-no-access-to-basic-needs-ceasefire-offers-limited-opportunity-for-humanitarian-assistance"
-        },
-        {
-            "headline": "'The International Criminal Court deserves the Sakharov Prize': CJEU President Koen Lenaerts",
-            "summary": "We speak to the influential and long-serving president of the Court of Justice of the European Union (CJEU), Koen Lenaerts. The court is the EU's supreme judicial authority, respon...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/tv-shows/talking-europe/20261030-the-international-criminal-court-deserves-the-sakharov-prize-cjeu-president-koen-lenaerts"
         }
     ],
     "middle-east": [
@@ -768,6 +784,14 @@
             "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Israel’s allegations of Qatari election interference rejected",
+            "summary": "Israel’s allegations of Qatari election interference rejected",
+            "sources": [
+                "aljazeera.com"
+            ],
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss"
+        },
+        {
             "headline": "Palestinians ‘Stealing their own olives’",
             "summary": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians.",
             "sources": [
@@ -782,14 +806,6 @@
                 "aljazeera.com"
             ],
             "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss"
-        },
-        {
-            "headline": "Jerusalem Daily: Who will form Israel’s next government?",
-            "summary": "Netanyahu and Eisenkot are locked in a struggle to form a governing coalition in the Knesset.",
-            "sources": [
-                "aljazeera.com"
-            ],
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss"
         }
     ],
     "africa": [
@@ -866,14 +882,6 @@
             "url": "https://www.bbc.co.uk/sport/football/articles/cqn73pxx8vr5o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Cape Town set for classic finale – what does history suggest could happen?",
-            "summary": "South Africa set up an epic final day of their decisive Test against Australia by batting throughout the fourth day. What does history suggest could happen?",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/cricket/articles/c6n8dpvyyy71o?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "Ulster's Augustus enjoying South Africa homecoming",
             "summary": "Ulster back row Juarno Augustus is relishing being back in his native South Africa as he prepares to face his former club Stormers after recovering from ankle surgery.",
             "sources": [
@@ -930,28 +938,36 @@
             "url": "https://allafrica.com/stories/202610300354.html"
         },
         {
-            "headline": "Nigeria: Gunmen Kill Police Inspector, 11 Others in Kebbi",
-            "summary": "[Daily Trust] Residents of Karwa, Kestu and Waiwayi in Besse/Shanga riverine areas of Kebbi State have fled their communities as suspected members of the Lakurawa and Mamudawa terr...",
-            "sources": [
-                "allafrica.com"
-            ],
-            "url": "https://allafrica.com/stories/202610300338.html"
-        },
-        {
-            "headline": "Africa: AFCON Every Two Years Again As CAF Reverses Decision",
-            "summary": "[Vanguard] The Confederation of African Football (CAF) has reversed its decision to stage the Africa Cup of Nations (AFCON) every four years, announcing that the tournament will re...",
-            "sources": [
-                "allafrica.com"
-            ],
-            "url": "https://allafrica.com/stories/202610300309.html"
-        },
-        {
             "headline": "South Africa: African Horse Sickness Confirmed in Western Cape's Cederberg",
             "summary": "[SAnews.gov.za] The Department of Agriculture has confirmed a case of African horse sickness (AHS) in a single horse on a property in the Cederberg Local Municipality in the Wester...",
             "sources": [
                 "allafrica.com"
             ],
             "url": "https://allafrica.com/stories/202610300543.html"
+        },
+        {
+            "headline": "Kenya: No, Kenyan Pastor Victor Kanyari Was Not Killed in a Road Accident",
+            "summary": "[Africa Check] No, Kenyan pastor Victor Kanyari was not killed in a road accident",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allafrica.com/stories/202610300539.html"
+        },
+        {
+            "headline": "Kenya: 46 Ebola Contacts Set for Discharge From Quarantine On November 3",
+            "summary": "[Capital FM] Nairobi -- Public Health Principal Secretary May Muthoni says 46 contacts under quarantine are expected to be discharged on November 3 after completing the required mo...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allafrica.com/stories/202610300530.html"
+        },
+        {
+            "headline": "Nigeria: Gunmen Kill Four in Plateau Community Despite Curfew",
+            "summary": "[Premium Times] The attackers reportedly stormed the community at about 8 p.m. and opened fire on residents, despite the curfew imposed in parts of the state to contain insecurity.",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allafrica.com/stories/202610300528.html"
         }
     ],
     "oceania": [
