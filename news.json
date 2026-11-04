@@ -1,6 +1,6 @@
 {
     "_metadata": {
-        "last_updated": "2026-11-03 19:28:31 UTC"
+        "last_updated": "2026-11-04 00:36:01 UTC"
     },
     "globalOverview": [
         {
@@ -12,12 +12,12 @@
             "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-            "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+            "headline": "NTSB says crucial plane parts found three miles from Florida crash site",
+            "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Libya's top religious authority rules against wearing Nike clothes",
@@ -34,6 +34,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+            "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Indian tourist killed after two helicopters collide near Everest base camp",
@@ -116,6 +124,14 @@
             "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "ANC under pressure to reverse South Africa decline",
+            "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
             "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
             "sources": [
@@ -134,167 +150,175 @@
     ],
     "north-america": [
         {
-            "headline": "Healthy 24-year-old athlete dies just 2 miles from NYC marathon finish line after sending dad chilling texts",
-            "summary": "Rachel Apa&apos;s father says rhabdomyolysis killed the 24-year-old NYC marathon runner, who collapsed at mile 24 during her first-ever race Sunday.",
+            "headline": "Mike Florio ends 'conscious voting protest,' decides to vote in 2026 midterms",
+            "summary": "Mike Florio announced he wouldn&apos;t vote in the 2026 midterm elections as a protest, then reversed course just hours later, drawing widespread mockery.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/health/healthy-24-year-old-athlete-dies-2-miles-nyc-marathon-finish-line-after-sending-dad-chilling-texts"
+            "url": "https://www.foxnews.com/outkick-sports/mike-florio-ends-conscious-voting-protest-decides-vote-2026-midterms"
         },
         {
-            "headline": "Popeyes revives long-lost menu item that fans have been waiting years to taste again",
-            "summary": "A discontinued menu item from Popeyes returns, sparking nostalgia and debate. Some customers praised the crispy batter while others disagreed.",
+            "headline": "Jerry Jones calls for Cowboys star player to see the ball more after crushing overtime defeat",
+            "summary": "Jerry Jones said George Pickens needs more targets after the Dallas Cowboys star played just 42 of 74 snaps in the overtime loss to Arizona.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/food-drink/popeyes-revives-long-lost-menu-item-fans-have-been-waiting-years-taste-again"
+            "url": "https://www.foxnews.com/outkick-sports/jerry-jones-calls-cowboys-star-player-see-ball-more-crushing-overtime-defeat"
         },
         {
-            "headline": "AOC campaign memo frames growth from progressive firebrand to national Democratic Party force",
-            "summary": "Alexandria Ocasio-Cortez&apos;s campaign memo reveals how she built a nationwide movement around economic populism after Trump&apos;s 2024 election victory.",
+            "headline": "Christa Pike asks court not to send her to former prison block following failed execution",
+            "summary": "Christa Pike claims her life is in danger if moved back to her former housing unit, citing severe weakness after surviving the botched lethal injection.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/aoc-campaign-memo-frames-growth-from-progressive-firebrand-national-democratic-party-force"
+            "url": "https://www.foxnews.com/us/christa-pike-asks-court-not-send-former-prison-block-following-failed-execution"
         },
         {
-            "headline": "Ex-Rep Justin Amash says Mike Rogers 'would be more dangerous in the US Senate' than Abdul El-Sayed",
-            "summary": "Former Rep. Justin Amash suggested that former Republican Rep. Mike Rogers &quot;would be more dangerous in the U.S. Senate&quot; than Democratic Senate candidate Abdul El-Sayed.",
+            "headline": "Hard Rock Bet Promo Code: Bet $5, Get $500 in No Sweat Bets for Tonight’s NHL Slate",
+            "summary": "Hard Rock Bet offers new users $500 in No Sweat Bets with a $5 wager on tonight’s 11-game NHL slate, including Oilers at Devils and Hurricanes at Predators.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/ex-rep-justin-amash-mike-rogers-would-be-more-dangerous-us-senate-abdul-el-sayed"
+            "url": "https://www.foxnews.com/outkick-betting/hard-rock-bet-promo-code-bet-5-get-500-no-sweat-bets-tonights-nhl-slate"
         },
         {
-            "headline": "These college football coordinators will be the next big head coaches, according to 'Film Guy' Brooks Austin",
-            "summary": "Florida State&apos;s coaching search could target rising coordinators like Buster Faulkner, Kevin McGiven, or Glenn Schumann, says analyst Brooks Austin.",
+            "headline": "ASRA NOMANI: Muslim reformers reject ‘fire will rise’ warning if El-Sayed loses as 'Jihad First'",
+            "summary": "Wajahat Ali&apos;s warning that &quot;the fire will rise&quot; if Abdul El-Sayed loses the Michigan Senate race draws a sharp rebuke from Muslim reformers.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/college-football-coordinators-next-big-head-coaches-film-guy-brooks-austin"
+            "url": "https://www.foxnews.com/politics/asra-nomani-muslim-reformers-reject-fire-rise-warning-el-sayed-loses-jihad-first"
         },
         {
-            "headline": "Bird flu kills US resident after dairy cow exposure, marking nation’s third death",
-            "summary": "A Yakima County resident with underlying health conditions died after contracting H5N1 bird flu from infected dairy cows at a local dairy farm.",
+            "headline": "Supreme Court offers support for Catholic preschools challenging state funding requirements",
+            "summary": "The Supreme Court&apos;s conservative majority signaled support for Catholic preschools claiming Colorado&apos;s funded program violates their religious liberty.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/health/bird-flu-kills-us-resident-dairy-cow-exposure-marking-nations-third-death"
+            "url": "https://www.foxnews.com/politics/supreme-court-offers-support-catholic-preschools-challenging-state-funding-requirements"
         },
         {
-            "headline": "MS NOW host links Election Day to wiping out Pat McAfee and the 'manosphere'",
-            "summary": "Joe Scarborough used his &quot;Morning Joe&quot; Election Day rant to claim Pat McAfee is &quot;ruining GameDay&quot; and that voters could reject the &quot;manosphere.&quot;",
+            "headline": "Megan Moroney confirms WAG status, college hoops' wildest free throw & good for Jeffery Simmons",
+            "summary": "Megan Moroney and Christian Pulisic are officially dating after months of rumors, Jeffery Simmons dominates for the Bears and a free throw goes viral.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/ms-now-host-links-election-day-wiping-out-pat-mcafee-manosphere"
+            "url": "https://www.foxnews.com/outkick-sports/megan-moroney-confirms-wag-status-college-hoops-wildest-free-throw-good-jeffery-simmons"
         },
         {
-            "headline": "Susan Collins' Maine Senate office vandalized with 'disturbing' graffiti on night before Election Day",
-            "summary": "Susan Collins&apos; Biddeford, Maine, office was hit with red paint and the message &quot;BLOOD on her HANDS,&quot; marking the second vandalism incident in a month.",
+            "headline": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Devils vs Oilers",
+            "summary": "Fanatics Sportsbook promo code FOXNEWS350 lets new users bet $20 and get $350 in FanCash on Oilers at Devils Tuesday night as McDavid faces Hellebuyck.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/susan-collins-maine-senate-office-vandalized-disturbing-graffiti-night-before-election-day"
+            "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-devils-vs-oilers"
         },
         {
-            "headline": "MACtion college football picks favor the Bulls plus the spread against Miami (Ohio) tonight",
-            "summary": "Buffalo Bulls and Miami (Ohio) RedHawks clash in MACtion college football tonight as both 5-3 teams lean heavily on the running game all night.",
+            "headline": "BetMGM Bonus Code FOXNEWS: Unlock $1500 in First Bet Cover for Tonight’s NHL Including Devils-Oilers",
+            "summary": "BetMGM bonus code FOXNEWS unlocks up to $1,500 in First Bet Cover for new users on tonight’s 11-game NHL slate, including Oilers at Devils in Newark.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-betting/maction-college-football-picks-favor-bulls-spread-miami-ohio-tonight"
+            "url": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-unlock-1500-first-bet-cover-tonights-nhl-including-devils-oilers"
         },
         {
-            "headline": "Texas, Star Madison Booker Still Chasing A National Title After Transfer Exodus",
-            "summary": "Madison Booker and Texas made it to the Final Four twice in a row after 20 years away, but a new season brings a new roster with new challenges.",
+            "headline": "FanDuel Promo Code: Get $200 When Betting $5 on the NHL, NBA and College Basketball Over 4 Days",
+            "summary": "FanDuel gives new users $200 in bonus bets for betting $5 a day for four days on the NHL, NBA and college basketball, starting with Oilers at Devils.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/sports/texas-longhorns-madison-booker-final-four-transfers"
+            "url": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-get-200-when-betting-5-nhl-nba-college-basketball-over-4-days"
         },
         {
-            "headline": "Illegal immigrant accused of violent attempted murder, kidnapping of a minor was released under Biden admin",
-            "summary": "DHS Secretary Markwayne Mullin blasts sanctuary policies after Baltimore, Maryland, stabbing suspect was previously released by NYC despite ICE detainer.",
+            "headline": "Betr Promo Code FOXNEWS: Get $200 in Bonuses and Four Free Picks for Tuesday’s NHL Slate",
+            "summary": "Betr promo code FOXNEWS gives new users $200 in bonuses and four free picks for Tuesday’s 11-game NHL slate, including Oilers at Devils and Lightning vs Red Wings.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/illegal-immigrant-accused-violent-attempted-murder-kidnapping-minor-released-biden-admin"
+            "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonuses-four-free-picks-tuesdays-nhl-slate"
         },
         {
-            "headline": "FBI nabs suspect accused of sending hundreds of white powder letters to public officials: source",
-            "summary": "A suspect was arrested by the FBI’s Oklahoma City field office in connection to hundreds of suspicious letters sent to government and election offices.",
+            "headline": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Tonight’s NHL Slate Including Devils-Oilers",
+            "summary": "Underdog promo code FOXNEWS lets new users play $10 and get $50 in bonus entries on tonight’s 11-game NHL slate, headlined by Oilers at Devils in Newark.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/fbi-nabs-suspect-accused-sending-hundreds-white-powder-letters-public-officials"
+            "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-tonights-nhl-slate-including-devils-oilers"
         },
         {
-            "headline": "Jon Rahm open to accepting Brooks Koepka-like penalties in order to return to PGA Tour after LIV Golf exit",
-            "summary": "Jon Rahm says he&apos;d accept a Brooks Koepka-like deal to rejoin the PGA Tour, but seriously doubts he&apos;ll get the same offer after leaving LIV Golf.",
+            "headline": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Tonight’s NHL Action",
+            "summary": "Fanatics Sportsbook promo code FOXNEWS350 lets new users bet $20 and get $350 in FanCash on tonight’s 11-game NHL slate, including Hurricanes at Predators.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/jon-rahm-open-accepting-brooks-koepka-like-penalties-return-pga-tour-liv-golf-exit"
+            "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-tonights-nhl-action"
         },
         {
-            "headline": "There are calls from U.K. to Japan to stock up on emergency supplies for 72 hours. What's Canada saying?",
-            "summary": "",
+            "headline": "Mother dead, daughter missing in suspected grizzly bear attack near Bella Coola",
+            "summary": "Family members have identified the two victims of a suspected fatal grizzly bear attack near Bella Coola, B.C., as Jennifer Balcarras, 48, and her daughter Selah Reed, 19.",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/world/uk-emergency-preparedness-stockpile-canada-9.7406408?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/british-columbia/bella-coola-grizzly-attack-9.7407640?cmp=rss"
         },
         {
-            "headline": "These midterm races will decide who controls U.S. Congress for the rest of Trump's presidency",
-            "summary": "",
+            "headline": "Carney says U.S. 'asking less and offering more' with 'more intense' trade talks underway",
+            "summary": "Prime Minister Mark Carney says Canada and the U.S. have made progress on reaching a trade deal, but stressed more work is needed before any agreement is finalized.",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/world/midterm-races-to-watch-senate-house-9.7395306?cmp=rss"
+            "url": "https://www.cbc.ca/news/politics/carney-trump-trade-deal-progress-9.7407273?cmp=rss"
         },
         {
-            "headline": "PWHL star Sarah Fillier expected to play for Canada at world championship",
-            "summary": "Canadian forward Sarah Fillier is expected to play at the world championship that begins on Friday in Denmark. The New York Sirens star is listed as day to day with an upper body i...",
+            "headline": "How a First Nation is pushing back against Canada's largest AI data centre",
+            "summary": "Construction is well underway for what is set to be Canada’s largest data centre, located just outside Regina. Some Saskatchewan First Nations are pushing back, saying there will b...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/sports/hockey/pwhl/fillier-injury-status-update-worlds-9.7407240?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/saskatchewan/first-nations-push-back-bell-canada-ai-data-centre-9.7407594?cmp=rss"
         },
         {
-            "headline": "Trump claims U.S. will halt $4B funding to Israel at end of 2026",
-            "summary": "U.S. President Donald Trump said Tuesday he made a deal with Israeli Prime Minister Benjamin Netanyahu that Washington would stop $4 billion US in funding to Israel after the end o...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/trump-israel-funding-united-states-9.7407009?cmp=rss"
-        },
-        {
-            "headline": "24 hours in Antigua: Mark Carney's priorities at this year's Commonwealth summit",
-            "summary": "Prime Minister Mark Carney's oft-stated determination to keep his government focused on what Canadians can control could be tested today, as he meets with leaders from the 55 other...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/politics/mark-carney-commonwealth-summit-november-2026-9.7406728?cmp=rss"
-        },
-        {
-            "headline": "Putin pushes the myth of Russian invincibility, seemingly to set his terms for peace",
-            "summary": "When Russian President Vladimir Putin recently declared that inflicting a \"strategic defeat\" on Russia is \"unrealistic,\" it may have sounded like standard wartime bravado. But he m...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/putin-ukraine-russia-military-peace-talks-9.7405910?cmp=rss"
-        },
-        {
-            "headline": "Sweden, Norway, Czech Republic join growing boycott of hockey world championship games against Russia",
-            "summary": "Hockey powers Sweden, Finland and the Czech Republic will refuse to play against Russia at next year's world championship, as a growing boycott movement across Europe now includes ...",
+            "headline": "Prime Minister says Russia will not be allowed to compete at 2026 world juniors in Alberta",
+            "summary": "Prime Minister Mark Carney says Russia will not be allowed to compete at next month's world junior hockey championship in Alberta. Carney, speaking in Antigua at the Commonwealth S...",
             "sources": [
                 "rss.cbc.ca"
             ],
             "url": "https://www.cbc.ca/sports/hockey/norway-hockey-world-championships-refusal-russia-9.7406832?cmp=rss"
+        },
+        {
+            "headline": "PM, Manitoba premier only ones to bring up abolishing Indian Act at meeting: AFN chief",
+            "summary": "The national chief of the Assembly of First Nations says the only leaders to discuss abolishing the Indian Act during a landmark meeting last week were Manitoba Premier Wab Kinew a...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/manitoba/indian-act-afn-assembly-first-nations-cindy-woodhouse-nepinak-wab-kinew-mark-carney-9.7407927?cmp=rss"
+        },
+        {
+            "headline": "Fact check: Does this Ontario government ad show real miners?",
+            "summary": "The Ontario NDP is calling out Doug Ford’s government for using a photo in one of its ads about mining that doesn’t show real miners in the province. Avneet Dhillon from CBC’s Fact...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/player/play/9.7407882?cmp=rss"
+        },
+        {
+            "headline": "3.4 magnitude earthquake near Esterhazy, Sask., likely caused by mining, Natural Resources Canada says",
+            "summary": "The earthquake — measured at a 3.4 magnitude — struck at 7:04 a.m. CST. Its epicentre was about nine kilometres east-northeast of Esterhazy, according to the NRC's Earthquake Canad...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/saskatchewan/earthquake-esterhazy-potash-mine-9.7407363?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Cristina Kirchner meets Lula’s digital strategist in a bid to replicate his comeback in Argentina",
+            "summary": "\n\t   \t      \n\t         Former Argentine president Cristina Kirchner on Monday received Brazilian lawmaker André Janones, creator of the WhatsApp channel that helped Luiz Inácio Lul...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/03/cristina-kirchner-meets-lula-s-digital-strategist-in-a-bid-to-replicate-his-comeback-in-argentina?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "The Pope arrives in an Argentina where bishops are among Milei’s firmest critics",
             "summary": "\n\t   \t      \n\t         Pope Leo XIV will arrive in Buenos Aires on Sunday on a visit that Javier Milei’s government presents as strictly pastoral, but which takes place amid tensio...",
@@ -326,14 +350,6 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/11/02/argentina-s-sea-lion-case-could-founder-on-falklands-sovereignty-a-legal-expert-warns?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "From Montevideo to Luján: Leo XIV’s tour of Uruguay and Argentina",
-            "summary": "\n\t   \t      \n\t         Pope Leo XIV will begin a tour of South America in Montevideo on November 6 that will take him to Uruguay, Argentina and Peru, with open-air Masses, meetings...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/10/31/from-montevideo-to-lujan-leo-xiv-s-tour-of-uruguay-and-argentina?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [
@@ -364,28 +380,28 @@
     ],
     "south-asia": [
         {
-            "headline": "ACP Manasvi Vashishta suspended day after protest outside Delhi police headquarters; lawyer moves HC over ‘police remarks’",
-            "summary": "Manasvi Vashishta had joined around 100 police personnel protesting outside police headquarters against his transfer and that of Shahdara SHO Arun Kumar, after lawyers alleged the ...",
+            "headline": "Amit Shah compares INDIA bloc’s mock Parliament to Maoists’ Jantana Sarkar",
+            "summary": "The mock Parliament was held at Congress president Mallikarjun Kharge’s New Delhi residence on October 31 for a “public impeachment” of Chief Election Commissioner Gyanesh Kumar",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/cities/Delhi/acp-manasvi-vashishta-who-led-protest-outside-delhi-police-headquarters-suspended-for-violation-of-discipline/article71659394.ece"
+            "url": "https://www.thehindu.com/news/national/chhattisgarh/amit-shah-compares-india-blocs-mock-parliament-to-maoists-jantana-sarkar/article71661569.ece"
         },
         {
-            "headline": "India set to simplify visa forms",
-            "summary": "Redundant fields in the bulky forms will be done away with and the changes are likely to be implemented from next year, says official",
+            "headline": "Iranian woman moves Madras High Court wanting to know procedure for obtaining X-Miscellaneous visa",
+            "summary": "Thirty-year-old Pegah Ansari complains of having been detained in a special camp for foreigners in Tiruchi even after she obtained bail in a criminal case booked for overstaying in...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/india-set-to-simplify-visa-forms/article71662331.ece"
+            "url": "https://www.thehindu.com/news/national/tamil-nadu/iranian-woman-moves-madras-high-court-wanting-to-know-procedure-for-obtaining-x-miscellaneous-visa/article71661946.ece"
         },
         {
-            "headline": "Southern India has grown wetter over seven decades, finds IMD study",
-            "summary": "The peninsula’s hot semi-arid zone has nearly halved, with much of it turning into a tropical savannah climate, while north-west India has become drier and hotter",
+            "headline": "BJP leaders criticise Mamata-Congress bonhomie",
+            "summary": "West Bengal Chief Minister Suvendu Adhikari accused  Mamata Banerjee of allying with ‘anarchists’ in Delhi",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/tamil-nadu/southern-india-has-grown-wetter-over-seven-decades-finds-imd-study/article71661697.ece"
+            "url": "https://www.thehindu.com/news/national/west-bengal/bjp-leaders-criticise-mamata-congress-bonhomie/article71662190.ece"
         }
     ],
     "europe": [
@@ -526,8 +542,8 @@
             "url": "https://www.france24.com/en/europe/20261103-ukraine-and-russia-are-taking-the-war-underground-as-drones-saturate-the-battlefield"
         },
         {
-            "headline": "Bomb threats against European airlines disrupt flights across the bloc",
-            "summary": "Bomb threats targeted at least 10 European airlines on Tuesday and forced the temporary closure of a Warsaw airport. At least four of Ryanair's flights were affected, making the Ir...",
+            "headline": "Bomb threats against European airlines force Warsaw airport closure, affect several flights",
+            "summary": "Bomb threats targeted at least 10 European airlines on Tuesday, forcing the temporary closure of a Warsaw airport and affecting at least four Ryanair flights. No explosives were fo...",
             "sources": [
                 "france24.com"
             ],
@@ -704,15 +720,23 @@
             "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Palestinian Americans turn to US flags to protect West Bank homes",
-            "summary": "Palestinian Americans in the occupied West Bank are putting up US flags, to fend off pogroms by Israeli settlers.",
+            "headline": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+            "summary": "Iran says a &#039;maximum deterrence&#039; plan is ready against any new US attack, warning of an immediate response.",
             "sources": [
                 "aljazeera.com"
             ],
-            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss"
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss"
         }
     ],
     "africa": [
+        {
+            "headline": "ANC under pressure to reverse South Africa decline",
+            "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Trump to remove Rwanda and South Africa from US trade deal",
             "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
@@ -776,14 +800,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/sport/formula1/articles/c61kdv3k9gm2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
-            "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Afcon to return to two-year cycle after Caf U-turn",
@@ -876,6 +892,14 @@
     ],
     "oceania": [
         {
+            "headline": "Mining giant joins fight to stop killer toad march across Australia",
+            "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Major test for Australia's social media ban begins in High Court",
             "summary": "Lawyers for Reddit and a digital rights group are arguing the world-leading policy robs children of their right to free communication.",
             "sources": [
@@ -914,22 +938,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Wales hit by Australia century in World Cup record",
-            "summary": "Wales women concede 21 tries in Sydney as defending Rugby League World Cup champions Australia rewrite the international record books.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cked34glxp0no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-            "summary": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
@@ -1002,6 +1010,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/cm9dzxjv5qxpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Officials helping New Zealander injured in Nepal helicopter crash, MFAT says",
+            "summary": "An Indian national was also killed in the incident during which two choppers collided as they prepared to land.",
+            "sources": [
+                "rnz.co.nz"
+            ],
+            "url": "https://www.rnz.co.nz/news/world/2328352/officials-helping-new-zealander-injured-in-nepal-helicopter-crash-mfat-says"
         },
         {
             "headline": "Reserve Bank of Australia raises its cash rate to 4.85 percent",
