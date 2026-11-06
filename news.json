@@ -1,8 +1,24 @@
 {
     "_metadata": {
-        "last_updated": "2026-11-05 19:58:50 UTC"
+        "last_updated": "2026-11-06 00:57:04 UTC"
     },
     "globalOverview": [
+        {
+            "headline": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+            "summary": "UN Secretary-General António Guterres remains concerned over the situation on the Korean Peninsula, including the potential escalation of tensions across the Demilitarized Zone (DM...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168750"
+        },
+        {
+            "headline": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+            "summary": "Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the ...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168749"
+        },
         {
             "headline": "Two new Ebola vaccines to join DR Congo clinical trial",
             "summary": "Two new Ebola vaccine candidates will be added to a clinical trial in the Democratic Republic of the Congo (DRC) as the country continues to battle a deadly outbreak caused by the ...",
@@ -146,128 +162,120 @@
                 "news.un.org"
             ],
             "url": "https://news.un.org/feed/view/en/story/2026/11/1168715"
-        },
-        {
-            "headline": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
-            "summary": "At the halfway mark to 2030, countries meeting in Armenia have agreed a roadmap to accelerate action for nature, after a global review found the world off track to meet its biodive...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168718"
-        },
-        {
-            "headline": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
-            "summary": "The UN remains committed to supporting a just, lasting and mutually acceptable political solution in Western Sahara that provides for the self-determination of its people, Secretar...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168717"
         }
     ],
     "north-america": [
         {
-            "headline": "DOJ launches criminal probe into Supreme Court leak that exposed ruling overturning Roe v Wade",
-            "summary": "Federal prosecutors are probing the Supreme Court leak after Chief Justice John Roberts&apos; internal investigation failed to identify the leaker.",
+            "headline": "Vance ‘privately’ blasts Netanyahu as Iran war divides Trump admin, 2028 ambitions loom",
+            "summary": "JD Vance privately accused Benjamin Netanyahu of being &quot;wrong on everything&quot; about the Iran war as he positions himself for a 2028 presidential bid.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/doj-launches-criminal-probe-supreme-court-leak-exposed-ruling-overturning-roe-v-wade"
+            "url": "https://www.foxnews.com/politics/vance-privately-blasts-netanyahu-iran-war-divides-trump-admin-2028-ambitions-loom"
         },
         {
-            "headline": "Travelers busted at airport with over 3,000 tarantulas hidden away in their socks",
-            "summary": "Over 3,000 tarantulas were found hidden inside pairs of socks in three suitcases at a Peru airport, leading to the detention of two German and one Polish citizen.",
+            "headline": "Child molester's looming prison release reignites sanctuary showdown in wake of Dem election sweep",
+            "summary": "DHS warns convicted child molester Leomar Zambrano could be released in Seattle as sanctuary city officials refuse to honor the ICE detainer.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/travel/travelers-busted-airport-over-3000-tarantulas-hidden-away-socks"
+            "url": "https://www.foxnews.com/politics/child-molester-looming-prison-release-reignites-sanctuary-showdown-wake-dem-election-sweep"
         },
         {
-            "headline": "House GOP launches defense plan to shield Trump from looming Democrat investigations",
-            "summary": "House GOP leadership letter from Steve Scalise warns committee chairs to prepare defenses against expected Democrat-led probes of Trump allies.",
+            "headline": "Trump signs proclamation preventing changes to Oval Office, other White House rooms",
+            "summary": "Trump signed a proclamation designating the Oval Office and Cabinet Room a national monument to prevent future presidents from altering them.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/house-gop-launches-defense-plan-shield-trump-from-looming-democrat-investigations"
+            "url": "https://www.foxnews.com/politics/trump-signs-proclamation-preventing-changes-oval-office-white-house-rooms"
         },
         {
-            "headline": "Fake Amazon invoice scam uses $988 iPad order as bait",
-            "summary": "A fake Amazon invoice charging $988.18 for an iPad lists the same customer support phone number three times to steer panicked victims into calling.",
+            "headline": "Ex-Biden official projected to win bid to unseat Mike Lawler in high-stakes House race",
+            "summary": "Republican Mike Lawler and Democrat Cait Conley clashed over sanctuary city laws and illegal immigration in a bitter fight for New York&apos;s 17th Congressional District.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/tech/fake-amazon-invoice-scam-uses-988-ipad-order-bait"
+            "url": "https://www.foxnews.com/politics/ex-biden-official-projected-win-bid-unseat-mike-lawler-high-stakes-house-race"
         },
         {
-            "headline": "Democrat drops out of race due to health concerns and still wins; opponent says, 'We deserve to know more'",
-            "summary": "Democratic Iowa state House candidate Eric Armstrong, who announced in September that he was dropping his campaign due to health struggles, still won the election contest.",
+            "headline": "Tourist hot spot faces housing revolt as locals demand cuts to vacation lodging",
+            "summary": "Mallorca, Spain, welcomed 13.5 million visitors in 2025, and now a business leader says the popular island must curb tourism and cut vacation rental capacity.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/democrat-drops-out-race-health-concerns-still-wins-opponent-says-deserve-know-more"
+            "url": "https://www.foxnews.com/travel/tourist-hot-spot-faces-housing-revolt-locals-demand-cuts-vacation-lodging"
         },
         {
-            "headline": "North Korea's fake IT worker scheme takes dangerous turn as new threats emerge every day",
-            "summary": "CrowdStrike says it uncovers one or two suspected North Korean fake IT worker cases daily, with operatives infiltrating defense contractors and AI firms.",
+            "headline": "Midterms and 2028: Join America's conversation here!",
+            "summary": "Give us your thoughts on the midterms and the 2028 race! Chat here with Fox News Digital readers.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/north-korea-fake-it-worker-scheme-takes-dangerous-turn-new-threats-emerge-every-day"
+            "url": "https://www.foxnews.com/politics/live-chat-2026-midterm-election-results"
         },
         {
-            "headline": "Schumer faces mutiny from newly elected Senate Dems as party prepares to seize power",
-            "summary": "Senate Democrats face a leadership battle as Chuck Schumer seeks to keep his role, but several newly elected senators are pushing for new blood.",
+            "headline": "Sylvester Stallone says Hollywood abandoned Middle America as Taylor Sheridan found an ignored audience",
+            "summary": "Sylvester Stallone says Taylor Sheridan tapped into a Middle America audience Hollywood has ignored since John Wayne, and streaming is winning.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/schumer-faces-mutiny-from-newly-elected-senate-dems-party-prepares-seize-power"
+            "url": "https://www.foxnews.com/entertainment/sylvester-stallone-hollywood-abandoned-middle-america-taylor-sheridan-found-ignored-audience"
         },
         {
-            "headline": "Schumer, Jeffries sidestep questions on nuking filibuster, launching Elon Musk probe after blue wave",
-            "summary": "Chuck Schumer ignored questions twice about abolishing the filibuster as Democrats prepare to take the Senate majority after midterm victories.",
+            "headline": "Firefighter who battled COVID on front lines says he lost career for refusing vaccine: 'I'm on team Jesus'",
+            "summary": "Scott Carlson says he and fellow Redmond Fire Department firefighters were terminated after religious exemptions were revoked under a vaccine mandate.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/schumer-jeffries-sidestep-questions-nuking-filibuster-launching-elon-musk-probe-blue-wave"
+            "url": "https://www.foxnews.com/media/firefighter-battled-covid-front-lines-lost-career-refusing-vaccine-team-jesus"
         },
         {
-            "headline": "Melania Trump hails Oleshky ceasefire as potential ‘spark’ for progress amid Ukraine-Russia war",
-            "summary": "Melania Trump called the Oleshky ceasefire &quot;a spark in a world of darkness&quot; as Russian and Ukrainian envoys praised the deal at a rare White House event.",
+            "headline": "Human vs ChatGPT NFL Week 9 betting picks: Fading the hype after a week both want to forget",
+            "summary": "Neither the human nor ChatGPT wants to discuss a brutal Week 8, but both are back with Week 9 NFL picks targeting the Carolina Panthers and Denver Broncos.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia"
+            "url": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-9-betting-picks-fading-hype-week-both-want-forget"
         },
         {
-            "headline": "LeBron James sends cease and desist to 'Bron AI' sports betting app over unauthorized likeness",
-            "summary": "LeBron James sent a cease-and-desist letter to Bron AI over unauthorized use of his likeness in a sports betting app ad featuring Dillon Brooks.",
+            "headline": "Ex-Alaska lawmaker details mystery recruiter as FBI, Congress widen 'Decoy Dan' scrutiny",
+            "summary": "The FBI interviewed former Alaska Republican David Eastman after a Democratic operative allegedly posed as a conservative recruiter in the Senate race.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/lebron-james-sends-cease-desist-bron-ai-sports-betting-app-unauthorized-likeness"
+            "url": "https://www.foxnews.com/politics/ex-alaska-lawmaker-details-mystery-recruiter-fbi-congress-widen-decoy-dan-scrutiny"
         },
         {
-            "headline": "Mamdani confident there's a path for a progressive candidate to the White House in 2028",
-            "summary": "New York City Mayor Zohran Mamdani says midterm wins in Georgia, Texas and South Carolina prove a progressive presidential path exists in 2028.",
+            "headline": "Caleb Williams celebrates Democrats winning midterms as concerns about him becoming the face of the NFL grow",
+            "summary": "Caleb Williams celebrated Democrats&apos; projected House and Senate control, raising questions about a politically vocal NFL star&apos;s impact on the league.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/mamdani-confident-path-progressive-candidate-white-house-2028"
+            "url": "https://www.foxnews.com/outkick-sports/caleb-williams-celebrates-democrats-winning-midterms-concerns-becoming-face-nfl-grow"
         },
         {
-            "headline": "Ohio's most popular midterm Republican says election results hold a warning for Dems",
-            "summary": "Frank LaRose says the Republican Party must refocus on human freedom and free market principles after GOP candidates struggled on Election Day.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/ohios-popular-midterm-republican-says-election-results-hold-warning-dems"
-        },
-        {
-            "headline": "Mexican judge arrested over alleged $2M bribe to release Ryan Wedding's second-in-command",
-            "summary": "A Mexican judge has been arrested on allegations that he accepted a $2-million US bribe in exchange for granting bail to a man accused of acting as second-in-command to Ryan Weddin...",
+            "headline": "From groceries to tax credits, how much is in the federal budget for your wallet?",
+            "summary": "The 2026 budget increases payments for the Canada Groceries and Essentials Benefit, expands a tax credit for low-wage workers and makes the Canada caregiver credit refundable. But ...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/mexican-judge-bribe-ryan-wedding-9.7410789?cmp=rss"
+            "url": "https://www.cbc.ca/news/business/budget-2026-gas-groceries-affordability-9.7411104?cmp=rss"
+        },
+        {
+            "headline": "Canada's new budget proposes $5B for culture. Here's where it would go",
+            "summary": "The Carney government's new budget proposes roughly $5 billion over the next five years toward several initiatives to promote Canadian culture, including building new recreational ...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/politics/canada-2026-budget-culture-carney-champagne-money-9.7411107?cmp=rss"
+        },
+        {
+            "headline": "Man accused of killing 11-year-old Burnaby boy makes 1st court appearance",
+            "summary": "One of two people charged in relation to the death of an 11-year-old Burnaby boy appeared in a Vancouver courtroom for the first time on Thursday.",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/british-columbia/branko-bijelic-kai-pavlovic-court-appearance-murder-charge-9.7410976?cmp=rss"
         },
         {
             "headline": "Google offers schools AI-boosted search or none at all",
@@ -278,55 +286,55 @@
             "url": "https://www.cbc.ca/news/canada/google-classroom-suite-search-ai-9.7410158?cmp=rss"
         },
         {
-            "headline": "Ramayana: Part 1 has the muscle, but lacks a certain epic soul",
-            "summary": "Never before has this Hindu myth looked as visually stunning, nor involved so much top-tier talent from across India's and other film industries. But the final effect is mixed.",
+            "headline": "15 patients released, 5 still hospitalized following bus crash near Mackenzie, B.C.",
+            "summary": "WorkSafeBC and RCMP are still investigating what police described as a \"chaotic scene\" when the shuttle bus went off Highway 39, causing hospitals in Prince George and Mackenzie to...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/entertainment/ramayana-part-one-review-9.7409628?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/british-columbia/mackenzie-bus-crash-patient-update-9.7411047?cmp=rss"
         },
         {
-            "headline": "LIV Golf shutting down operations, lawyer says in bankruptcy hearing",
-            "summary": "LIV Golf is winding down operations instead of launching a new version because of a lack of financial support.",
+            "headline": "California Gov. Gavin Newsom says he'll commute all death row sentences to life in prison",
+            "summary": "California governor Gavin Newsom is commuting the death sentences of more than 500 inmates to life in prison with no parole, saying he believes state-sanctioned killing is incompat...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/sports/golf/liv-golf-closing-operations-bankruptcy-9.7410688?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/california-newsom-death-row-commutation-9.7410993?cmp=rss"
         },
         {
-            "headline": "Russell Brand convicted of rape and sexual assault",
-            "summary": "British comedian and actor Russell Brand was convicted on Thursday of one count of rape and three counts of sexual assault linked to allegations dating back more than 20 years. He ...",
+            "headline": "Rush announces week-long concert series in Las Vegas",
+            "summary": "Rush may be currently delighting fans while on tour, but the Canadian Music Hall of Famers are already prepping for the next high-profile gig soon after its wraps: a week-long resi...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/entertainment/russell-brand-convicted-rape-sexual-assault-9.7410334?cmp=rss"
+            "url": "https://www.cbc.ca/news/entertainment/rush-sphere-residency-2027-9.7411108?cmp=rss"
         },
         {
-            "headline": "1 in 3 young people in Canada have faced dating violence, pediatricians warn",
-            "summary": "",
+            "headline": "Mexican judge arrested over alleged $2M bribe to release Ryan Wedding's second-in-command",
+            "summary": "A Mexican judge has been arrested on allegations that he accepted a $2-million US bribe in exchange for granting bail to a man accused of acting as second-in-command to Ryan Weddin...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/health/teen-dating-violence-9.7409541?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/mexican-judge-bribe-ryan-wedding-9.7410789?cmp=rss"
         },
         {
-            "headline": "Bank collapse sinks Paraguay's President Santiago Peña, who resigns as customers fear their savings are gone",
-            "summary": "Paraguayan President Santiago Peña resigned hours after the country's central bank seized Ueno Bank, which claimed more than 60 per cent of the country's adults as customers.",
+            "headline": "Ottawa readies ban on fees for moving investment accounts",
+            "summary": "The federal government has released draft regulations to stop banks from charging fees when a client moves an investment account to a different financial institution.",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/world/paraguay-ueno-bank-crisis-pena-resignation-9.7410656?cmp=rss"
-        },
-        {
-            "headline": "Court of Arbitration for Sport defends Russian hockey reinstatement, says IIHF failed to justify ban",
-            "summary": "The Court of Arbitration for Sport defended its decision to reinstate Russia to international hockey competition Thursday, saying the ruling was based strictly on the legal argumen...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/sports/hockey/russia-iihf-hockey-world-championships-sponsor-9.7410590?cmp=rss"
+            "url": "https://www.cbc.ca/news/business/investment-account-fees-ban-9.7410914?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Paraguay’s Santiago Peña tenders his resignation, but Congress presses ahead with impeachment",
+            "summary": "\n\t   \t      \n\t         Paraguayan President Santiago Peña tendered his resignation on Thursday, cornered by the collapse of Ueno Bank, but minutes later the Chamber of Deputies una...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/05/paraguay-s-santiago-pena-tenders-his-resignation-but-congress-presses-ahead-with-impeachment?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Ibero-American foreign ministers unanimously back Argentina’s Falklands claim",
             "summary": "\n\t   \t      \n\t         Ibero-American foreign ministers meeting in Madrid unanimously approved a special communiqué backing Argentina’s sovereignty claim over the Falklands and cal...",
@@ -384,17 +392,25 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Why did this Korean content creator throw a divorce ceremony?",
-            "summary": "Cho Seung-yeon marked the end of her marriage by having a divorce ceremony - however not everyone online was happy about it.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "south-asia": [
+        {
+            "headline": "Foreign Secretary Misri sets stage for Nepal PM’s upcoming India visit",
+            "summary": "The Nepali leaders expressed “gratitude for India’s swift and substantial humanitarian and technical assistance in the aftermath of the Bhotekoshi floods”, a joint press release st...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/foreign-secretary-misri-sets-stage-for-nepal-pms-upcoming-india-visit/article71671036.ece"
+        },
+        {
+            "headline": "Danger in the sewer: On India’s sewer cleaning deaths",
+            "summary": "India must eliminate situations that lead to sewer cleaning deaths",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/opinion/editorial/danger-in-the-sewer-on-indias-sewer-cleaning-deaths/article71670120.ece"
+        },
         {
             "headline": "Bodies of five fishermen from Tamil Nadu found near Kothapatnam beach in Andhra Pradesh",
             "summary": "Indian Coast Guard staff on search for four other missing fishermen who were sailing on the same boat which sank 2 km off the shore",
@@ -418,30 +434,6 @@
                 "thehindu.com"
             ],
             "url": "https://www.thehindu.com/news/national/visa-must-for-undocumented-six-non-muslim-communities-who-entered-india-before-december-31-2024-home-ministry/article71671369.ece"
-        },
-        {
-            "headline": "Young India Police School to begin full-fledged classes in new block next academic year",
-            "summary": "No summary available.",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/telangana/young-india-police-school-to-begin-full-fledged-classes-in-new-block-next-academic-year/article71670177.ece"
-        },
-        {
-            "headline": "Umar, Sharjeel move Supreme Court seeking bail in 2020 Delhi riots conspiracy case",
-            "summary": "In their petitions, the two have contended that their continued incarceration for over six years, with the trial yet to commence, violates the Constitutional guarantee of personal ...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/cities/Delhi/sharjeel-imam-moves-supreme-court-seeking-bail-in-uapa-case-over-2020-delhi-riots/article71669640.ece"
-        },
-        {
-            "headline": "CJP leaders Saurav Das, Ashutosh Ranka appear before Delhi Police in Jantar Mantar trespassing cases",
-            "summary": "The two leaders said they will cooperate with investigation; Mr. Ranka maintains that waving the national flag at Jantar Mantar should not be a crime",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/cjp-leaders-saurav-das-ashutosh-ranka-appear-before-delhi-police-in-jantar-mantar-trespassing-cases/article71671217.ece"
         }
     ],
     "europe": [
@@ -460,6 +452,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Who could be behind hoax bomb threats to European air travel?",
+            "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Melania Trump hosting Russian and Ukrainian delegations at the White House",
@@ -542,8 +542,8 @@
             "url": "https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes"
         },
         {
-            "headline": "Rome-bound plane diverted to French airbase as 20 European flights hit by bomb hoaxes",
-            "summary": "An Aer Lingus ​flight from Dublin to Rome was diverted to France's Evreux airbase ​following a ‌bomb threat as some 20 flights were affected by a latest spate of hoax alerts. Threa...",
+            "headline": "Rome-bound plane diverted to French airbase as dozens European flights hit by bomb hoaxes",
+            "summary": "An Aer Lingus ​flight from Dublin to Rome was diverted to France's Evreux airbase ​following a ‌bomb threat as some 25 flights were affected by a latest spate of hoax alerts. Threa...",
             "sources": [
                 "france24.com"
             ],
@@ -596,14 +596,6 @@
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/europe/20261103-poland-prevented-attempted-provocation-russian-border-pm-tusk-says"
-        },
-        {
-            "headline": "French schools blockade resume on smaller scale as holidays end",
-            "summary": "Students blockaded dozens of high schools across France on Tuesday to maintain pressure on the government over education reforms as trade unions prepared for a nationwide strike la...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/video/20261103-french-schools-blockade-resume-on-smaller-scale-as-holidays-end"
         }
     ],
     "middle-east": [
@@ -770,6 +762,14 @@
     ],
     "africa": [
         {
+            "headline": "Will Atiku Abubakar be on Nigeria's presidential ballot after court ruling?",
+            "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Kenyan pharmacists warn against viral craze of using allergy drug for vaginal tightening",
             "summary": "Women who have already tried inserting the tablets are advised to stop and seek medical attention if needed.",
             "sources": [
@@ -778,20 +778,20 @@
             "url": "https://www.bbc.co.uk/news/articles/cm1dwl13zge7o?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "The new sports debuting at Africa's first Olympics",
+            "summary": "Chinese martial art wushu taolu has been among the eye-catching events debuting at the Dakar 2026 Youth Olympic Games.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/olympics/articles/cmvg6942djn0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "The young politicians with African roots making history in the US midterms",
             "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Mother of Ghanaian boy killed in US 'wants justice' as she flies for funeral",
-            "summary": "Police have not made any arrests and an investigation is ongoing as authorities search for three teenage boys.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cq62yjnmg4ego?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "ANC under pressure to reverse South Africa decline",
@@ -880,14 +880,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Dangote: 'Nobody can make Africa great but us'",
-            "summary": "Africa's richest man says Africans should take the fate of their continent in their own hands, rather than relying on foreigners.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/c893v3l7l1p0o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Africa: Deadly Viruses Know No Borders, Nor Should Our Resolve to Stop Them",
@@ -1042,14 +1034,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "'I'm not a hero': Man intervenes in Australian MP attack",
-            "summary": "A Wangaratta local was among a group of by-standers who were first on the scene and detained the driver of the car that hit Helen Haines.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/cm9dzxjv5qxpo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "'Sheer luck': New Zealander who survived fatal Nepal helicopter crash recalls collision",
