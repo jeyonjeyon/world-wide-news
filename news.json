@@ -1,8 +1,16 @@
 {
     "_metadata": {
-        "last_updated": "2026-11-07 23:38:14 UTC"
+        "last_updated": "2026-11-08 05:56:44 UTC"
     },
     "globalOverview": [
+        {
+            "headline": "‘For the first time I have my own chair’: Gaza siblings find new freedom",
+            "summary": "In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of their hands. They struggle to move around and perform daily activities lik...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168759"
+        },
         {
             "headline": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
             "summary": "Afghanistan stands at a “difficult crossroad” more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are bei...",
@@ -154,17 +162,105 @@
                 "news.un.org"
             ],
             "url": "https://news.un.org/feed/view/en/story/2026/11/1168726"
-        },
-        {
-            "headline": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
-            "summary": "Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesda...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168724"
         }
     ],
     "north-america": [
+        {
+            "headline": "Marcus Freeman, Notre Dame silence doubters by knocking off top-ranked Miami, solidifying their CFP ranking",
+            "summary": "The Miami Hurricanes mounted a dramatic comeback without Malachi Toney, but Notre Dame held on in a thriller with college football playoff stakes.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/marcus-freeman-notre-dame-silence-doubters-knocking-top-ranked-miami-solidifying-cfp-ranking"
+        },
+        {
+            "headline": "Three teens, adult charged with murder after woman finds her teenage son dead in abandoned home",
+            "summary": "Austin Payne&apos;s mother tracked his cellphone to an abandoned Albany, Georgia, residence after the 15-year-old called to say he had been shot.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/three-teens-adult-charged-murder-after-woman-finds-her-teenage-son-dead-abandoned-home"
+        },
+        {
+            "headline": "Georgia dominates Ole Miss, moves closer to SEC championship game and College Football Playoff berth",
+            "summary": "Georgia&apos;s clock-eating rushing attack and Gunner Stockton&apos;s three touchdown passes overwhelmed Ole Miss as the Bulldogs silenced Trinidad Chambliss.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/georgia-dominates-ole-miss-moves-closer-sec-championship-game-college-football-playoff-berth"
+        },
+        {
+            "headline": "13th-ranked Tennessee dismantles sixth-ranked Kentucky to stay alive in College Football Playoff race",
+            "summary": "The Tennessee Volunteers crushed No. 6 Kentucky 34-6 as DeSean Bishop rushed for 109 yards and two touchdowns to keep their CFP hopes alive.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/13th-ranked-tennessee-dismantles-sixth-ranked-kentucky-stay-alive-college-football-playoff-race"
+        },
+        {
+            "headline": "Matt Rhule says Nebraska was due for 'a change' after coaching staff shakeup following loss to Illinois",
+            "summary": "Matt Rhule fired Dana Holgorsen just five days after calling him one of the best offensive minds, as Nebraska scored only 54 points in four losses.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/matt-rhule-says-nebraska-due-change-coaching-staff-shakeup-following-loss-illinois"
+        },
+        {
+            "headline": "JACKSON THOMPSON: Dana White says he'll meet with Trump amid claim of White House press secretary job offer",
+            "summary": "Dana White plans to meet Trump on Monday to discuss the White House press secretary offer after the president&apos;s dramatic Truth Social announcement.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/jackson-thompson-dana-white-says-hell-meet-trump-amid-claim-white-house-press-secretary-job-offer"
+        },
+        {
+            "headline": "Boston College scores on bizarre 'Ring-Around-The-Rosie' homage to 'The Longest Yard'",
+            "summary": "Boston College dusted off the famous &quot;Ring-Around-The-Rosie&quot; play from &quot;The Longest Yard&quot; against Florida State, but the Seminoles rallied late.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/boston-college-scores-bizarre-ring-around-rosie-homage-longest-yard"
+        },
+        {
+            "headline": "Tim McGraw warns of ‘most dangerous’ times in marriage after 30 years with Faith Hill",
+            "summary": "Tim McGraw reveals the &quot;most dangerous parts&quot; of a long marriage and why rediscovering Faith Hill during their toughest moments matters most.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/entertainment/tim-mcgraw-warns-most-dangerous-times-marriage-after-30-years-faith-hill"
+        },
+        {
+            "headline": "Bridget Fonda spotted in rare LA outing 24 years after her final on-screen appearance",
+            "summary": "Bridget Fonda was spotted out in Los Angeles 24 years after her last on-screen role, having previously told paparazzi she has no plans to return to acting.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/entertainment/bridget-fonda-spotted-rare-la-outing-24-years-after-final-screen-appearance"
+        },
+        {
+            "headline": "Ohio State's College Football Playoff hopes take big hit with loss to Oregon, Jeremiah Smith shows frustration",
+            "summary": "Ohio State fell behind 38-14 after Oregon rattled off 38 unanswered points, raising very serious questions about the Buckeyes&apos; playoff hopes.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/ohio-state-college-football-playoff-hopes-take-big-hit-loss-oregon-jeremiah-smith-shows-frustration"
+        },
+        {
+            "headline": "Coach of NJ's top girls soccer team suspended for playoff game after champagne bottle celebration",
+            "summary": "Video shows New Jersey coach Karen Anderson popping a champagne bottle on school property after her 100th career win, triggering a suspension.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/coach-nj-top-girls-soccer-team-suspended-playoff-game-champagne-bottle-celebration"
+        },
+        {
+            "headline": "Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos",
+            "summary": "Sayed Mohassib was seen led away in handcuffs after being charged with second-degree murder in the stabbing death of Brooklyn jogger Katie Suarez.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/ex-police-officer-accused-stabbing-nyc-jogger-death-appears-emotionless-new-photos"
+        },
         {
             "headline": "Duke's beatdown of NC State included a must-see missed field goal returned for a 109-yard touchdown",
             "summary": "The Duke Blue Devils returned a missed NC State field goal 109 yards for a touchdown at Carter-Finley Stadium, turning a bad half into a nightmare.",
@@ -190,95 +286,15 @@
             "url": "https://www.foxnews.com/outkick-sports/suspect-claimed-lebron-james-son-arrested-stalking-star-la-home-lapd"
         },
         {
-            "headline": "Dustin Hoffman had a 'terrible experience' making Hollywood classic 'The Graduate'",
-            "summary": "Dustin Hoffman reveals in a new essay that he felt &quot;unworthy&quot; and feared being fired every day while filming &quot;The Graduate&quot; with Mike Nichols.",
+            "headline": "What Ottawa's 'RRSP for life' plan means for Canadian seniors",
+            "summary": "",
             "sources": [
-                "moxie.foxnews.com"
+                "rss.cbc.ca"
             ],
-            "url": "https://www.foxnews.com/entertainment/dustin-hoffman-had-terrible-experience-making-hollywood-classic-the-graduate"
+            "url": "https://www.cbc.ca/news/business/rrsp-for-life-9.7412568?cmp=rss"
         },
         {
-            "headline": "Army student displays hilarious 'communism' sign ahead of game against Air Force",
-            "summary": "Army football leads the entire FBS with 342.5 rushing yards per game through eight games in 2026 while throwing just 85 passes all season long.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/army-student-displays-hilarious-communism-sign-ahead-game-against-air-force"
-        },
-        {
-            "headline": "IIHF 'taking the necessary steps' to comply with Russia return ruling as Belarus ban remains",
-            "summary": "The IIHF says it disagrees with the CAS ruling but is taking steps to allow Russia in the World Junior Championships amid a multinational boycott.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/iihf-taking-necessary-steps-comply-russia-return-ruling-belarus-ban-remains"
-        },
-        {
-            "headline": "Urgent travel alert as nationwide strike threatens widespread disruption and delays",
-            "summary": "Spain&apos;s 24-hour nationwide strike on Nov. 11 could disrupt flights, trains and Barcelona metro service as unions protest the housing crisis.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/travel/urgent-travel-alert-nationwide-strike-threatens-widespread-disruption-delays"
-        },
-        {
-            "headline": "Melania Trump secures $7.2M for foster care scholarships at LSU ahead of Alabama showdown",
-            "summary": "Melania Trump unveiled a $7.2 million scholarship endowment at LSU for foster care youth before receiving a custom jersey and football tribute.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/melania-trump-secures-7-2m-foster-care-scholarships-lsu-ahead-alabama-showdown"
-        },
-        {
-            "headline": "JACKSON THOMPSON: Trump says he offered UFC CEO Dana White press secretary job",
-            "summary": "President Donald Trump proposed UFC CEO Dana White as White House press secretary in a Truth Social post, naming MMA fighters as assistants.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/jackson-thompson-trump-says-offered-ufc-ceo-dana-white-press-secretary-job"
-        },
-        {
-            "headline": "Sami Zayn leaves WWE Crown Jewel with more than just a championship after loss to Roman Reigns",
-            "summary": "Roman Reigns declared Sami Zayn &quot;an Uso&quot; after their WWE Crown Jewel Championship match in an emotional moment that stunned the Riyadh crowd.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/sami-zayn-leaves-wwe-crown-jewel-more-than-just-championship-loss-roman-reigns"
-        },
-        {
-            "headline": "Government witness says Shohei Ohtani scandal dried up inside betting info on Emmanuel Clase's pitches",
-            "summary": "A government witness admitted to winning thousands betting on Emmanuel Clase&apos;s pitch speeds using inside tips shared through an Uber driver group chat.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/government-witness-shohei-ohtani-scandal-dried-inside-betting-info-emmanuel-clase-pitches"
-        },
-        {
-            "headline": "Member of largest teachers union in US claims org is 'no longer focused on children,' only 'political power'",
-            "summary": "A 26-year NEA and California Teachers Association member says unions abandoned classroom instruction to focus on political power and activism.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/media/member-largest-teachers-union-us-claims-organization-no-longer-focused-children-only-power"
-        },
-        {
-            "headline": "Certain sleep habits could offer clues to hidden type of depression, scientists say",
-            "summary": "A study of over 11,000 Australian adults links specific sleep habits and circadian rhythm disruptions to a newly proposed subtype of depression.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/health/certain-sleep-habits-could-offer-clues-hidden-type-depression-scientists-say"
-        },
-        {
-            "headline": "Pro-trans activists hold rally against Washington state ballot initiative to protect girls sports",
-            "summary": "Protesters marched through Seattle Thursday after Washington voters approved Initiative 638 barring biological males from girls&apos; K-12 sports.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/pro-trans-activists-rally-against-washington-state-ballot-initiative-protect-girls-sports"
-        },
-        {
-            "headline": "3 bodies found in home of Krakow shooting suspect, Polish PM says, after 6 killed, 16 injured in city square",
+            "headline": "Polish police say gunman kills 6 in 'act of terror'; 3 more dead found at suspect's home",
             "summary": "Six people were killed and 16 wounded after a gunman opened fire Saturday afternoon in a busy market square in Krakow, authorities said, in what Poland's defence minister called an...",
             "sources": [
                 "rss.cbc.ca"
@@ -286,12 +302,12 @@
             "url": "https://www.cbc.ca/news/world/krakow-poland-shooting-9.7413582?cmp=rss"
         },
         {
-            "headline": "What Ottawa's 'RRSP for life' plan means for Canadian seniors",
-            "summary": "",
+            "headline": "UFC boss Dana White says he's meeting with Trump after press secretary job offer",
+            "summary": "U.S. President Donald Trump said Saturday that he has offered the job of White House press secretary to his friend and UFC boss Dana White, an announcement unconventional even for ...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/business/rrsp-for-life-9.7412568?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/trump-press-secretary-ufc-dana-white-9.7413697?cmp=rss"
         },
         {
             "headline": "The age of AI warfare is here. Is Canada ready?",
@@ -302,31 +318,23 @@
             "url": "https://www.cbc.ca/news/canada/ai-drones-in-warfare-9.7407846?cmp=rss"
         },
         {
-            "headline": "'Absolutely' possible: Vancouver, Victoria mayors back Ottawa's bid to end homelessness",
-            "summary": "The federal Liberal budget, delivered on Thursday, has set aside $11.2 billion over the next four years in a bid to end homelessness in the next 10 years.",
+            "headline": "Elks to face Alouettes in Grey Cup after beating Lions in West final",
+            "summary": "Cody Fajardo used his legs and his arms to engineer two fourth-quarter touchdowns to guide the Edmonton Elks to a 28-16 win over the B.C. Lions in the West Division final on Saturd...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/british-columbia/bc-reaction-federal-homelessness-plan-9.7412841?cmp=rss"
-        },
-        {
-            "headline": "Is the Alberta government engaging in American-style gerrymandering?",
-            "summary": "Political science experts told CBC’s West of Centre that Alberta’s electoral map-making process should be reexamined to stave off American influences.",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/edmonton/alberta-american-style-gerrymandering-9.7412790?cmp=rss"
-        },
-        {
-            "headline": "Paraguay judge orders detention of impeached ex-president amid corruption investigation",
-            "summary": "Paraguayan prosecutors on Saturday charged former president Santiago Peña with breach of trust and administration for personal gain and asked a court to jail him pending trial, a d...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/paraguay-prosecutors-charge-impeached-president-pena-detention-9.7413705?cmp=rss"
+            "url": "https://www.cbc.ca/sports/football/cfl/cfl-playoffs-bc-lions-edmonton-elks-west-final-9.7413798?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Paraguay’s prosecutors charge Santiago Peña and seek his pre-trial detention over the Ueno Bank collapse",
+            "summary": "\n\t   \t      \n\t         Paraguayan prosecutors on Saturday charged former President Santiago Peña, removed from office by the Senate on Friday, and requested his pre-trial detention...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/08/paraguay-s-prosecutors-charge-santiago-pena-and-seek-his-pre-trial-detention-over-the-ueno-bank-collapse?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Princess Anne to arrive in the Falklands on the eve of the Hamburg hearing",
             "summary": "\n\t   \t      \n\t         Princess Anne, the sister of King Charles III, will visit the Falklands and South Georgia from Monday, November 9, the day before the International Tribunal ...",
@@ -396,28 +404,28 @@
     ],
     "south-asia": [
         {
-            "headline": "Sustainable Development Council unveils nationwide citizen driven initiative for sustainable India",
-            "summary": "No summary available.",
+            "headline": "Delhi faces new challenge from Samosa caucus",
+            "summary": "Surge in Indian-American wins in U.S. midterms may test MEA as young Desi Democrat leaders are more ready to take up civil rights causes in India too",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/tamil-nadu/sustainable-development-council-unveils-nationwide-citizen-driven-initiative-for-sustainable-india/article71678994.ece"
+            "url": "https://www.thehindu.com/news/national/delhi-faces-new-challenge-from-samosa-caucus/article71680519.ece"
         },
         {
-            "headline": "India’s policy shift towards Israel is regrettable, says former Madras High Court judge at book launch",
-            "summary": "The book, Amerikka-Israel Aneethiyum Makkal Samuga Kadamaiyum, features articles examining the trajectory of hostilities between the United States and Iran and the Israel-Lebanon c...",
+            "headline": "Delhi wakes up to toxic haze on Deepavali, close to 'severe' AQI at 383",
+            "summary": "Jahangirpuri recorded the highest AQI at 450, followed by RK Puram at 448, according to the Sameer app.",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/tamil-nadu/indias-policy-shift-towards-israel-is-regrettable-says-former-madras-high-court-judge-at-book-launch/article71679140.ece"
+            "url": "https://www.thehindu.com/news/cities/Delhi/delhi-wakes-up-to-toxic-haze-on-deepavali-close-to-severe-aqi-at-383/article71680540.ece"
         },
         {
-            "headline": "Students urged to dream big, prepare for a self-reliant India",
-            "summary": "No summary available.",
+            "headline": "A bridge between past and present",
+            "summary": "A German publication ranked Bihar Museum among the best in the world. Mayank Kumar visits to understand what went into the making of the museum and what visitors think of its contr...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-dream-big-prepare-for-a-self-reliant-india/article71679044.ece"
+            "url": "https://www.thehindu.com/news/national/bihar/a-bridge-between-past-and-present/article71678324.ece"
         }
     ],
     "europe": [
@@ -898,12 +906,12 @@
             "url": "https://allafrica.com/stories/202611060339.html"
         },
         {
-            "headline": "Africa: Deadly Viruses Know No Borders, Nor Should Our Resolve to Stop Them",
-            "summary": "[allAfrica] In this guest column for AllAfrica, the Dutch Trade and Development Minister and the head of the World Health Organization stress that addressing viral health crises an...",
+            "headline": "Africa: All of Africa Today - November 6, 2026",
+            "summary": "[allAfrica]",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202611050568.html"
+            "url": "https://allafrica.com/stories/202611060129.html"
         }
     ],
     "oceania": [
