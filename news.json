@@ -1,8 +1,32 @@
 {
     "_metadata": {
-        "last_updated": "2026-11-11 06:08:39 UTC"
+        "last_updated": "2026-11-11 16:08:10 UTC"
     },
     "globalOverview": [
+        {
+            "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+            "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+            "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+            "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
             "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
@@ -12,233 +36,225 @@
             "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-            "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+            "headline": "Transport workers in Chile block highways in protest over surging fuel prices",
+            "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "First day of Ukraine peace talks constructive, Zelensky says",
-            "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+            "headline": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+            "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "French wartime resistance heroine Solange Alexandre dies aged 104",
-            "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Arrests made after visit from former US President Biden",
-            "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "'Cruise for life' ship seized in Singapore",
-            "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Iran rejects French claims it was behind supermarket fridge hacking",
-            "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "California police investigate after 27 fall ill at half-marathon running event",
-            "summary": "A local hospital says runners had \"unusual\" symptoms after racing on an atypically hot day.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cq0ldlyd556go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+            "headline": "'If I tell you to run, run': BBC joins a Ukrainian drone unit as it protects a front-line city",
             "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Inside devastated front-line city that Russia wants Ukraine to give up",
+            "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Polish unity on show as thousands join silent march for Krakow shooting victims",
+            "summary": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss"
         }
     ],
     "north-america": [
         {
-            "headline": "Multiple dead after vehicle crashes into food stand near North Hollywood Metro station",
-            "summary": "A car crashed into a food stand near a North Hollywood Metro bus stop on Tuesday, killing three and leaving multiple others critically injured.",
+            "headline": "Veterans Day 2026 brings free meals at popular restaurants — and some deals don't end Nov. 11",
+            "summary": "About 30 restaurants are offering Veterans Day deals on Nov. 11, from Outback Steakhouse&apos;s free Bloomin&apos; Onion to Buffalo Wild Wings&apos; boneless wings.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/multiple-dead-after-vehicle-crashes-food-stand-near-north-hollywood-metro-station"
+            "url": "https://www.foxnews.com/food-drink/veterans-day-2026-brings-free-meals-popular-restaurants-some-deals-dont-end-nov-11"
         },
         {
-            "headline": "Jaylen Brown repeatedly snubs ex-teammate Jayson Tatum as Celtics crush Sixers 'lambchops and some gravy'",
-            "summary": "Jaylen Brown gave Jayson Tatum the cold shoulder before tip-off in Philly, capping months of silence after a tense dinner confrontation in France.",
+            "headline": "USA hockey hero Connor Hellebuyck greeted with 'Trump's your daddy,' other vulgar chants in return to Winnipeg",
+            "summary": "Connor Hellebuyck faced hostile chants from Winnipeg Jets fans in his return, with crowds referencing Trump and the Presidential Medal of Freedom.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/jaylen-brown-snubs-jayson-tatum-celtics-crush-sixers-lambchops-gravy"
+            "url": "https://www.foxnews.com/outkick-sports/usa-hockey-hero-connor-hellebuyck-greeted-trumps-daddy-vulgar-chants-return-winnipeg"
         },
         {
-            "headline": "Mullin vows ‘zero change’ on immigration after Republicans suffer crushing midterm losses",
-            "summary": "Markwayne Mullin says the Department of Homeland Security is deporting roughly 3,600 people a day and promises &quot;zero change&quot; after midterm elections.",
+            "headline": "Bernie Sanders says he won't back Schumer as push for new leadership gains steam",
+            "summary": "Bernie Sanders and Elissa Slotkin say they will not support Chuck Schumer for Senate majority leader, calling for a new generation of leadership.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/mullin-vows-zero-change-immigration-republicans-suffer-crushing-midterm-losses"
+            "url": "https://www.foxnews.com/politics/bernie-sanders-wont-back-schumer-push-new-leadership-gains-steam"
         },
         {
-            "headline": "Brittany Mahomes announces baby No. 4 as Patrick Mahomes, Chiefs gear up for AFC push",
-            "summary": "Chiefs Kingdom is on baby watch after Brittany Mahomes announced baby No. 4 with beachside photos, fueling speculation over another metals name.",
+            "headline": "Historic US ship that once ruled the Atlantic faces extraordinary fate near Florida",
+            "summary": "Once the fastest Atlantic ocean liner, the SS United States is set to become the world&apos;s largest artificial reef in a $13.5 million project off the coast of Florida.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/brittany-mahomes-announces-baby-no-4-patrick-mahomes-chiefs-gear-up-afc-push"
+            "url": "https://www.foxnews.com/travel/famed-ship-carried-presidents-movie-stars-faces-dramatic-end-75-years"
         },
         {
-            "headline": "Maddow fears Trump migrant detention centers may be used to imprison ‘the rest of us’",
-            "summary": "MS NOW host Rachel Maddow suggested the Trump administration could eventually use immigration detention centers to imprison American citizens while on &quot;The Daily Show.&quot;",
+            "headline": "Multiple Kennedy family members seek to join legal battle against Trump's triumphal arch",
+            "summary": "Kennedy family members are seeking to join legal actions challenging plans to build President Donald Trump&apos;s triumphal arch, which he wants built in Washington, D.C.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/maddow-fears-trump-migrant-detention-centers-may-used-imprison-the-rest-us"
+            "url": "https://www.foxnews.com/politics/multiple-kennedy-family-members-seek-join-legal-battle-against-trumps-triumphal-arch"
         },
         {
-            "headline": "Twice-deported illegal immigrant accused of trying to storm United cockpit, threatening bomb: DHS",
-            "summary": "Rony Alexander Gomez-Alberto, accused of a bomb threat on a United Airlines flight to New Orleans, had been deported twice before, DHS confirms.",
+            "headline": "‘He blamed the Jews’: GOP congressman levels explosive accusation against JD Vance over election postmortem",
+            "summary": "Rep. Randy Fine compared JD Vance&apos;s post-midterm election analysis to 1932 Germany, saying the vice president tacitly blamed Jewish people for GOP losses.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/twice-deported-illegal-immigrant-accused-trying-storm-united-cockpit-threatening-bomb-dhs"
+            "url": "https://www.foxnews.com/politics/he-blamed-jews-gop-congressman-levels-explosive-accusation-against-jd-vance-election-postmortem"
         },
         {
-            "headline": "Turning Point USA Spox Andrew Kolvet speaks out as Jennifer Welch, Dave Chappelle mock Charlie Kirk's murder",
-            "summary": "Andrew Kolvet slams Jennifer Welch and Angie Sullivan&apos;s apology as narcissistic and calls Dave Chappelle&apos;s remarks about Charlie Kirk deeply disappointing.",
+            "headline": "I have 42 trees and bushes in my yard – this leaf blower is saving my sanity",
+            "summary": "The Tornado Pro handheld leaf blower charges via USB-C in 45 minutes and features a built-in flashlight. It is now available with an exclusive 20% discount.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/turning-point-usa-spox-andrew-kolvet-speaks-out-jennifer-welch-dave-chappelle-mock-charlie-kirks-murder"
+            "url": "https://www.foxnews.com/deals/tornado-pro-deal"
         },
         {
-            "headline": "Anti-Israel agitators swarm Biden in Ireland and hurl object at motorcade",
-            "summary": "Video shows protesters throwing an object and screaming at Joe Biden&apos;s motorcade outside Trinity College Dublin, where Hunter Biden accepted a prestigious award.",
+            "headline": "Moderate Dem governor-elect in hot seat after signaling one of her 'top priorities' in presser: 'Resist'",
+            "summary": "Amy Klobuchar&apos;s push for Minnesota gun safety legislation drew fierce conservative backlash over a bill that would ban AR-15 sales and limit magazines.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/anti-israel-agitators-swarm-biden-ireland-hurl-object-motorcade"
+            "url": "https://www.foxnews.com/politics/moderate-dem-governor-elect-hot-seat-signaling-top-priorities-presser-resist"
         },
         {
-            "headline": "Biden reveals letter Trump left him at White House that made it seem 'as if there were two Donald Trumps'",
-            "summary": "President Donald Trump&apos;s letter to former President Joe Biden, sent weeks after the January 6 Capitol riots in 2021, offered warm wishes, Biden&apos;s new memoir revealed.",
+            "headline": "Inside Holocaust memorial in heart of Arab world as founder reveals what changed everything",
+            "summary": "Inside Dubai&apos;s Crossroads of Civilizations Museum, founder Ahmed Obaid Al Mansoori reveals how a temporary Holocaust tribute became a permanent gallery.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/biden-reveals-letter-trump-left-him-white-house-made-seem-as-were-two-donald-trumps"
+            "url": "https://www.foxnews.com/world/inside-holocaust-memorial-heart-arab-world-founder-reveals-changed-everything"
         },
         {
-            "headline": "IRGC operative lands on FBI’s Most Wanted Terrorists list over alleged plot to kill former Trump advisor",
-            "summary": "Shahram Poursafi allegedly sought to pay $300,000 to have John Bolton killed in a plot authorities linked to retaliation for Qasem Soleimani’s death.",
+            "headline": "Drug ring busted, illegal aliens cuffed by Homeland Security Task Force in South Carolina: DOJ",
+            "summary": "A Homeland Security Task Force investigation in South Carolina netted 36 arrests, seizing 346 kilograms of fentanyl and $2.8 million in cash.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/irgc-operative-lands-fbis-most-wanted-terrorists-list-alleged-plot-kill-former-trump-adviser"
+            "url": "https://www.foxnews.com/politics/drug-ring-busted-illegal-aliens-cuffed-homeland-security-task-force-south-carolina-doj"
         },
         {
-            "headline": "US evacuates 13 military aircraft from second UK base as new Iran threat raises alarm",
-            "summary": "More than a dozen U.S. Air Force aircraft left RAF Mildenhall after a reported Iran-linked threat triggered the second-highest military alert level.",
+            "headline": "Capitals defenseman dishes out punishment to Senators star during overtime win",
+            "summary": "Jakob Chychrun&apos;s hit on Nick Cousins left the forward &quot;not doing great,&quot; says coach Travis Green, after the defenseman avoided a major penalty.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/world/us-evacuates-13-military-aircraft-second-uk-base-new-iran-threat-raises-alarm"
+            "url": "https://www.foxnews.com/outkick-sports/capitals-defenseman-dishes-punishment-senators-star-overtime-win"
         },
         {
-            "headline": "Ayesha Curry says husband Steph Curry's NBA pregame habits inspired her movie character, responds to backlash",
-            "summary": "Ayesha Curry revealed on the &quot;Today&quot; show how Steph Curry&apos;s pregame superstitions shaped her character in the Roku film &quot;Second Chance Holiday.&quot;",
+            "headline": "DAKOTA MEYER: Veterans took an oath to defend America. It has no expiration date",
+            "summary": "A Marine Corps Medal of Honor recipient explains why Veterans Day should push former service members to keep leading long after the uniform comes off.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/ayesha-curry-says-husband-steph-curry-nba-pregame-habits-inspired-movie-character-responds-backlash"
+            "url": "https://www.foxnews.com/opinion/dakota-meyer-veterans-took-oath-defend-america-no-expiration-date"
         },
         {
-            "headline": "Cardinals star Michael Wilson out for remainder of the season with neck fracture in crushing blow, coach says",
-            "summary": "Michael Wilson played through a neck fracture against the Seattle Seahawks before the Arizona Cardinals learned their No. 1 wide receiver is done for the year.",
+            "headline": "New Texas governor-elect strikes conciliatory tone toward Musk after campaigning against SpaceX deal",
+            "summary": "Gina Hinojosa signaled a possible shift on the Boca Chica State Park land deal, saying Texas can have a strong working relationship with Elon Musk.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/cardinals-star-michael-wilson-out-remainder-season-neck-fracture-crushing-blow-coach-says"
+            "url": "https://www.foxnews.com/politics/texas-governor-strikes-conciliatory-tone-toward-musk-after-campaigning-against-spacex-deal"
         },
         {
-            "headline": "'I've Had It' host Jennifer Welch cheers Wisconsin brewing company that called Kirk an 'awful human being'",
-            "summary": "Jennifer Welch promoted the Minocqua Brewing Company on her &quot;I&apos;ve Had It&quot; podcast after the Wisconsin anti-Trump brewery attacked Charlie Kirk and offered sponsorshi...",
+            "headline": "Australian apprentice jockey Izzy Neale dead at 22 after fall from horse during race",
+            "summary": "Apprentice jockey Izzy Neale, 22, was thrown from her horse during the Cotton Cup at Warren Racecourse after her mount suffered a leg injury.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/ive-had-it-host-jennifer-welch-cheers-wisconsin-brewing-company-called-kirk-awful-human-being"
+            "url": "https://www.foxnews.com/outkick-sports/australian-apprentice-jockey-izzy-neale-dead-22-fall-horse-race"
         },
         {
-            "headline": "American Airlines plane nearly hit by Air France jet after takeoff at LAX",
-            "summary": "Air traffic control audio captured the tense moment an Air France jet made an unauthorized turn into the path of an American Airlines flight at LAX recently. An expert weighed in.",
+            "headline": "Trump touts legal victory over BBC as judge says his lawsuit against British broadcaster can proceed",
+            "summary": "President Donald Trump&apos;s $10 billion defamation lawsuit against the BBC will proceed after a judge rejected the outlet&apos;s motion to dismiss the case.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/travel/american-airlines-plane-nearly-hit-air-france-jet-after-takeoff-lax"
+            "url": "https://www.foxnews.com/media/trump-touts-legal-victory-over-bbc-judge-says-his-lawsuit-against-british-broadcaster-can-proceed"
         },
         {
-            "headline": "Dear WNBA media, please stop telling fans to stick to basketball when the drama is what sells",
-            "summary": "Chiney Ogwumike asked the media to focus on the basketball, which makes the shooting numbers from Game 7 of the WNBA Finals an awkward place to start.",
+            "headline": "Reddit users debate the best movie quotes of all time and the answers are truly iconic",
+            "summary": "Reddit users debate the greatest movie quote of all time, with iconic lines from &quot;The Godfather,&quot; &quot;Tombstone&quot; and &quot;The Terminator&quot; sparking buzz.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/dear-wnba-media-please-stop-telling-fans-stick-basketball-when-drama-sells"
+            "url": "https://www.foxnews.com/outkick-culture/reddit-users-debate-best-movie-quotes-all-time-answers-truly-iconic"
         },
         {
-            "headline": "House GOP leaders block Massie's Hegseth impeachment push",
-            "summary": "Rep. Thomas Massie introduced a privileged resolution to impeach Secretary of War Pete Hegseth, meaning it had to be considered by the full House.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/house-gop-leaders-block-massie-hegseth-impeachment-push"
-        },
-        {
-            "headline": "Former Seattle Mariners player Dave Edler critically injured in Yakima crash that killed his wife",
-            "summary": "Trevor Allen Stockton faces vehicular homicide charges after a head-on Yakima crash killed Susie Edler and left Dave Edler critically injured.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/former-seattle-mariners-player-dave-edler-critically-injured-yakima-crash-killed-wife"
-        },
-        {
-            "headline": "Republicans block impeachment push against Pete Hegseth",
-            "summary": "",
+            "headline": "Canadians fought a war in Afghanistan. Why do we struggle to talk about it?",
+            "summary": "Is Afghanistan in danger of becoming Canada's forgotten war? Parliament is struggling with a bill that would designate the 13-year conflict — where more than 40,000 Canadians serve...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/world/hegseth-impeachment-resolution-reaction-9.7416083?cmp=rss"
+            "url": "https://www.cbc.ca/news/politics/afghan-war-canada-trump-soldiers-remembrance-9.7417195?cmp=rss"
         },
         {
-            "headline": "U.S. comedian Josh Johnson surprised by CBC journalist in viral video",
-            "summary": "A CBC News copy editor turned into one half of an unexpected comedy duo in a video posted to social media Tuesday. American comedian Josh Johnson brought Jon Azpiri to the stage to...",
+            "headline": "For this Afghanistan vet, no memorial can ever rival this hallowed ground",
+            "summary": "On Remembrance Day, retired colonel Mark Gasparotto attends the service at Canada's National Military Cemetery in Ottawa. Afterward, the Afghanistan veteran walks among the rows of...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/british-columbia/jon-the-editor-josh-johnson-viral-comedy-9.7416381?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/ottawa/afghanistan-veteran-national-military-cemetery-beechwood-cemetery-9.7416026?cmp=rss"
+        },
+        {
+            "headline": "Are we alone? Institute searching for alien signals is using a new way to answer that age-old question",
+            "summary": "Where are all the aliens? We've yet to find life outside of that on Earth, but that doesn't mean scientists aren't looking. In fact, the search for extraterrestrial intelligence is...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/science/seti-extraterrestrial-signal-9.7416954?cmp=rss"
+        },
+        {
+            "headline": "Russia-Ukraine talks mediated by U.S. end with news of 'good momentum,' large-scale prisoner swap",
+            "summary": "Russia's chief negotiator at the latest Ukraine peace talks in Abu Dhabi said Wednesday after their conclusion that mutual understanding ‌had been achieved on some issues, but not ...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/world/us-russia-ukraine-abu-dhabi-peace-talks-9.7417687?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Prosecutors open the vault at Peña’s house and find it empty; two safes found at Ueno Bank",
+            "summary": "\n\t   \t      \n\t         Paraguayan prosecutors on Tuesday opened the armoured vault hidden in former President Santiago Peña’s summer house in San Bernardino, two days after finding...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/11/prosecutors-open-the-vault-at-pena-s-house-and-find-it-empty-two-safes-found-at-ueno-bank?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "EU-Mercosur deal, six months on: winners, losers and the question mark over Europe’s top court",
+            "summary": "\n\t   \t      \n\t         Six months after it began to apply provisionally, the trade agreement between the European Union and Mercosur, made up of Argentina, Brazil, Paraguay and Uru...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/11/eu-mercosur-deal-six-months-on-winners-losers-and-the-question-mark-over-europe-s-top-court?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Leo XIV draws some 650,000 to Córdoba with a homily on holiness",
             "summary": "\n\t   \t      \n\t         Pope Leo XIV celebrated Mass on Tuesday in Córdoba, in central Argentina, before some 650,000 people, according to the newspaper El País, in a homily devoted...",
@@ -262,115 +278,35 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/11/10/venezuela-signs-a-memorandum-with-exxonmobil-for-the-oil-major-s-return-after-leaving-in-2007?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Some 2.5 million people attend Leo XIV’s Mass in Buenos Aires, authorities say",
-            "summary": "\n\t   \t      \n\t         Some 2.5 million people, according to local authorities, attended the Mass Pope Leo XIV celebrated on Monday in the parks of Palermo in Buenos Aires, the fir...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/11/10/some-2.5-million-people-attend-leo-xiv-s-mass-in-buenos-aires-authorities-say?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [],
     "south-asia": [
         {
-            "headline": "Mother Dairy raises milk prices by ₹2-4 per litre, effective November 12",
-            "summary": "Mother Dairy, the largest milk supplier in Delhi-NCR, had last raised prices on May 14, 2026. Prior to that, the price revision was done in April, 2025",
+            "headline": "Photographs of UDF leaders with murder case accused in UAE spark row",
+            "summary": "Photographs show MLAs Sandeep Varier and A.K.M. Ashraf, and Indian Union Muslim League Kasaragod district president N.A. Nellikunnu, standing alongside Raees, the 13th accused in a...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/business/mother-dairy-raises-milk-prices-by-2-4-per-litre-effective-november-12/article71688495.ece"
-        },
-        {
-            "headline": "World Wars and India’s sacrifice",
-            "summary": "We owe it to ourselves to be honest with our past, just as we owe it to our armed forces to honour the sacrifices of those who went before them",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/opinion/op-ed/world-wars-and-indias-sacrifice/article71687275.ece"
-        },
-        {
-            "headline": "Delhi air quality deteriorates, AQI settles at 303",
-            "summary": "The national capital is battling rising pollution levels after Deepavali, with stubble burning in neighbouring States contributing to the deterioration",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-deteriorates-aqi-settles-at-303/article71688408.ece"
-        },
-        {
-            "headline": "Liberia-flagged VLCC hit in Persian Gulf, six Indian seafarers aboard: Sarbananda Sonowal",
-            "summary": "Mr. Sonowal said four crew members sustained injuries in the attack, including one Indian national, who suffered minor injuries and has been safely taken ashore",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/liberia-flagged-vlcc-hit-in-persian-gulf-six-indian-seafarers-aboard-sarbananda-sonowal/article71688307.ece"
-        },
-        {
-            "headline": "Court summons former Keralam DGP R. Sreelekha in Rahul Gandhi defamation case",
-            "summary": "In her controversial speech on October 14, Sreelekha allegedly attributed Rahul Gandhi’s protest in Delhi to a substance abuse-induced high",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/kerala/court-summons-former-keralam-dgp-r-sreelekha-in-rahul-gandhi-defamation-case/article71688270.ece"
-        },
-        {
-            "headline": "ECI got grave, sensitive objection on registration of Akali Dal (Waris Punjab De), Delhi HC told",
-            "summary": "The ECI said when the commission issued reminders to the CEO, Punjab to expedite the field verification reports, the CEO submitted a positive verification report in April which was...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/punjab/eci-got-grave-sensitive-objection-on-registration-of-akali-dal-waris-punjab-de-delhi-hc-told/article71688179.ece"
-        },
-        {
-            "headline": "Delhi SIR: Why BJP BLAs’ voter deletion applications in Mustafabad focused on three neighbourhoods",
-            "summary": "796 Form 7 applications against Muslims, filed by 20 BJP BLAs, concentrated on the rolls of 25 polling booths in Mustafabad. However, BJP claims it has not directed the filing of t...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/cities/Delhi/delhi-sir-why-bjp-blas-voter-deletion-applications-in-mustafabad-focused-on-three-neighbourhoods/article71685998.ece"
-        },
-        {
-            "headline": "Domestic rooftop solar installations in T.N. remain low due to policy challenges, say consumers",
-            "summary": "A.D. Thirumurthi, advisor of the National Solar Energy Federation of India, says the consumers should be exempted from network charges for rooftop solar",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/cities/Coimbatore/domestic-rooftop-solar-installations-in-tn-remain-low-due-to-policy-challenges-say-consumers/article71686375.ece"
-        },
-        {
-            "headline": "Van Dyke threatens to ‘reveal shocking details’ of his arrest, incarceration in India, blames Russia",
-            "summary": "MEA declines comment, says courts still hearing case; Mr. Van Dyke was arrested in March along with six Ukrainians, who crossed from Myanmar to Mizoram after allegedly training eth...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/van-dyke-threatens-to-reveal-shocking-details-of-arrest-with-6-ukrainians-in-india-blames-russia/article71686582.ece"
-        },
-        {
-            "headline": "After Bangladesh rules out passport for Hasina, India says ‘travel document’ needed",
-            "summary": "Ministry of External Affairs spokesperson Randhir Jaiswal described the passport’s requirement for extradition as a “technical issue” and said, “Obviously, for the travel of people...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/after-bangladesh-rules-out-passport-for-hasina-india-says-travel-document-needed/article71686655.ece"
-        },
-        {
-            "headline": "Producers welcome proposal for minimum sustainable price for tea",
-            "summary": "Tea Board of India has recommended a proposal to the Ministry of Commerce to implement minimum sustainable price (MSP) for tea. Several stake holders said that MSP is essential for...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/west-bengal/producers-welcome-proposal-for-minimum-sustainable-price-for-tea/article71686974.ece"
+            "url": "https://www.thehindu.com/news/national/kerala/photographs-of-udf-leaders-with-murder-case-accused-in-uae-spark-row/article71689301.ece"
         }
     ],
     "europe": [
         {
-            "headline": "Inside devastated front-line city that Russia wants Ukraine to give up",
-            "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+            "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+            "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+            "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "First day of Ukraine peace talks constructive, Zelensky says",
@@ -381,28 +317,20 @@
             "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Inside devastated front-line city that Russia wants Ukraine to give up",
+            "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Arrests made in Mohamed Al Fayed probe in France, police say",
             "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "PSNI to support gardaí amid huge security operation for EU meetings",
-            "summary": "Irish police say it is going to be the largest security operation in the history of the state.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cxdd8vvll870o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Russia's leading independent newspaper closes after eviction",
-            "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
@@ -413,8 +341,64 @@
             "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Live: Ukraine, Russia hold second day of US mediated talks in Abu Dhabi",
-            "summary": "Washington called for a \"new\" security framework on the first day of US-led talks between Ukraine and Russia in Abu Dhabi, as Ukrainian President Volodymyr Zelensky said he was \"ha...",
+            "headline": "Russia bans two French lawmakers and two journalists from entry",
+            "summary": "Moscow on Wednesday said it was banning two French journalists and two French lawmakers from entering Russia in response to Paris's expulsion of pro-Russian TV commentator Xenia Fe...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261111-russia-bans-two-french-lawmakers-and-two-journalists-from-entry"
+        },
+        {
+            "headline": "Exclusive: EU's Kallas says US 'can't negotiate on our behalf' on lifting Russia sanctions",
+            "summary": "In an exclusive interview with FRANCE 24, the EU's top diplomat Kaja Kallas discusses the war in Ukraine, the situation in the Middle East and a possible change in US President Don...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/tv-shows/talking-europe/20261111-exclusive-eu-s-kallas-says-us-can-t-negotiate-on-our-behalf-on-lifting-russia-sanctions"
+        },
+        {
+            "headline": "Aneto, one of southern Europe's largest glaciers, is melting away",
+            "summary": "Within a decade, one of the largest glaciers in southern Europe will have disappeared. Aneto, the highest peak of the Spanish Pyrenees, is melting at a spectacular rate. Its demise...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/tv-shows/focus/20261111-aneto-one-of-southern-europe-s-largest-glaciers-is-melting-away"
+        },
+        {
+            "headline": "UK comedian David Walliams accused of grooming and sexual harassment",
+            "summary": "PRESS REVIEW – Wednesday, November 11: Spanish and French papers discuss protests in the two countries. An investigation by The Guardian and ITV accuses comedian David Walliams of ...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/tv-shows/press-review/20261111-uk-comedian-david-walliams-accused-of-grooming-and-sexual-harassment"
+        },
+        {
+            "headline": "Wave of hoax bomb threats sent to schools in UK, Ireland and Italy",
+            "summary": "Hundreds of schools in the UK, Italy and the Republic of Ireland received a \"generic\" threatening email on Wednesday now being treated as a hoax by authorities. Italy earlier evacu...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats"
+        },
+        {
+            "headline": "Russia, Ukraine start second day of US-led talks: Kyiv lead negotiator",
+            "summary": "Russia and Ukraine have resumed US-mediated talks in Abu Dhabi for a second day, Kyiv's chief negotiator Rustem Umerov said on Wednesday.",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/russia-ukraine-start-second-day-of-us-led-talks-kyiv-lead-negotiator"
+        },
+        {
+            "headline": "UK authorities arrest US soldier suspected of spying for Russia",
+            "summary": "A member of the US army suspected of spying for Russia was arrested in Britain on Tuesday, London police said, following an investigation with support from the American military an...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/uk-authorities-arrests-us-soldier-suspected-of-spying-for-russia"
+        },
+        {
+            "headline": "Live: US envoys to meet Putin in Moscow, Zelensky in Dublin after Abu Dhabi talks",
+            "summary": "US envoys Jared Kushner and Steve Witkoff will fly to Moscow Thursday to meet Russian President Vladimir Putin and later hold talks with Ukraine's President Volodymyr Zelensky in D...",
             "sources": [
                 "france24.com"
             ],
@@ -446,15 +430,15 @@
         },
         {
             "headline": "What the hack? Europeans face growing psyops and cyberattacks",
-            "summary": "So this time, it's Iran, not Russia? France - reportedly acting on US intelligence - summoning Tehran’s ambassador over last month’s hacking of hundreds of supermarket refrigerator...",
+            "summary": "So this time, it's Iran, not Russia? France – reportedly acting on US intelligence – is summoning Tehran's ambassador over last month's hacking of hundreds of supermarket refrigera...",
             "sources": [
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/tv-shows/the-debate/20261110-what-the-hack-europeans-face-growing-psyops-and-cyberattacks"
         },
         {
-            "headline": "Kristallnacht' 88th anniversary: Merz says Germany faces historic test over antisemitism",
-            "summary": "It has been 88 years since \"Kristallnacht\", the \"Night of Broken Glass\" in Europe, a violent pogrom against the Jewish population across Nazi Germany and Austria, marking a critica...",
+            "headline": "Kristallnacht's 88th anniversary: Merz says Germany faces historic test over anti-Semitism",
+            "summary": "It has been 88 years since \"Kristallnacht\", the \"Night of Broken Glass\" in Europe, a violent pogrom against the Jewish population across Nazi Germany and Austria that marked a crit...",
             "sources": [
                 "france24.com"
             ],
@@ -467,65 +451,17 @@
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/video/20261110-french-students-vow-to-keep-up-protest-pressure-for-better-learning-conditions"
-        },
-        {
-            "headline": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-            "summary": "Three-way talks between Russia, Ukraine and the US opened Tuesday, November 10, in the United Arab Emirates, as Washington made another push to end the war. The two-day session in ...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/video/20261110-us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi"
-        },
-        {
-            "headline": "French students block dozens of schools, vow more protests",
-            "summary": "French students blocked the entrances to dozens of high schools on Tuesday, November 10, as they kept up protests for better learning conditions. These protests across France have ...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/video/20261110-french-students-block-dozens-of-schools-vow-more-protests"
-        },
-        {
-            "headline": "France vows tough response to freezer cyberattack blamed on Iran",
-            "summary": "France's Foreign Minister Jean-Noel Barrot said Tuesday, November 10, that Paris ruled out \"nothing\" to respond to a major cyberattack on hundreds of supermarket fridges in October...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/video/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran"
-        },
-        {
-            "headline": "Russia and Ukraine hold US-backed talks after Trump says broad deal is possible",
-            "summary": "Russian and Ukrainian officials met on Tuesday, November 10, for their first US-brokered talks since February, after US President Donald Trump suggested last week that a broad deal...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/video/20261110-russia-and-ukraine-hold-us-backed-talks-after-trump-says-broad-deal-is-possible"
-        },
-        {
-            "headline": "First day of Ukraine-Russia talks 'constructive and quite substantive', Zelensky says",
-            "summary": "Negotiators from Ukraine, Russia and the United States met for their first trilateral talks in more than nine months in Abu Dhabi on Tuesday, as Washington seeks to broker an end t...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261110-live-ukraine-russia-and-us-to-resume-peace-talks-in-abu-dhabi"
-        },
-        {
-            "headline": "Zelensky calls Ukraine-Russia talks 'constructive', Rubio wants Europe 'at the table'",
-            "summary": "US Secretary of State Marco Rubio on Tuesday hailed US-mediated talks between Russia and Ukraine in Abu Dhabi as \"very productive\" and said the discussions should be expanded to in...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261110-zelensky-calls-ukraine-russia-talks-constructive-rubio-wants-europe-at-the-table"
-        },
-        {
-            "headline": "UK writer M. John Harrison wins Booker Prize for AI-tinged apocalyptic novel",
-            "summary": "UK author M. John Harrison won the Booker Prize on Monday for his enigmatic novel \"The End of Everything\", which echoes concerns about artificial intelligence in a darkly satirical...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261109-uk-writer-m-john-harrison-wins-booker-prize-for-ai-tinged-apocalyptic-novel"
         }
     ],
     "middle-east": [
+        {
+            "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+            "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Israel's new parliament sworn in as leaders compete to form government",
             "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
@@ -615,20 +551,20 @@
             "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "US midterm results spark fears in Israel over future of two countries' ties",
-            "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "Gaza wedding festival sees 250 couples married at the same time",
             "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "US midterm results spark fears in Israel over future of two countries' ties",
+            "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Iran killed her teenage daughter - now she is facing up to the regime",
@@ -677,17 +613,25 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
-            "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "africa": [
+        {
+            "headline": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+            "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "US warns Madagascar over growing military ties with Russia",
+            "summary": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
             "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
@@ -697,36 +641,20 @@
             "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Managerial 'inconsistency' hurting Ghana - Hughton",
-            "summary": "As Ghana head into crucial Afcon 2027 qualifiers with women's coach Kim Bjorkegren in charge, former boss Chris Hughton says constant changes in the dugout are hurting the Black St...",
+            "headline": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+            "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-            "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+            "headline": "Tearful South African Olympian Tatjana Smith switches allegiance to the Netherlands",
+            "summary": "Tatjana Smith, South Africa's most decorated Olympian, switches allegiance to the Netherlands.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Kenya seizes 454kg of meth in drug crackdown",
-            "summary": "Kenyan police said investigations started after a key suspect was arrested in Tanzania last week.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/c8vgxglkyzv4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Seven dead and more than 100 injured after trains collide in Egypt",
-            "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "'Devastating message' as ANC records worst-ever result in South Africa election",
@@ -745,14 +673,6 @@
             "url": "https://www.bbc.co.uk/sport/articles/cj5ynlyv4xrqo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "The new sports debuting at Africa's first Olympics",
-            "summary": "Chinese martial art wushu taolu has been among the eye-catching events debuting at the Dakar 2026 Youth Olympic Games.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/olympics/articles/cmvg6942djn0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "The young politicians with African roots making history in the US midterms",
             "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
             "sources": [
@@ -767,6 +687,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Managerial 'inconsistency' hurting Ghana - Hughton",
+            "summary": "As Ghana head into crucial Afcon 2027 qualifiers with women's coach Kim Bjorkegren in charge, former boss Chris Hughton says constant changes in the dugout are hurting the Black St...",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
@@ -825,28 +753,28 @@
             "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Africa: All of Africa Today - November 10, 2026",
+            "headline": "Africa: All of Africa Today - November 11, 2026",
             "summary": "[allAfrica]",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202611100121.html"
+            "url": "https://allafrica.com/stories/202611110253.html"
         },
         {
-            "headline": "Malawi: South Africa Refuses to Let Bushiri Extradition Fight End",
-            "summary": "[Nyasa Times] The long-running legal battle over the fate of Prophet Shepherd Bushiri and his wife, Mary Bushiri, has entered a new phase after South Africa launched an appeal agai...",
+            "headline": "South Africa: Matlala Says He Didn't Know Impalas Were for Sibiya - South African News Briefs - November 11, 2026",
+            "summary": "[allAfrica]",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202611110245.html"
+            "url": "https://allafrica.com/stories/202611110251.html"
         },
         {
-            "headline": "Africa: Africa Seeks Terms For Backing COP31's Global Electrification Push",
-            "summary": "[Bird Story Agency] The COP31 presidency wants electricity to make up 35% of global energy use by 2035, but African countries question how it will be financed and whether it can su...",
+            "headline": "Ethiopia: Ethiopia Tells UN Envoy Eritrea, Sudan Backing Armed Groups and Drone Attacks",
+            "summary": "[Addis Standard] Addis Abeba -- Ethiopia has accused Eritrean President Isaias Afwerki and Sudan's army chief General Abdel Fattah al-Burhan of supporting, arming and coordinating ...",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202611100735.html"
+            "url": "https://allafrica.com/stories/202611110604.html"
         }
     ],
     "oceania": [
