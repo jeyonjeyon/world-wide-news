@@ -1,6 +1,6 @@
 {
     "_metadata": {
-        "last_updated": "2026-11-11 22:40:27 UTC"
+        "last_updated": "2026-11-12 07:05:53 UTC"
     },
     "globalOverview": [
         {
@@ -12,20 +12,20 @@
             "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Australian teen missing in bush for six days rescued alive",
+            "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
             "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-            "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
@@ -36,7 +36,23 @@
             "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+            "headline": "Famed ship SS United States sunk off coast of Florida",
+            "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+            "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
             "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
             "sources": [
                 "feeds.bbci.co.uk"
@@ -84,142 +100,174 @@
             "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Inside devastated front-line city that Russia wants Ukraine to give up",
-            "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+            "headline": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+            "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Polish unity on show as thousands join silent march for Krakow shooting victims",
-            "summary": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
+            "headline": "'My darling girl, you are everything to me' - auctioned letters reveal WWI love story",
+            "summary": "How two strangers and love letters from Gunner Willie Webber to wife Gladys led to a unique act of remembrance.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/cwx282zrlyrgo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "north-america": [
         {
-            "headline": "Stephen A Smith says white players are not good enough to win NBA championships",
-            "summary": "Stephen A. Smith claims the Los Angeles Lakers can&apos;t win a championship because Luka Doncic, Austin Reaves, and Walker Kessler are white.",
+            "headline": "Jim Jordan vows to push GOP agenda while party still holds majority, warns of Dem lawfare",
+            "summary": "Incoming House Minority Leader Rep. Jim Jordan vows to maximize the GOP&apos;s lame-duck legislative agenda before Democrats take congressional control.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/stephen-a-smith-says-white-players-not-good-enough-win-nba-championships"
+            "url": "https://www.foxnews.com/media/jim-jordan-vows-push-gop-agenda-party-holds-majority-warns-dem-lawfare"
         },
         {
-            "headline": "MICHAEL RUIZ: JonBenét Ramsey's father challenges DA after report says family shouldn't have been cleared",
-            "summary": "Boulder County DA Michael Dougherty&apos;s remarks on the JonBenét Ramsey cold case sparked a fierce response from her father over DNA evidence use.",
+            "headline": "Struggling Colts QB Daniel Jones admits he's 'not happy' watching Indy's front office strip away teammates",
+            "summary": "Daniel Jones admitted he&apos;s frustrated after the Colts dealt Quenton Nelson, DeForest Buckner, Keenan Allen, and Josh Downs in a two-week sell-off.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/michael-ruiz-jonbenet-ramsey-father-challenges-da-report-says-family-shouldnt-cleared"
+            "url": "https://www.foxnews.com/outkick-sports/struggling-colts-qb-daniel-jones-admits-not-happy-watching-indy-front-office-strip-away-teammates"
         },
         {
-            "headline": "Lori Loughlin's daughter Olivia Jade showcases her toned figure in pink string bikini",
-            "summary": "Olivia Jade&apos;s pink bikini photos drew praise from fans and a fire emoji from mom Lori Loughlin, while Victoria Justice called her &quot;stunning.&quot;",
+            "headline": "Brewers' Jacob Misiorowski, Yankees' Cam Schlittler named unanimous Cy Young Award winners for 2026 MLB season",
+            "summary": "Jacob Misiorowski was the first Cy Young Award and World Series winner in the same season since Randy Johnson, while Cam Schlittler&apos;s first full season resulted in the award.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/entertainment/lori-loughlins-daughter-olivia-jade-showcases-her-toned-figure-pink-string-bikini"
+            "url": "https://www.foxnews.com/outkick-sports/brewers-jacob-misiorowski-yankees-cam-schlittler-named-unanimous-cy-young-award-winners-2026-mlb-season"
         },
         {
-            "headline": "Trump's ex-lawyer Alina Habba loses massive contract days after president blasts 'outrageous' deal",
-            "summary": "Donald Trump personally directed Alina Habba&apos;s firing from a $50 million Concord Partners contract linked to pardoned Venezuelan banker&apos;s family.",
+            "headline": "Suspected DUI driver arrested on 3 murder counts after deadly North Hollywood crash, police say",
+            "summary": "A suspected 61-year-old DUI driver was arrested on three murder counts after a North Hollywood crash killed three women and injured two others.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/trumps-ex-lawyer-alina-habba-loses-massive-contract-days-after-president-blasts-outrageous-deal"
+            "url": "https://www.foxnews.com/us/suspected-dui-driver-arrested-3-murder-counts-after-deadly-north-hollywood-crash-police-say"
         },
         {
-            "headline": "Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight",
-            "summary": "Steve Scalise declined to commit to serving a full term in the 120th Congress after losing the House Republican minority leader race to Jim Jordan.",
+            "headline": "Twice-deported United cockpit suspect granted asylum after transgender persecution claim: DHS",
+            "summary": "DHS says a twice-deported Honduran national won asylum claiming transgender persecution before allegedly trying to storm a United Airlines cockpit.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/longtime-gop-leader-faces-uncertain-future-jim-jordan-wins-house-leadership-fight"
+            "url": "https://www.foxnews.com/politics/twice-deported-united-cockpit-suspect-granted-asylum-transgender-persecution-claim-dhs"
         },
         {
-            "headline": "DNA links 4 grizzly bears to deadly attack on mother and daughter in Canada, officials say",
-            "summary": "DNA evidence linked four grizzly bears to the deaths of Jennifer Balcarras and Selah Reed near Bella Coola, British Columbia, officials said.",
+            "headline": "Rams star Puka Nacua out for an 'extended period' after suffering injury on final play of win",
+            "summary": "Puka Nacua sprained his MCL and PCL and sustained turf toe, and Los Angeles Rams head coach Sean McVay said he will be out for an extended period of time.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/world/dna-links-4-grizzly-bears-deadly-attack-mother-daughter-canada-officials-say"
+            "url": "https://www.foxnews.com/outkick-sports/rams-star-puka-nacua-out-extended-period-after-suffering-injury-final-play-win"
         },
         {
-            "headline": "Chiefs stick with Harrison Butker as kicker in Week 10 despite 7 missed field goals, Justin Tucker in waiting",
-            "summary": "Andy Reid confirmed Harrison Butker will start over Justin Tucker against the Atlanta Falcons despite Butker&apos;s league-leading seven missed field goals.",
+            "headline": "Bengals coach Zac Taylor acknowledges fault in failed trade for Eagles edge rusher Arnold Ebiketie",
+            "summary": "Zac Taylor revealed Duke Tobin&apos;s apology after a 2027 compensatory pick forfeiture derailed the Arnold Ebiketie trade with the Eagles at the deadline.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/chiefs-stick-harrison-butker-kicker-week-10-despite-7-missed-field-goals-justin-tucker-waiting"
+            "url": "https://www.foxnews.com/outkick-sports/bengals-coach-zac-taylor-acknowledges-fault-failed-trade-eagles-edge-rusher-arnold-ebiketie"
         },
         {
-            "headline": "Stephen Miller's internal memo unleashes Trump agencies after 'absolute control' under Wiles' reign",
-            "summary": "A memo under new chief of staff Stephen Miller gives Cabinet secretaries messaging control, shifting from what sources say was Susie Wiles&apos; grip.",
+            "headline": "Jamie Foxx’s daughter’s 18th birthday bash erupts in violence as deputies make arrests",
+            "summary": "Video footage shows violent fights erupting at SKVLK Fest, the annual Halloween music festival held at Jamie Foxx&apos;s California mansion. It doubled as his daughter&apos;s birth...",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/stephen-miller-internal-memo-unleashes-trump-agencies-absolute-control-wiles-reign"
+            "url": "https://www.foxnews.com/entertainment/jamie-foxx-daughter-18th-birthday-bash-erupts-violence-deputies-make-arrests"
         },
         {
-            "headline": "Foreign spy ‘honeytraps’ targeting America’s tech elite spark alarm amid Nvidia CEO scandal",
-            "summary": "Jensen Huang&apos;s relationship with alleged Chinese intelligence asset Alice Huang raises urgent questions about honeytrap espionage targeting Silicon Valley.",
+            "headline": "Jeffries leaves door open to investigating major Trump ally as Democrats prepare to take power",
+            "summary": "Hakeem Jeffries says Democrats will &quot;follow the facts&quot; as Jamie Raskin and Robert Garcia prepare to lead oversight of Elon Musk and DOGE.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/foreign-spy-honeytraps-targeting-americas-tech-elite-spark-alarm-amid-nvidia-ceo-scandal"
+            "url": "https://www.foxnews.com/politics/jeffries-leaves-door-open-investigating-major-trump-ally-democrats-prepare-take-power"
         },
         {
-            "headline": "Massive college football brawl ends with 23 players suspended, '90s TV app & ESPN's Laura Rutledge stays hot!",
-            "summary": "Second Hump Day of November Nightcaps breaks down 23 suspensions from the Arkansas-Pine Bluff and Grambling State brawl, plus CFP rankings drama.",
+            "headline": "Nature and civilization collide once again as lost black bear sprints across South Florida street",
+            "summary": "Video captures a Florida black bear darting across a busy Naples road near I-75 as South Florida Everglades development pushes wildlife out.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/massive-college-football-brawl-ends-23-players-suspended-90s-tv-app-espn-laura-rutledge-stays-hot"
+            "url": "https://www.foxnews.com/outkick-sports/nature-civilization-collide-lost-black-bear-sprints-across-south-florida-street"
         },
         {
-            "headline": "MMA fighters, including former UFC champ, get into wild melee at Abu Dhabi hotel lobby",
-            "summary": "Video captures Usman Nurmagomedov slapping Merab Dvalishvili in an Abu Dhabi hotel lobby, sparking a brawl that left the former UFC champ bloodied.",
+            "headline": "Team USA withdraws from FIFA U-17 World Cup amid State Department travel warning in Middle East",
+            "summary": "U.S. Soccer pulled its U-17 men&apos;s team from the FIFA World Cup in Qatar, citing a State Department Level 3 travel advisory over armed conflict risks.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/mma-fighters-including-former-ufc-champ-wild-melee-abu-dhabi-hotel-lobby"
+            "url": "https://www.foxnews.com/outkick-sports/team-usa-withdraws-fifa-u-17-world-cup-state-department-travel-warning-middle-east"
         },
         {
-            "headline": "Texas Roadhouse goes beyond steak with new menu addition that has some fans questioning the move",
-            "summary": "Chicken Alfredo Pasta is being added to over 600 Texas Roadhouse locations as the chain is testing energizer drinks and mocktails across all three of its brands.",
+            "headline": "Hakeem Jeffries faces progressive holdouts but no rival as House speaker race takes shape",
+            "summary": "New members of Congress in &quot;The Bloc&quot; say they&apos;re undecided on Hakeem Jeffries for House speaker, pressing for legislative guarantees before January.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/food-drink/texas-roadhouse-goes-beyond-steak-new-menu-addition-has-some-fans-questioning-move"
+            "url": "https://www.foxnews.com/politics/hakeem-jeffries-faces-progressive-holdouts-no-rival-house-speaker-race-takes-shape"
         },
         {
-            "headline": "Kelsey Grammer still feels 'sense of smallness' for not serving in military: 'I do my best to make up for it'",
-            "summary": "Kelsey Grammer&apos;s giant screen film, &quot;America the Beautiful,&quot; celebrates national parks and military sacrifice ahead of its Veterans Day premiere.",
+            "headline": "At least 9 new Dem members will carry Al Green's mantle and try to impeach President Trump",
+            "summary": "Rep. Al Green says at least nine incoming House Democratic caucus members will join his impeachment push, citing President Trump&apos;s crypto dealings and what they described as c...",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/entertainment/kelsey-grammer-still-feels-sense-smallness-not-serving-military-i-do-my-best-make-up-it"
+            "url": "https://www.foxnews.com/politics/new-dem-members-carry-al-greens-mantle-try-impeach-president-trump"
         },
         {
-            "headline": "Former ESPN star Sean Salisbury says political arguments wore out fans who just wanted sports",
-            "summary": "Sean Salisbury says ESPN lost its way by letting political and social debates overtake sports coverage, alienating the blue-collar viewers who tuned in.",
+            "headline": "New College Football Playoff poll proves the selection committee is just making it up as they go",
+            "summary": "Indiana Hoosiers dropped five spots during their bye week as Hunter Yurachek&apos;s explanations raise more questions about CFP committee consistency.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/former-espn-star-sean-salisbury-says-political-arguments-wore-out-fans-wanted-sports"
+            "url": "https://www.foxnews.com/outkick-sports/new-college-football-playoff-poll-proves-selection-committee-making-it-up-as-they-go"
+        },
+        {
+            "headline": "Jeffries promises ‘remedial assistance’ to anyone impacted by Trump immigration enforcement",
+            "summary": "Hakeem Jeffries pledged to drive down cost of living on housing, healthcare, and groceries, but he also vowed remedial assistance for DACA recipients.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/media/jeffries-promises-remedial-assistance-anyone-impacted-trump-immigration-enforcement"
+        },
+        {
+            "headline": "Ottawa had been aware of Stellantis-Roshel talks for months, source says",
+            "summary": "",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/politics/federal-government-knew-about-stellantis-deal-9.7418567?cmp=rss"
         },
         {
             "headline": "Sleeping driver in self-driving vehicle woken up, stopped and charged in Ottawa",
-            "summary": "Provincial police in Ottawa said they stopped and charged a sleeping driver in a self-driving vehicle on Highway 417 during rush hour Tuesday.",
+            "summary": "Provincial police in Ottawa said they stopped and charged a driver who was asleep in her self-driving Tesla during Tuesday rush hour on Highway 417.",
             "sources": [
                 "rss.cbc.ca"
             ],
             "url": "https://www.cbc.ca/news/canada/ottawa/self-driving-vehicle-ottawa-highway-417-9.7417941?cmp=rss"
+        },
+        {
+            "headline": "Series of storms leaves B.C. woman with tree stuck on her house for days",
+            "summary": "As B.C. continues to batten down its hatches amid the third in a series of major fall storms, one resident who saw a tree fall onto her house last Friday says it'll have to remain ...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/british-columbia/bc-storms-prince-george-power-outages-9.7418624?cmp=rss"
+        },
+        {
+            "headline": "Canada says Russian hockey players with visas will still be barred from world junior championship",
+            "summary": "The federal government says Russian hockey players will not be permitted to compete at next month's world junior championship in Alberta, even if they already hold valid Canadian v...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/sports/hockey/secretary-of-sport-says-canada-will-not-allow-russians-world-juniors-9.7418528?cmp=rss"
         },
         {
             "headline": "Various beers under Molson Coors banner recalled Canada-wide",
@@ -228,41 +276,17 @@
                 "rss.cbc.ca"
             ],
             "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/molson-coors-recall-nl-9.7418429?cmp=rss"
-        },
-        {
-            "headline": "Halifax’s Brian Ahern, who produced albums by Anne Murray and Johnny Cash, dead at 81",
-            "summary": "A Halifax-born music producer who played a big role in helping encourage fellow Bluenoser Anne Murray to pursue a career in music and later produced albums by artists such as Johnn...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/nova-scotia/brian-ahern-halifax-obituary-music-producer-9.7418309?cmp=rss"
-        },
-        {
-            "headline": "B.C. search-and-rescue mule using his nose to help solve Arizona cold case",
-            "summary": "A British Columbia mule with a nose that knows is helping investigators trying to crack a missing persons cold case in Arizona.",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/british-columbia/princeton-search-and-rescue-scent-detecting-mule-sonny-9.7415519?cmp=rss"
-        },
-        {
-            "headline": "TV providers say Rogers' Monday hockey move inflates prices, 'erodes' sports viewing",
-            "summary": "A trio of television providers are accusing Rogers Communications Inc. of violating competition rules and inflating Canadian sports fans' bills by moving Monday night hockey broadc...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/sports/hockey/nhl/rogers-monday-hockey-inflates-prices-nov-11-9.7418160?cmp=rss"
-        },
-        {
-            "headline": "Canada beats Finland 2-0, stays perfect heading into women's worlds quarterfinals",
-            "summary": "<img src='https://i.cbc.ca/ais/e5ababbf-f401-4ea5-92e2-68ce4a0c5e87,1794418545301/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2384%2C1341%29%3B' alt='Canadian players celebr...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/sports/hockey/canada-finland-recap-womens-hockey-worlds-roundup-9.7418010?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Law of the sea tribunal to rule on November 28 on Argentina’s bid to halt Sea Lion",
+            "summary": "\n\t   \t      \n\t         The International Tribunal for the Law of the Sea will announce on Saturday, November 28, its decision on Argentina’s request for provisional measures to hal...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/12/law-of-the-sea-tribunal-to-rule-on-november-28-on-argentina-s-bid-to-halt-sea-lion?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Milei in tears as he bids farewell to Leo XIV at Ezeiza, closing the Pope’s Argentina visit",
             "summary": "\n\t   \t      \n\t         President Javier Milei was moved to tears during Pope Leo XIV’s farewell at Ezeiza airport, at the end of a four-day visit, the first by a pontiff to Argenti...",
@@ -315,23 +339,55 @@
     "east-asia": [],
     "south-asia": [
         {
-            "headline": "Norwegian journalist Helle Lyng says she has been stopped from coming to Hyderabad for Bharat Summit",
-            "summary": "Ms. Lyng says she has been denied entry into India despite having a visa",
+            "headline": "Vande Bharat crosses Chenab, Anji bridges at 100 kmph as Katra-Banihal train speed limit raised",
+            "summary": "He said the Vande Bharat Express (Train No. 26401/26404) created a new record by crossing both the world's highest Chenab Bridge and India's first cable-stayed Anji Bridge at 100 k...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/norwegian-journalist-helle-lyng-says-she-has-been-stopped-from-coming-to-hyderabad-for-bharat-summit/article71691222.ece"
+            "url": "https://www.thehindu.com/news/national/vande-bharat-crosses-chenab-anji-bridges-at-100-kmph-as-katra-banihal-train-speed-limit-raised/article71539493.ece"
         },
         {
-            "headline": "Navi Mumbai recognised as India’s cleanest city in latest Swachh Survekshan",
-            "summary": "Indore, ranked the cleanest city in the country for the past eight years, did not figure among the winners this year",
+            "headline": "Hijack threat note found in Kolkata-Mumbai Air India flight; aircraft taken to isolation bay",
+            "summary": "All the passengers who had boarded the aircraft were deboarded, and it was taken to the isolation bay",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/sci-tech/energy-and-environment/navi-mumbai-emerges-as-cleanest-city-surat-vijayawada-runners-up-in-cleanliness-survey/article71689854.ece"
+            "url": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece"
+        },
+        {
+            "headline": "Passenger held over hijack threat to Kolkata-Mumbai Air India flight",
+            "summary": "The passenger was handed over to the Netaji Subhash Chandra Bose International (NSCBI) Airport Police Station",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/passenger-held-over-hijack-threat-to-kolkata-mumbai-air-india-flight/article71692545.ece"
+        },
+        {
+            "headline": "Sitla Estate, Mukteshwar: Why this 40-acre Himalayan retreat has just 12 rooms",
+            "summary": "After leaving Mumbai in 1998, Vikram Maira turned his family’s holiday home and orchard in Uttarakhand’s Kumaon hills into an intimate Himalayan retreat where thoughtful cooking, a...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/life-and-style/travel/sitla-estate-mukteshwar-why-this-40-acre-himalayan-retreat-has-just-12-rooms/article71616381.ece"
+        },
+        {
+            "headline": "Belagavi artist exhibits work in Mumbai",
+            "summary": "Mahesh Honule is showcasing over 30 paintings created using watercolour and acrylic mediums",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/karnataka/belagavi-artist-exhibits-work-in-mumbai/article71689886.ece"
         }
     ],
     "europe": [
+        {
+            "headline": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+            "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
             "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
@@ -387,6 +443,22 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Ukraine live: US envoys Witkoff and Kushner arrive in Russia to meet Putin",
+            "summary": "US envoys Steve Witkoff and Jared Kushner arrived in Russia for a meeting with President Vladimir Putin after two days of talks in Abu Dhabi, Russian news agencies said Thursday. W...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks"
+        },
+        {
+            "headline": "European leaders gather in Dublin under the shadow of hybrid threats",
+            "summary": "Ireland is mounting the largest security operation in its history as around 50 European leaders gather in Dublin this week amid growing concerns over hybrid attacks. The operation ...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/european-leaders-gather-in-dublin-under-the-shadow-of-hybrid-threats"
         },
         {
             "headline": "Russia and Ukraine agree to major prisoner swap as peace talks end",
@@ -467,30 +539,6 @@
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/tv-shows/press-review/20261111-uk-comedian-david-walliams-accused-of-grooming-and-sexual-harassment"
-        },
-        {
-            "headline": "Wave of hoax bomb threats sent to schools in UK, Ireland and Italy",
-            "summary": "Hundreds of schools in the UK, Italy and the Republic of Ireland received a \"generic\" threatening email on Wednesday now being treated as a hoax by authorities. Italy earlier evacu...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261111-hundreds-of-schools-in-italy-evacuated-after-receiving-bomb-threats"
-        },
-        {
-            "headline": "Russia, Ukraine start second day of US-led talks: Kyiv lead negotiator",
-            "summary": "Russia and Ukraine have resumed US-mediated talks in Abu Dhabi for a second day, Kyiv's chief negotiator Rustem Umerov said on Wednesday.",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/russia-ukraine-start-second-day-of-us-led-talks-kyiv-lead-negotiator"
-        },
-        {
-            "headline": "UK authorities arrest US soldier suspected of spying for Russia",
-            "summary": "A member of the US army suspected of spying for Russia was arrested in Britain on Tuesday, London police said, following an investigation with support from the American military an...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/uk-authorities-arrests-us-soldier-suspected-of-spying-for-russia"
         }
     ],
     "middle-east": [
@@ -657,6 +705,14 @@
     ],
     "africa": [
         {
+            "headline": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+            "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "African writing award probe finds 'no evidence' winning story was AI generated",
             "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
             "sources": [
@@ -785,39 +841,39 @@
             "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "'Knowledge is power' - Awoniyi",
-            "summary": "Nigeria's Taiwo Awoniyi explains why he values education so highly, having completed a course which could see him become one of football's future leaders.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Africa: All of Africa Today - November 11, 2026",
+            "headline": "South Africa: City Power Nears Completion of Joburg Repairs - South African News Briefs - November 12, 2026",
             "summary": "[allAfrica]",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202611110253.html"
+            "url": "https://allafrica.com/stories/202611120099.html"
         },
         {
-            "headline": "South Africa: Matlala Says He Didn't Know Impalas Were for Sibiya - South African News Briefs - November 11, 2026",
-            "summary": "[allAfrica]",
+            "headline": "Ghana: Ghana Engages U.S. Civil Rights Lawyer Ben Crump to Seek Justice for Ghanaians Killed in U.S.",
+            "summary": "[Ghanaian Times] Approval has been granted to Ghana's Permanent Mission in New York to engage the services of celebrated US civil rights lawyer, Ben Crump, to assist Ghana in secur...",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202611110251.html"
+            "url": "https://allafrica.com/stories/202611120060.html"
         },
         {
-            "headline": "Ethiopia: Ethiopia Tells UN Envoy Eritrea, Sudan Backing Armed Groups and Drone Attacks",
-            "summary": "[Addis Standard] Addis Abeba -- Ethiopia has accused Eritrean President Isaias Afwerki and Sudan's army chief General Abdel Fattah al-Burhan of supporting, arming and coordinating ...",
+            "headline": "Nigeria: Nigerian Court Detains Journalist Daniel Ojukwu On Cybercrime Charges",
+            "summary": "[CPJ] Abuja -- The Committee to Protect Journalists calls on Nigerian authorities to immediately drop the criminal charges against journalist Daniel Ojukwu, release him uncondition...",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202611110604.html"
+            "url": "https://allafrica.com/stories/202611120047.html"
         }
     ],
     "oceania": [
+        {
+            "headline": "Australian teen missing in bush for six days rescued alive",
+            "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Why does Australia want Brits to swap Sydney for the outback?",
             "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
@@ -857,14 +913,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/c65ynn9x50d0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Watch: Moment woman rescues young koala from large snake",
-            "summary": "Nell was walking her dog in Brisbane, Australia, when she saw a distressed koala trying to protect its joey from a python.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/crlykkvzkjq8o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Australia doomed to live with stench of sandpapergate",
@@ -907,6 +955,14 @@
             "url": "https://www.bbc.co.uk/sport/cricket/videos/c6x298vqkgx7o?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Watch: Moment woman rescues young koala from large snake",
+            "summary": "Nell was walking her dog in Brisbane, Australia, when she saw a distressed koala trying to protect its joey from a python.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/videos/crlykkvzkjq8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Watch: Why Australia's mushroom murderer may now die in prison",
             "summary": "Judges agreed with the prosecution’s appeal that Erin Patterson’s initial non-parole period of 33 years was insufficient.",
             "sources": [
@@ -921,14 +977,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Why is John Travolta's old luxury jet in a small Australian town?",
-            "summary": "The BBC goes on board Travolta’s old Boeing 707 which is being reassembled in a small coastal town.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/videos/cmze483zj1zlo?at_medium=RSS&at_campaign=rss"
         }
     ]
 }
