@@ -1,15 +1,39 @@
 {
     "_metadata": {
-        "last_updated": "2026-11-12 16:46:36 UTC"
+        "last_updated": "2026-11-13 01:03:32 UTC"
     },
     "globalOverview": [
         {
-            "headline": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-            "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+            "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+            "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+            "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+            "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+            "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
@@ -26,6 +50,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Five new miniature frog species found in eastern Himalayas",
+            "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -84,20 +116,12 @@
             "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "African writing award probe finds 'no evidence' winning story was AI generated",
-            "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
+            "headline": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+            "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-            "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
@@ -106,171 +130,195 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+            "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "north-america": [
         {
-            "headline": "Congress promised to close the THC loophole. Our kids are still waiting",
-            "summary": "The Senate delayed a deadline to close the hemp-derived THC loophole, and Senator Pete Ricketts says America&apos;s kids are paying a tragic price.",
+            "headline": "TSA discovers suspected cocaine worth $27,750 hidden in coffee container at airport",
+            "summary": "TSA officers at Ted Stevens Anchorage International Airport flagged a white substance hidden in a coffee container during a secondary baggage screening.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/opinion/congress-promised-close-thc-loophole-kids-still-waiting"
+            "url": "https://www.foxnews.com/travel/tsa-discovers-suspected-cocaine-worth-27750-hidden-coffee-container-airport"
         },
         {
-            "headline": "Mysterious object moving through space could be lost Soviet probe as NASA weighs in on theory",
-            "summary": "Near-Earth asteroid 1998 KY26 shows nongravitational acceleration, and Harvard researchers say it closely matches lost Soviet spacecraft Phobos 1.",
+            "headline": "USA soccer sends emotional letter to players about pulling out of U-17 World Cup in Qatar amid Iran war",
+            "summary": "U.S. Soccer&apos;s letter to U-17 players reveals the emotional toll behind the Qatar World Cup withdrawal, citing the Level 3 travel advisory for Qatar.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/mysterious-object-moving-through-space-could-be-lost-soviet-probe-nasa-weighs-theory"
+            "url": "https://www.foxnews.com/outkick-sports/usa-soccer-sends-emotional-letter-players-pulling-u-17-world-cup-qatar-amid-iran-war"
         },
         {
-            "headline": "Another Trump heavyweight revealed to be living on military base as Cabinet roster grows",
-            "summary": "Attorney General Todd Blanche has been living on a military base for months as multiple Trump administration officials relocate to protected housing.",
+            "headline": "Federal Title IX probe rocks Camas School District after trans runner controversy, superintendent pushes back",
+            "summary": "Camas High&apos;s cross-country controversy deepens as the Department of Education opens a Title IX investigation into the district&apos;s handling of complaints.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/another-trump-heavyweight-revealed-living-military-base-cabinet-roster-grows"
+            "url": "https://www.foxnews.com/outkick-sports/federal-title-ix-probe-rocks-camas-school-district-trans-runner-controversy-superintendent-pushes-back"
         },
         {
-            "headline": "Pence delivers scathing rebuke of Vance's Iran war assessment, blames Trump policies for GOP losses",
-            "summary": "Mike Pence rejects JD Vance&apos;s claim that the Iran war alone cost Republicans Congress, pointing to inflation, self-dealing and policy failures.",
+            "headline": "Locked On Vikings podcaster gets destroyed on social media for anti-Kirk Cousins take",
+            "summary": "Luke Braun&apos;s viral social media rant against the Kirk Cousins trade to the Vikings drew fierce pushback over his turnover claims and deeper motives.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/pence-delivers-scathing-rebuke-vances-iran-war-assessment-blames-trump-policies-gop-losses"
+            "url": "https://www.foxnews.com/outkick-sports/locked-vikings-podcaster-destroyed-social-media-anti-kirk-cousins-take"
         },
         {
-            "headline": "Sports world reacts to the sudden passing of legendary broadcaster Dan Hicks at the age of 64",
-            "summary": "Hannah Storm shared news of Dan Hicks&apos; sudden passing from an acute illness, calling the NBC golf and Olympics voice a devoted husband and father.",
+            "headline": "Former owner of Peanut the squirrel, viral pet euthanized by NY officials, detained by ICE",
+            "summary": "Nearly two years after New York officials euthanized Peanut the squirrel, his former owners face another ordeal as Daniela Bittner remains in ICE custody.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/sports-world-reacts-sudden-passing-legendary-broadcaster-dan-hicks-age-64"
+            "url": "https://www.foxnews.com/us/former-owner-peanut-squirrel-viral-pet-euthanized-ny-officials-detained-ice"
         },
         {
-            "headline": "NYC building collapse: Timeline of deadly disaster as rescuers race to pull survivors from rubble",
-            "summary": "A timeline reveals how the deadly New York City building collapse at 1321 Flatbush Ave. unfolded, from the first 911 call to a frantic rescue.",
+            "headline": "Democrat Cindy Holscher wins Kansas governor's race, extending party's hold on governor's mansion",
+            "summary": "Democratic state Sen. Cindy Holscher wins the Kansas governor&apos;s race over Trump-backed Republican Ty Masterson, keeping the governor&apos;s mansion in Democratic hands.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/nyc-building-collapse-timeline-deadly-disaster-rescuers-race-pull-survivors-rubble"
+            "url": "https://www.foxnews.com/politics/democrat-cindy-holscher-wins-kansas-governors-race-extending-partys-hold-governors-mansion"
         },
         {
-            "headline": "CNN, MS NOW, NYT turn blind eye on illegal immigrant accused of bomb threat, attempting to storm cockpit",
-            "summary": "Members of the legacy media ignored the arrest of a twice-deported illegal immigrant who allegedly made a bomb threat on a United Airlines flight.",
+            "headline": "Chargers coach Jim Harbaugh tees off on Broncos for backing out of trade post deadline: 'Bad precedent'",
+            "summary": "Los Angeles Chargers coach Jim Harbaugh blasted the Denver Broncos for using a medical evaluation loophole to renegotiate trade compensation for linebacker Daiyan Henley.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/cnn-ms-nyt-turn-blind-eye-illegal-immigrant-accused-bomb-threat-attempting-storm-cockpit"
+            "url": "https://www.foxnews.com/outkick-sports/chargers-coach-jim-harbaugh-tees-off-broncos-backing-out-trade-post-deadline-bad-precedent"
         },
         {
-            "headline": "Video of rams lounging on a Colorado front lawn like they're on vacation goes viral on Instagram",
-            "summary": "A viral wildlife video from Colorado captures a large group of rams casually lounging on someone&apos;s front lawn, sparking hilarious reactions on Instagram.",
+            "headline": "Teachers union spent nearly $8M to crush school choice, biological sports measures, report finds",
+            "summary": "Defending Education uncovered how the NEA and affiliates spent nearly $7.8 million fighting ballot measures and school choice campaigns in three states.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-culture/video-rams-lounging-colorado-front-lawn-vacation-goes-viral-instagram"
+            "url": "https://www.foxnews.com/media/teachers-union-spent-nearly-8m-crush-school-choice-biological-sports-measures-report-finds"
         },
         {
-            "headline": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
-            "summary": "Two Iranian men convicted of spying in Britain as France accuses the IRGC of cyberattacks and UAE officials warn of Iranian sleeper cells abroad.",
+            "headline": "Dianna Russini's cringe podcast debut raises questions about the viability of her comeback",
+            "summary": "Dianna Russini&apos;s BetUS TV debut crashed the site but dodged the Mike Vrabel scandal, joking about memes instead of addressing accountability.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach"
+            "url": "https://www.foxnews.com/outkick-sports/dianna-russini-cringe-podcast-debut-raises-questions-viability-comeback"
         },
         {
-            "headline": "Warriors' Charles Bassey calls out Rockets' Marcus Smart after punch thrown: 'Fake toughness'",
-            "summary": "Charles Bassey called Marcus Smart&apos;s punch &quot;fake toughness&quot; after the Rockets guard was ejected during the Golden State Warriors&apos; loss in Houston.",
+            "headline": "Laura Geller’s $200 makeup kit is now under $55, plus more Cyber Week beauty deals",
+            "summary": "Holiday beauty kits, marbleized baked foundation and more Laura Geller bestsellers are up to 73% off during Cyber Week, with face kits starting at $41.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/warriors-charles-bassey-calls-out-rockets-marcus-smart-after-punch-thrown-fake-toughness"
+            "url": "https://www.foxnews.com/deals/laura-geller-sale"
         },
         {
-            "headline": "DC gym shooting kills 1, injures 4; gunman dead, sources say",
-            "summary": "An armed assailant opened fire outside a Vida Fitness location near 15th and P Street Northwest in Washington, D.C., injuring at least five people. Law enforcement contained the su...",
+            "headline": "Chick-fil-A customers have days left to order cult favorite sandwich before it vanishes",
+            "summary": "Chicken &amp; Waffles exit most Chick-fil-A menus on Nov. 14, but Tampa, Chicago and Raleigh diners can still order expanded waffle breakfast options.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/shooting-near-dc-fitness-center-leaves-multiple-people-injured-officials-say"
+            "url": "https://www.foxnews.com/food-drink/chick-fil-a-customers-have-days-left-order-cult-favorite-sandwich-before-vanishes"
         },
         {
-            "headline": "U.S. envoys Kushner, Witkoff meet with Putin at Kremlin in talks to end Russia-Ukraine war",
-            "summary": "U.S. President Donald Trump's envoys met with President Vladimir Putin on Thursday as Washington sought new momentum in peace efforts after two days of U.S.-mediated negotiations b...",
+            "headline": "Duran Duran drummer Roger Taylor forced to retire as health battle threatens hearing",
+            "summary": "Roger Taylor says his tinnitus has been &quot;getting steadily worse,&quot; forcing the iconic Duran Duran drummer to step away after decades on stage.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/entertainment/duran-duran-drummer-roger-taylor-forced-retire-health-battle-threatens-hearing"
+        },
+        {
+            "headline": "New York Giants favored at -2 over Commanders as NFC East division lead hangs in balance",
+            "summary": "Jayden Daniels may be the best quarterback on the field, but the Washington Commanders&apos; winless road record looms large against the New York Giants.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-betting/new-york-giants-favored-2-over-commanders-nfc-east-division-lead-hangs-balance"
+        },
+        {
+            "headline": "Industry minister 'fed up' after meeting with Stellantis, says automaker breached contract",
+            "summary": "",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/world/us-witkoff-kushner-putin-zelenskyy-talks-9.7418799?cmp=rss"
+            "url": "https://www.cbc.ca/news/politics/resolution-process-terminated-government-stellantis-brampton-plant-9.7419553?cmp=rss"
         },
         {
-            "headline": "I studied silence in Ukraine, but moving to Montreal made me truly understand it",
-            "summary": "When Anna Lyhina moved from Ukraine to Quebec, she realized immigration can produce its own form of silence — not because anyone forbade her to speak. Learning a new language was a...",
+            "headline": "Will U.S. travel pick up after midterm 'blue wave'? Not so fast, say these Canadians",
+            "summary": "Travel from Canada to the U.S. dropped amid President Donald Trump's threats and trade war. While many Canadians view the Democratic Party's midterm election victory as an 'encoura...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/first-person-silence-anna-lyhina-9.7406113?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/us-travel-midterms-9.7417876?cmp=rss"
         },
         {
-            "headline": "How a charity is trying to remove 'countless' images posted by Canada's most prolific voyeur",
-            "summary": "Yin Yeung Derek Chan was sent to prison earlier this year, but some of the \"countless\" videos and photos he took of 652 women and girls in Greater Victoria continue to spread onlin...",
+            "headline": "Indigenous women leaders say budget doesn't address their realities",
+            "summary": "Indigenous leaders from across Canada gathered in Ottawa on Thursday to say Prime Minister Mark Carney’s new budget leaves Indigenous women out of the decisions made in the more th...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/british-columbia/voyeur-online-images-9.7416874?cmp=rss"
+            "url": "https://www.cbc.ca/news/politics/indigenous-inuit-women-carney-budget-9.7419887?cmp=rss"
         },
         {
-            "headline": "Canada has the opportunity to become a global LNG leader, new report says",
-            "summary": "Canada’s only liquified natural gas facility began operating last year, yet the country has an opportunity to scale up that industry and become one of the top natural gas exporters...",
+            "headline": "Nvidia CEO's resignation after affair with suspected Chinese spy rattles markets, tech world",
+            "summary": "",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/calgary/bakx-lng-s-p-yergin-9.7416953?cmp=rss"
+            "url": "https://www.cbc.ca/news/business/livestory/nividia-jensen-huang-affairs-ceo-9.7418886?cmp=rss"
         },
         {
-            "headline": "Anthropic IPO to test the first 'pure play' AI stock in a choppy market",
-            "summary": "American AI giant Anthropic's expected debut on the Nasdaq has one money manager recalling the dot-com bubble of the 2000s.",
+            "headline": "Microsoft says services being slowly restored after widespread outages across its platforms",
+            "summary": "Microsoft said it was returning some of its affected servers to full service late Thursday afternoon, after widespread outages hit many of its platforms including Outlook, with use...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/business/anthropic-ipo-9.7418028?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/microsoft-outage-9.7419814?cmp=rss"
         },
         {
-            "headline": "American Airlines resumes flights to Haiti, providing a vital route into the country",
-            "summary": "The U.S. airline has begun flying into northern Haiti on a daily basis, providing a vital route into the country at a time when Americans have few options to get there as the U.S. ...",
+            "headline": "Russian federation head Tretiak says it will seek compensation if barred from world juniors in Alberta",
+            "summary": "Russian hockey federation president Vladislav Tretiak is threatening to seek compensation from Canada and push for the relocation or cancellation of next month's world junior champ...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/world/american-airlines-haiti-air-service-9.7416000?cmp=rss"
+            "url": "https://www.cbc.ca/sports/hockey/world-juniors-russia-valdislav-tretiak-9.7419768?cmp=rss"
         },
         {
-            "headline": "Yella Beezy found guilty in murder-for-hire of fellow Dallas rapper",
-            "summary": "Rapper Yella Beezy was found guilty on Wednesday of hiring the gunman who fatally shot rapper MO3 in a brazen daylight attack on a busy Dallas interstate in 2020.",
+            "headline": "Pfizer ends sale of hormone therapy cream Premarin in Canada",
+            "summary": "Pfizer will no longer sell its hormone replacement therapy Premarin in Canada following an internal review. The product has been available as a vaginal cream and three strengths of...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/entertainment/us-dallas-verdict-beezy-noble-shooting-9.7418743?cmp=rss"
-        },
-        {
-            "headline": "Missing teen found alive after 6 days in the Australian woodlands",
-            "summary": "A 17-year-old boy with autism was found alive Thursday after six days lost in eastern Australian woodlands.",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/missing-teen-found-australia-9.7418731?cmp=rss"
-        },
-        {
-            "headline": "Sleeping driver in self-driving vehicle woken up, stopped and charged in Ottawa",
-            "summary": "Provincial police in Ottawa said they stopped and charged a driver who was asleep in her self-driving Tesla during Tuesday rush hour on Highway 417.",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/ottawa/self-driving-vehicle-ottawa-highway-417-9.7417941?cmp=rss"
+            "url": "https://www.cbc.ca/news/health/pfizer-premarin-menopause-canada-discontinued-9.7419988?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "British veteran returns to an Argentine veteran the helmet he took in 1982",
+            "summary": "\n\t   \t      \n\t         A former Royal Marine has travelled to Argentina to return to an Argentine veteran the helmet he took during the Battle of Mount Harriet in the 1982 Falkland...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/12/british-veteran-returns-to-an-argentine-veteran-the-helmet-he-took-in-1982?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "Lula to visit Madrid on Monday to meet Sánchez, two weeks before Spain’s election",
+            "summary": "\n\t   \t      \n\t         Brazilian President Luiz Inácio Lula da Silva will visit Madrid on Monday, November 16, to meet Spanish Prime Minister Pedro Sánchez, less than two weeks bef...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/12/lula-to-visit-madrid-on-monday-to-meet-sanchez-two-weeks-before-spain-s-election?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Paraguay’s banking superintendent arrested in the Ueno Bank investigation",
             "summary": "\n\t   \t      \n\t         Paraguay’s Superintendent of Banks, Holger Insfrán, was arrested on Thursday as part of the investigation into the collapse of Ueno Bank, which has already l...",
@@ -339,46 +387,30 @@
     "east-asia": [],
     "south-asia": [
         {
-            "headline": "Amidst simmering tensions, India-Bangladesh consular dialogue postponed",
-            "summary": "This would have been the fifth such consular dialogue and the first after the August 2024 uprising; postponement due to tensions over former PM Hasina’s plan to return to Banglades...",
+            "headline": "Sukhbir Badal likely to meet Amit Shah on November 13, SAD-BJP alliance may be announced this month",
+            "summary": "SAD sources said that Mr. Badal is likely to leave for New Delhi after his rally at Raikot to meet Mr. Shah, with talks on seat sharing and finalising the alliance on the agenda",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/amidst-simmering-tensions-india-bangladesh-consular-dialogue-postponed/article71694931.ece"
-        },
-        {
-            "headline": "India undergoing massive transformation in renewable energy: Earthshot Prize CEO",
-            "summary": "“There is a race on right now. The first country that can have access to cheap, clean and abundant energy, is going to have a huge economic advantage. And India knows that,” says J...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-undergoing-massive-transformation-in-renewable-energy-earthshot-prize-ceo/article71694272.ece"
-        },
-        {
-            "headline": "India simplifies visa norms; categories cut, forms to be 70% leaner",
-            "summary": "Tourist visa renamed ‘visitor visa ’, which will have two sub-categories, V-1 and V-2, so that applicants can select a visa suited to the nature and duration of their proposed visi...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/india-simplifies-visa-regime-tourist-visa-renamed-as-visitor-visa/article71690588.ece"
+            "url": "https://www.thehindu.com/news/national/punjab/sukhbir-badal-likely-to-meet-amit-shah-on-november-13-sad-bjp-alliance-may-be-announced-this-month/article71694288.ece"
         }
     ],
     "europe": [
         {
-            "headline": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-            "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+            "headline": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+            "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-            "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+            "headline": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+            "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
@@ -389,20 +421,20 @@
             "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+            "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Why did a day off for Finland's embassy in Australia go viral?",
             "summary": "Sleuths shared their \"despair\" when Finland's embassy in Australia's capital closed for 24 hours to hold a planning day and expressed \"relief\" when it reopened.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/ckedq17174v3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-            "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
@@ -427,6 +459,22 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
+            "summary": "There are mounting concerns across Europe that recent hoax threats and cyber attacks could be part of a massive hybrid warfare campaign. FRANCE 24's Sharon Gaffney speaks with Elis...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/tv-shows/a-propos/20261112-russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says"
+        },
+        {
+            "headline": "Zelensky warns Europe over US-Russia talks on broader security arrangements",
+            "summary": "Ukrainian President Volodymyr Zelensky warned European leaders Thursday to be wary of discussions between the United States and Russia about a new security arrangement for the cont...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/zelensky-warns-europe-over-us-russia-talks-on-broader-security-arrangements"
         },
         {
             "headline": "Russia's Vladimir Putin suggests no Ukraine compromise in meeting with US envoys",
@@ -477,8 +525,8 @@
             "url": "https://www.france24.com/en/russia-s-hidden-mobilization-the-expendable-lives-fueling-putin-s-war-on-ukraine"
         },
         {
-            "headline": "Live: Putin offers to evacuate civilians from Ukraine's Kostiantynivka after Oleshky truce",
-            "summary": "Russian President Vladimir ​Putin on Thursday told ​US envoys that Moscow was proposing a joint Russian-Ukrainian humanitarian ​mission ‌to the ⁠city of Kostiantynivka in eastern ‌...",
+            "headline": "Live: US envoys arrive in Dublin for meeting with Zelensky and European representatives",
+            "summary": "US special envoys Steve Witkoff and Jared Kushner arrived in Dublin Thursday night to meet Ukrainian President Volodymyr Zelensky following their talks with his Russian counterpart...",
             "sources": [
                 "france24.com"
             ],
@@ -507,22 +555,6 @@
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/general-strike-over-housing-brings-out-hundreds-of-thousands-in-spain"
-        },
-        {
-            "headline": "General strike over housing brings out tens of thousands in Spain",
-            "summary": "Tens of thousands of protesters marched across Spain on Wednesday during a general strike over housing affordability and purchasing power just weeks before an early general electio...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/general-strike-over-housing-brings-out-tens-of-thousands-in-spain"
-        },
-        {
-            "headline": "Tens of thousands attend Polish nationalist march days after shootings",
-            "summary": "Tens of thousands of Polish nationalist sympathisers gathered in Warsaw Wednesday for an annual Independence Day March, just days after a deadly shooting spree in Krakow that shook...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/tens-of-thousands-attend-polish-nationalist-march-days-afer-shootings-1"
         }
     ],
     "middle-east": [
@@ -689,12 +721,28 @@
     ],
     "africa": [
         {
+            "headline": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+            "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Can Nigeria's president regain voters' trust after painful first term?",
             "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
+            "summary": "Ghana kick-start their Afcon 2027 qualifying campaign despite Jordan Ayew having a penalty saved, while Cameroon, Ivory Coast and Senegal register wins.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "African writing award probe finds 'no evidence' winning story was AI generated",
@@ -809,14 +857,6 @@
             "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "'Knowledge is power' - Awoniyi",
-            "summary": "Nigeria's Taiwo Awoniyi explains why he values education so highly, having completed a course which could see him become one of football's future leaders.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "Africa: Africa Made It: Turning Africa's Cotton Wealth into Jobs, Industry and Economic Power",
             "summary": "[allAfrica] Africa produces cotton, inspires global fashion and boasts a vibrant creative industry. Yet much of the economic value generated from these resources is captured beyond...",
             "sources": [
@@ -839,14 +879,6 @@
                 "allafrica.com"
             ],
             "url": "https://allafrica.com/stories/202611120253.html"
-        },
-        {
-            "headline": "Africa: Author Simbarashe Kundizeza Cleared of AI Allegations",
-            "summary": "[DW] Zimbabwean writer Simbarashe Kundizeza has been cleared of allegations that he had used artificial intelligence to write his award-winning short story, The Blue Fighter. The r...",
-            "sources": [
-                "allafrica.com"
-            ],
-            "url": "https://allafrica.com/stories/202611120505.html"
         }
     ],
     "oceania": [
@@ -865,6 +897,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/ckedq17174v3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Marsh dodges Khawaja claims as Cummins vows to 'respond properly'",
+            "summary": "Mitchell Marsh persistently refuses to speak about Australia's ball-tampering saga at a press conference but captain Pat Cummins vows to \"respond properly\".",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/cricket/articles/c623jlxgn9rno?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Why does Australia want Brits to swap Sydney for the outback?",
