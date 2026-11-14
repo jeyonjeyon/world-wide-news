@@ -1,8 +1,16 @@
 {
     "_metadata": {
-        "last_updated": "2026-11-14 00:52:30 UTC"
+        "last_updated": "2026-11-14 11:26:03 UTC"
     },
     "globalOverview": [
+        {
+            "headline": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
+            "summary": "In a quiet hospital corridor in Kyiv, staff and volunteers push carts carrying steaming pots of chicken soup, bread and buckwheat porridge to patients recently evacuated from Russi...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168803"
+        },
         {
             "headline": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
             "summary": "Nearly nine months after Israeli and US strikes on Iran set off a regional war, the Gulf remains on a knife edge. Iran has all but closed the Strait of Hormuz, which carried a fift...",
@@ -154,17 +162,97 @@
                 "news.un.org"
             ],
             "url": "https://news.un.org/feed/view/en/story/2026/11/1168775"
-        },
-        {
-            "headline": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
-            "summary": "With South Sudan just six weeks away from its first national elections since independence, the Security Council meets in New York Tuesday amid deepening political uncertainty and w...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168774"
         }
     ],
     "north-america": [
+        {
+            "headline": "Restaurant chain may rethink controversial 20% service charge in some venues after customer pushback",
+            "summary": "A Ford&apos;s Garage franchisee in Florida is testing a 20% automatic service charge at select restaurants, but the company&apos;s president admits some diners don&apos;t want a ma...",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/food-drink/restaurant-chain-may-rethink-controversial-20-service-charge-some-venues-after-customer-pushback"
+        },
+        {
+            "headline": "Inside the House GOP strategy to capitalize on Democrats' warring factions in the new Congress",
+            "summary": "Tom Emmer says House Republicans will use committee hearings and floor votes to hold Democrats accountable as the GOP shifts to minority status.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/inside-house-gop-strategy-capitalize-democrats-warring-factions-new-congress"
+        },
+        {
+            "headline": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
+            "summary": "President Donald Trump declared on Truth Social the U.S. no longer needs a deal with Iran, one day after proclaiming victory at Arlington.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/trump-keeps-signaling-end-iran-war-expert-warns-crucial-piece-his-strategy-missing"
+        },
+        {
+            "headline": "Sexual predator deported to Mexico hauled back to US for assault and murder of American mom",
+            "summary": "Miguel Angel Urbano-Vazquez was deported to Mexico after Sharon Van Gilder&apos;s 2002 murder but was later extradited and convicted decades later.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/sexual-predator-deported-mexico-hauled-back-us-assault-murder-american-mom"
+        },
+        {
+            "headline": "SEN BERNIE SANDERS: Democrats won big. Deliver real change now, or pay a terrible price",
+            "summary": "Election Day Democrats won 250-plus House seats and 56 Senate seats. Now the American people demand action on Medicare for All and a wealth tax.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/opinion/sen-bernie-sanders-democrats-won-big-deliver-real-change-now-pay-terrible-price"
+        },
+        {
+            "headline": "Democrats seize on midterm wins to push massive minimum wage hikes, but economists see trouble ahead",
+            "summary": "Josh Shapiro says he wants to more than double Pennsylvania&apos;s minimum wage and codify abortion rights with the new Democratic trifecta.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead"
+        },
+        {
+            "headline": "Massie's push to impeach Hegseth splits constituents in his own backyard: 'Pure spite'",
+            "summary": "Northern Kentucky residents offer sharply divided takes on Thomas Massie&apos;s push to impeach Pete Hegseth over the Iran war and his true motives.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite"
+        },
+        {
+            "headline": "Democrat flips Alaska governor's mansion after Trump-backed GOP infighting",
+            "summary": "President Trump endorsed Republican Bernadette Wilson for Alaska governor, but bitter GOP infighting and ranked-choice voting complicated the race to succeed Mike Dunleavy.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting"
+        },
+        {
+            "headline": "NBA star Dejounte Murray requests trade after Pelicans clash, public frustration spills onto social media",
+            "summary": "Dejounte Murray&apos;s representatives at Klutch Sports requested a trade from the New Orleans Pelicans, who say they will evaluate opportunities.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/nba-star-dejounte-murray-requests-trade-pelicans-clash-public-frustration-spills-social-media"
+        },
+        {
+            "headline": "ADF seeks to defend Washington girls' sports measure, argues state cannot fully represent female athletes",
+            "summary": "Female Athletes United seeks to join the defense of Washington Initiative 638 as an ACLU-backed lawsuit challenges the voter-approved girls sports law.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/adf-seeks-defend-washington-girls-sports-measure-argues-state-cannot-fully-represent-female-athletes"
+        },
+        {
+            "headline": "Joe Rogan says podcasters have no business at Trump press conferences alongside real journalists",
+            "summary": "Joe Rogan rejected White House advisor David Sacks&apos; push to give podcasters front-row seats at press conferences, declaring &quot;we talk s---&quot; and aren&apos;t journalist...",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/media/joe-rogan-says-podcasters-no-business-trump-press-conferences-alongside-real-journalists"
+        },
         {
             "headline": "Which current three-loss team would be the most dangerous in this year's College Football Playoff?",
             "summary": "Oregon, South Carolina, Ohio State, Ole Miss and LSU all have three losses, but one team stands out as the most dangerous CFP contender this year.",
@@ -182,140 +270,60 @@
             "url": "https://www.foxnews.com/media/mike-myers-teases-possible-political-nature-austin-powers-4-critic-warns-foolish"
         },
         {
-            "headline": "UFC boss Dana White brushes off Democratic probe threats, recalls 'crazy 48 hours' around Trump job offer",
-            "summary": "UFC CEO Dana White told Lara Trump he has nothing to hide from post-midterm Democratic probes and recounted his &quot;crazy 48 hours&quot; around President Donald Trump&apos;s pres...",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/media/ufc-boss-dana-white-brushes-off-democratic-probe-threats-recalls-crazy-48-hours-around-trump-job-offer"
-        },
-        {
-            "headline": "Tennessee running back breaks leg in single-vehicle crash, school says, putting season in doubt",
-            "summary": "Daune Morris reportedly lost control of his Dodge Charger early Friday, and Tennessee football now faces a College Football Playoff push without him.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/tennessee-running-back-breaks-leg-single-vehicle-crash-school-says-putting-season-doubt"
-        },
-        {
-            "headline": "Connecticut teacher escorted out of school over classroom crucifix heads to federal appeals court",
-            "summary": "Marisol Arroyo-Castro says she was escorted out of her Connecticut public school after refusing to remove a crucifix she displayed for a decade, while her school district says the ...",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/media/connecticut-teacher-escorted-out-school-over-classroom-crucifix-heads-federal-appeals-court"
-        },
-        {
-            "headline": "Is it weird for a coach to not talk to his team after a game, or is it extremely weird?",
-            "summary": "Auston Matthews revealed that Maple Leafs coach Jim Hiller doesn&apos;t usually talk to the team after games, raising eyebrows as Toronto sits 8-11-2.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/weird-coach-not-talk-team-after-game-extremely-weird"
-        },
-        {
-            "headline": "How to get the Samsung Galaxy S26+ or S26 for $0 upfront through T-Mobile's latest deal",
-            "summary": "T-Mobile&apos;s T-Mix plans let new and existing customers get the Samsung Galaxy S26+ or Samsung Galaxy S26 for $0 upfront with no trade-in required.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/deals/t-mobile-samsung-galaxy-s26-deals"
-        },
-        {
-            "headline": "New Orleans boat crash called ‘miracle on the Mississippi’ as everyone is accounted for, officials say",
-            "summary": "Louisiana Gov. Jeff Landry called it &quot;a literal miracle on the Mississippi&quot; after a tanker capsized the American Heritage cruiser in New Orleans.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/us/tanker-slams-docked-new-orleans-river-cruiser-carrying-129-passengers-sparking-rescue"
-        },
-        {
-            "headline": "Rep Lauren Boebert projected to lose House seat in another Democratic flip",
-            "summary": "Rep. Lauren Boebert, R-Colo., lost her congressional seat to Democratic challenger Eileen Laubacher. Boebert, an ally of President Trump, was seeking a fourth term.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/rep-lauren-boebert-projected-lose-house-seat-another-democratic-flip"
-        },
-        {
-            "headline": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
-            "summary": "Chuck Schumer faces a rare contested Senate leadership race as Chris Van Hollen pushes to abolish the filibuster and shake up Democratic strategy.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected"
-        },
-        {
-            "headline": "Pete Hegseth impeachment effort dies in the House as absent Democrats couldn't beat the traffic",
-            "summary": "Pete Hegseth narrowly avoided becoming only the third cabinet secretary ever impeached after 11 absent Democrats failed to reach the House floor.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/pete-hegseth-impeachment-effort-dies-house-absent-democrats-couldnt-beat-traffic"
-        },
-        {
-            "headline": "Kirk Herbstreit serving steak to his dog at an NYC restaurant has Craig Carton fuming mad",
-            "summary": "Kirk Herbstreit fed his golden retriever Peter a steak at an NYC steakhouse, sparking a heated debate over dogs in restaurants and food safety rules.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/kirk-herbstreit-serving-steak-dog-nyc-restaurant-craig-carton-fuming-mad"
-        },
-        {
-            "headline": "Two top Trump Cabinet officials go to war over China spy scandal amid explosive accusations: report",
-            "summary": "A White House Situation Room meeting erupted after Nvidia CEO Jensen Huang&apos;s affair with a suspected Chinese spy tied to chip diversions was revealed.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/two-top-trump-cabinet-officials-go-war-over-china-spy-scandal-amid-explosive-accusations-report"
-        },
-        {
-            "headline": "'I sincerely apologize': Blue Jays outfielder Santander apologizes days after anti-Muslim social media posts",
-            "summary": "Santander said in an Instagram post Friday that reflection and conversations with people he trusts made him recognize he should have been more thoughtful about what he shared.",
+            "headline": "Minimum wage hasn't kept pace with the cost of living across Canada, new reports show",
+            "summary": "Of the 59 cities and regions in reports for every province reviewed by CBC News, none had a provincial minimum wage equal to the calculated living wage — the amount a full-time wor...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/toronto/blue-jays-santander-social-media-apology-9.7421387?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/living-wage-minimum-wage-canada-9.7416320?cmp=rss"
         },
         {
-            "headline": "U.S. Treasury Secretary frustrated by Commerce Department's inaction on Nvidia chips",
-            "summary": "U.S. Treasury Secretary Scott Bessent said Friday he was frustrated with the Commerce Department's delay in placing restrictions on Nvidia chip exports to a company led by an alleg...",
+            "headline": "Experts warn about risks of AI-generated content in child sexual abuse material",
+            "summary": "Prince Edward Island RCMP say there has been a \"notable increase\" in child sex abuse material made using artificial intelligence across parts of the province. Online exploitation s...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/world/bessent-lutnick-nvidia-chips-exports-9.7421237?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-artificial-intelligence-child-sexual-abuse-police-experts-9.7419753?cmp=rss"
         },
         {
-            "headline": "Transportation Safety Board not investigating after PAL Airlines lost wheel twice in 2 weeks",
-            "summary": "The Transportation Safety Board of Canada says it's still gathering information regarding a plane that lost two different wheels in separate incidents in the past two weeks.",
+            "headline": "Canadian judge decries U.S. sanctions of International Criminal Court as 'attack in favour of impunity'",
+            "summary": "Kimberly Prost, a Canadian judge at the International Criminal Court, was sanctioned by the Trump administration last August. Despite impacts including cancelled credit cards and f...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/pal-wheel-incident-9.7420742?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/us-icc-sanctions-canadian-judge-kimberly-prost-9.7415128?cmp=rss"
         },
         {
-            "headline": "Canadian women pass stern test from Czechs at hockey worlds, advancing to semifinals",
-            "summary": "Canada had to fight hard to advance to the semifinals of the women’s world hockey championship by edging the Czech Republic 3-2 on Friday in Herning, Denmark.",
+            "headline": "With 1 candidate on the ballot, federal Green Party chooses its next leader",
+            "summary": "In any other party, Mike Morrice would be acclaimed as leader. But the Green Party of Canada prides itself on doing things differently than the political mainstream.",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/sports/hockey/canada-czechs-recap-quarterfinal-womens-hockey-worlds-denmark-9.7420897?cmp=rss"
+            "url": "https://www.cbc.ca/news/politics/green-party-of-canada-mike-morrice-9.7419567?cmp=rss"
         },
         {
-            "headline": "Mexico raises $5.4M for social services by selling off Ryan Wedding's motorbike collection",
-            "summary": "Mexico has raised roughly $5.4 million by auctioning off a rare collection of motorcycles seized from alleged Canadian drug lord Ryan Wedding, with the funds earmarked for social s...",
+            "headline": "U.S. flights cleared to take off again after ground stop order caused thousands of delays and cancellations",
+            "summary": "",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/world/mexico-ryan-wedding-motorbike-collection-auction-9.7420729?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/livestory/faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421404?cmp=rss"
         },
         {
-            "headline": "Alberta's top court overturns certification for class-action lawsuit over COVID restrictions",
-            "summary": "Alberta’s top court has overturned the certification of a class-action lawsuit filed by a group of business owners who were seeking compensation for losses suffered due to pandemic...",
+            "headline": "Canada, Philippines wrap talks for free-trade agreement, expected to be signed in 2027",
+            "summary": "Canada and the Philippines have concluded talks for a free-trade agreement, which is expected to be formally signed next year.",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/calgary/court-of-appeal-class-action-certification-pandemic-restriction-overturned-9.7420934?cmp=rss"
+            "url": "https://www.cbc.ca/news/politics/canada-philippines-free-trade-agreement-talks-9.7422009?cmp=rss"
+        },
+        {
+            "headline": "London, Ont., family raises $500K for daughter's U.S. surgery after being denied funding",
+            "summary": "A London, Ont., father and daughter who have been fundraising for a major surgery in the United States have now surpassed their goal and are moving ahead with a potentially life-ch...",
+            "sources": [
+                "rss.cbc.ca"
+            ],
+            "url": "https://www.cbc.ca/news/canada/london/london-family-raises-500k-for-daughter-s-us-surgery-after-ontario-denied-funding-9.7421072?cmp=rss"
         }
     ],
     "latin-america": [
@@ -374,22 +382,6 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/11/12/law-of-the-sea-tribunal-to-rule-on-november-28-on-argentina-s-bid-to-halt-sea-lion?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "British Antarctic Survey begins a season featuring the largest-ever penguin census",
-            "summary": "\n\t   \t      \n\t         The British Antarctic Survey (BAS), the UK’s national operator in Antarctica, began its 2026/27 research season in late October, including the largest pengui...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/11/12/british-antarctic-survey-begins-a-season-featuring-the-largest-ever-penguin-census?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Milei in tears as he bids farewell to Leo XIV at Ezeiza, closing the Pope’s Argentina visit",
-            "summary": "\n\t   \t      \n\t         President Javier Milei was moved to tears during Pope Leo XIV’s farewell at Ezeiza airport, at the end of a four-day visit, the first by a pontiff to Argenti...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/11/11/milei-in-tears-as-he-bids-farewell-to-leo-xiv-at-ezeiza-closing-the-pope-s-argentina-visit?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [
@@ -420,15 +412,47 @@
     ],
     "south-asia": [
         {
-            "headline": "T.N. Governor meets Home Minister Amit Shah in New Delhi",
-            "summary": "No summary available.",
+            "headline": "Women must get adequate representation in Parliament, legislatures: Karnataka CM D.K. Shivakumar",
+            "summary": "Government to extend full support to Commonwealth Women Parliamentarians’ India region conference in Bengaluru",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-governor-meets-home-minister-amit-shah-in-new-delhi/article71698871.ece"
+            "url": "https://www.thehindu.com/news/national/karnataka/women-must-get-adequate-representation-in-parliament-legislatures-karnataka-cm-dk-shivakumar/article71701382.ece"
+        },
+        {
+            "headline": "Can India refuse to serve summons in the Pannun case?",
+            "summary": "A U.S. court has allowed Khalistani separatist Gurpatwant Singh Pannun to pursue serving summons on National Security Adviser Ajit Doval and former RAW chief Samant Goel through In...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/can-india-refuse-to-serve-summons-in-the-pannun-case/article71701463.ece"
+        },
+        {
+            "headline": "SC/ST quota enhancement: Karnataka recommends inclusion of law in 9th Schedule",
+            "summary": "Chief Secretary Vandita Sharma has written to the Home Secretary, Government of India",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/karnataka/scst-quota-enhancement-karnataka-recommends-inclusion-of-law-in-9th-schedule/article66654566.ece"
+        },
+        {
+            "headline": "Jewel, modern India’s architect: Congress pays tributes to Nehru on birth anniversary",
+            "summary": "Congress president Kharge and Congress Parliamentary Party chairperson Sonia Gandhi visited Shanti Van to pay homage at Nehru’s memorial",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/jawaharlal-nehru-birth-anniversary-congress-tribute-gandhi/article71700962.ece"
         }
     ],
     "europe": [
+        {
+            "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+            "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
             "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
@@ -436,6 +460,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Estonia bans Russian athletes as backlash intensifies",
+            "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
@@ -462,6 +494,14 @@
             "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+            "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Why did a day off for Finland's embassy in Australia go viral?",
             "summary": "Sleuths shared their \"despair\" when Finland's embassy in Australia's capital closed for 24 hours to hold a planning day and expressed \"relief\" when it reopened.",
             "sources": [
@@ -476,14 +516,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-            "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
@@ -508,6 +540,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+            "summary": "President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace tal...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership"
         },
         {
             "headline": "France among five major powers to represent EU in Ukraine talks",
@@ -564,30 +604,6 @@
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/video/20261113-west-bank-without-international-trade-and-financial-support-large-settlements-would-not-exist-1"
-        },
-        {
-            "headline": "Russia strikes targets across Ukraine as Kyiv launches nearly 1,200 drones",
-            "summary": "Russian strikes hit targets across Ukraine on Thursday, with one attack damaging a hospital. Ukraine meanwhile fired almost 1,200 drones at Russian targets overnight in one of its ...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/video/20261113-russian-airstrikes-continue-ukraine-launches-nearly-1-200-drones"
-        },
-        {
-            "headline": "UK rocked by comedians' sex scandals",
-            "summary": "The UK is facing a reckoning in the world of entertainment, as two well-known comedy figures find themselves at the centre of serious allegations and headlines. This as Russell Bra...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/tv-shows/the-51/20261113-uk-rocked-by-comedians-sex-scandals"
-        },
-        {
-            "headline": "US, Ukraine say Europe to join peace talks as Putin sticks to hardline stance",
-            "summary": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday, November 12, Europe would join the next round of talks with Russia, as Vladimir Putin indicated Mos...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/video/20261113-us-ukraine-say-europe-to-join-peace-talks-as-putin-sticks-to-hardline-stance"
         }
     ],
     "middle-east": [
@@ -762,12 +778,12 @@
             "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Nigerian university in mourning after four students die at post-exam party",
-            "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
+            "headline": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+            "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
@@ -778,12 +794,12 @@
             "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
-            "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
+            "headline": "Nigerian university in mourning after four students die at post-exam party",
+            "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Can Nigeria's president regain voters' trust after painful first term?",
@@ -858,14 +874,6 @@
             "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Why has Caf abandoned plans to hold Afcon every four years?",
-            "summary": "The Africa Cup of Nations will remain on a two-year cycle after the Confederation of African Football performed a U-turn on a decision taken last December.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/football/articles/cm3el25ez88yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "Footage shows derailed carriages after fatal train crash in Egypt",
             "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
             "sources": [
@@ -888,6 +896,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "'Knowledge is power' - Awoniyi",
+            "summary": "Nigeria's Taiwo Awoniyi explains why he values education so highly, having completed a course which could see him become one of football's future leaders.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Africa: Dakar 2026 Youth Olympic Games - After The Historic Achievement, The Challenge of a Lasting Legacy for Africa",
@@ -932,6 +948,14 @@
             "url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
+            "summary": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "Sydney Swans players will not be charged after hotel incident, police say",
             "summary": "Four players had been under investigation after an alleged sexual assault after a game in Melbourne.",
             "sources": [
@@ -962,14 +986,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-            "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Australian woman shot during Bondi Beach attack dies almost a year later",
