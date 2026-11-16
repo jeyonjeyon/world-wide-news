@@ -1,8 +1,56 @@
 {
     "_metadata": {
-        "last_updated": "2026-11-16 06:21:38 UTC"
+        "last_updated": "2026-11-16 18:29:11 UTC"
     },
     "globalOverview": [
+        {
+            "headline": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
+            "summary": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls th...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168814"
+        },
+        {
+            "headline": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
+            "summary": "New international initiatives on artificial intelligence and green industrialization showcased technology's growing role in climate action, even as negotiators remained deadlocked ...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168812"
+        },
+        {
+            "headline": "Funding cuts raise risks of trafficking and exploitation for refugee children",
+            "summary": "Sharp reductions in humanitarian funding are putting refugees, particularly children, at increased risk of being trafficked, exploited or abused, while the systems that protect the...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168811"
+        },
+        {
+            "headline": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
+            "summary": "UN Secretary-General António Guterres underscored the need for stronger collaboration with the Association of Southeast Asian Nations (ASEAN) and an end to the crisis in Myanmar, i...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168809"
+        },
+        {
+            "headline": "First Person: Managing risk on Ukraine’s frontline",
+            "summary": "Humanitarian workers providing support to communities on the frontline of the war between Ukraine and Russia must balance remaining close to those in need with the heightened risks...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168807"
+        },
+        {
+            "headline": "Empowering faith and Indigenous leaders to combat hate",
+            "summary": "Religious, traditional and Indigenous leaders need to be empowered to act as full partners in preventing conflict, not just praised for their role, speakers said Sunday at the open...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168808"
+        },
         {
             "headline": "Nadia Murad: ‘Day by day, I took my story back’",
             "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed against her and the Yazidi community by militants from the terrorist group, ...",
@@ -114,219 +162,179 @@
                 "news.un.org"
             ],
             "url": "https://news.un.org/feed/view/en/story/2026/11/1168783"
-        },
-        {
-            "headline": "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected",
-            "summary": "Early warning systems are saving lives across the globe, but for millions of people the warning never arrives, UN Secretary-General António Guterres said on Wednesday, urging the w...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168787"
-        },
-        {
-            "headline": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
-            "summary": "The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant ...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168784"
-        },
-        {
-            "headline": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
-            "summary": "Ending cholera as a public health threat by 2030 is within reach, as every cholera death can be prevented with tools that already exist, the World Health Organization (WHO)&nbsp;sa...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168782"
-        },
-        {
-            "headline": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
-            "summary": "Seventy-one confirmed Ebola cases&nbsp;have been detected along transit routes in the Democratic Republic of the Congo (DRC) since the outbreak began almost six months ago, the Int...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168781"
-        },
-        {
-            "headline": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
-            "summary": "Violence in northern Nigeria is fueling a growing humanitarian crisis across the whole region: 64,000 have fled to neighbouring Niger and several hundred have left for Benin since ...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168779"
-        },
-        {
-            "headline": "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom widens",
-            "summary": "Six journalists who make up the entire newsroom of the Egyptian fact-checking website Matsadash remain in detention, the UN human rights office (OHCHR) said on Tuesday, warning of ...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168778"
         }
     ],
     "north-america": [
         {
-            "headline": "Pete Buttigieg breaks with Democrats on student loan handouts, admits party ‘overtorqued’ on issue",
-            "summary": "Pete Buttigieg said the Democratic Party &quot;overtorqued&quot; on student loans, admitting that he struggles to justify loan forgiveness to non-college relatives.",
+            "headline": "Ukraine hits Putin's prized bridge in record drone blitz as Kremlin tells lawmakers to prepare for 'victory'",
+            "summary": "Ukraine struck Vladimir Putin&apos;s prized Crimea bridge in what Russia called the war&apos;s largest drone attack, setting industrial facilities ablaze.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue"
+            "url": "https://www.foxnews.com/world/ukraine-hits-putins-prized-bridge-record-drone-blitz-kremlin-tells-lawmakers-prepare-victory"
         },
         {
-            "headline": "Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80",
-            "summary": "The Guadalajara cartel boss convicted in DEA agent Enrique &quot;Kiki&quot; Camarena&apos;s murder died at 80, decades after the killing triggered Operation Leyenda.",
+            "headline": "Trump criticizes '60 Minutes' bosses as 'even worse' as he challenges Iran war report",
+            "summary": "President Donald Trump blasted CBS&apos; &quot;60 Minutes&quot; for omitting U.S. defensive wins against Iranian drones in a report as he lashed out at the news program.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80"
+            "url": "https://www.foxnews.com/media/trump-criticizes-60-minutes-bosses-even-worse-he-challenges-iran-war-report"
         },
         {
-            "headline": "Russell Brand’s wife opens up after comedian’s rape conviction, shares message from imprisoned husband",
-            "summary": "Laura Brand appeared alone on the couple&apos;s weekly Sunday Service YouTube vlog, sharing a message Russell Brand asked her to read from prison.",
+            "headline": "Trump brings two divided Cabinet heavyweights to China as controversy hangs over high-stakes talks",
+            "summary": "President Donald Trump said Scott Bessent and Howard Lutnick hold opposing views on China as both join his high-stakes Asia trip to meet Xi Jinping.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/entertainment/russell-brands-wife-opens-up-after-comedians-rape-conviction-shares-message-from-imprisoned-husband"
+            "url": "https://www.foxnews.com/politics/trump-brings-two-divided-cabinet-heavyweights-china-controversy-hangs-over-high-stakes-talks"
         },
         {
-            "headline": "Blinken warns US ground invasion of Iran would be 'absolute disaster' as Tehran escalates attacks",
-            "summary": "Former Secretary of State Antony Blinken warned a U.S. ground invasion of Iran would be an &quot;absolute disaster&quot; as Tehran launched drones at Bahrain.",
+            "headline": "FanDuel Promo Code: Bet $5, Get $200 Starting With Ravens vs Chargers on Monday Night Football",
+            "summary": "FanDuel gives new users $200 in bonus bets for betting $5 a day for four days, starting with Chargers at Ravens on Monday Night Football.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/world/blinken-warns-us-ground-invasion-iran-would-be-disaster-tehran-escalates-attacks"
+            "url": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-bet-5-get-200-starting-ravens-vs-chargers-monday-night-football"
         },
         {
-            "headline": "Kirk Cousins and the Minnesota Vikings are reunited and it feels so good after win over Green Bay Packers",
-            "summary": "Kirk Cousins led the Minnesota Vikings to a dominant win at Lambeau Field, and his emotional reunion with Kevin O&apos;Connell raises a big question.",
+            "headline": "Underdog Promo Code FOXNEWS: Get $50 When You Trade $10 on Ravens vs Chargers",
+            "summary": "Underdog promo code FOXNEWS lets new users play $10 and get $50 in bonus entries on Chargers at Ravens on Monday Night Football.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/kirk-cousins-minnesota-vikings-reunited-feels-good-win-green-bay-packers"
+            "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-get-50-when-you-trade-10-ravens-vs-chargers"
         },
         {
-            "headline": "TNA's Trey Miguel working his way to Canada for Destination X title match despite travel chaos",
-            "summary": "Trey Miguel&apos;s TNA World Championship match against Leon Slater was in jeopardy after Friday&apos;s nationwide ground stop stranded him in transit.",
+            "headline": "Betr Promo Code FOXNEWS: Get a $200 Bonus & 4x Free Picks for Ravens vs Chargers on MNF",
+            "summary": "Betr promo code FOXNEWS gives new users a $200 bonus and four free picks for Chargers at Ravens on Monday Night Football.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/tna-trey-miguel-working-way-canada-destination-x-title-match-despite-travel-chaos"
+            "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonus-4x-free-picks-ravens-vs-chargers-mnf"
         },
         {
-            "headline": "USC great Keyshawn Johnson calls for Lincoln Riley's job: 'Time to find somebody else'",
-            "summary": "Keyshawn Johnson posted a frustrated video calling for USC to fire Lincoln Riley after the Trojans&apos; 27-13 loss to Indiana knocked them from CFP contention.",
+            "headline": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 for Tonight’s Ravens-Chargers MNF Showdown",
+            "summary": "Fanatics Sportsbook promo code FOXNEWS350 lets new users bet $20 and get $350 in FanCash on Chargers at Ravens on Monday Night Football tonight.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/usc-great-keyshawn-johnson-calls-lincoln-riley-job-time-find-somebody-else"
+            "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-tonights-ravens-chargers-mnf-showdown"
         },
         {
-            "headline": "Joe Biden calls Zelenskyy 'moody and stubborn,' questions his gratitude in new memoir",
-            "summary": "Joe Biden calls Volodymyr Zelenskyy &quot;moody&quot; and &quot;not as grateful as I would have expected&quot; in his forthcoming memoir, &quot;Promise Me, America.&quot;",
+            "headline": "Best Sportsbook Promos for Monday Night Football: Claim $2000+ for Ravens vs Chargers",
+            "summary": "The best sportsbook promos for Monday Night Football, with $2,000+ in bonuses from BetMGM, Fanatics, bet365, FanDuel, Underdog and Betr for Chargers at Ravens.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/media/joe-biden-calls-zelenskyy-moody-stubborn-questions-gratitude-new-memoir"
+            "url": "https://www.foxnews.com/outkick-betting/best-sportsbook-promos-monday-night-football-claim-2000-ravens-vs-chargers"
         },
         {
-            "headline": "White House calls DC policies 'insanity' after 19-year-old gunman gets probation in shooting",
-            "summary": "A 19-year-old who prosecutors said fired more than 20 rounds into a D.C. neighborhood got probation, prompting the White House to slam the city&apos;s crime policies.",
+            "headline": "BetMGM Bonus Code FOXNEWS: Claim $1500 in First Bet Cover Ahead of Ravens vs Chargers on MNF",
+            "summary": "BetMGM bonus code FOXNEWS gives new users up to $1,500 in First Bet Cover on Chargers at Ravens on Monday Night Football.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/white-house-calls-dc-policies-insanity-after-19-year-old-gunman-gets-probation-shooting"
+            "url": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-claim-1500-first-bet-cover-ahead-ravens-vs-chargers-mnf"
         },
         {
-            "headline": "Nationwide flight grounding unlikely in Canada, says aviation expert",
-            "summary": "",
+            "headline": "Bet365 Bonus Code: Bet $10, Get $200 on the Ravens vs Chargers MNF Matchup",
+            "summary": "bet365 gives new users $200 in bonus bets, win or lose, when they bet $10 on Chargers at Ravens on Monday Night Football.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-betting/bet365-bonus-code-bet-10-get-200-ravens-vs-chargers-mnf-matchup"
+        },
+        {
+            "headline": "Titans kicker Joey Slye may have delivered the hardest hit of NFL Week 10 action against Jaguars",
+            "summary": "Tennessee Titans kicker Joey Slye delivered a crushing open-field hit that forced a Josh Cameron fumble in the Week 10 loss to the Jacksonville Jaguars.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/titans-kicker-joey-slye-hardest-hit-nfl-week-10-jaguars"
+        },
+        {
+            "headline": "Justin Herbert's 11 interceptions in eight games highlight the Chargers' disastrous 0-win season",
+            "summary": "The winless Los Angeles Chargers meet the 4-5 Baltimore Ravens on a short week, with Justin Herbert&apos;s 11 interceptions in eight games fueling a slump.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-betting/justin-herbert-11-interceptions-eight-games-highlight-chargers-disastrous-0-win-season"
+        },
+        {
+            "headline": "Trump leaves door open to Kim Jong Un joining high-stakes talks with Xi, Putin",
+            "summary": "Trump suggested Kim Jong Un could appear during his China trip, saying the North Korean leader&apos;s presence is up to Xi Jinping ahead of trilateral talks in China.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/trump-leaves-door-open-kim-jong-un-joining-high-stakes-talks-xi-putin"
+        },
+        {
+            "headline": "Third US aircraft carrier arrives in Middle East as Iran rules out UN nuclear inspections",
+            "summary": "A third American aircraft carrier arrived in the area U.S. Central Command is responsible for, Israeli journalist Barak Ravid noted on Sunday.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/third-us-aircraft-carrier-arrives-middle-east-iran-rules-out-un-nuclear-inspections"
+        },
+        {
+            "headline": "Fetterman's Gaza-born challenger calls to 'abolish ICE,' oust top Democratic leaders",
+            "summary": "Gaza-born socialist Ahmed Moor challenged one of Israel&apos;s strongest Senate supporters while calling for an overhaul of Democratic leadership.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/fettermans-gaza-born-challenger-calls-abolish-ice-oust-top-democratic-leaders"
+        },
+        {
+            "headline": "OpenAI child safety tools target AI-generated abuse",
+            "summary": "OpenAI&apos;s new classifier flags 48% fewer images for review while detecting similar levels of CSAM, and ChatGPT now suspends users for 24 hours.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/tech/openai-child-safety-tools-target-ai-generated-abuse"
+        },
+        {
+            "headline": "Seattle mayor orders park named for American president renamed",
+            "summary": "Seattle Mayor Katie Wilson ordered Jackson Park renamed, citing Andrew Jackson&apos;s legacy of forcibly displacing Native American peoples from their lands.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/seattle-mayor-order-park-named-american-president-renamed"
+        },
+        {
+            "headline": "After the blue wave, what happens to education policy and parental rights protections in flipped states?",
+            "summary": "Democratic governors in previously red states look to target school vouchers and change education policies as they come to power next year.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/media/after-blue-wave-what-happens-education-policy-parental-rights-protections-flipped-states"
+        },
+        {
+            "headline": "CBSA demoting border officers who permanently lost ability to use sidearm",
+            "summary": "The Canada Border Services Agency has informed 63 employees that they will have to take on new, lower-paid positions because of medical conditions that prevent them from carrying a...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/faa-ground-stop-order-canada-comparison-9.7422968?cmp=rss"
+            "url": "https://www.cbc.ca/news/politics/cbsa-firearm-accommodation-medical-union-9.7421365?cmp=rss"
         },
         {
-            "headline": "Edmonton Elks defeat Montreal Alouettes to capture 113th Grey Cup",
-            "summary": "The Edmonton Elks are Grey Cup champions for the 15th time in franchise history. Led by quarterback Cody Fajardo's four total touchdowns, two passing and two rushing, the Elks hung...",
+            "headline": "Bank of Canada governor Tiff Macklem to step down in 2027",
+            "summary": "Bank of Canada governor Tiff Macklem will not seek a second term leading Canada's central bank. His current term as governor will end on June 2, 2027.",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/sports/football/cfl/cfl-montreal-alouettes-edmonton-elks-grey-cup-nov-15-9.7422907?cmp=rss"
-        },
-        {
-            "headline": "Canada's health-care spending tops $10,000 per person this year. Where is the money going?",
-            "summary": "",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/health/canada-health-care-spending-9.7419956?cmp=rss"
-        },
-        {
-            "headline": "Woman gets back at ex by sparking cat donation campaign | The Moment",
-            "summary": "The president of SOS Prairie Rescue, Ashlyn Weninger, tells The National about the moment the group received an anonymous message that started a matching campaign encouraging peopl...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/player/play/9.7423135?cmp=rss"
-        },
-        {
-            "headline": "3 friends complete 8,000-km canoe journey across Canada, arriving in Vancouver",
-            "summary": "After more than 200 days, thousands of kilometres and countless hours on the water, three longtime friends from Toronto completed their cross-Canada canoe journey on Sunday at Vanc...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/british-columbia/cross-canada-canoe-journey-ends-in-vancouver-9.7423116?cmp=rss"
-        },
-        {
-            "headline": "Scientists race to discover and protect what lives in the ocean",
-            "summary": "Scientists say not knowing what lives in our oceans holds back efforts to protect them. Marine biologists are racing to catalogue species — from carnivorous sponges to otherworldly...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/science/marine-biodiversity-cop31-9.7419543?cmp=rss"
-        },
-        {
-            "headline": "'He lived and breathed it': NCAA football prospect from N.S. has died",
-            "summary": "A Nova Scotian who was set to play football at an American powerhouse college is being remembered for his exceptional talent and desire to get better on the field, but also his hap...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/nova-scotia/marcellus-young-casario-rabun-gap-halifax-nova-scotia-university-of-georgia-9.7422636?cmp=rss"
-        },
-        {
-            "headline": "'I cheated': South Korean admits he used AI to achieve top score in national exam",
-            "summary": "The marks attained by the top scorer on South Korea's national exam for aspiring tax accountants this year seemed too good to be true, and on ‌Sunday, skeptics were proven right wh...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/south-korea-tax-accounting-exam-ai-cheating-9.7423029?cmp=rss"
-        },
-        {
-            "headline": "Russia will not compete at world junior hockey championship in Alberta, IIHF says",
-            "summary": "",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/sports/hockey/iihf-world-juniors-russia-not-competing-9.7422880?cmp=rss"
-        },
-        {
-            "headline": "Steering issue caused tanker to crash into cruise boat, U.S. officials say",
-            "summary": "The asphalt tanker vessel that struck a docked paddlewheel cruise boat in the Mississippi River at ‌New Orleans on Friday experienced a steering problem in which its rudder was stu...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/tanker-cruise-ship-steering-problem-issue-mississippi-river-new-orleans-9.7423018?cmp=rss"
-        },
-        {
-            "headline": "Why researchers are using drones to keep polar bears and people apart",
-            "summary": "While studies have shown drone hazing to be effective on black bears, researchers are now trying to see if it works with polar bears — a bigger, more curious and more aggressive sp...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/manitoba/drone-polar-bear-churchill-9.7418301?cmp=rss"
+            "url": "https://www.cbc.ca/news/business/tiff-macklem-step-down-9.7423501?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Leo XIV denounces “market and exploitation logics” threatening the Amazon",
+            "summary": "\n\t   \t      \n\t         Pope Leo XIV on Sunday denounced in Pucallpa, in the Peruvian Amazon, the “logics of market and exploitation” threatening the rainforest and its peoples, and...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/16/leo-xiv-denounces-market-and-exploitation-logics-threatening-the-amazon?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Uruguay among the region’s most productive countries, but with below-average growth",
             "summary": "\n\t   \t      \n\t         Uruguay ranked fourth in Latin America and the Caribbean for labour productivity per hour worked in 2025, according to a report by the Economic Commission fo...",
@@ -342,14 +350,6 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/11/16/leo-xiv-rides-in-a-peruvian-military-helicopter-cockpit-and-reaches-cusco?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Chile tells Argentina “countries do not ask permission” for its ship bound for the Falklands",
-            "summary": "\n\t   \t      \n\t         Chile’s Foreign Minister Francisco Pérez Mackenna has ruled out asking Argentina for authorisation for the voyage of the Chilean vessel Danstar, which plans ...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/11/13/chile-tells-argentina-countries-do-not-ask-permission-for-its-ship-bound-for-the-falklands?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [
@@ -388,71 +388,87 @@
     ],
     "south-asia": [
         {
-            "headline": "Bat, ball and ‘kulhad’ chai: Prince William and Princess Kate’s regal morning in Mumbai",
-            "summary": "Details of the event were so closely guarded that the students taking part did not know who the visiting dignitaries were",
+            "headline": "Delhi car blast: SC allows transfer of cases to capital for joint trial",
+            "summary": "A powerful explosion ripped through a slow-moving car at a traffic signal near the Red Fort Metro station on November 10, 2025, killing 12 people and injuring several others.",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/prince-william-and-kate-middleton-on-three-day-india-visit-for-earthshot-prize/article71706811.ece"
+            "url": "https://www.thehindu.com/news/national/delhi-car-blast-sc-allows-transfer-of-cases-to-capital-for-joint-trial/article71709239.ece"
         },
         {
-            "headline": "India, Egypt discuss steps to boost trade, address non-tariff barriers",
-            "summary": "The two countries have decided to set up a Joint Working Group to explore the Terms of Reference for a PTA or FTA to facilitate stronger bilateral trade, improve access to both mar...",
+            "headline": "Charge sheet against six in conspiracy to raise funds for TRF: police",
+            "summary": "Mukhtar Ahmad Baba, a TRF-linked terrorist operating from Pakistan, used hawala and other covert channels to send funds into J&K, CIK stated",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-for-india-egypt-joint-trade-committee-jtc-meet/article71706845.ece"
+            "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/charge-sheet-against-six-in-conspiracy-to-raise-funds-for-trf-police/article71709099.ece"
         },
         {
-            "headline": "Youth held for recce of Jewish establishments was recruited by suspected Bishnoi gang associate arrested in Keralam: police",
-            "summary": "Yash Singh (20), a native of Navi Mumbai, was arrested by the Maharashtra Anti-Terrorism Squad (ATS) for allegedly conducting reconnaissance of Jewish establishments, including Cha...",
+            "headline": "Indian central bank seeks review of Supreme Court’s Yes Bank AT-1 bonds order",
+            "summary": "The RBI filed a review petition in the Supreme Court against its judgment that set aside the write-off of ₹8,415 crore of Yes Bank’s additional tier-1 bonds",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/kerala/youth-held-for-recce-of-jewish-establishments-recruited-by-suspected-bishnoi-gang-associate-arrested-in-keralam-police/article71706807.ece"
+            "url": "https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece"
         },
         {
-            "headline": "Rebalancing India’s Rice economy: exports, virtual water, emissions and the groundwater challenge",
-            "summary": "India has proved its competitiveness in global rice markets and the next challenge is to make that competitiveness sustainable; the country’s rice policy needs a more differentiate...",
+            "headline": "Decline in number of Indian students studying in U.S.",
+            "summary": "Despite the decline, India continues to send the largest chunk of international students to the US",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/rebalancing-indias-rice-economy-exports-virtual-water-emissions-and-the-groundwater-challenge/article71704600.ece"
+            "url": "https://www.thehindu.com/education/decline-in-number-of-indian-students-studying-in-us/article71708596.ece"
         },
         {
-            "headline": "India’s health spending triples to ₹4.14 lakh crore, but out-of-pocket share drops to 42.7%: NHA",
-            "summary": "The share of healthcare costs borne by households fell from 64.2% to 42.7% over a decade, while social security spending on health rose from 6% to 11%",
+            "headline": "Wanted to set the record straight, says Sonia Gandhi at official launch of memoir",
+            "summary": "Several INDIA bloc leaders, including Samajwadi Party chief Akhilesh Yadav and TMC’s Abhishek Banerjee, Tamil Nadu Chief Minister C. Joseph Vijay and BJP leader Amarinder Singh att...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/indias-health-spending-triples-to-414-lakh-crore-but-out-of-pocket-share-drops-to-427-nha/article71705136.ece"
+            "url": "https://www.thehindu.com/books/sonia-gandhi-memoir-belonging-a-journey-of-love-launch-event/article71708274.ece"
         },
         {
-            "headline": "India’s relation with ASEAN at heart of Act East Policy, says PM Modi",
-            "summary": "Prime Minister Narendra Modi is visiting Manila on November 16-17 to participate in the 23rd ASEAN-India Summit and the 21st East Asia Summit at the invitation of Philippine Presid...",
+            "headline": "Indo-ASEAN ties at the heart of India’s Act East Policy, PM says ahead of ASEAN summit in Manila",
+            "summary": "PM attends Philippines President’s gala dinner; says visit will strengthen collective commitment to peaceful, prosperous, resilient Indo-Pacific; likely Quad meeting on Tuesday to ...",
             "sources": [
                 "thehindu.com"
             ],
             "url": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-manila-asean-india-summit-east-asia-summit/article71706657.ece"
         },
         {
-            "headline": "13-year-old boy identified as fourth Indian killed in UAE road accident",
-            "summary": "The accident involved 23 vehicles, including trucks, and left 30 people injured",
+            "headline": "India and Egypt form working group to explore trade deal contours",
+            "summary": "During his ongoing visit to Egypt, Commerce Minister Piyush Goyal co-chaired, along with Egypt’s Minister of Investment and Foreign Trade Mohamed Farid Saleh, the 7th session of th...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/13-year-old-boy-identified-as-fourth-indian-killed-in-uae-road-accident/article71705974.ece"
+            "url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-for-india-egypt-joint-trade-committee-jtc-meet/article71706845.ece"
         },
         {
-            "headline": "Prince William, Princess Kate to meet PM Modi in New Delhi this week",
-            "summary": "The couple will arrive in Mumbai today for the annual Earthshot Prize ceremony; the visit will include an event focused on gully cricket and an engagement with the film industry",
+            "headline": "Census portal lists ‘ISKCON’, ‘Tantric’, ‘Gorak Nath’ among 287 ‘other’ religions; removes menu later",
+            "summary": "The drop-down menu under the ‘Others’ category in the question pertaining to the respondent’s religion had 287 options for those not choosing from among the six major religions in ...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/maharashtra/prince-william-princess-kate-to-visit-mumbai-from-nov-16-18/article71703990.ece"
+            "url": "https://www.thehindu.com/news/national/census-portal-lists-iskcon-tantric-gorak-nath-among-287-other-religions-removes-menu-later/article71708303.ece"
+        },
+        {
+            "headline": "India shows us a picture full of colour, complexity and possibilities, says Prince William",
+            "summary": "Prince William and Catherine arrived in Mumbai on Monday for a three-day official visit for the sixth edition of the Earthshot Prize. He said each climate solution was a breakthrou...",
+            "sources": [
+                "thehindu.com"
+            ],
+            "url": "https://www.thehindu.com/news/national/india-shows-us-a-picture-full-of-colour-complexity-and-possibilities-says-prince-william/article71708993.ece"
         }
     ],
     "europe": [
+        {
+            "headline": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+            "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Russia's mega-rich are already imagining a future after Putin",
             "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
@@ -460,6 +476,22 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Five EU countries announce migrant deportation centre in Rwanda",
+            "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Gérard Depardieu drops appeal against sexual assault conviction",
+            "summary": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Paris set.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -550,8 +582,24 @@
             "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Pragues's fight for public TV - Why Renowned Presenter Will Leave Czech TV Over Reforms",
-            "summary": "Daniel Stach, one of the Czech Republic’s best-known television presenters, tells Gavin Lee on France 24 why he is prepared to walk away from his career rather than work under chan...",
+            "headline": "Russia's war on Ukraine: 'Americans want to have a deal whatever the cost for both Ukraine & Europe'",
+            "summary": "Delano D'Souza is pleased to welcome Grégoire Roos, Director of the Europe and Russia and Eurasia Programmes at Chatham House. As European countries prepare to take part in the nex...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/russia-s-war-on-ukraine-americans-want-to-have-a-deal-whatever-the-cost-for-both-ukraine-europe"
+        },
+        {
+            "headline": "Live: Trump to talk about Ukraine during meeting with Xi and Putin",
+            "summary": "US President Donald Trump departed for Asia on Monday for historic threeway nuclear talks with Russia and China, where he said he plans to talk about the war in Urkaine in his meet...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261116-live-600-ukrainian-drones-target-moscow-strike-crimea-bridge-halts-traffic"
+        },
+        {
+            "headline": "Prague's fight for public TV: Why a high-profile presenter is prepared to walk away",
+            "summary": "Daniel Stach, one of the Czech Republic’s best-known television presenters and science journalists, tells Gavin Lee on France 24 why he is prepared to walk away from his career rat...",
             "sources": [
                 "france24.com"
             ],
@@ -572,49 +620,49 @@
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/how-did-over-2-000-migrants-reach-the-canaries-in-just-48-hours"
-        },
-        {
-            "headline": "Canaries urge government action after 2,200 migrants reach the islands in 48h",
-            "summary": "Spain says nearly 2,200 migrants have arrived by boat to the Canary Islands this weekend. The Spanish islands are one of the main entry points into Europe for migrants from Africa....",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/video/20261115-canaries-urge-government-action-after-2-200-migrants-reach-the-islands-in-48h-1"
-        },
-        {
-            "headline": "Santa school in full swing in London ahead of Christmas celebrations",
-            "summary": "It may still be November but it's beginning to look a lot like Christmas in South London, as many Santa impersonators are heading to school for their festive training. The school, ...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/santa-school-in-full-swing-in-london-ahead-of-christmas-celebrations"
-        },
-        {
-            "headline": "The week in pictures: Spain protests, Pope Leo's Peru 'homecoming' and Rocky fans in Philly",
-            "summary": "FRANCE 24 looks back at some of the week's most striking images, from angry protests over a housing crisis that has dominated Spain's election campaign, to Leo XIV's visit to his a...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261115-the-week-in-pictures-spain-protests-pope-leo-peru-homecoming-rocky-fans-philly-rosalia"
-        },
-        {
-            "headline": "Ukrainian drones strike Russia's petrochemical capital in overnight assault",
-            "summary": "Russian officials confirmed Sunday that the central industrial city of Nizhnekamsk had endured \"prolonged\" Ukrainian airstrikes overnight, damaging a residential building and spark...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261115-ukrainian-drones-strike-russia-s-petrochemical-capital-in-overnight-assault"
-        },
-        {
-            "headline": "Will Ukraine make territorial concessions for NATO membership?",
-            "summary": "The United States suggested Ukraine make territorial concessions in exchange for a NATO membership, according to Volodymyr Zelensky. The Ukrainian president also claims that Russia...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/will-ukraine-make-territorial-concessions-for-nato-membership"
         }
     ],
     "middle-east": [
+        {
+            "headline": "Bahrain court sentences dozens of Shia Muslims to life in prison, activists say",
+            "summary": "Most of those jailed on Iran-linked terrorism charges are clerics, a UK-based human rights group, claiming confessions were forced.\n\nBahraini authorities accused the 69 unnamed def...",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cmx20pyew3zxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Yemeni forces retreat to defend port city from Houthis",
+            "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "UK and allies urge Israel to allow rapid humanitarian access to Gaza",
+            "summary": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Iran targets US military base in Bahrain with drone attack",
+            "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+            "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
             "summary": "It says it has never been able to visit a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
@@ -654,54 +702,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Israel's new parliament sworn in as leaders compete to form government",
-            "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-            "summary": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-            "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Trump says more US attacks on Iran 'highly unlikely'",
-            "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Iran rejects French claims it was behind supermarket fridge hacking",
-            "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-            "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "US midterm results spark fears in Israel over future of two countries' ties",
@@ -774,9 +774,41 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "What the US midterm results mean for the Middle East",
+            "summary": "Democrats' resounding victory could lead to a more critical approach to the Iran war in the next congress, Yolande Knell reports.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/videos/cq74pedvwlw8o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "africa": [
+        {
+            "headline": "Two mass shootings in South Africa leave 17 dead",
+            "summary": "The shootings in KwaZulu-Natal and Gauteng highlight South Africa's struggle to curb violent crime.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Cameroon, Senegal and Benin close in on Afcon 2027 qualification",
+            "summary": "Cameroon, Senegal and Benin are on the brink of qualifying for the 2027 Africa Cup of Nations, while Ghana secure another crucial win in their bid to reach the finals.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
+            "summary": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
             "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
@@ -784,22 +816,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-            "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "AS FAR retain Women's African Champions League title",
-            "summary": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
@@ -834,12 +850,12 @@
             "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "She lost her sight - now she is fighting to make history for Africa",
-            "summary": "After losing her sight in 2009, Nigeria’s Rukayat Suleimon has overcome isolation and limited support to make history as the first blind woman to win gold at the World Sambo Cup.",
+            "headline": "AS FAR retain Women's African Champions League title",
+            "summary": "Imane Touriss scores twice as Moroccan club AS FAR beat Mamelodi Sundowns 3-1 to retain the Women's African Champions League title.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/sport/articles/cj5ynlyv4xrqo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
@@ -874,22 +890,6 @@
             "url": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
-            "summary": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Rwanda's army team removed from Africa league after US sanctions, NBA says",
-            "summary": "The US imposed sanctions on Rwanda's army over its role in the conflict in DR Congo.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "Footage shows derailed carriages after fatal train crash in Egypt",
             "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
             "sources": [
@@ -914,28 +914,36 @@
             "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Zimbabwe: South African Police's Own Report Clears Job Sikhala and His Uncle in Explosives Case",
-            "summary": "[New Zimbabwe] A SOUTH African Police Service (SAPS) fingerprint analysis has dealt a major blow to the State's explosives case against Zimbabwean opposition leader Job Sikhala and...",
+            "headline": "'Knowledge is power' - Awoniyi",
+            "summary": "Nigeria's Taiwo Awoniyi explains why he values education so highly, having completed a course which could see him become one of football's future leaders.",
             "sources": [
-                "allafrica.com"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://allafrica.com/stories/202611160118.html"
+            "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Africa: Six Months On, Accessing Hard-to-Reach Communities Key to Halting Ebola Outbreak",
-            "summary": "[WFP] Since the start of the outbreak, more than 11 000 cases and 5400 deaths have been reported. Children account for more than a quarter of confirmed cases and one third of death...",
+            "headline": "Africa: Facebook Exposure Is Behavioral Intelligence - Not Vanity Metrics",
+            "summary": "[allAfrica] In March 2026, as Nigeria implemented its measles-rubella vaccination campaign, the World Health Organization (WHO) Africa Infodemic Response Alliance was listening to ...",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202611160116.html"
+            "url": "https://allafrica.com/stories/202611160647.html"
         },
         {
-            "headline": "Kenya: Ruto Hits Back At Opposition Over SGR Corruption Claims",
-            "summary": "[Capital FM] Nairobi -- President William Ruto has challenged opposition leaders over their interpretation of a World Bank report that raises concerns about corruption and procurem...",
+            "headline": "Mozambique: Regulating Smarter - How Mozambique's Tobacco Control Bill Can Protect Public Health, Farmers and the Economy",
+            "summary": "[allAfrica] Mozambique is right to modernize its tobacco control framework. The 2007 law was written before products that do not burn tobacco existed. The Tobacco Control Bill is a...",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202611160101.html"
+            "url": "https://allafrica.com/stories/202611160646.html"
+        },
+        {
+            "headline": "Ghana: Bishops Denounce Galamsey, Drug Trafficking and Social Tensions",
+            "summary": "[Agenzia Fides] Accra -- Environmental damage caused by illegal mining, rising drug trafficking, growing indiscipline among students, and ongoing intercommunal conflicts and tensio...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allafrica.com/stories/202611160581.html"
         }
     ],
     "oceania": [
@@ -1058,14 +1066,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/c64g1wy4mdwmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "NZ charity steps in to help woman stuck in Cook Islands",
-            "summary": "The 50-year-old arrived in November 2023 from New Zealand and has been unable to leave.",
-            "sources": [
-                "rnz.co.nz"
-            ],
-            "url": "https://www.rnz.co.nz/news/pacific/2619607/nz-charity-steps-in-to-aid-sri-lankan-woman-stuck-in-cook-islands"
         }
     ]
 }
