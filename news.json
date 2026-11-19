@@ -1,332 +1,292 @@
 {
     "_metadata": {
-        "last_updated": "2026-11-19 01:51:27 UTC"
+        "last_updated": "2026-11-19 12:58:28 UTC"
     },
     "globalOverview": [
         {
-            "headline": "COP31 deadlock persists as countries launch new ‘climate reality check’",
-            "summary": "With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocke...",
+            "headline": "Anthropic raises $81bn in record-breaking stock market debut",
+            "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168833"
+            "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Patients running out of options as antibiotics stop working against common infections",
-            "summary": "Common bacteria are becoming highly resistant to front-line and even “last-resort” antibiotics, the UN World Health Organization (WHO) said on Wednesday, warning that the situation...",
+            "headline": "Survivors of Uganda's deadly landslide seek justice at the UN",
+            "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168832"
+            "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Dozens more children killed in Yemen amid escalating hostilities",
-            "summary": "The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches ...",
+            "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+            "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168830"
+            "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
-            "summary": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, ...",
+            "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+            "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168828"
+            "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
-            "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones...",
+            "headline": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+            "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168827"
+            "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "COP31: The push to protect warming oceans reaches the negotiating table",
-            "summary": "From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ...",
+            "headline": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+            "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168824"
+            "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
-            "summary": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations.",
+            "headline": "Democrats win Alaska Senate race two weeks after midterms counting began",
+            "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168823"
+            "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
-            "summary": "The World Food Programme (WFP) is assisting&nbsp;thousands&nbsp;of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported o...",
+            "headline": "British hacker who stole $11m through text message scheme jailed for six years in US",
+            "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168822"
+            "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
-            "summary": "Children from across the world sent a message of peace from the Omani capital Muscat on Monday, calling for an end to hatred, respect for diversity and the protection of human righ...",
+            "headline": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+            "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168820"
+            "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
-            "summary": "More countries are drawing up plans to tackle antimicrobial resistance (AMR), but major gaps in testing and treatment mean billions of people continue to be at risk, according to n...",
+            "headline": "Rubio says US not 'under systemic attack' after series of tech outages",
+            "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168819"
+            "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Lebanon leading the way in mental health support",
-            "summary": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend,&nbsp;where efforts to addre...",
+            "headline": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
+            "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168818"
+            "url": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "AI gets climate science right – until users push back",
-            "summary": "The best AI models answer most climate science questions correctly, but they often abandon established facts as soon as a user disagrees, according to a&nbsp;new report co-authored...",
+            "headline": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
+            "summary": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168817"
+            "url": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
-            "summary": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls th...",
+            "headline": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
+            "summary": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168814"
+            "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
-            "summary": "New international initiatives on artificial intelligence and green industrialization showcased technology’s growing role in climate action, even as negotiators remained deadlocked ...",
+            "headline": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+            "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
             "sources": [
-                "news.un.org"
+                "feeds.bbci.co.uk"
             ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168812"
-        },
-        {
-            "headline": "Funding cuts raise risks of trafficking and exploitation for refugee children",
-            "summary": "Sharp reductions in humanitarian funding are putting refugees, particularly children, at increased risk of being trafficked, exploited or abused, while the systems that protect the...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168811"
-        },
-        {
-            "headline": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
-            "summary": "UN Secretary-General António Guterres underscored the need for stronger collaboration with the Association of Southeast Asian Nations (ASEAN) and an end to the crisis in Myanmar, i...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168809"
-        },
-        {
-            "headline": "First Person: Managing risk on Ukraine’s frontline",
-            "summary": "Humanitarian workers providing support to communities on the frontline of the war between Ukraine and Russia must balance remaining close to those in need with the heightened risks...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168807"
-        },
-        {
-            "headline": "Empowering faith and Indigenous leaders to combat hate",
-            "summary": "Religious, traditional and Indigenous leaders need to be empowered to act as full partners in preventing conflict, not just praised for their role, speakers said Sunday at the open...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168808"
-        },
-        {
-            "headline": "Nadia Murad: ‘Day by day, I took my story back’",
-            "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed against her and the Yazidi community by militants from the terrorist group, ...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168801"
-        },
-        {
-            "headline": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
-            "summary": "In a quiet hospital corridor in Kyiv, staff and volunteers push carts carrying steaming pots of chicken soup, bread and buckwheat porridge to patients recently evacuated from Russi...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168803"
+            "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss"
         }
     ],
     "north-america": [
         {
-            "headline": "Jeff Bezos says he was 'heavily involved' in picking Robert Pattinson as James Bond",
-            "summary": "Jeff Bezos says Robert Pattinson&apos;s fame initially worked against him in the James Bond casting until old-fashioned screen tests made it obvious.",
+            "headline": "Republicans hold lone Alaska House seat despite losing Senate, governor races",
+            "summary": "Rep. Nick Begich won re-election to Alaska&apos;s lone House seat after ranked-choice tabulation, a rare Republican bright spot in a Democratic wave.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/entertainment/jeff-bezos-says-he-heavily-involved-picking-robert-pattinson-james-bond"
+            "url": "https://www.foxnews.com/politics/republicans-hold-lone-alaska-house-seat-despite-losing-senate-governor-races"
         },
         {
-            "headline": "Obama-era homeless policy fueled crisis it promised to end, expert says as Trump admin makes striking reversal",
-            "summary": "Homeless services veteran Michele Steeb says LA’s funding cutoff offers a chance to restore accountability after years of alleged mismanagement.",
+            "headline": "Super Bowl champ Ben Watson speaks out on Christian Nigerian persecution, double-standards and Trump's impact",
+            "summary": "Super Bowl champion Benjamin Watson says he doesn&apos;t trust US leadership to protect persecuted Christians in Nigeria without public pressure on lawmakers.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/obama-era-homeless-policy-fueled-crisis-promised-end-expert-says-trump-admin-makes-striking-reversal"
+            "url": "https://www.foxnews.com/outkick-sports/super-bowl-champ-ben-watson-speaks-christian-nigerian-persecution-double-standards-trumps-impact"
         },
         {
-            "headline": "No 1 Florida loses to Houston as four of the preseason AP top five fall before Thanksgiving",
-            "summary": "Dedan Thomas Jr. scored 30 as No. 8 Houston avenged its 2025 national title loss by beating No. 1 Florida 86-76, handing the Gators their first loss.",
+            "headline": "China blocks Bloomberg reporter from Trump-Putin-Xi meeting over question to Trump",
+            "summary": "Chinese officials barred Bloomberg&apos;s Annmarie Hordern from the meeting of President Donald Trump, Xi Jinping and Vladimir Putin after her earlier question.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/no-1-florida-loses-houston-four-preseason-ap-top-five-fall-before-thanksgiving"
+            "url": "https://www.foxnews.com/politics/china-blocks-bloomberg-reporter-trump-putin-xi-meeting-question-trump"
         },
         {
-            "headline": "Iran warns Bahrain monarchy its survival is at risk amid push to 'evict' US Fifth Fleet",
-            "summary": "Iran&apos;s Islamic Revolutionary Guard Corps warned Bahrain&apos;s monarchy its survival is in doubt as drones and missiles hit the U.S. Navy&apos;s Fifth Fleet home.",
+            "headline": "Trump’s historic summit with Xi, Putin marks unprecedented moment in global diplomacy and more top headlines",
+            "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/world/iran-warns-bahrain-monarchy-survival-risk-amid-push-evict-us-fifth-fleet"
+            "url": "https://www.foxnews.com/us/trumps-historic-summit-xi-putin-global-diplomacy-more-top-headlines"
         },
         {
-            "headline": "Tyler Herro's three-words sums up status with ex-teammate Bam Adebayo for first game since punching incident",
-            "summary": "Tyler Herro says he hasn&apos;t talked to Bam Adebayo as the Miami Heat host the Bucks in their first meeting since the reported Summer League altercation.",
+            "headline": "MICHAEL RUIZ: What is a dirty bomb? Explosive terror threat explained",
+            "summary": "Iran&apos;s reported dirty bomb exploration puts new focus on a threat experts say could shut down a city and displace families even without mass casualties.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/tyler-herro-three-words-sums-status-ex-teammate-bam-adebayo-first-game-since-punching-incident"
+            "url": "https://www.foxnews.com/us/michael-ruiz-what-is-dirty-bomb-explosive-terror-threat-explained"
         },
         {
-            "headline": "Patrick McEnroe joins Rep Tim Walberg to back Team USA Act capping foreign college athletes at 20% of rosters",
-            "summary": "Outside the U.S. Capitol, Patrick McEnroe backed the TEAM USA Act, citing nearly 70% foreign Division I tennis rosters as U.S. taxpayers fund Olympians.",
+            "headline": "'Grand Theft Auto VI' mania comes with serious health risks, doctors warn",
+            "summary": "Experts warn Grand Theft Auto VI marathon sessions can trigger eye strain, sleep deprivation and problematic gaming amid the PlayStation 5 launch.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/patrick-mcenroe-joins-rep-tim-walberg-back-team-usa-act-capping-foreign-college-athletes-20-percent-rosters"
+            "url": "https://www.foxnews.com/health/grand-theft-auto-vi-mania-serious-health-risks-doctors-warn"
         },
         {
-            "headline": "Muslims poised to outnumber Christians globally by 2035 amid demographic shifts",
-            "summary": "Pew Research Center study projects Muslims will outnumber Christians worldwide by 2035, driven by higher fertility rates and younger populations.",
+            "headline": "Israeli shepherds report suspected 'agricultural terror' targeting livestock",
+            "summary": "An official source says dozens of animal poisoning cases have emerged in the West Bank, with contaminated cisterns and food bait found across grazing areas.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/world/muslims-poised-outnumber-christians-globally-2035-amid-demographic-shifts"
+            "url": "https://www.foxnews.com/world/israeli-shepherds-report-suspected-agricultural-terror-targeting-livestock"
         },
         {
-            "headline": "Bucket list vacation destination just got a lot tougher for Americans to reach",
-            "summary": "U.S. airlines are cutting seats to popular vacation destination Costa Rica this winter, with January capacity down 12.5%, and San José hit harder than Liberia as airfares climb.",
+            "headline": "Susan Smith prosecutor fears her release would put her in grieving father’s face ‘every day’",
+            "summary": "Prosecutor Tommy Pope says Susan Smith would &quot;love the attention&quot; on social media if freed, putting her in ex-husband David Smith&apos;s face every day.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/travel/bucket-list-vacation-destination-got-lot-tougher-americans-reach"
+            "url": "https://www.foxnews.com/us/susan-smith-prosecutor-fears-her-release-would-put-her-in-grieving-fathers-face-every-day"
         },
         {
-            "headline": "Multiple Bigfoot sightings reported by gamers who have gotten their hands on 'GTA VI'",
-            "summary": "Players report &quot;GTA VI&quot; Bigfoot sightings in the woods of Leonida, with video showing gamers knocked out by noxious fumes before enormous feet approach.",
+            "headline": "Democrats could enter congressional majority in a government shutdown",
+            "summary": "House Republicans on Capitol Hill worry Democrats&apos; post-midterm clout could trigger another government shutdown ahead of the Dec. 11 funding deadline.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/multiple-bigfoot-sightings-reported-gamers-hands-gta-vi"
+            "url": "https://www.foxnews.com/politics/democrats-enter-congressional-majority-government-shutdown"
         },
         {
-            "headline": "Irish activist indicted in US over alleged destruction of $60M military plane",
-            "summary": "United States prosecutors say Daithi O&apos;Corrain spent months planning the Shannon Airport attack that left a $60 million C-130H Hercules beyond repair",
+            "headline": "The Rock faces 2 totally real storylines if he jumps back into WWE following his Survivor Series appearance",
+            "summary": "The Rock ends months of WWE silence at Survivor Series: WarGames in Houston, with a Roman Reigns showdown at WrestleMania 43 looming as a possibility.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/world/irish-activist-indicted-us-alleged-destruction-60m-military-plane"
+            "url": "https://www.foxnews.com/outkick-sports/rock-faces-2-totally-real-storylines-jumps-back-wwe-following-survivor-series-appearance"
         },
         {
-            "headline": "Two bad teams, one cheap ticket: Jets-Chargers seats barely cost more than a SoFi cheeseburger",
-            "summary": "Aaron Glenn&apos;s New York Jets have lost five straight, and the matchup with the 1-8 Los Angeles Chargers has fans paying just $26 as both teams eye the NFL Draft instead.",
+            "headline": "Steakhouse warning: How to tell if you're getting the cut of beef you actually paid for",
+            "summary": "New York strip, rib-eye and filet mignon make up the &quot;holy trinity&quot; of steak cuts, but experts say most diners struggle to tell them apart.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/two-bad-teams-one-cheap-ticket-jets-chargers-seats-barely-cost-more-than-sofi-cheeseburger"
+            "url": "https://www.foxnews.com/food-drink/steakhouse-warning-how-tell-youre-getting-cut-beef-you-actually-paid"
         },
         {
-            "headline": "Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions",
-            "summary": "Suspected Russian aircraft entered Japanese airspace near Okinoshima, and Prime Minister Sanae Takaichi warned of instability at the Quad Leaders Summit.",
+            "headline": "Trump's historic summit with Xi, Putin marks diplomatic milestone, but breakthroughs remain elusive",
+            "summary": "Donald Trump declares the U.S., China and Russia are &quot;really making history&quot; as nuclear arms reduction and an end to the Ukraine war anchor the summit.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/world/japan-scrambles-fighter-jets-russian-aircraft-breach-airspace-rising-pacific-tensions"
+            "url": "https://www.foxnews.com/politics/trumps-historic-summit-xi-putin-marks-diplomatic-milestone-breakthroughs-remain-elusive"
         },
         {
-            "headline": "Flu activity rises across US as 6 states reach high levels, CDC data shows",
-            "summary": "Cases of the flu are spiking early nationwide, with the CDC reporting Louisiana at very high activity and influenza A (H1N1) the top virus this season.",
+            "headline": "Supreme Court urged to defang ‘criminal trap’ that has sent Trump officials to prison",
+            "summary": "Peter Navarro asks the Supreme Court to overturn his contempt of Congress convictions, arguing willfulness could make such prosecutions harder to prove.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/health/flu-activity-rises-across-us-6-states-reach-high-levels-cdc-data-shows"
+            "url": "https://www.foxnews.com/politics/supreme-court-urged-defang-criminal-trap-sent-trump-officials-prison"
         },
         {
-            "headline": "Mike Florio says Hitler joke about Mike Vrabel mustache is OK because it's been 80 years | Bobby Burack",
-            "summary": "Perennial OutKick Woke All-Star Mike Florio defended his Hitler joke about Mike Vrabel&apos;s mustache, saying it&apos;s been 80 years since the Holocaust.",
+            "headline": "4 essential lessons we learned from the government’s dangerous war on ‘disinformation’",
+            "summary": "The White House once pressed platforms to curb speech; Trump&apos;s executive order reversed it, but new report warns oversight gaps could allow a repeat.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/mike-florio-hitler-joke-mike-vrabel-mustache-ok-80-years-bobby-burack"
+            "url": "https://www.foxnews.com/opinion/4-essential-lessons-learned-government-dangerous-war-disinformation"
         },
         {
-            "headline": "Cadets being told to stand down as Canada adds billions to defence",
-            "summary": "The Canadian military has suspended most weekend cadet training and competitions in parts of the country until March, citing budget restraint. Leaked emails reveal mounting financi...",
+            "headline": "Reagan’s peace through strength won the Cold War. Can America do it again?",
+            "summary": "Can the United States rebuild its arsenal again? Roger Zakheim&apos;s new book recalls how Ronald Reagan&apos;s defense buildup won the Cold War against Russia.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/politics/defence-budget-cadets-cuts-training-9.7426967?cmp=rss"
+            "url": "https://www.foxnews.com/opinion/reagans-peace-through-strength-won-cold-war-can-america-do-it-again"
         },
         {
-            "headline": "Judge orders Kinew government to disclose who excluded Tesla from Manitoba EV rebate program and why",
-            "summary": "A Manitoba judge has taken the \"exceptional and unusual\" step of ordering the NDP government to disclose who made the decision to exclude Tesla Motors Canada from the province's el...",
+            "headline": "Jensen Huang’s Nvidia debacle reveals America’s real problem: no skilled builders",
+            "summary": "New York Democrat Rep. Alexandria Ocasio-Cortez says &quot;five guys in tuxedos&quot; shouldn&apos;t control the economy, but the real problem starts with manufacturing.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/canada/manitoba/tesla-kinew-government-court-order-9.7427003?cmp=rss"
+            "url": "https://www.foxnews.com/opinion/jensen-huang-nvidia-debacle-reveals-americas-real-problem-no-skilled-builders"
         },
         {
-            "headline": "Crimea bridge attacked again, Russian governor says",
-            "summary": "Traffic was temporarily suspended over the Crimean Bridge after ‌an attack, Sergei Aksyonov, Crimea's Russian-installed governor, said on Telegram on Thursday, adding ​that assessm...",
+            "headline": "Trump's China trip: Historic Xi-Putin talks, 'superintelligence' boast and other top moments",
+            "summary": "President Donald Trump declared the U.S. the world leader in &quot;superintelligence&quot; at the APEC summit in Shenzhen, staking a tech claim amid the AI rivalry.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/world/crimea-bridge-attacked-9.7427374?cmp=rss"
+            "url": "https://www.foxnews.com/politics/trumps-china-trip-historic-xi-putin-talks-superintelligence-boast-other-top-moments"
         },
         {
-            "headline": "Anthropic prices IPO at $83 US per share, valuing AI giant at $1.51 trillion US",
-            "summary": "Anthropic has set a stock price of $83 US per share for its hotly anticipated initial public offering, with shares of the U.S. artificial intelligence giant set to debut on the Nas...",
+            "headline": "Hotel workers' skills put to the test at 36th Annual Housekeeping Olympics in Las Vegas",
+            "summary": "Hotel workers from across the country gathered in Las Vegas for the 36th annual Housekeeping Olympics, turning everyday duties into a series of fast-paced competitions.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/business/anthropic-ipo-share-price-nasdaq-9.7426856?cmp=rss"
+            "url": "https://www.foxnews.com/us/hotel-workers-skills-put-test-36th-annual-housekeeping-olympics-las-vegas"
         },
         {
-            "headline": "'If the U.S. doesn't want to do a deal, we're busy,' Carney says of ongoing trade talks",
-            "summary": "",
+            "headline": "Trump's massive DC triumphal arch project dealt another blow by federal judge",
+            "summary": "A federal judge extended her order blocking construction of President Donald Trump&apos;s triumphal arch in Washington, D.C., putting the project on hold until at least Dec. 3.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/news/politics/carney-trump-trade-canada-busy-9.7426568?cmp=rss"
+            "url": "https://www.foxnews.com/politics/trumps-massive-dc-triumphal-arch-project-dealt-another-blow-federal-judge"
         },
         {
-            "headline": "She says Russell Brand sexually assaulted her when she was 16. She's waiving her anonymity to speak out",
-            "summary": "Mia Latter has decided to waive her legal right to anonymity and speak publicly about her teenage relationship with disgraced actor Russell Brand. She's calling for changes to the ...",
+            "headline": "Lane Kiffin’s roster fight set the stage, Will Wade just threw a grenade in LSU-SEC war with RJ Luis",
+            "summary": "Will Wade sent RJ Luis onto the court against Louisiana-Monroe, escalating LSU&apos;s legal war with the SEC after a judge granted the former pro an injunction.",
             "sources": [
-                "rss.cbc.ca"
+                "moxie.foxnews.com"
             ],
-            "url": "https://www.cbc.ca/radio/asithappens/mia-latter-russell-brand-age-of-consent-9.7427011?cmp=rss"
+            "url": "https://www.foxnews.com/outkick-sports/lane-kiffin-roster-fight-set-stage-will-wade-threw-grenade-lsu-sec-war-rj-luis"
         }
     ],
     "latin-america": [
+        {
+            "headline": "US and Venezuela restore military cooperation with Hegseth’s surprise visit",
+            "summary": "\n\t   \t      \n\t         US Defense Secretary Pete Hegseth signed a military cooperation agreement with Venezuela in Caracas on Wednesday during an unannounced visit, the first by a ...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/19/us-and-venezuela-restore-military-cooperation-with-hegseth-s-surprise-visit?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Hamburg tribunal confirms it will deliver its Sea Lion order on November 28",
             "summary": "\n\t   \t      \n\t         The International Tribunal for the Law of the Sea has confirmed it will announce on Saturday, November 28, at noon Hamburg time — 8 a.m. in Montevideo and Bu...",
@@ -350,33 +310,17 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/11/18/argentina-calls-princess-anne-s-visit-to-the-falklands-a-provocation?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Leo XIV after his tour: “There is no need to hate each other or use such violent language”",
-            "summary": "\n\t   \t      \n\t         Pope Leo XIV criticised aggressive political debate and polarisation, “in many situations intentionally provoked”, at the press conference he gave on his fli...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/11/17/leo-xiv-after-his-tour-there-is-no-need-to-hate-each-other-or-use-such-violent-language?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Venezuela uses US$12 billion in US-supervised oil revenue to prop up the bolívar",
-            "summary": "\n\t   \t      \n\t         Venezuela has spent most of the more than US$12 billion earned from oil sales under US supervision on propping up the bolívar, with modest results: inflation...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/11/17/venezuela-uses-us-12-billion-in-us-supervised-oil-revenue-to-prop-up-the-bolivar?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "The smarter mobile matchday starts with better sports data habits",
-            "summary": "\n\t         Across South America, following sport increasingly means moving between a live broadcast, a score alert, a group chat and a stream of statistics. A supporter in Buenos A...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/11/17/the-smarter-mobile-matchday-starts-with-better-sports-data-habits?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [
+        {
+            "headline": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+            "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
             "summary": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
@@ -402,20 +346,20 @@
             "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
-            "summary": "Leave Shenzhen's tech-flecked city skyline and you run into the challenges confronting Xi's China.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "Japan sends up jets after alleged Russian incursion of its airspace",
             "summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+            "summary": "Leave Shenzhen's tech-flecked city skyline and you run into the challenges confronting Xi's China.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Taking Korea's toughest exam from behind bars",
@@ -428,70 +372,70 @@
     ],
     "south-asia": [
         {
-            "headline": "Muslims to outnumber Christians by 2035 worldwide: Pew research",
-            "summary": "The absolute number of Hindus in India and worldwide will rise from 1.2 billion in 2020 to 1.4 billion by 2070",
+            "headline": "India, Japan discuss economic security, deeper business, people-to-people ties",
+            "summary": "Jaishankar flagged the growing “weaponisation” of connectivity, resources, services, supply chains and market shares, saying many of these developments had direct implications for ...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/international/muslims-to-outnumber-christians-by-2035-worldwide-pew-research/article71718507.ece"
+            "url": "https://www.thehindu.com/news/national/india-japan-discuss-economic-security-deeper-business-people-to-people-ties/article71720200.ece"
         },
         {
-            "headline": "India’s CSR spending leaves gaps in health, water security, innovation: Report",
-            "summary": "Non-communicable diseases (NCDs), for instance, account for 60% of deaths in India, up from 45% in 2004-06. Yet, nearly 62% of identifiable NCD funding goes towards cancer, while c...",
+            "headline": "Malaysia to end visa-free entry to Indians from January 1, 2027",
+            "summary": "Earlier, Indian nationals travelling to the South East Asian nation were granted a 30-day visa exemption and just had to register for Malaysia Digital Arrival Card within three day...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/indias-csr-spending-leaves-gaps-in-health-water-security-innovation-report/article71716827.ece"
+            "url": "https://www.thehindu.com/news/national/malaysia-to-end-visa-free-entry-to-indians-from-january-1-2027/article71719957.ece"
         },
         {
-            "headline": "NIA arrests Khalistan Zindabad Force ‘supporter’ deported from U.S. in Rajpura-Shambhu blast case",
-            "summary": "Surinder Singh was arrested in connection with the blast on the railway line of the Dedicated Freight Corridor Corporation of India Limited (DFCCIL), between Shambhu and Rajpura st...",
+            "headline": "Supreme Court to commence final hearing of pleas on marital rape in December",
+            "summary": "Under the exception clause of Section 375 of the Indian Penal Code, now repealed and replaced by the Bharatiya Nyaya Sanhita, 2023, sexual intercourse or sexual acts by a man with ...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/nia-arrests-khalistan-zindabad-force-supporter-deported-from-us-in-rajpura-shambhu-blast-case/article71715976.ece"
+            "url": "https://www.thehindu.com/news/national/supreme-court-to-commence-final-hearing-of-pleas-on-marital-rape-in-december/article71719502.ece"
         },
         {
-            "headline": "Bengaluru is India’s AI, start-up capital; city captures 47% of national venture funding: Report",
-            "summary": "The city is now the world’s fifth-largest unicorn hub, the largest outside the U.S., Europe, China, and London,with 57 unicorns valued at $211 billion, representing 55.3% of the co...",
+            "headline": "The real story behind the ASEAN, EAS and Quad meetings | The Hindu Editorial",
+            "summary": "Prime Minister Narendra Modi’s participation in the ASEAN Summit, East Asia Summit and Quad meeting in Manila underscored India’s growing role in the Indo-Pacific region.\n\nThe disc...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-is-indias-ai-start-up-capital-city-captures-47-of-national-venture-funding/article71717187.ece"
+            "url": "https://www.thehindu.com/videos/the-real-story-behind-the-asean-eas-and-quad-meetings-the-hindu-editorial/article71719647.ece"
         },
         {
-            "headline": "PM Modi meets Prince and Princess of Wales, discusses boosting U.K.-India ties",
-            "summary": "PM commends the work of the 'Earthshot Prize' in encouraging innovative solutions to pressing environmental challenges",
+            "headline": "Indian democracy 'sacred', boycotting polls will end it: Rahul Gandhi at University of Chicago",
+            "summary": "“So, our strategy is to expose what is going on and take the beating until the people of India realise that the system has been fully demolished,” the Congress leader said",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/pm-modi-meets-prince-and-princess-of-wales-discusses-boosting-uk-india-ties/article71717432.ece"
-        },
-        {
-            "headline": "Drop in temperature due to cyclonic storms over Bay of Bengal: India Meteorological Department",
-            "summary": "However, the drop in temperature cannot be attributed to an early onset of winter, says the IMD.",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/karnataka/drop-in-temperature-due-to-cyclonic-storms-over-bay-of-bengal-india-meteorological-department/article71716816.ece"
+            "url": "https://www.thehindu.com/news/national/indian-democracy-sacred-boycotting-polls-will-end-it-rahul-gandhi-at-university-of-chicago/article71719252.ece"
         }
     ],
     "europe": [
         {
-            "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-            "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+            "headline": "Crimean Bridge attacked again, Russia says",
+            "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-            "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+            "headline": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+            "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+            "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Parents jailed for torture and death of four-year-old girl in France in 1987",
@@ -510,14 +454,6 @@
             "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "The EU that Burnham is eyeing up is very different to the one Britain left",
-            "summary": "Andy Burnham wants \"steps\" towards a closer EU alignment. But the bloc has changed considerably since the UK left it",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "Russian military plane crashes, killing all 19 on board",
             "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
             "sources": [
@@ -532,6 +468,22 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+            "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "The EU that Burnham is eyeing up is very different to the one Britain left",
+            "summary": "Andy Burnham wants \"steps\" towards a closer EU alignment. But the bloc has changed considerably since the UK left it",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
@@ -550,12 +502,20 @@
             "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-            "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+            "headline": "Trump says he and Putin have a 'great relationship' at meeting",
+            "summary": "US President Donald Trump has met Russian President Vladimir Putin on the sidelines of the Asia-Pacific Economic Co-operation (Apec) summit in the southern Chinese city of Shenzhen...",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss"
+            "url": "https://www.bbc.co.uk/news/videos/cm4gn31yn0x9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+            "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Will the Eurovision Song Contest succeed in Asia?",
@@ -564,6 +524,22 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Ukraine's European allies meet in Berlin in show of support",
+            "summary": "Ukraine’s main European allies are meeting in Berlin on Thursday as a show of support for Kyiv, with US envoys Steve Witkoff and Jared Kushner also attending. The gathering, which ...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/ukraine-s-european-allies-meet-in-berlin-in-show-of-support"
+        },
+        {
+            "headline": "Ukraine's allies to meet in Berlin to rally support for Kyiv after Trump-Putin-Xi talks",
+            "summary": "Ukraine's allies will meet in Berlin on Thursday, just hours after US President Donald Trump, Russia's Vladimir Putin and China's Xi Jinping participate in a historic summit in She...",
+            "sources": [
+                "france24.com"
+            ],
+            "url": "https://www.france24.com/en/europe/20261119-european-leaders-to-meet-in-berlin-to-support-for-ukraine-after-trump-putin-xi-talks"
         },
         {
             "headline": "Crimea bridge strike: Fact-checking fake videos of damage after Ukraine's attack",
@@ -596,49 +572,17 @@
                 "france24.com"
             ],
             "url": "https://www.france24.com/en/europe/20261118-russia-new-low-cost-munitions-threat-ukraine"
-        },
-        {
-            "headline": "EU proposes new €45 billion Ukraine loan to be repaid by Russia",
-            "summary": "European Commission President Ursula von ⁠der Leyen announced on Wednesday a proposed €45 billion loan to Ukraine for 2027 to help cover around two-thirds ​of Kyiv's financing ​nee...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261118-eu-proposes-new-%E2%82%AC45-billion-ukraine-loan-to-be-repaid-by-russia"
-        },
-        {
-            "headline": "Italy approves anti-semitism law despite concerns over freedom of expression",
-            "summary": "Italy's ​parliament on Tuesday approved a new bill aimed at combating anti-semitism – which lists some forms of criticism of ⁠Israel as examples of anti-semitic conduct – despite c...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261118-italy-approves-anti-semitism-law-despite-concerns-over-freedom-of-expression"
-        },
-        {
-            "headline": "Authorities take over Turkey's last pro-opposition broadcaster Sozcu TV",
-            "summary": "Police raided the Istanbul headquarters of Sozcu TV on Tuesday, dealing another significant blow to Turkey's pro-opposition media. This is the third such seizure of pro-opposition ...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/authorities-take-over-turkey-s-last-pro-opposition-broadcaster-sozcu-tv"
-        },
-        {
-            "headline": "Estonia closes its border with Russia but can it keep Moscow out?",
-            "summary": "Estonia announced this weekend it would close its border with Russia, after blaming its eastern neighbour of attempting to sabotage one of its drone factories. But at a time when t...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/europe/20261117-estonia-closes-its-border-with-russia-but-can-it-keep-moscow-out"
-        },
-        {
-            "headline": "Ukraine: Two bridges in Kyiv heavily damaged by Russian strikes",
-            "summary": "Russia hit two major bridges in Kyiv while Ukraine struck Moscow's link to annexed Crimea for the second night in a row, officials said Tuesday, ahead of a historic meeting of Chin...",
-            "sources": [
-                "france24.com"
-            ],
-            "url": "https://www.france24.com/en/video/20261117-ukraine-two-bridges-in-kyiv-heavily-damaged-by-russian-strikes"
         }
     ],
     "middle-east": [
+        {
+            "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+            "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
             "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
@@ -646,14 +590,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-            "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -736,14 +672,6 @@
             "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-            "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "US midterm results spark fears in Israel over future of two countries' ties",
             "summary": "Staunch US support of Israel has been raised as one of the reasons why Republicans performed so badly.",
             "sources": [
@@ -798,9 +726,25 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+            "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss"
         }
     ],
     "africa": [
+        {
+            "headline": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
+            "summary": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to feature on Grand Theft Auto 6.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss"
+        },
         {
             "headline": "Ghana's new $60m presidential jet sparks public outrage",
             "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
@@ -826,28 +770,12 @@
             "url": "https://www.bbc.co.uk/news/articles/cr20vpq58093o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Divide and conquer - now maverick Erasmus plans online watchalong",
-            "summary": "Rassie Erasmus is a serial offender when it comes to criticising officials, but he retains huge support in South Africa - and has unique plans for following his team's game against...",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg28v20xy0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
             "summary": "The new show brings English, maths and science lessons to children via TV, radio and social media.",
             "sources": [
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
-            "summary": "Canadian authorities say they have recovered 96 luxury vehicles destined for West Africa.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
@@ -864,14 +792,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-            "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Senegal and Morocco lead Afcon qualifiers but Tunisia protest",
@@ -914,14 +834,6 @@
             "url": "https://www.bbc.co.uk/sport/swimming/articles/cmy86x3y5dd8o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Managerial 'inconsistency' hurting Ghana - Hughton",
-            "summary": "As Ghana head into crucial Afcon 2027 qualifiers with women's coach Kim Bjorkegren in charge, former boss Chris Hughton says constant changes in the dugout are hurting the Black St...",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/football/articles/cwd09pkg2ev9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "Footage shows derailed carriages after fatal train crash in Egypt",
             "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
             "sources": [
@@ -938,28 +850,52 @@
             "url": "https://www.bbc.co.uk/news/videos/cj75pkypyw3zo?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "Kenya: Kenya's 'World-Class' Stadium Gears Up for Historic Inauguration",
-            "summary": "[allAfrica] Kenya is undertaking massive preparations as it gears up to co-host the 36th edition of the Africa Cup of Nations (AFCON 2027) alongside Uganda and Tanzania. This will ...",
+            "headline": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
+            "summary": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Africa: The Political Choices Behind Better Gynaecological Care",
+            "summary": "[allAfrica] Effective interventions exist for many neglected gynaecological conditions. The challenge is ensuring that national health systems are organised, equipped, and financed...",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202611180189.html"
+            "url": "https://allafrica.com/stories/202611190147.html"
         },
         {
-            "headline": "Africa: All of Africa Today - November 18, 2026",
+            "headline": "South Africa: Could Donated AI Wealth Plug SA's HIV Spending Gap?",
+            "summary": "[Bhekisisa] A new generation of wealthy tech founders are gearing up to give -- but there are fears their contributions could hamper, rather than improve, the fight against HIV.",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allafrica.com/stories/202611190146.html"
+        },
+        {
+            "headline": "Africa: All of Africa Today - November 19, 2026",
             "summary": "[allAfrica]",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202611180083.html"
+            "url": "https://allafrica.com/stories/202611190133.html"
         },
         {
-            "headline": "South Africa: ANC Postpones Media Briefing on Coalition Talks - South African News Briefs - November 18, 2026",
+            "headline": "South Africa: MSF Warns of Healthcare Crisis as Anti-Migrant Hostility Grows",
+            "summary": "[allAfrica] Anti-migration sentiment and violence continue to be a growing concern in countries such as the United Kingdom and South Africa, where hostility towards migrants, refug...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allafrica.com/stories/202611190132.html"
+        },
+        {
+            "headline": "South Africa: Six Family Members Killed in Botshabelo Shooting - South African News Briefs - November 19, 2026",
             "summary": "[allAfrica]",
             "sources": [
                 "allafrica.com"
             ],
-            "url": "https://allafrica.com/stories/202611180078.html"
+            "url": "https://allafrica.com/stories/202611190129.html"
         }
     ],
     "oceania": [
@@ -1082,14 +1018,6 @@
                 "rnz.co.nz"
             ],
             "url": "https://www.rnz.co.nz/news/political/2670950/us-ambassador-s-criticism-of-auckland-mayor-undiplomatic-expert-says"
-        },
-        {
-            "headline": "US Ambassador Jared Novelly labels Auckland mayor Wayne Brown a 'boomer'",
-            "summary": "Jared Novelly responded after the Auckland mayor declared \"democracy’s had its day\", while remarking about China’s significant economic growth.",
-            "sources": [
-                "rnz.co.nz"
-            ],
-            "url": "https://www.rnz.co.nz/news/world/2661871/us-ambassador-jared-novelly-labels-auckland-mayor-wayne-brown-a-boomer"
         }
     ]
 }
