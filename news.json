@@ -1,63 +1,167 @@
 {
     "_metadata": {
-        "last_updated": "2026-11-21 01:28:53 UTC"
+        "last_updated": "2026-11-21 12:35:37 UTC"
     },
     "globalOverview": [
         {
-            "headline": "Gérard Depardieu and French author investigated over sexual allegations",
-            "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+            "headline": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+            "summary": "A day after the UN’s highest court&nbsp;found that Myanmar had committed genocide against the Rohingya, the President of the General Assembly visited the refugee camps in Cox’s Baz...",
             "sources": [
-                "feeds.bbci.co.uk"
+                "news.un.org"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss"
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168853"
         },
         {
-            "headline": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-            "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+            "headline": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+            "summary": "Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous...",
             "sources": [
-                "feeds.bbci.co.uk"
+                "news.un.org"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168849"
         },
         {
-            "headline": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-            "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+            "headline": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+            "summary": "Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring anoth...",
             "sources": [
-                "feeds.bbci.co.uk"
+                "news.un.org"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss"
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168847"
         },
         {
-            "headline": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-            "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+            "headline": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
+            "summary": "The World Food Programme (WFP) will require $12.1 billion to assist 91 million people next year but warned that millions more will go hungry as funding shortfalls continue and anot...",
             "sources": [
-                "feeds.bbci.co.uk"
+                "news.un.org"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss"
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168846"
         },
         {
-            "headline": "South Korea catches 111 students with new measures against exam cheating",
-            "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
+            "headline": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+            "summary": "A group of countries from Europe, Africa, Latin America and the Pacific has challenged the proposed COP31 agreement, demanding explicit action on fossil fuels and stronger climate ...",
             "sources": [
-                "feeds.bbci.co.uk"
+                "news.un.org"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss"
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168845"
         },
         {
-            "headline": "A new Nepal, an old neighbour - Balendra Shah's India test",
-            "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+            "headline": "Peacekeeping: With 500 paternity and child support claims unresolved, UN scales up accountability",
+            "summary": "The UN is adding new accountability measures to better support children fathered by peacekeepers, the&nbsp;Under-Secretary-General for Management Strategy, Policy and Compliance, C...",
             "sources": [
-                "feeds.bbci.co.uk"
+                "news.un.org"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss"
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168842"
         },
         {
-            "headline": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-            "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
+            "headline": "‘Losing the battle’: AI hands predators new ways to target children",
+            "summary": "Artificial intelligence (AI) is handing predators and criminal groups new ways to groom, extort and exploit children, while efforts to protect them are failing to keep pace, senior...",
             "sources": [
-                "feeds.bbci.co.uk"
+                "news.un.org"
             ],
-            "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss"
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168841"
+        },
+        {
+            "headline": "No government approval needed to form or join a group, UN rights committee says",
+            "summary": "People do not need their government’s permission to form or join an association, the UN Human Rights Committee said on Thursday, issuing new guidance as civic space shrinks around ...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168837"
+        },
+        {
+            "headline": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+            "summary": "The International Court of Justice, the principal judicial organ of the UN, delivered its judgment on Thursday in the case of The Gambia v. Myanmar on the application of the Genoci...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168836"
+        },
+        {
+            "headline": "COP31 deadlock persists as countries launch new ‘climate reality check’",
+            "summary": "With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocke...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168833"
+        },
+        {
+            "headline": "Patients running out of options as antibiotics stop working against common infections",
+            "summary": "Common bacteria are becoming highly resistant to front-line and even “last-resort” antibiotics, the UN World Health Organization (WHO) said on Wednesday, warning that the situation...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168832"
+        },
+        {
+            "headline": "Dozens more children killed in Yemen amid escalating hostilities",
+            "summary": "The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches ...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168830"
+        },
+        {
+            "headline": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+            "summary": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, ...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168828"
+        },
+        {
+            "headline": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+            "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168827"
+        },
+        {
+            "headline": "COP31: The push to protect warming oceans reaches the negotiating table",
+            "summary": "From identifying marine life with a cup of seawater to drawing on Indigenous knowledge to prevent wildfires, scientists and communities showcased both cutting-edge and time-tested ...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168824"
+        },
+        {
+            "headline": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+            "summary": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations.",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168823"
+        },
+        {
+            "headline": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
+            "summary": "The World Food Programme (WFP) is assisting&nbsp;thousands&nbsp;of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported o...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168822"
+        },
+        {
+            "headline": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
+            "summary": "Children from across the world sent a message of peace from the Omani capital Muscat on Monday, calling for an end to hatred, respect for diversity and the protection of human righ...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168820"
+        },
+        {
+            "headline": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
+            "summary": "More countries are drawing up plans to tackle antimicrobial resistance (AMR), but major gaps in testing and treatment mean billions of people continue to be at risk, according to n...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168819"
+        },
+        {
+            "headline": "Lebanon leading the way in mental health support",
+            "summary": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend,&nbsp;where efforts to addre...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168818"
         }
     ],
     "north-america": [
@@ -68,6 +172,94 @@
                 "moxie.foxnews.com"
             ],
             "url": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners"
+        },
+        {
+            "headline": "DEPROGRAMMED: He lived as a woman for six years, hit ‘rock bottom’ and found Jesus. Then he detransitioned.",
+            "summary": "After six years living as a woman, Diego Arellan says pain, rejection and suicidal thoughts led him to become a Christian through his sister&apos;s testimony.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/media/deprogrammed-lived-woman-six-years-hit-rock-bottom-found-jesus-detransitioned"
+        },
+        {
+            "headline": "Utah mommy blogger Ruby Franke's daughter begs parole board not to let her out of prison: 'she is a monster'",
+            "summary": "Shari Franke revealed weekly nightmares of her mother&apos;s house as she urged the Utah Board of Pardons and Parole to keep Ruby Franke behind bars.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/utah-mommy-blogger-ruby-franke-daughter-begs-parole-board-not-let-her-out-prison-she-is-monster"
+        },
+        {
+            "headline": "Millions could lose paid benefits due to Congress ignoring decades of Social Security warnings: experts",
+            "summary": "Ron Johnson&apos;s report blasts Social Security as a &quot;Ponzi scheme,&quot; tracing the program&apos;s insolvency to a 1977 law tying benefits to wages, not inflation.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/millions-could-lose-paid-benefits-due-congress-ignoring-decades-social-security-warnings-experts"
+        },
+        {
+            "headline": "Visa, Mastercard and JPMorgan customer data leaked",
+            "summary": "JPMorgan Chase says hackers accessed marketing data at third-party vendors as an extortion group leaks records tied to Visa and Mastercard customers.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/tech/visa-mastercard-jpmorgan-customer-data-leaked"
+        },
+        {
+            "headline": "Chicago Mayor Brandon Johnson fights to stay on 2027 ballot amid City Hall exodus, credit warning",
+            "summary": "A budget dispute, a third CFO departure in roughly a year and a credit warning are adding pressure as Chicago Mayor Brandon Johnson prepares to defend his record with voters.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/chicago-mayor-brandon-johnson-fights-stay-2027-ballot-amid-city-hall-exodus-credit-warning"
+        },
+        {
+            "headline": "Meghan Markle’s brand gets Oprah push, but expert says duchess still has ‘a credibility problem’",
+            "summary": "Oprah Winfrey&apos;s &quot;Favorite Things&quot; list features Meghan Markle&apos;s As Ever gift basket, but experts say the duchess still faces a &quot;credibility problem.&quot;",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/entertainment/meghan-markle-brand-gets-oprah-push-expert-says-duchess-still-credibility-problem"
+        },
+        {
+            "headline": "Ukraine deals major blow to Putin’s Crimea lifeline, European intel assessment claims",
+            "summary": "Gen. Philip Breedlove says cutting the Kerch Bridge will severely damage Russia&apos;s ability to resupply Crimea as Kyiv lands three strikes in four days.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/world/ukraine-deals-major-blow-putins-crimea-lifeline-european-intel-assessment-claims"
+        },
+        {
+            "headline": "DR MARC SIEGEL: Cruise ships can be petri dishes for viruses. Calm may be the best cure",
+            "summary": "The CDC reports 148 aboard Princess Cruises&apos; Caribbean Princess fell ill with stomach illness, as norovirus causes over 90% of cruise ship outbreaks.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/opinion/dr-marc-siegel-cruise-ships-petri-dishes-viruses-calm-best-cure"
+        },
+        {
+            "headline": "2028 presidential contender under fire from state auditor over waste, fraud, abuse fears: 'Troubling response'",
+            "summary": "Kentucky&apos;s top auditor says $1.5 billion in taxpayer waste was uncovered, accusing Democratic Gov. Andy Beshear of brushing off Medicaid and SNAP findings.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/2028-presidential-contender-under-fire-from-state-auditor-over-waste-fraud-abuse-fears-troubling-response"
+        },
+        {
+            "headline": "Lawmakers warn Americans of vulnerable systems amid streak of outages: 'Something is going on'",
+            "summary": "Lawmakers warn America&apos;s power grids, water systems and banks are soft targets after a 10-day wave of tech outages raised cybersecurity concerns.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/politics/lawmakers-warn-americans-vulnerable-systems-amid-streak-outages-something-going-on"
+        },
+        {
+            "headline": "Alabama woman pleads guilty after reportedly using smart glasses to target drug trial witnesses",
+            "summary": "Tierra Shatalia Douglas pleaded guilty to conspiracy to retaliate against a witness after targeting people who testified in a federal drug trial.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/alabama-woman-pleads-guilty-reportedly-using-smart-glasses-target-drug-trial-witnesses"
         },
         {
             "headline": "Fox News True Crime Newsletter: Susan Smith parole, Alex Murdaugh ruling, Lindsay Clancy appeal",
@@ -86,143 +278,63 @@
             "url": "https://www.foxnews.com/media/charlie-sheen-stunned-learn-fellow-actor-rob-lowe-had-been-praying-him-years"
         },
         {
-            "headline": "USDA releases decades of Bigfoot files, including 1982 Forest Service investigation in Washington state",
-            "summary": "The USDA&apos;s Bigfoot/Sasquatch Records include an official 1982 Forest Service probe into footprints in Washington state&apos;s Umatilla National Forest.",
+            "headline": "Elon Musk looks to break up with MAGA. To what end?",
+            "summary": "Elon Musk has certainly seemed to embrace the Make America Great Again movement. Why does that matter? Because the Tesla and Space X CEO now appears to be distancing himself.",
             "sources": [
-                "moxie.foxnews.com"
+                "rss.cbc.ca"
             ],
-            "url": "https://www.foxnews.com/us/usda-releases-decades-bigfoot-files-1982-forest-service-investigation-washington-state"
+            "url": "https://www.cbc.ca/news/world/elon-musk-maga-distance-9.7429741?cmp=rss"
         },
         {
-            "headline": "Locals of Michigan city with largest Muslim population in US call El-Sayed election victory 'needed' change",
-            "summary": "Dearborn, Michigan, locals are celebrating Sen.-elect Abdul El-Sayed&apos;s historic win as the first Muslim American elected to the U.S. Senate.",
+            "headline": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
+            "summary": "Canada has a three-ocean coastline — 243,000 kilometres — and only 20 underwater drones to help defend it. The navy's commander confirms there isn't a solution ready a year after a...",
             "sources": [
-                "moxie.foxnews.com"
+                "rss.cbc.ca"
             ],
-            "url": "https://www.foxnews.com/media/locals-michigan-city-largest-muslim-population-us-call-el-sayed-election-victory-needed-change"
+            "url": "https://www.cbc.ca/news/politics/canada-surveillance-gap-underwater-drone-technology-9.7425421?cmp=rss"
         },
         {
-            "headline": "Texas Gov-elect Gina Hinojosa vows to rescind Abbott's H-1B visa restrictions despite admitting program abuse",
-            "summary": "Texas Gov.-elect Gina Hinojosa says she will rescind Greg Abbott&apos;s H-1B hiring freeze on day one, even conceding companies have abused the visa program.",
+            "headline": "How Canadian Survivor contestant Daniel Kilby lost most of his belongings to auction after filming the show",
+            "summary": "Canadian Survivor contestant Daniel Kilby lost many of his personal belongings earlier this year, including a painting of a \"cheetah dressed as a general,\" his PlayStation 5 and ma...",
             "sources": [
-                "moxie.foxnews.com"
+                "rss.cbc.ca"
             ],
-            "url": "https://www.foxnews.com/politics/texas-gov-elect-gina-hinojosa-vows-rescind-abbotts-h1b-visa-restrictions-despite-admitting-program-abuse"
+            "url": "https://www.cbc.ca/news/entertainment/survivor-contestant-auction-9.7428869?cmp=rss"
         },
         {
-            "headline": "FOX News Media kicks off holiday season with seventh annual All-American Christmas Tree Lighting",
-            "summary": "It’s beginning to look a lot like Christmas in Midtown Manhattan after FOX News Media kicked off the holiday season with the All-American Christmas Tree Lighting Friday.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/media/fox-news-media-kicks-off-holiday-season-seventh-annual-all-american-christmas-tree-lighting"
-        },
-        {
-            "headline": "Fiona the hippo honored by US Senate in unanimous resolution praising Cincinnati Zoo staff",
-            "summary": "Fiona the hippo received a formal Senate tribute from Sen. Bernie Moreno one day after the Cincinnati Zoo Nile hippopotamus died after a medical emergency.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/fiona-hippo-honored-us-senate-unanimous-resolution-praising-cincinnati-zoo-staff"
-        },
-        {
-            "headline": "Cardinals may start their fourth QB in four weeks as Carson Beck has injury after first career start",
-            "summary": "Carson Beck&apos;s back spasms could push the Arizona Cardinals to 40-year-old Josh Johnson, their fourth starting quarterback in four weeks, versus the Chiefs.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-sports/cardinals-may-start-fourth-qb-four-weeks-carson-beck-injury-first-career-start"
-        },
-        {
-            "headline": "The Latest Sportsbook Promos You Can Claim for Tonight’s NBA Cup Which Unlock $2000+",
-            "summary": "The latest sportsbook promos for tonight’s NBA Cup slate, unlocking $2,000+ in bonuses from BetMGM, Fanatics, bet365 and FanDuel for Raptors-Pistons and Rockets-Nuggets.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-betting/latest-sportsbook-promos-you-can-claim-tonights-nba-cup-which-unlock-2000"
-        },
-        {
-            "headline": "Trump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by",
-            "summary": "Donald Trump stunned the White House press briefing room by asking Stephen Miller if he wants to run for president, as JD Vance and Marco Rubio looked on.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/politics/trump-floats-unexpected-name-successor-powerhouses-rubio-vance-stand"
-        },
-        {
-            "headline": "FanDuel Promo Code: Bet $5 for Four Days, Get $200 in Bonus Bets Starting With Friday Night NBA Cup Action",
-            "summary": "FanDuel gives new users $200 in bonus bets for betting $5 a day for four days, starting with tonight’s NBA Cup action including Raptors at Pistons.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-bet-5-four-days-get-200-bonus-bets-starting-friday-night-nba-cup-action"
-        },
-        {
-            "headline": "BetMGM Bonus Code FOXNEWS: $1500 First Bet Cover for Raptors-Pistons, Rockets-Nuggets and More",
-            "summary": "BetMGM bonus code FOXNEWS gives new users up to $1,500 in First Bet Cover for Raptors at Pistons, Rockets at Nuggets and tonight’s NBA Cup slate.",
-            "sources": [
-                "moxie.foxnews.com"
-            ],
-            "url": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-1500-first-bet-cover-raptors-pistons-rockets-nuggets-more"
-        },
-        {
-            "headline": "U.S. senator says Canada should make interim tariff agreement, let Congress 'legislate' long-term deal",
+            "headline": "Trump says he's working on a 'fair' trade deal with Canada",
             "summary": "",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/politics/us-canada-interim-deal-tariffs-senator-long-term-9.7430913?cmp=rss"
+            "url": "https://www.cbc.ca/news/world/trump-canada-tariffs-trade-news-conference-9.7430092?cmp=rss"
         },
         {
-            "headline": "B.C. restaurant group alleges $2.1M in missing staff tips, sues payment company executives",
-            "summary": "A B.C.-based restaurant group that operates Moxie's, Chop Steakhouse and Shark Club is suing six current and former executives and directors of a digital payment company over more ...",
+            "headline": "Staples Canada says customer data accessed during 'security incident' on print website",
+            "summary": "Staples Canada says there was a \"security incident\" on its staplesprint.ca website in early November, which saw a third party get unauthorized access to certain customer data.",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/british-columbia/northland-restaurant-group-missing-tips-9.7430320?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/staples-print-website-breach-9.7431120?cmp=rss"
         },
         {
-            "headline": "Behold the vampire camel, the fanged beast that once roamed North America",
-            "summary": "Despite its \"sexy name,\" the newly identified Vampyrocamelus was no blood-sucking fiend.",
+            "headline": "Who killed Billy Hall? Retired lawyer probes 1967 murder of Cape Breton teen",
+            "summary": "William (Billy) Hall was just 16 when he moved from North Sydney, N.S., to Ontario in late 1966 seeking better economic opportunities, as many of his siblings had before him. Withi...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/radio/asithappens/vampire-camel-9.7430634?cmp=rss"
-        },
-        {
-            "headline": "Alto-backed study predicts major economic gains along proposed high-speed rail corridor",
-            "summary": "A new study commissioned by the group behind Eastern Canada's proposed high-speed rail line lays out the project's potential to benefit people's lives, their communities and the re...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/ottawa/alto-high-speed-rail-study-economy-productivity-9.7430154?cmp=rss"
-        },
-        {
-            "headline": "Images of Canada's most wanted are AI-generated. How do we know they're accurate?",
-            "summary": "",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331?cmp=rss"
-        },
-        {
-            "headline": "Former White House press secretary Katie Zacharia investigated by California state bar",
-            "summary": "California's state bar is investigating former White House press secretary Katie Zacharia after a complaint she represented herself as a lawyer without having ever passed the bar e...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/katie-zacharia-california-state-bar-investigation-9.7430437?cmp=rss"
-        },
-        {
-            "headline": "IN PHOTOS | Fiona: A look back at the famous hippo's life",
-            "summary": "The beloved hippo Fiona died Thursday at the Cincinnati Zoo after eating a knit hat that was accidentally tossed into her enclosure earlier this month. Here's a look back at the li...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/fiona-hippopotamus-photo-scroller-9.7430158?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/nova-scotia/billy-hall-north-sydney-ontario-cold-case-muder-9.7420565?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Former Brazilian President Jair Bolsonaro hospitalised in Brasília with abdominal pain",
+            "summary": "\n\t   \t      \n\t         Former Brazilian President Jair Bolsonaro, 71, was admitted to hospital in Brasília on Friday after suffering abdominal pain and distension, according to a s...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/21/former-brazilian-president-jair-bolsonaro-hospitalised-in-brasilia-with-abdominal-pain?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Buenos Aires marks King Charles's birthday with a reconciliation message amid bilateral tension",
             "summary": "\n\t   \t      \n\t         The British Embassy in Buenos Aires celebrated King Charles III's 78th birthday on Thursday with a reception at which Ambassador David Cairns defended the st...",
@@ -262,14 +374,6 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/11/19/ueno-bank-collapse-claims-paraguay-s-attorney-general-and-the-head-of-itaipu?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "US and Venezuela restore military cooperation with Hegseth’s surprise visit",
-            "summary": "\n\t   \t      \n\t         US Defense Secretary Pete Hegseth signed a military cooperation agreement with Venezuela in Caracas on Wednesday during an unannounced visit, the first by a ...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/11/19/us-and-venezuela-restore-military-cooperation-with-hegseth-s-surprise-visit?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [
@@ -308,52 +412,44 @@
     ],
     "south-asia": [
         {
-            "headline": "India says no change in its position on Indus Water Treaty as Pakistan minister attends SCO forum in Delhi",
-            "summary": "India suspended the treaty in 2025 as one of the punitive measures against Pakistan after the April 22 Pahalgam terror attack last year that claimed 26 lives",
+            "headline": "U.S. court dispatches summonses to Doval, Goel in Pannun case",
+            "summary": "The Indian Code of Civil Procedure permits summonses issued by foreign civil courts designated by notification of the Central Government of India to be transmitted to Indian courts...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/india-says-no-change-in-its-position-on-indus-water-treaty-as-pakistan-minister-attends-sco-forum-in-delhi/article71727116.ece"
+            "url": "https://www.thehindu.com/news/international/us-court-dispatches-summonses-to-doval-goel-in-pannun-case/article71728227.ece"
         },
         {
-            "headline": "Congress proposes four-point formula for delimitation, says INDIA bloc on board",
-            "summary": "Party proposes retaining 543 Lok Sabha seats, existing State-wise distribution and a 25-year freeze, with one-third reservation for women",
+            "headline": "Nobody in India faces religious discrimination: Rijiju amid Siraj row",
+            "summary": "The remarks of the Minister and BJP leaders came after Masood, the MP from Saharanpur and U.P. Congress working president, allegedly said that Siraj was not given a place in the si...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/congress-wants-consultation-on-delimitation-issue-accuses-government-of-not-reaching-out/article71724511.ece"
+            "url": "https://www.thehindu.com/news/national/nobody-in-india-faces-religious-discrimination-rijiju-amid-siraj-row/article71728092.ece"
         },
         {
-            "headline": "India ‘takes note’ of Trump-Xi-Putin summit, awaits more details",
-            "summary": "Opposition questions why India not present at 'G-3' global power summit in Shenzhen; Ministry cites ‘concrete outcomes’ of Quad Summit held earlier in the week",
+            "headline": "NGT issues notices to M.P. Govt, others for illegal mining, blasting near Bajranggarh Fort",
+            "summary": "The Bench also referred to the Supreme Court's 2021 judgement in the Municipal Corporation of Greater Mumbai versus Ankita Sinha case, which recognised the NGT's power to take up m...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/india-takes-note-of-trump-xi-putin-summit-awaits-more-details/article71724998.ece"
+            "url": "https://www.thehindu.com/news/national/madhya-pradesh/ngt-issues-notices-to-mp-govt-others-for-illegal-mining-blasting-near-bajranggarh-fort/article71727997.ece"
         },
         {
-            "headline": "PM Modi says cultural connect can guarantee global peace",
-            "summary": "Cultural and civilisational cooperation will strengthen relations among various countries, says Modi at SCO forum; Pakistan Minister to address meet on November 21",
+            "headline": "14-year-old hacker held for trying to sell private data of 4,000 Agniveers on dark web: Delhi Police",
+            "summary": "According to investigators, the juvenile gained unauthorised access to a test website designed for former Agniveers to register themselves and explore employment opportunities in o...",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/pm-modi-address-at-sco-civilisational-dialogue-forum/article71725120.ece"
+            "url": "https://www.thehindu.com/news/cities/Delhi/14-year-old-hacker-held-for-trying-to-sell-private-data-of-4000-agniveers-on-dark-web-delhi-police/article71727963.ece"
         },
         {
-            "headline": "U.S. court sentences Indian national Nikhil Gupta to 235 months in jail in Pannun murder plot",
-            "summary": "Nikhil Gupta pleaded guilty earlier this year to charges of murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering, in connection with his...",
+            "headline": "West Delhi house fire: Woman dies, family members suffer injuries",
+            "summary": "According to the fire department, a call regarding the blaze at a house in B-3, near Laxmi Jewellers, was received at around 12:04 p.m. Two fire tenders were rushed to the spot",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/national/us-court-sentences-indian-national-nikhil-gupta-to-235-months-in-jail-in-murder-for-hire-plot/article71725795.ece"
-        },
-        {
-            "headline": "BJP’s invitation to Pakistan’s Minister vindicates Abdullah’s stance: J&K Deputy Chief Minister",
-            "summary": "People’s Democratic Party legislator Muntazir Mehdi termed the Pakistani Minister’s visit to India “a welcome development” and urged the resumption of dialogue between India and Pa...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/bjps-invitation-to-pakistans-minister-vindicates-abdullahs-stance-jk-deputy-chief-minister/article71726194.ece"
+            "url": "https://www.thehindu.com/news/cities/Delhi/house-fire-in-west-delhis-raghubir-nagar/article71727921.ece"
         }
     ],
     "europe": [
@@ -502,20 +598,20 @@
             "url": "https://www.bbc.co.uk/news/videos/cm4gn31yn0x9o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "UK and EU strike ‘landmark’ deal to rebuild ties after Brexit",
-            "summary": "🇬🇧🇪🇺 A fresh start after #Brexit? The #UK and #EU have agreed on a landmark #deal to rebuild ties, following a summit in Brussels this Friday. The agreement covers easier food expo...",
+            "headline": "'Accept cookies'? Russia collects data from swaths of unknowing Swedes",
+            "summary": "A Russian tech firm backed by an oligarch close to President Vladimir Putin has secretly been collecting data from hundreds of thousands – possibly millions – of Swedes, a newspape...",
             "sources": [
                 "france24.com"
             ],
-            "url": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit"
+            "url": "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes"
         },
         {
-            "headline": "‘A more expensive EU is not a better EU’: Austria's Minister for Europe, Claudia Bauer",
-            "summary": "This week's programme hosted Claudia Bauer, Austria’s Federal Minister for Europe, Integration and Family while she was in Paris for the recent G7 meeting. She offered her thoughts...",
+            "headline": "'Unacceptable': EU chief condemns alleged Russian plot to kill US-Ukrainian citizen",
+            "summary": "European Commission President Ursula von der Leyen condemned an alleged Russian intelligence plot to assassinate a US-Ukrainian citizen in Denmark, vowing full solidarity with Cope...",
             "sources": [
                 "france24.com"
             ],
-            "url": "https://www.france24.com/en/tv-shows/talking-europe/20261120-a-more-expensive-eu-is-not-a-better-eu-austria-s-minister-for-europe-claudia-bauer"
+            "url": "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen"
         }
     ],
     "middle-east": [
@@ -738,14 +834,6 @@
             "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss"
         },
         {
-            "headline": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
-            "summary": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to feature on Grand Theft Auto 6.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
             "headline": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
             "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
             "sources": [
@@ -832,6 +920,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "South Africa: Former Deputy President Phumzile Mlambo-Ngcuka Dies",
+            "summary": "[allAfrica] Cape Town -- Phumzile Mlambo-Ngcuka, South Africa's first woman deputy president and a former United Nations under-secretary-general, has died at 71, the South African ...",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allafrica.com/stories/202611210040.html"
         },
         {
             "headline": "Africa: Africa's Solar Boom Shifts From Mega-Projects to Small-Scale Systems - IEA",
@@ -970,14 +1066,6 @@
                 "rnz.co.nz"
             ],
             "url": "https://www.rnz.co.nz/news/world/2718141/new-zealander-found-with-explosive-making-instructions-extremist-material-jailed-in-australia"
-        },
-        {
-            "headline": "Comancheros first gang in NZ to be sanctioned by US Office of Foreign Assets",
-            "summary": "The US Treasury Department's Office of Foreign Assets Control has sanctioned the gang and five people linked to it, including New Zealand brothers Pasilika and Vetekina Naufahu.",
-            "sources": [
-                "rnz.co.nz"
-            ],
-            "url": "https://www.rnz.co.nz/news/crime-and-justice/2700126/comancheros-first-gang-in-nz-to-be-sanctioned-by-us-office-of-foreign-assets"
         }
     ]
 }
