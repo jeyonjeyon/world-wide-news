@@ -1,8 +1,24 @@
 {
     "_metadata": {
-        "last_updated": "2026-11-22 06:41:30 UTC"
+        "last_updated": "2026-11-22 16:14:44 UTC"
     },
     "globalOverview": [
+        {
+            "headline": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+            "summary": "For five years, Zahra cared for an elderly woman in Iran and earned enough to get by. Now back in Herat, western Afghanistan, the 28-year-old trained midwife is unemployed. She liv...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168852"
+        },
+        {
+            "headline": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
+            "summary": "COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that ...",
+            "sources": [
+                "news.un.org"
+            ],
+            "url": "https://news.un.org/feed/view/en/story/2026/11/1168855"
+        },
         {
             "headline": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
             "summary": "When fighting suddenly escalated around Taiz, in southwestern Yemen two months ago, midwife Anisa Fadhl had no time to pack a bag before she fled, leaving behind her home and her c...",
@@ -146,22 +162,6 @@
                 "news.un.org"
             ],
             "url": "https://news.un.org/feed/view/en/story/2026/11/1168824"
-        },
-        {
-            "headline": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
-            "summary": "The UN human rights office, OHCHR has urged greater protection for civilians in Haiti amid ongoing “atrocious abuses” committed by gangs and intensified security operations.",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168823"
-        },
-        {
-            "headline": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
-            "summary": "The World Food Programme (WFP) is assisting&nbsp;thousands&nbsp;of families who fled recent violence in Ethiopia for the Moyale area in neighbouring Kenya, the UN agency reported o...",
-            "sources": [
-                "news.un.org"
-            ],
-            "url": "https://news.un.org/feed/view/en/story/2026/11/1168822"
         }
     ],
     "north-america": [
@@ -174,159 +174,175 @@
             "url": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners"
         },
         {
-            "headline": "Christmas gifts she'll actually use (and love)",
-            "summary": "From cozy home upgrades to beauty essentials, these gifts are a practical and thoughtful way to say Merry Christmas.",
+            "headline": "Progressives unveil $25 minimum wage push to solve affordability crisis despite economist inflation warning",
+            "summary": "House Democrats push a $25 minimum wage to fight the affordability crisis, but Heritage economist E.J. Antoni warns it could raise costs and unemployment.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/deals/holiday-gifts-for-her"
+            "url": "https://www.foxnews.com/politics/progressives-unveil-25-minimum-wage-push-solve-affordability-crisis-despite-economist-inflation-warning"
         },
         {
-            "headline": "This non-toxic cutting board is up to 40% off — and it even sharpens knives",
-            "summary": "Shop this dual-sided titanium and wheat straw cutting board with separate surfaces for meat and produce, plus a built-in knife sharpener. FOX readers save up to 40%.",
+            "headline": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
+            "summary": "Former presidential candidate Flávio Bolsonaro alleges election interference by Brazil’s Supreme Court and discusses political persecution and the future of his family’s political ...",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/deals/tibo-cutting-board"
+            "url": "https://www.foxnews.com/world/flavio-bolsonaro-claims-judge-ordered-passports-seized-just-7-minutes-after-brazil-election-loss"
         },
         {
-            "headline": "I have 42 trees and bushes in my yard – this leaf blower is saving my sanity",
-            "summary": "The Tornado Pro handheld leaf blower charges via USB-C in 45 minutes and features a built-in flashlight. It is now available with an exclusive 20% discount.",
+            "headline": "DHS, Dem officials clash after ICE arrest at Seattle airport",
+            "summary": "DHS says a passenger threw hot coffee at ICE officers during a Seattle airport arrest of a visa overstay, as Washington Democrats blast the operation.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/deals/tornado-pro"
+            "url": "https://www.foxnews.com/politics/dhs-dem-officials-clash-ice-arrest-seattle-airport"
         },
         {
-            "headline": "Indiana's national championship defense on the brink after overtime upset to Washington",
-            "summary": "Washington&apos;s 27-24 dramatic overtime upset of No. 8 Indiana at Husky Stadium dealt a major blow to the Hoosiers&apos; College Football Playoff hopes.",
+            "headline": "Best Sportsbook Promos for Sunday Night Football: 49ers vs Vikings Offers",
+            "summary": "The best sportsbook promos for Sunday Night Football, with $2,000+ in bonuses from BetMGM, Fanatics, FanDuel, Hard Rock Bet, Underdog and Betr for Vikings vs 49ers.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/indianas-national-championship-defense-brink-overtime-upset-washington"
+            "url": "https://www.foxnews.com/outkick-betting/best-sportsbook-promos-sunday-night-football-49ers-vs-vikings-offers"
         },
         {
-            "headline": "17 major federal agencies flagged over cybersecurity gaps as watchdog warns of increased attack risk",
-            "summary": "A new Government Accountability Office report found 17 of 22 federal agencies, including HHS and DHS, failed to fully address zero trust guidance, raising cyberattack risks.",
+            "headline": "Tom Jackson, Broncos' Orange Crush linebacker and ESPN legend, dead at 75",
+            "summary": "Tom Jackson, the Denver Broncos&apos; Orange Crush linebacker and beloved ESPN Sunday NFL Countdown analyst, has died at 75, Chris Berman tearfully announced.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/politics/17-major-federal-agencies-flagged-cybersecurity-gaps-watchdog-warns-increased-attack-risk"
+            "url": "https://www.foxnews.com/outkick-sports/tom-jackson-broncos-orange-crush-linebacker-espn-legend-dead-75"
         },
         {
-            "headline": "NYC suspect in Chinatown fatal beating had 5 open cases as Mamdani pushes plan to close Rikers",
-            "summary": "Alexander Florentino faced five open cases before the fatal Chinatown attack, arriving as Zohran Mamdani unveiled a plan to close Rikers Island by 2032.",
+            "headline": "Week 11 NFL Betting Promos: Claim $2,000+ in Bonuses From Our Favorite Betting Apps on NFL Sunday",
+            "summary": "Claim $2,000+ in Week 11 NFL betting promos from BetMGM, Fanatics, Hard Rock Bet, FanDuel, bet365, Underdog and Betr, with a play at each app on NFL Sunday.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/us/nyc-suspect-chinatown-fatal-beating-5-open-cases-mamdani-pushes-plan-close-rikers"
+            "url": "https://www.foxnews.com/outkick-betting/week-11-nfl-betting-promos-claim-2000-bonuses-from-our-favorite-betting-apps-nfl-sunday"
         },
         {
-            "headline": "Titans' Jaylen Harrell allegedly 'assaulted' rideshare driver before Tampa car accident, police say",
-            "summary": "Tennessee Titans&apos; Jaylen Harrell is hospitalized after a serious Tampa car accident in which police say he allegedly &quot;assaulted&quot; the rideshare driver mid-ride.",
+            "headline": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on 49ers vs Vikings Sunday Night Football",
+            "summary": "Underdog promo code FOXNEWS lets new users play $10 and get $50 in bonus entries on Vikings vs 49ers on Sunday Night Football in Mexico City.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/titans-jaylen-harrell-allegedly-assaulted-rideshare-driver-tampa-car-accident-police-say"
+            "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-10-get-50-49ers-vs-vikings-sunday-night-football"
         },
         {
-            "headline": "Trump says Roger Clemens should be in the Baseball Hall of Fame 'immediately,' won't fully back Barry Bonds",
-            "summary": "Fresh off pardoning Pete Rose, President Donald Trump said Roger Clemens belongs in the Baseball Hall of Fame immediately, citing his seven Cy Youngs.",
+            "headline": "FanDuel Promo Code: Bet $5, Get $200 Over the Next Four Days Starting With Today's NFL Slate",
+            "summary": "FanDuel gives new users $200 in bonus bets for betting $5 a day for four days, starting with today&apos;s NFL slate including Vikings vs 49ers.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/outkick-sports/trump-says-roger-clemens-should-baseball-hall-fame-immediately-wont-fully-back-barry-bonds"
+            "url": "https://www.foxnews.com/outkick-betting/fanduel-promo-code-bet-5-get-200-over-next-four-days-starting-todays-nfl-slate"
         },
         {
-            "headline": "Sammy Kershaw responds to 'sellout' critics after attending 2026 CMA Awards red carpet",
-            "summary": "Sammy Kershaw says talks with the Country Music Association went in a positive direction after he claimed he and wife Mendy were denied red carpet access.",
+            "headline": "'Crazy': Moderates fear Dem leadership promised far-left reparations and ICE demands in turn of votes",
+            "summary": "House Democrats are split as progressives push to abolish ICE and reparations for descendants of slavery, while moderates warn it may hurt affordability.",
             "sources": [
                 "moxie.foxnews.com"
             ],
-            "url": "https://www.foxnews.com/entertainment/sammy-kershaw-responds-sellout-critics-attending-2026-cma-awards-red-carpet"
+            "url": "https://www.foxnews.com/politics/crazy-moderates-fear-dem-leadership-promised-far-left-reparations-ice-demands-turn-votes"
         },
         {
-            "headline": "Hegseth reportedly moves to restrict defence ties with Canada, but Ottawa sees no change",
+            "headline": "BetMGM Bonus Code FOXNEWS: Cover Your First NFL Sunday Bet up to $1500, Including 49ers-Vikings",
+            "summary": "BetMGM bonus code FOXNEWS covers new users&apos; first NFL Sunday bet up to $1,500, including 49ers vs Vikings on Sunday Night Football in Mexico City.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-nfl-sunday-bet-up-1500-including-49ers-vikings"
+        },
+        {
+            "headline": "Fanatics Sportsbook Promo Code FOXNEWS: Claim $1000 in FanCash on NFL Sunday Headlined by 49ers-Vikings",
+            "summary": "Fanatics Sportsbook promo code FOXNEWS gives new users up to $1,000 in FanCash, a 100% bet match up to $100 a day for 10 days, on NFL Sunday headlined by 49ers-Vikings.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews-claim-1000-fancash-nfl-sunday-headlined-49ers-vikings"
+        },
+        {
+            "headline": "Colts turned down Daniel Jones trade offer considered not good, then cut the QB and got nothing in return",
+            "summary": "Daniel Jones was blindsided by his Indianapolis Colts release after the team rejected a Baltimore Ravens trade offer just two weeks earlier, a source said.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-sports/colts-turned-down-daniel-jones-trade-offer-considered-not-good-then-cut-qb-got-nothing-return"
+        },
+        {
+            "headline": "Betr Promo Code FOXNEWS Unlocks $200 Bonus and 4x Free Picks for 49ers vs Vikings, Any Other Game",
+            "summary": "Betr promo code FOXNEWS unlocks a $200 bonus and four free picks for new users on 49ers vs Vikings in Mexico City and any other NFL game today.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-unlocks-200-bonus-4x-free-picks-49ers-vs-vikings-any-other-game"
+        },
+        {
+            "headline": "Use Underdog Promo Code FOXNEWS: Play $10, Get $50 on Sunday's NFL Slate Including Giants-Jaguars",
+            "summary": "Use Underdog promo code FOXNEWS to play $10 and get $50 in bonus entries on Sunday&apos;s NFL slate, including Jaguars at Giants and Vikings vs 49ers.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-betting/use-underdog-promo-code-foxnews-play-10-get-50-on-sundays-nfl-slate-including-giants-jaguars"
+        },
+        {
+            "headline": "Mississippi mother, caregiver face charges after refusing to give cancer treatment to toddler",
+            "summary": "Destiny Schliefert faces felony murder charges after police say she refused cancer treatment for her 3-year-old son, who weighed 24 pounds when he died.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/us/mississippi-mother-caregiver-face-charges-refusing-give-cancer-treatment-toddler"
+        },
+        {
+            "headline": "Kirk Cousins and the Vikings aim to upset the 8-1 49ers in NFL Mexico City Game",
+            "summary": "Kirk Cousins and the Minnesota Vikings meet Brock Purdy&apos;s 49ers on Sunday Night Football in Mexico City, with Purdy an MVP candidate this season.",
+            "sources": [
+                "moxie.foxnews.com"
+            ],
+            "url": "https://www.foxnews.com/outkick-betting/kirk-cousins-vikings-aim-upset-8-1-49ers-nfl-mexico-city-game"
+        },
+        {
+            "headline": "Quebecor CEO defends Telus bid, cites falling wireless prices and Canada's sovereignty",
             "summary": "",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/politics/canada-us-pentagon-restrictions-hegseth-9.7431302?cmp=rss"
+            "url": "https://www.cbc.ca/news/politics/pierre-karl-peladeau-quebecor-telus-bid-9.7431320?cmp=rss"
         },
         {
-            "headline": "The pros, cons and risks of using AI as your personal assistant",
-            "summary": "",
+            "headline": "Miley Cyrus weds Maxx Morando in California, People magazine reports",
+            "summary": "Grammy-winning pop star Miley Cyrus married her longtime partner, drummer Maxx ‌Morando, in California on Saturday, People magazine and other U.S. entertainment news ​outlets repor...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/business/ai-personal-assistants-muse-dots-claude-duet-risks-9.7427574?cmp=rss"
+            "url": "https://www.cbc.ca/news/entertainment/miley-cyrus-maxx-morando-wedding-9.7431784?cmp=rss"
         },
         {
-            "headline": "Montreal police arrest 2 ex-officers for alleged assault, criminal harassment, breach of trust",
-            "summary": "The two officers had previously been placed on administrative leave and then fired from the Montreal police service. They were arrested after Quebec's Crown prosecutor's office iss...",
+            "headline": "B.C. couple lose business in devastating fire, credit volunteer firefighters with saving their home",
+            "summary": "A West Kootenay couple is counting their blessings after a massive fire destroyed their home-based mechanic shop in Burton, B.C. — and came dangerously close to taking their house ...",
             "sources": [
                 "rss.cbc.ca"
             ],
-            "url": "https://www.cbc.ca/news/canada/montreal/spvm-arrest-two-officers-racism-scandal-9.7431306?cmp=rss"
-        },
-        {
-            "headline": "Capture of cartel leader in northern Mexico sets off gunfight that leaves 11 dead",
-            "summary": "A burst of violence in Mexico's Sinaloa state after authorities captured cartel boss Fausto Isidro Meza Flores, known as El Chapo Isidro, left at least 11 people dead, authorities ...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/mexico-detains-sinaloa-cartel-boss-el-chapo-isidro-9.7431280?cmp=rss"
-        },
-        {
-            "headline": "City of Regina plans to shut down public transit starting Monday",
-            "summary": "ATU Canada president said workers have not had a new collective agreement for almost two years and the city chose to suspend services after the union said it would implement a ban ...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/saskatchewan/regina-shut-down-public-transit-bargaining-9.7431432?cmp=rss"
-        },
-        {
-            "headline": "Woman's airport security ordeal with dad's ashes highlights challenges of travelling with cremated remains",
-            "summary": "Rules around transporting creamated remains through airports and challenges with new scanners can add \"another layer of grief\" to an already stressful time, says the head of the Fu...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-air-travel-ashes-rules-9.7426785?cmp=rss"
-        },
-        {
-            "headline": "Ontario Liberals elect Navdeep Bains as new party leader",
-            "summary": "Ontario Liberals have elected Navdeep Bains as the party's new leader after a marathon nine-month leadership race, with Bains emerging as victor less than one percentage point ahea...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/toronto/liberal-leadership-race-results-9.7431298?cmp=rss"
-        },
-        {
-            "headline": "Allies are buying Canadian underwater surveillance drones. Canada is 'not there yet'",
-            "summary": "Canada has a three-ocean coastline — 243,000 kilometres — and only 20 underwater drones to help defend it. The navy's commander confirms there isn't a solution ready a year after a...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/politics/canada-surveillance-gap-underwater-drone-technology-9.7425421?cmp=rss"
-        },
-        {
-            "headline": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
-            "summary": "A Russian strike on the centre of Ukrainian President Volodymyr Zelenskyy's hometown, Kryvyi Rih, killed two people and wounded 60 others, local officials said Saturday.",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164?cmp=rss"
-        },
-        {
-            "headline": "'We are sorry': Rocks found in restaurant burritos in Alberta",
-            "summary": "BarBurrito issued an apology to its customers after pea-sized stones were found in some of its burritos at restaurants in Alberta. The company says the rocks came from a particular...",
-            "sources": [
-                "rss.cbc.ca"
-            ],
-            "url": "https://www.cbc.ca/news/canada/calgary/calgary-barburrito-rocks-burritos-apology-9.7430598?cmp=rss"
+            "url": "https://www.cbc.ca/news/canada/british-columbia/west-kootenay-fire-burton-family-saved-9.7426015?cmp=rss"
         }
     ],
     "latin-america": [
+        {
+            "headline": "Argentina's lawyer in Hamburg: if Sea Lion goes ahead, \"those rights are lost forever\"",
+            "summary": "\n\t   \t      \n\t         Jurist Marcelo Kohen, one of the lawyers representing Argentina before the International Tribunal for the Law of the Sea, has argued that if the United Kingd...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/22/argentina-s-lawyer-in-hamburg-if-sea-lion-goes-ahead-those-rights-are-lost-forever?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
+        {
+            "headline": "Danstar to follow international maritime law: will seek clearance only for Punta Arenas departure and Stanley arrival",
+            "summary": "\n\t   \t      \n\t         Pablo Pacheco, owner and general manager of the shipping company Easter Island Logistics, told the Chilean press that the cargo vessel Danstar \"will strictly...",
+            "sources": [
+                "mercopress.com"
+            ],
+            "url": "https://en.mercopress.com/2026/11/22/danstar-to-follow-international-maritime-law-will-seek-clearance-only-for-punta-arenas-departure-and-stanley-arrival?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
+        },
         {
             "headline": "Former Brazilian President Jair Bolsonaro hospitalised in Brasília with abdominal pain",
             "summary": "\n\t   \t      \n\t         Former Brazilian President Jair Bolsonaro, 71, was admitted to hospital in Brasília on Friday after suffering abdominal pain and distension, according to a s...",
@@ -358,22 +374,6 @@
                 "mercopress.com"
             ],
             "url": "https://en.mercopress.com/2026/11/20/colombia-to-euthanise-hippos-for-the-first-time-ten-animals-in-four-months?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "UK Parliament briefing details London's response to Argentina's offensive against Sea Lion",
-            "summary": "\n\t   \t      \n\t         The House of Commons Library has published a research briefing setting out the response of Andy Burnham's government to Argentina's legal, economic and diplo...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/11/19/uk-parliament-briefing-details-london-s-response-to-argentina-s-offensive-against-sea-lion?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
-        },
-        {
-            "headline": "Ueno Bank collapse claims Paraguay’s attorney general and the head of Itaipú",
-            "summary": "\n\t   \t      \n\t         Paraguay’s Attorney General Emiliano Rolón resigned on Tuesday in the face of imminent impeachment, and the Paraguayan director of the binational Itaipú dam,...",
-            "sources": [
-                "mercopress.com"
-            ],
-            "url": "https://en.mercopress.com/2026/11/19/ueno-bank-collapse-claims-paraguay-s-attorney-general-and-the-head-of-itaipu?utm_source=feed&utm_medium=rss&utm_content=main&utm_campaign=rss"
         }
     ],
     "east-asia": [
@@ -412,33 +412,17 @@
     ],
     "south-asia": [
         {
-            "headline": "Delhi records ‘poor’ AQI, minimum temperature settles at 11.8°C",
-            "summary": "IGNOU-Maidan Garhi recorded the highest AQI at 377, followed by Uttam Nagar at 340",
+            "headline": "SCO Civilisational Dialogue ‘leaves options open’ for Pakistan SCO meets next year, say sources",
+            "summary": "As the government faces criticism over “inconsistency” in the invitation to Pakistan, officials say the invite can be seen as building a window of opportunity for “common civility”",
             "sources": [
                 "thehindu.com"
             ],
-            "url": "https://www.thehindu.com/news/cities/Delhi/delhi-records-poor-aqi-minimum-temperature-settles-at-118c/article71730652.ece"
-        },
-        {
-            "headline": "14-year-old used AI chatbot to hack Agniveer ‘test’ website, wanted to earn money by selling it on dark web: Delhi police sources",
-            "summary": "The Haryana teenager used an AI chatbot to identify valuable data and find a way into the test portal; preliminary investigation suggests only names and addresses were accessed, De...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/cities/Delhi/14-year-old-hacker-held-for-trying-to-sell-private-data-of-4000-agniveers-on-dark-web-delhi-police/article71727963.ece"
-        },
-        {
-            "headline": "India, Bulgaria discuss bilateral ties, IMEC, Black Sea situation",
-            "summary": "‘Our teams have drawn up a detailed roadmap of cooperation, so we will be approving that today, and I think that will give a very clear pathway to our activities ahead,’ said S. Ja...",
-            "sources": [
-                "thehindu.com"
-            ],
-            "url": "https://www.thehindu.com/news/national/india-bulgaria-discuss-bilateral-ties-imec-black-sea-situation/article71729472.ece"
+            "url": "https://www.thehindu.com/news/national/sco-civilisational-dialogue-leaves-options-open-for-pakistan-sco-meets-next-year-say-sources/article71731201.ece"
         }
     ],
     "europe": [
         {
-            "headline": "Russia-bound ship attacked in Gulf of Finland",
+            "headline": "Russia-bound ship still on fire after attack in Gulf of Finland",
             "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
             "sources": [
                 "feeds.bbci.co.uk"
@@ -794,6 +778,14 @@
             "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss"
         },
         {
+            "headline": "South Africa beaten by Ireland but still qualify for final",
+            "summary": "Ireland exact revenge on world champions South Africa with a thrilling win in Dublin after England's victory over New Zealand dashes Andy Farrell's side's hopes of reaching next we...",
+            "sources": [
+                "feeds.bbci.co.uk"
+            ],
+            "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9k2v4xjeko?at_medium=RSS&at_campaign=rss"
+        },
+        {
             "headline": "More climate money for Africa? Europe says use what's already pledged",
             "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
             "sources": [
@@ -808,22 +800,6 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "'No-one is going to break us' - defiant Boks face Ireland without Erasmus",
-            "summary": "South Africa prepare to face Ireland in a much-anticipated Nations Championship Test in Dublin without banned head coach Rassie Erasmus.",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-            "headline": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
-            "summary": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
-            "sources": [
-                "feeds.bbci.co.uk"
-            ],
-            "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss"
         },
         {
             "headline": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
@@ -912,6 +888,14 @@
                 "feeds.bbci.co.uk"
             ],
             "url": "https://www.bbc.co.uk/sport/football/videos/cm0ld8wwenw6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+            "headline": "Africa: Statement By The African Women Leaders Network (AWLN) On The Passing Of H.E. Dr. Phumzile Mlambo-Ngcuka",
+            "summary": "[AWLN] Africa has lost a giant. A woman whose courage, conviction and lifelong dedication to women's rights inspired generations.",
+            "sources": [
+                "allafrica.com"
+            ],
+            "url": "https://allafrica.com/stories/202611220002.html"
         },
         {
             "headline": "South Africa: Former Deputy President Phumzile Mlambo-Ngcuka Dies",
